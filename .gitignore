@@ -1,0 +1,5 @@
+extract*
+repack
+out_*
+*_output.txt
+*.iso
