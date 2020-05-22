@@ -19026,8 +19026,8 @@ Everyone|are you ready?
 ロードが終わったよー=Finished loading!
 セーブしておりませんが|次に進んでもよろしいですか？=Haven't saved yet.|Are you sure you want to go next?
 データがありません=There is no data.
-日目=Day
-/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]=
+%_d[0]日目=Day %_d[0]
+%_d[0]%_d[1]/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]=%_d[2]%_d[3]/%_d[4]%_d[5]/%_d[0]%_d[1] %_d[6]%_d[7]:%_d[8]%_d[9]
 %_te課外授業=%_teExtracurricular lessons
 %_te課外授業　昼=%_teExtracurricular lessons: Noon
 %_te課外授業　夕方=%_teExtracurricular lessons: Evening
@@ -19131,11 +19131,11 @@ Everyone|are you ready?
 分%_d[1]%_d[2]秒=Min%_d[1]%_d[2]Sec
 分%_d[1]%_d[2]秒=Min%_d[1]%_d[2]Sec
 分%_d[1]%_d[2]秒=Min%_d[1]%_d[2]Sec
-回=Times
-匹=Counter
-匹=Counter
-回=Times
-回=Times
+%_d[0]回=%_d[0] Times
+%_d[0]匹=%_d[0] Counter
+%_d[0]匹=%_d[0] Counter
+%_d[0]回=%_d[0] Times
+%_d[0]回=%_d[0] Times
 %_tr+1ランク=
 %_tr-1ランク=
 %_trなし=%_trNone
