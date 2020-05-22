@@ -1,73 +1,73 @@
 !FILE:EV0000_000.bscr
-ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Testing♪♪♪
-おはようございます|死神様=Testing♪♪
-何ですかぁ？|こんな朝っぱらから=Testing♪
-先輩|また朝まで　あの店にいたでしょ=
-あぁ？|お前だって　どうせ朝まで|怪しげな実験してただろ=
-ちょっと　みんなに|言っときたいことがあってね～♪=
-最近　一度に大勢の人が消えるという|大量失踪事件の報告があった=
-ふ～ん|で？=
-各支部の報告を合わせて　よく調べて|みたところ　この手の事件が多発している|ことがわかった=
-どのくらい？=
-ここ一ヶ月で・・・=
-国が一個作れるぐらいだな=
-！？|ああっ！そんなに？=
-鬼神の卵と化した魂を持つ者達の|仕業か？=
-そう思って調べたが|その気配はないな=
-すると・・・|魔女がらみか？=
-ま♪　ぶっちゃけ|まだなんにも　わかんないけどね～♪=
-気になるからさ♪|てきとーに気にしてヨロシクね～♪=
-はい=
-はい=
-はい=
-はい=
+ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Wow! Wow! Wow!! I'm glad that everyone got together!♪
+おはようございます|死神様=Good morning, Lord Death.
+何ですかぁ？|こんな朝っぱらから=What is it? It's too early for this.
+先輩|また朝まで　あの店にいたでしょ=Really? I could've sworn you were at Chuba Capra's until morning.
+あぁ？|お前だって　どうせ朝まで|怪しげな実験してただろ=Oh yeah? Well you've been experimenting dubiously until morning.
+ちょっと　みんなに|言っときたいことがあってね～♪=There's something I want to say to everybody.♪
+最近　一度に大勢の人が消えるという|大量失踪事件の報告があった=Recently, there was a report of mass disappearance that many people disappeared at once.
+ふ～ん|で？=Huh?
+各支部の報告を合わせて　よく調べて|みたところ　この手の事件が多発している|ことがわかった=After examining the reports of each branch together, it was found that this type of incident occurred frequently.
+どのくらい？=How much?
+ここ一ヶ月で・・・=In the last month...
+国が一個作れるぐらいだな=I can make a country.
+！？|ああっ！そんなに？=Holy shit?! How could there be so much?
+鬼神の卵と化した魂を持つ者達の|仕業か？=Is it the work of those who have the spirit of demons?
+そう思って調べたが|その気配はないな=I thought so, but there's no sign on that.
+すると・・・|魔女がらみか？=Then... |is it a witch?
+ま♪　ぶっちゃけ|まだなんにも　わかんないけどね～♪=I don't know what it is♪
+気になるからさ♪|てきとーに気にしてヨロシクね～♪=But because I am curious, I'm also so worried about it.♪
+はい=Yes.
+はい=Yes.
+はい=Yes.
+はい=Yes.
 !FILE:EV0100_000.bscr
-んぁ～　ねみぃ～|なぁ　マカ・・・=
-今　本読んでるの|後にしてよ=
-ちぇっ|まだ　怒ってんのかよ=
-ふぅ・・・|ソウルが悪いんでしょ=
-ケチ=
-朝がパンだけなのは　あんたがおかずを|夜中に食べちゃったからでしょ！=
-だから　俺じゃねーっていってんだろ！|俺が食べたのはリ　ン・・・ゴ・・・=
-やっぱり　食べたんじゃない！=
-ひゃっはぁー！|今日も朝から　最高の俺|オンステージだぜ！=
-どうした　マカ！|俺のサイン色紙やるから機嫌を直せ！=
-ちょ　ちょっと|ブラック☆スターったら=
-だめよブラック☆スター　早く降りて|・・・ゴメンね=
-なんだ？|朝から騒々しいな=
-おーす=
-おすっ=
-なんだ　またケンカしてんのか|相変わらず　仲いいな=
-きゃははは|ケンカ～楽しそぉ　もっとやれぇ～=
-ふう|まぁ　いいか=
-あぁ=
-こらこら|何を騒いでるんだぁ～=
-きゃはは|マカ　ＶＳ　ソウル　バトルＯＮＥ！=
-まったく|君達は　いつもいつも・・・=
-いいですか|職人と武器は魂の波長を合わせ|お互いを信じあうことで成長するんです=
-わかってるって|別にケンカしてねぇよ|なっ　マカ=
-ほんとですか=
-はい|してません=
-それならまぁ・・・いいでしょ=
-はい♪|じゃあ　授業を始めま～す=
-おーす=
+んぁ～　ねみぃ～|なぁ　マカ・・・=Sup Maka...
+今　本読んでるの|後にしてよ=I'm reading a book right now.
+ちぇっ|まだ　怒ってんのかよ=Are you still angry?
+ふぅ・・・|ソウルが悪いんでしょ=Wow... Soul you're bad.
+ケチ=Stingy.
+朝がパンだけなのは　あんたがおかずを|夜中に食べちゃったからでしょ！=The only thing left in the morning was bread because you ate a side dish in the middle of the night!
+だから　俺じゃねーっていってんだろ！|俺が食べたのはリ　ン・・・ゴ・・・=So? It's not me! What I ate was an  Ap... ple...
+やっぱり　食べたんじゃない！=I didn't eat it!
+ひゃっはぁー！|今日も朝から　最高の俺|オンステージだぜ！=Yahooo! It's the best on-stage this morning!
+どうした　マカ！|俺のサイン色紙やるから機嫌を直せ！=What's wrong Maka?! I'll do my special signature colored paper and fix your mood!
+ちょ　ちょっと|ブラック☆スターったら=A little Black☆Star
+だめよブラック☆スター　早く降りて|・・・ゴメンね=No, that's not gonna help Black☆Star.
+なんだ？|朝から騒々しいな=Why's it so noisy this morning?
+おーす=Heyy
+おすっ=Oh.
+なんだ　またケンカしてんのか|相変わらず　仲いいな=Why are they fighting again?
+きゃははは|ケンカ～楽しそぉ　もっとやれぇ～=Kyahhaha fight-more fun!
+ふう|まぁ　いいか=Uh, okay?
+あぁ=Ahh
+こらこら|何を騒いでるんだぁ～=What are you talking about?
+きゃはは|マカ　ＶＳ　ソウル　バトルＯＮＥ！=Kiyahaha Maka VS Soul Battle ONE!
+まったく|君達は　いつもいつも・・・=You are always always...
+いいですか|職人と武器は魂の波長を合わせ|お互いを信じあうことで成長するんです=Okay, meisters and weapons grow by matching the wavelength of the soul and trusting each other.
+わかってるって|別にケンカしてねぇよ|なっ　マカ=Don't fight your ally unless you're like Maka.
+ほんとですか=Really?
+はい|してません=No, well maybe...
+それならまぁ・・・いいでしょ=Well... Great idea.
+はい♪|じゃあ　授業を始めま～す=Yes♪ Well then, let's start the class shall we.
+おーす=Hey
 !FILE:EV0100_010.bscr
-はい　今日の午前授業は|簡単な実技訓練です♪|くばられたプリントを見てください=
+はい　今日の午前授業は|簡単な実技訓練です♪|くばられたプリントを見てください=Yes today's morning class is simple practical training.♪ |See the printed paper.
 !FILE:EV0100_011.bscr
-では　理解できたひとから|訓練を始めます♪=
+では　理解できたひとから|訓練を始めます♪=Now, from those who understand|start training.♪
 !FILE:EV0100_012.bscr
-はい|次は誰かな？=
+はい|次は誰かな？=Yes|who is next?
 !FILE:EV0100_013.bscr
-じゃあ|次は君達だね♪=
+じゃあ|次は君達だね♪=Then next is you.♪
 !FILE:EV0100_014.bscr
-ん～|君は　授業をうけたくないんですね|・・・解剖されたいのかな？=
+ん～|君は　授業をうけたくないんですね|・・・解剖されたいのかな？=Hmm...|You don't want to take a class|... do you want to be dissected?
 !FILE:EV0100_015.bscr
-あきらめちゃだめです|さあ　がんばりましょう！=
+あきらめちゃだめです|さあ　がんばりましょう！=Don't give up.|Let's do our best!
 !FILE:EV0100_016.bscr
-んじゃ～|午前中の授業はおしまいです♪=
-さぁて　どーする？=
+んじゃ～|午前中の授業はおしまいです♪=Morning class is now over.♪
+さぁて　どーする？=Do you want to do it?
 !FILE:EV0100_100.bscr
-ハラへったぁ～|どこでランチにする？=
+ハラへったぁ～|どこでランチにする？=I'm sorry,|Where do you want lunch?
 !FILE:EV0100_200.bscr
 はい♪　では|午後は『魂の共鳴』の訓練をします|プリントを見てください=
 !FILE:EV0100_201.bscr
@@ -213,10 +213,10 @@
 そんなに落ち込むなよ|気にすることねェぜ=
 気にしないで・・・何でもないのよ|今の話は忘れてちょうだい・・・=
 ・・・・・・・・・=
-あなた達の活躍を|良く耳にするわよ♪=
-ありがとうございます|すごくうれしいです=
-けっこう　こういうのは|照れくさいもんだな・・・=
-これからも|期待しているわよ♪=
+あなた達の活躍を|良く耳にするわよ♪=I heard you did well.|Congratulations on your success.♪
+ありがとうございます|すごくうれしいです=Thank you very much. I'm really happy about it.
+けっこう　こういうのは|照れくさいもんだな・・・=That's a pretty shy thing...
+これからも|期待しているわよ♪=I'm looking forward to it.♪
 !FILE:EV0103_010.bscr
 あっ！=
 にゃはは～♪=
@@ -228,12 +228,12 @@
 それじゃあ|また　あいましょう♪=
 !FILE:EV0120_002.bscr
 ゴキゲンみたいだけど|何かいいことでも|あったのかしら？=
-おもしろいね|マカのと～ちゃん♪|きゃはははは！=
-デスサイズのことか？|アイツ何やってたんだ？=
-泣き笑いで博士と|じゃれあってたよ！=
-博士がらみか|何か嫌な予感がするぜ・・・=
-ほぇ？何でそんなに|深刻になっちゃうの？=
-なんだか胸騒ぎがする・・・|様子を見てこようかな・・・=
+おもしろいね|マカのと～ちゃん♪|きゃはははは！=Interesting,|Maka no to-chan♪|Kihahahaha!
+デスサイズのことか？|アイツ何やってたんだ？=Death scythe?|What were you doing?
+泣き笑いで博士と|じゃれあってたよ！=I was crying and laughing with the doctor!
+博士がらみか|何か嫌な予感がするぜ・・・=Dr. Ramika|I have a bad feeling...
+ほぇ？何でそんなに|深刻になっちゃうの？=Huh? Why are you getting serious?
+なんだか胸騒ぎがする・・・|様子を見てこようかな・・・=It's kind of a fuss...
 !FILE:EV0120_006.bscr
 博士がらみか|何か嫌な予感がするぜ・・・=
 ほぇ？何でそんなに|深刻になっちゃうの？=
@@ -911,7 +911,7 @@
 ぐるるるる・・・=
 なに？|・・・ソウルお腹すいたの？=
 だから|俺じゃないって！=
-な　なんだ？=
+な　なんだ？=W-What is it?
 コレはもらっていくぜ|ぐるるっ！=
 あっ　待て！|・・・もうっ　またなの！=
 あいつは・・・何モンだ？=
@@ -2874,7 +2874,9 @@
 !FILE:EV0500_203.bscr
 ん　忘れ物か？|早くしろ　ちょっとなら待ってやる|俺は余裕のある　そんな男だった=
 !FILE:EV0500_204.bscr
-いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=
+いくぞ！
+|俺はいつも全力投球！！
+|そんな男だったぁぁぁ！！=
 !FILE:EV0500_210.bscr
 やつらが逃げた穴から|やつらのアジトを捜索する=
 ここからは　それぞれ単独行動になる|こころしてかかれ！=
@@ -3724,7 +3726,7 @@
 !FILE:EV0601_451.bscr
 パネーラ　ポネーラ　パラポネーラ・・・=
 !FILE:EV0904_000.bscr
-操作チームを選択してください%_dc[255,255,255]=
+操作チームを選択してください%_dc[255,255,255]=Please select an operation team.%_dc[255,255,255]
 !FILE:EV0905_000.bscr
 　　暇そうな君達へ=
 授業が始まらない時には|学生課で暇つぶしをして|ください|　　　　シュタインより=
@@ -5660,17 +5662,17 @@
 !FILE:EV0954_512.bscr
 クールに復活だ！=
 !FILE:EV0955_000.bscr
-さぁ！|やるよ！ソウル！=
-まぁ　あんまり|肩に力を入れんなよ=
+さぁ！|やるよ！ソウル！=Now!|Let's do this, Soul!
+まぁ　あんまり|肩に力を入れんなよ=Well, don't put too much pressure on your shoulders.
 !FILE:EV0955_010.bscr
-どうしようかな？=
-ちゃんと考えて行動すんだぞ|お前　意外とそういうとこ|バカなんだからな！=
+どうしようかな？=What should I do?
+ちゃんと考えて行動すんだぞ|お前　意外とそういうとこ|バカなんだからな！=I'm thinking and acting properly.|You are surprisingly such an idiot!
 !FILE:EV0955_020.bscr
-ソウル！=
-おう！|クールにいくぜ！=
+ソウル！=Soul!
+おう！|クールにいくぜ！=Yeah!|Let's go while being cool!
 !FILE:EV0955_030.bscr
-ソウル！=
-ああ！|行くぜ！=
+ソウル！=Soul!
+ああ！|行くぜ！=Oh!|Let's go!
 !FILE:EV0955_040.bscr
 行くよ　ソウル！=
 ああ！=
@@ -5678,13 +5680,13 @@
 行こう！|ソウル！=
 おう！|クールにな！=
 !FILE:EV0956_000.bscr
-やったぁーー！！|目標達成ね！！=
-クールだぜ！|やったな！=
+やったぁーー！！|目標達成ね！！=We did it!!|We achieved our goal!!
+クールだぜ！|やったな！=That's cool!|Yeah we did it!
 !FILE:EV0956_009.bscr
-やったぁーー！！|目標達成ね！！=
-クールだぜ！|やったな！=
+やったぁーー！！|目標達成ね！！=We did it!!|We achieved our goal!!
+クールだぜ！|やったな！=That's cool!|Yeah we did it!
 !FILE:EV0956_010.bscr
-やったぁーー！！|目標達成ね！！=
+やったぁーー！！|目標達成ね！！=We did it!!|We achieved our goal!!
 まっ俺達に掛かれば|あの程度は楽勝だな！=
 !FILE:EV0956_019.bscr
 やったぁーー！！|目標達成ね！！=
@@ -5890,27 +5892,27 @@
 マカに付き合わされているうちに|俺もセカセカ人間になって|しまったのかよ！？=
 ・・・・・・・・・=
 !FILE:EV0981_000.bscr
-うっす　おばちゃん！=
-来たね　あんた達|おばちゃん|ちゃんと見てたよ=
-なぁ　おばちゃん|しょぼい課題しか掲示板に|張り出されてねェな=
-もっと　クールな|課題は　ねぇのかよ=
-今のところ　魔剣や魔眼は|姿をひそめてるけど|問題は解決してないから=
-あんまり　危険な所に　|生徒達を行かせる|わけにはいかないからね=
-・・・言いたくないけど|あんた達が魔剣に|やられたせいでもあるんだよ=
-やられてねェよ|おばちゃん！！=
-ソウル！=
-んだよ　マカ！=
-やめなさい　ソウル！|おば様に失礼よ！！=
-チッ！|わかったよ　マカ・・・=
-おば様　すみませんでした=
-とにかく　ゆるさないからね|危険な所に行くのは=
-わかったよ　おばちゃん=
-魂にビンビンくるのが|あったら　おばちゃんのところに|持ってくるんだよ！=
-おばちゃん　ずっと見てるよ|後ろからね・・・=
+うっす　おばちゃん！=Sup Aunt!
+来たね　あんた達|おばちゃん|ちゃんと見てたよ=Hey you guys, just call me Auntie. What missions are you guys wanting to look for?
+なぁ　おばちゃん|しょぼい課題しか掲示板に|張り出されてねェな=Uh Auntie, there are only a few missions posted on the bullentin board.
+もっと　クールな|課題は　ねぇのかよ=That's cool,|I like a challenge.
+今のところ　魔剣や魔眼は|姿をひそめてるけど|問題は解決してないから=At the moment, the magic swords and demonic eyes are hiding, but the problem has not been solved.
+あんまり　危険な所に　|生徒達を行かせる|わけにはいかないからね=Too dangerous places... Let students go, I can't help it.
+・・・言いたくないけど|あんた達が魔剣に|やられたせいでもあるんだよ=... I don't want to say it, but you're a blame for it.
+やられてねェよ|おばちゃん！！=Don't blame it on me, Auntie!!
+ソウル！=Soul!
+んだよ　マカ！=It's Maka!
+やめなさい　ソウル！|おば様に失礼よ！！=Stop it Soul! I'm sorry too Auntie!!
+チッ！|わかったよ　マカ・・・=Yes! I understand, Maka...
+おば様　すみませんでした=I'm sorry Auntie.
+とにかく　ゆるさないからね|危険な所に行くのは=Anyway, I won't forgive ya until you go to dangerous places.
+わかったよ　おばちゃん=Aright, Auntie.
+魂にビンビンくるのが|あったら　おばちゃんのところに|持ってくるんだよ！=You'll be having sols coming your way!
+おばちゃん　ずっと見てるよ|後ろからね・・・=I'm done watching all the time from behind...
 !FILE:EV0981_200.bscr
-どれにするんだ？=
+どれにするんだ？=What do you want to do?
 !FILE:EV0981_210.bscr
-どれにするんだ？=
+どれにするんだ？=What do you want to do?
 !FILE:EV0981_310.bscr
 ん？　裏に何か書いてあるぞ・・・=
 ブラック☆スターのサインがしてある|予約したって事だろう|これは受けられそうにないぞ=
@@ -9541,7 +9543,7 @@
 どうだ　椿？|準備はいいのか？=
 ええ　ブラック☆スター|いつでもいいわよ！=
 ひやっはぁ☆|ここが今回のステージか！=
-がんばりましょうね|ブラック☆スター！=
+がんばりましょうね|ブラック☆スター！=Let's do our best|Black☆Star!
 俺様　イン・・・|ここ　どこだっけ？=
 あなたならどこでも大丈夫よ・・・|気にしないで・・・=
 !FILE:EV1932_011.bscr
@@ -9641,8 +9643,8 @@
 オックス君なら|はぐれてしまっても|大丈夫だと思うわ♪=
 ヤツらを出し抜くチャンスだな|椿　先を急ぐぞ！=
 !FILE:EV1933_010.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=
-すごいわ！|ブラック☆スター！！=
+輝けるスター性を放ちながら|目標達成だぜ！=As the shinng star I am,|I'm on my way!
+すごいわ！|ブラック☆スター！！=It's amazing!|Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=
 これからもがんばりましょうね！=
 よし！|俺様の神を超える伝説が一つ増えたぜ！=
@@ -9667,7 +9669,7 @@
 これからもがんばりましょうね！=
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=
 すごいわ！|ブラック☆スター！！=
-輝けるスター性を放ちながら|目標達成だぜ！=
+輝けるスター性を放ちながら|目標達成だぜ！=As the shinng star I am,|I'm on my way!
 良かったわね♪ブラック☆スター！=
 よし！|俺様の神を超える伝説が一つ増えたぜ！=
 すごいわ！|ブラック☆スター！！=
@@ -10316,10 +10318,10 @@
 !FILE:EV1935_032.bscr
 ぐぉぉぉ・・・|私の身体がぁっぁ！！！=
 !FILE:EV1935_040.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=
-すごいわ！|ブラック☆スター！！=
-神を超える俺様に|勝てる奴はいねぇって！=
-これからもがんばりましょうね！=
+輝けるスター性を放ちながら|目標達成だぜ！=As a shining star|I'm on my way to making you a death scythe Tsubaki!
+すごいわ！|ブラック☆スター！！=It is amazing!|Black Star!!
+神を超える俺様に|勝てる奴はいねぇって！=For me to surpase god,|nobody will be able to stand in my way!
+これからもがんばりましょうね！=Let's do our best in the future!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=
 やったわね！|ブラック☆スター！！=
 楽勝～！楽勝～！=
@@ -10480,8 +10482,8 @@
 !FILE:EV1935_332.bscr
 モット・・・|モットちからヲヲヲ！=
 !FILE:EV1935_340.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=
-すごいわ！|ブラック☆スター！！=
+輝けるスター性を放ちながら|目標達成だぜ！=As the shinng star I am,|I'm on my way!
+すごいわ！|ブラック☆スター！！=It's amazing!|Black☆Star!!
 神を超える俺様に|勝てる奴はいねぇって！=
 これからもがんばりましょうね！=
 よし！|俺様の神を超える伝説が一つ増えたぜ！=
@@ -10644,8 +10646,8 @@
 !FILE:EV1935_632.bscr
 ミンチにし損ねたよぉぉ～～=
 !FILE:EV1935_640.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=
-すごいわ！|ブラック☆スター！！=
+輝けるスター性を放ちながら|目標達成だぜ！=As the shinng star I am,|I'm on my way!
+すごいわ！|ブラック☆スター！！=It's amazing!|Black☆Star!!
 神を超える俺様に|勝てる奴はいねぇって！=
 これからもがんばりましょうね！=
 よし！|俺様の神を超える伝説が一つ増えたぜ！=
@@ -11369,29 +11371,37 @@
 !FILE:EV1954_512.bscr
 復活です！=
 !FILE:EV1955_000.bscr
-時は来た・・・それだけだ=
-がんばりましょうね|ブラック☆スター！=
+時は来た・・・それだけだ=The time has come... That's it.
+がんばりましょうね|ブラック☆スター！=Let's do our best|Black☆Star!
 !FILE:EV1955_010.bscr
-俺時代到来！|さぁ　行くぜ！椿！=
+俺時代到来！
+|さぁ　行くぜ！椿！=
 ハイハイそうね=
 !FILE:EV1955_020.bscr
-やるとなったら|ビッグに決めるぜ！　椿！=
+やるとなったら
+|ビッグに決めるぜ！　椿！=
 はい！=
 !FILE:EV1955_030.bscr
-ビッグな　俺様に|相応しい授業にしてやるぜ=
-気をつけてね！|ブラック☆スター！=
+ビッグな　俺様に
+|相応しい授業にしてやるぜ=
+気をつけてね！
+|ブラック☆スター！=
 !FILE:EV1955_040.bscr
-ビッグな　俺様に|相応しい授業にしてやるぜ=
-あんまり無茶しないでね|おねがいだから・・・=
+ビッグな　俺様に
+|相応しい授業にしてやるぜ=
+あんまり無茶しないでね
+|おねがいだから・・・=
 !FILE:EV1955_050.bscr
-ビッグな　俺様に|相応しい授業にしてやるぜ=
-あまり乱暴はしないでね|あとでみんなに謝るのは私なんだから・・・=
+ビッグな　俺様に
+|相応しい授業にしてやるぜ=
+あまり乱暴はしないでね
+|あとでみんなに謝るのは私なんだから・・・=
 !FILE:EV1956_000.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=
-すごいわ！|ブラック☆スター！！=
+輝けるスター性を放ちながら|目標達成だぜ！=As the shining star I am,|I'm on my way!
+すごいわ！|ブラック☆スター！！=It's amazing!|Black☆Star!!
 !FILE:EV1956_009.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=
-すごいわ！|ブラック☆スター！！=
+輝けるスター性を放ちながら|目標達成だぜ！=As the shinng star I am,|I'm on my way!
+すごいわ！|ブラック☆スター！！=It's amazing!|Black☆Star!!
 !FILE:EV1956_010.bscr
 神を超える俺様に|勝てる奴はいねぇって！=
 これからも頑張りましょうね！=
@@ -11688,7 +11698,7 @@
 !FILE:EV1988_105.bscr
 レスキューってことで|よろしく頼むよ～ん♪=
 !FILE:EV2100_100.bscr
-ハラへったぁ～|どこで　ランチにする？=
+ハラへったぁ～|どこで　ランチにする？=I'm sorry.～|Where do you want lunch?
 !FILE:EV2100_300.bscr
 気になるなぁ・・・=
 なるなる♪|お手伝い　何だろぉ～=
@@ -17581,9 +17591,9 @@
 !FILE:EV2954_512.bscr
 ふっかぁ～つっ！！=
 !FILE:EV2955_000.bscr
-いくぞ！|リズ！パティ！=
-いつでもいけるぜ！=
-ほ～い=
+いくぞ！|リズ！パティ！=Let's go!|Liz! Patty!
+いつでもいけるぜ！=I can go anytime!
+ほ～い=Yeahh.
 !FILE:EV2955_010.bscr
 うむ！|リズ！パティ！|気を抜くなよ！=
 おう！|がんばろーぜ！キッド！=
@@ -17605,13 +17615,13 @@
 おう！=
 ほ～～い♪=
 !FILE:EV2956_000.bscr
-ふむ！|これで目標達成だな=
-よっしゃぁ～♪=
-キッド君　お疲れ～　=
+ふむ！|これで目標達成だな=Hm! This is the goal?
+よっしゃぁ～♪=Yess♪
+キッド君　お疲れ～　=Kid, I'm tired.
 !FILE:EV2956_009.bscr
-ふむ！|これで目標達成だな=
-よっしゃぁ～♪=
-キッド君　お疲れ♪=
+ふむ！|これで目標達成だな=Hm! This is the goal?
+よっしゃぁ～♪=Yess♪
+キッド君　お疲れ♪=Kid, I'm tired.♪
 !FILE:EV2956_010.bscr
 うむ　問題ない=
 いい感じ～♪=
@@ -17907,11 +17917,11 @@
 とにかく　あんた達の魂に|ビンビンくるのがあったら|おばちゃんとこに　持ってきな=
 おばちゃん　ずっと見てるよ|後ろからね・・・=
 !FILE:EV2981_200.bscr
-どれにするんだ？=
+どれにするんだ？=What do you want to do?
 !FILE:EV2981_201.bscr
 どれにする～？=
 !FILE:EV2981_210.bscr
-どれにするんだ？=
+どれにするんだ？=What do you want to do?
 !FILE:EV2981_211.bscr
 どれにする～？=
 !FILE:EV2981_300.bscr
@@ -17986,76 +17996,77 @@
 !FILE:EV2988_105.bscr
 レスキューってことで|よろしく頼むよ～ん♪=
 !FILE:EV9907_000.bscr
-さあ|軽く準備運動から始めましょう=
-まずは下半身の運動から|「コントロールスティック」を倒して|移動してみましょう=
-では実際に移動してみてください|満足したら「1ボタン」を押してください=
+さあ|軽く準備運動から始めましょう=Let's start with a light exercise.
+まずは下半身の運動から|「コントロールスティック」を倒して|移動してみましょう=Let's move from the lower body exercise by using the "control stick".
+では実際に移動してみてください|満足したら「1ボタン」を押してください=Now try to move it.|Press "1 button" when you are satisfied.
 !FILE:EV9907_010.bscr
-次は上半身の運動です|「Aボタン」を押してパンチを|出してみましょう=
-テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=
-大事なことを忘れていました|木箱のことを説明しておきましょう=
-木箱や宝箱はパンチで壊したり|開けたりすることができます=
-中に大事なものや役に立つものが|入っていることがありますから|忘れないでください=
-では実際にパンチを出してみてください|満足したら「1ボタン」を押してください=
-前が見にくいと感じたときは「Zボタン」を|押してください　カメラが見ているほうを|向くようにリセットされます=
+次は上半身の運動です|「Aボタン」を押してパンチを|出してみましょう=Next is upper body exercise.|Press "A button" to punch.
+テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=Press the "A button" at a good tempo to launch a combo attack!
+大事なことを忘れていました|木箱のことを説明しておきましょう=I forgot something important.|Let's explain the wooden box.
+木箱や宝箱はパンチで壊したり|開けたりすることができます=Wooden boxes and treasure chests can be punched or opened.
+中に大事なものや役に立つものが|入っていることがありますから|忘れないでください=Don't forget because there are important/useful things inside!
+では実際にパンチを出してみてください|満足したら「1ボタン」を押してください=Now try punching.|Press "1 button" when you are satisfied.
+前が見にくいと感じたときは「Zボタン」を|押してください　カメラが見ているほうを|向くようにリセットされます=If you find it difficult to see in front, press the "Z button"|The camera will be reset to where you face.
 !FILE:EV9907_020.bscr
-さあ|いよいよパートナーとの訓練です=
-俺達の力を見せてやろうぜ！=
-まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=
-「コントロールスティック」を倒すと|いつもと同じように移動できます=
-「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=
-「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=
-「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=
-では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=
+さあ|いよいよパートナーとの訓練です=Now,|finally training with partners.
+俺達の力を見せてやろうぜ！=Let's show our power!
+まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=First of all, let's learn the footwork in the fight and the stepwork in the case of a sudden fight.
+「コントロールスティック」を倒すと|いつもと同じように移動できます=You can move as usual by using the "control stick".
+「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=Shake "Wii Remote" to right|For a quick sidestep right!
+「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=Shake "nunchuck" to the left|For a quick sidestep left!
+「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=Swing as if pulling the "Wii remote"|You can quickly backstep back!
+では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Then use the step work|Move|Press the "1 button" when you are satisfied.
 !FILE:EV9907_021.bscr
-さあ|いよいよパートナーとの訓練です=
-がんばりましょ|ブラック☆スター=
-まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=
-「コントロールスティック」を倒すと|いつもと同じように移動できます=
-「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=
-「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=
-「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=
-では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=
+さあ|いよいよパートナーとの訓練です=Now,|finally training with partners.
+がんばりましょ|ブラック☆スター=Do your best|Black☆Star.
+まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=First of all, let's learn the footwork in the fight and the stepwork in the case of a sudden fight.
+「コントロールスティック」を倒すと|いつもと同じように移動できます=You can move as usual by using the "control stick".
+「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=Shake "Wii Remote" to right|For a quick sidestep right!
+「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=Shake "nunchuck" to the left|For a quick sidestep left!
+「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=Swing as if pulling the "Wii remote"|You can quickly backstep back!
+では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Then use the step work|Move|Press the "1 button" when you are satisfied.
 !FILE:EV9907_022.bscr
-さあ|いよいよパートナーとの訓練です=
-やってやろうぜ！キッド！=
-まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=
-「コントロールスティック」を倒すと|いつもと同じように移動できます=
-「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=
-「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=
-「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=
-では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=
+さあ|いよいよパートナーとの訓練です=Now,|finally training with partners.
+やってやろうぜ！キッド！=Let's do it, Kid!
+まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=First of all, let's learn the footwork in the fight and the stepwork in the case of a sudden fight.
+「コントロールスティック」を倒すと|いつもと同じように移動できます=You can move as usual by using the "control stick".
+「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=Shake "Wii Remote" to right|For a quick sidestep right!
+「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=Shake "nunchuck" to the left|For a quick sidestep left!
+「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=Swing as if pulling the "Wii remote"|You can quickly backstep back!
+では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Then use the step work|Move|Press the "1 button" when you are satisfied.
 !FILE:EV9907_030.bscr
-次は武器での攻撃の仕方です|「Aボタン」を押して攻撃を|してみましょう=
-テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=
-では武器での攻撃を試してみてください|満足したら「1ボタン」を押してください=
+次は武器での攻撃の仕方です|「Aボタン」を押して攻撃を|してみましょう=Next is how to attack with weapon,|Press "A button" to attack.
+テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=Press the "A button" at a good tempo to launch a combo attack!
+では武器での攻撃を試してみてください|満足したら「1ボタン」を押してください=Now try your weapon attack.|Press the "1 button" when you are satisfied.
 !FILE:EV9907_040.bscr
-今度はコンビネーション攻撃を|途中で変化させる方法です=
-２回目の攻撃中に「Wiiリモコン」もしく|は「ヌンチャク」を振りながら「Aボタン」|をテンポ良く押してみましょう=
-ではコンビネーション攻撃の変化を|試してみてください|満足したら「1ボタン」を押してください=
+今度はコンビネーション攻撃を|途中で変化させる方法です=This time it is a way to change the combo attack.
+２回目の攻撃中に「Wiiリモコン」もしく|は「ヌンチャク」を振りながら「Aボタン」|をテンポ良く押してみましょう=Press the "A button" with a good tempo while waving the "Wii remote controller" or "nunchuck" during the second attack.
+ではコンビネーション攻撃の変化を|試してみてください|満足したら「1ボタン」を押してください=Now try the combo attack change|Press the "1 button" when satisfied.
 !FILE:EV9907_050.bscr
-次は狙った相手を攻撃する|ロックオンの仕方です=
-では|練習相手を呼び出します=
-ロックオンをするには「Bボタン」を押し|ます　「Bボタン」を押すと自分の一番|近くにいる相手をロックオンします=
-狙った相手の足元にはロックオンマークが|現れ　画面の左上にロックオンの文字が|表示されます=
-ロックオンをやめるには　もう一度|「Bボタン」を押します|ロックオンマークと文字が消えます=
-「Bボタン」を繰り返し押すことで|一番近くにいる相手にすばやく攻撃する|ことができます=
-ロックオンをしている間はロックオンした|相手を中心にして移動します=
-「Aボタン」での攻撃も全てロックオン|した相手に行われます=
-また「Zボタン」を押し続けるとカメラが|常にロックオンをしている相手のほうを|向くようになります=
-では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=
+次は狙った相手を攻撃する|ロックオンの仕方です=Next is attacking the target|While using the lock-on method.
+では|練習相手を呼び出します=Then,|call your practice partner.
+ロックオンをするには「Bボタン」を押し|ます　「Bボタン」を押すと自分の一番|近くにいる相手をロックオンします=To lock-on, press the "B button" | Press the "B" button to lock-on the closest target.
+狙った相手の足元にはロックオンマークが|現れ　画面の左上にロックオンの文字が|表示されます=A lock-on mark appears at the foot of the target, and a lock-on character appears at the top left of the screen.
+ロックオンをやめるには　もう一度|「Bボタン」を押します|ロックオンマークと文字が消えます=To stop the lock-on, press the "B" button again;|the lock-on mark and letters then disappear.
+「Bボタン」を繰り返し押すことで|一番近くにいる相手にすばやく攻撃する|ことができます=Press the "B button" repeatedly to quickly attack the closest opponent.
+ロックオンをしている間はロックオンした|相手を中心にして移動します=Locked on while locked on,|move around opponent.
+「Aボタン」での攻撃も全てロックオン|した相手に行われます=All "A button" attacks will also be made against the locked-on opponent!
+また「Zボタン」を押し続けるとカメラが|常にロックオンをしている相手のほうを|向くようになります=Pressing and holding the "Z button" will make the camera always point towards the locked-on target.
+では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=Now try to Lock-On|Press "1 Button" when you are satisfied.
 !FILE:EV9907_060.bscr
-職人としての技術を覚えましたか？|では実際に戦ってみましょう=
+職人としての技術を覚えましたか？|では実際に戦ってみましょう=Did you learn the skills as a meister?|Let's actually fight!
 !FILE:EV9907_500.bscr
-皆さん|準備はいいですか？=
-おう！=
-さあ|魂の共鳴の仕方を覚えましょう=
-魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=
-共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=
-では|練習相手を呼び出します=
-実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=
+皆さん|準備はいいですか？=Everyone,|are you ready?
+おう！=Yeah!
+さあ|魂の共鳴の仕方を覚えましょう=Let's learn how to resonate the soul.
+魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack the enemy to resonate the soul.|The more you attack, the higher the resonance.
+共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=A soul ring appears at the feet as the resonance increases. The meister's attack power increases. When the attack stops, the resonance decreases.
+では|練習相手を呼び出します=Then,|call your practice partner.
+実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Actually resonate the soul and power up|Press "1 button" when satisfied.
 !FILE:EV9907_501.bscr
 皆さん|準備はいいですか？=
-はい！=
+Everyone|are you ready?
+はい！=Yeah!
 さあ|魂の共鳴の仕方を覚えましょう=
 魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=
 共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=
@@ -18100,9 +18111,9 @@
 !FILE:EV9907_530.bscr
 魂の共鳴と必殺技の使い方を覚えましたか？|では、実際に戦ってみましょう=
 !FILE:EV9907_999.bscr
-本当にやめていいですか？=
+本当にやめていいですか？=Do you really want to stop?
 !FILE:EV9961_000.bscr
-私に何か用？=
+私に何か用？=Do you have something for me?
 !FILE:EV9961_001.bscr
 まだ何かあるの？=
 !FILE:EV9961_004.bscr
@@ -18174,7 +18185,7 @@
 !FILE:EV9961_057.bscr
 ・・・・・・・・・=
 !FILE:EV9961_060.bscr
-私に何か用？=
+私に何か用？=Do you have something for me?
 !FILE:EV9961_061.bscr
 ほぇ？まだ何かあるの？=
 !FILE:EV9961_062.bscr
@@ -18304,7 +18315,7 @@
 !FILE:EV9962_070.bscr
 それじゃぁ　みなさん|バハハ～イ！=
 !FILE:EV9962_071.bscr
-基本「殺伐だけどウキウキライフ」で|んじゃ！かいさ～ん♪=
+基本「殺伐だけどウキウキライフ」で|んじゃ！かいさ～ん♪=Basically, "But it's a killing but exciting life"|Hey! Ahhh♪
 !FILE:EV9962_072.bscr
 ほんじゃあ　まぁ|応援なんかしちゃったりするんで|がんばっちに～♪=
 !FILE:EV9962_073.bscr
@@ -18330,9 +18341,9 @@
 !FILE:EV9962_101.bscr
 早く去ってください|・・・どんな惨劇が起こるか|わかりませんよ・・・=
 !FILE:EV9962_102.bscr
-んじゃ=
-かいさ～ん=
-ふんぎゃ！！=
+んじゃ=Gah?
+かいさ～ん=Ahhh
+ふんぎゃ！！=Foongya!!
 !FILE:EV9962_103.bscr
 ・・・・・・・・・=
 !FILE:EV9962_110.bscr
@@ -18901,15 +18912,15 @@
 なんとか　やり遂げたみたいだな|だが　まだまだ根性が|足りないぞ=
 おっ　レベルが上がったようだな|やったな！　お前達=
 !FILE:EV9983_100.bscr
-おつかれさまです♪|君達の成績は　こんな感じですよ=
-これは　驚いた・・・|君達に|いっそう興味がわきましたよ=
-とても良い成績ですね|この調子で　次もがんばってみなさい=
-ふむ　合格点ってところですね|スジはいいので　がんばれば|もっと良くなりますよ=
-う～ん|合格点　一歩手前って感じですね|もう　少し気を引き締めるように=
-これは悪いですね|パワーアップするお勧めの人体実験が|あるんですが　受けてみますか？=
-おや？　レベルが上がったみたいですね|よくやりましたね　君達=
+おつかれさまです♪|君達の成績は　こんな感じですよ=Good work.♪|Here are your grades:
+これは　驚いた・・・|君達に|いっそう興味がわきましたよ=This was surprising…|I see you're more interested.
+とても良い成績ですね|この調子で　次もがんばってみなさい=That's a good result.|Do your best next time.
+ふむ　合格点ってところですね|スジはいいので　がんばれば|もっと良くなりますよ=Hmmm, it's a passing grade...|Just do better next time.
+う～ん|合格点　一歩手前って感じですね|もう　少し気を引き締めるように=Yeah|that's a passing score.|Hope you're proud of yourself.
+これは悪いですね|パワーアップするお勧めの人体実験が|あるんですが　受けてみますか？=This was terrible.|However, I'd recommend you letting me experiment on you to grow stronger...|Would you like to accept?
+おや？　レベルが上がったみたいですね|よくやりましたね　君達=Oh? It looks like you've leveled up.|Well done you guys.
 !FILE:EV9983_110.bscr
-最後までやり遂げたようだな|これが　お前達の成績だ=
+最後までやり遂げたようだな|これが　お前達の成績だ=Looks like you've done it to the end.|This is your grade.
 すごいじゃないかお前達！|これなら　将来|三つ星職人になれるかもな！=
 よくやったなお前達|ここまでできるのは|すごいことだぞ=
 よくがんばったなお前達|この調子で　次もがんばれよ=
@@ -18958,22 +18969,22 @@
 ムービー挿入予定シーン=
 現状　素材が未到着なので|仮でこのメッセージを流します=
 !FILE:SYS000_0000.bin
-持ち物ボタンを押せば持っていくアイテムを|変更できる　コレクションボタンからは|手に入れたアイテムを見られるよ=
-持ち物ボタンを押せば持っていくアイテムを|変更できるぜ　コレクションボタンからは|手に入れたアイテムが見れるな=
-持ち物ボタンを押せば持っていくアイテムを|変更できるな　コレクションボタンからは|手に入れたアイテムが見れるぞ=
-矢印でアイテムを選んで　決定ボタンで|持っていけるよ　効果が知りたいなら|アイテムにポインターを合わせるんだね=
-残念だけどね　あんた達は|まだアイテムを持ってないんだよ|アイテムを手に入れたら　また来るんだね=
-矢印で手に入れたアイテムを|見ることができるよ　名前が知りたいなら|アイテムにポインターを合わせるんだね=
-残念だけどね　あんた達は|まだアイテムを持ってないんだよ|アイテムを手に入れたら　また来るんだね=
-アイテムを持たないってことだね|特にいいことはないと思うけどね|おばちゃんは=
-目覚まし時計だね|いつもより早く睡眠状態が治るよ=
-実験霊体だね|一度だけバトルで倒れても復活できるよ=
-毒消しだね|いつもより早く毒状態が治るよ=
-強壮剤だね|いつもより早くマヒ状態が治るよ=
-バケツの水だね|いつもより早く混乱状態が治るよ=
-２個目の魂だね|バトルのときブレアが手助けしてくれるよ=
-『パーティードレス』だね|デス・シティーの女の子に凄い人気なんだよ|ちょっぴりセクシーなドレスだね=
-『ブラック☆スターのサイン』だね|トメとハネに迷いが見えるねぇ・・・|あの子はまだスターの器じゃないね=
+持ち物ボタンを押せば持っていくアイテムを|変更できる　コレクションボタンからは|手に入れたアイテムを見られるよ=You can change the items you bring by pressing the inventory button.|You can see the items you got from the collection button.
+持ち物ボタンを押せば持っていくアイテムを|変更できるぜ　コレクションボタンからは|手に入れたアイテムが見れるな=You can change the items you bring by pressing the inventory button.|You can see the items you got from the collection button.
+持ち物ボタンを押せば持っていくアイテムを|変更できるな　コレクションボタンからは|手に入れたアイテムが見れるぞ=You can change the items you bring by pressing the inventory button.|You can see the items you got from the collection button.
+矢印でアイテムを選んで　決定ボタンで|持っていけるよ　効果が知りたいなら|アイテムにポインターを合わせるんだね=Use the cursor to select an item and then press the OK button to take it with you.|If you want to see the effect.
+残念だけどね　あんた達は|まだアイテムを持ってないんだよ|アイテムを手に入れたら　また来るんだね=Unfortunately, you guys don't have the item yet.|If you get the item you will come again.
+矢印で手に入れたアイテムを|見ることができるよ　名前が知りたいなら|アイテムにポインターを合わせるんだね=You can see the item you got with the cursor.|If you want to know the name, hover over the item.
+残念だけどね　あんた達は|まだアイテムを持ってないんだよ|アイテムを手に入れたら　また来るんだね=Unfortunately, you guys don't have the item yet.|If you get the item you can come again.
+アイテムを持たないってことだね|特にいいことはないと思うけどね|おばちゃんは=I don't think I have anything special.
+目覚まし時計だね|いつもより早く睡眠状態が治るよ=It's an alarm clock.
+実験霊体だね|一度だけバトルで倒れても復活できるよ=It's an experimental spirit.
+毒消しだね|いつもより早く毒状態が治るよ=It's poison.|I'll cure my poison faster than usual.
+強壮剤だね|いつもより早くマヒ状態が治るよ=It's a tonic.|Heals paralysis faster than usual
+バケツの水だね|いつもより早く混乱状態が治るよ=Bucket water.|Cheer up faster than usual.
+２個目の魂だね|バトルのときブレアが手助けしてくれるよ=The second soul.|Blair will help you during the battle.
+『パーティードレス』だね|デス・シティーの女の子に凄い人気なんだよ|ちょっぴりセクシーなドレスだね=It's a party dress.|It's so popular with Death City girls.|.It's a bit sexy.
+『ブラック☆スターのサイン』だね|トメとハネに迷いが見えるねぇ・・・|あの子はまだスターの器じゃないね=It's "Sign of Black Star".|I can't see Tome and Hane's way...|That girl isn't a star vessel yet.
 『マカのアルバム』だね|他人の家庭の事情だからねぇ|ノーコメントにさせてもらうよ=
 『マカのアルバム』だね|さすがにおばちゃんも言わせてもらうよ|これはもう捨てたほうがいいんじゃないかね=
 『遺跡のジオラマ』だね|これは・・・アヌビス遺跡のジオラマかい？|なかなかいい仕事をしてるね=
@@ -19004,35 +19015,35 @@
 『魂学書の破れたページ』だね|貴重な本のページが散乱しちゃってね|みんなに回収をお願いしてるんだよ=
 『訓練君人形』だね|その名のとおり訓練用に作られたものだよ|ちなみにこれを隠してるのはおばちゃんさ=
 『太陽石』だね|夕日のときにタレてくると伝えられる石だよ|熱くて危険だから回収してるんだよ=
-セーブするファイルを選んでね=
-このファイルにセーブするの？=
-セーブ中だよ|電源ボタンやリセットボタンに|触らにゃいでね=
-セーブが終わったよー=
-おつかれさま|ここまでのデータをセーブするにゃら|ファイルを選んでね=
-ロードするファイルを選んでね=
-このファイルをロードするの？=
-ロード中だよ|電源ボタンやリセットボタンに|触らにゃいでね=
-ロードが終わったよー=
-セーブしておりませんが|次に進んでもよろしいですか？=
-データがありません=
-日目=
+セーブするファイルを選んでね=Choose a file to save
+このファイルにセーブするの？=Save to this file?
+セーブ中だよ|電源ボタンやリセットボタンに|触らにゃいでね=Saving...|Don't touch the power or reset button.
+セーブが終わったよー=The save is over!
+おつかれさま|ここまでのデータをセーブするにゃら|ファイルを選んでね=Dear Sir...|Just save the data so far.|Choose a file.
+ロードするファイルを選んでね=Choose a file to load
+このファイルをロードするの？=Load this file?
+ロード中だよ|電源ボタンやリセットボタンに|触らにゃいでね=Loading...|Don't touch the power or reset button.
+ロードが終わったよー=Finished loading!
+セーブしておりませんが|次に進んでもよろしいですか？=Haven't saved yet.|Are you sure you want to go next?
+データがありません=There is no data.
+日目=Day
 /%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]=
-%_te課外授業=
-%_te課外授業　昼=
-%_te課外授業　夕方=
-%_te課外授業　夜=
-%_te繭=
-%_te繭　昼=
-%_te繭　夕方=
-%_te繭　夜=
-%_te月=
-%_te月　昼=
-%_te月　夕方=
-%_te月　夜=
-%_te挑戦=
-%_te挑戦　昼=
-%_te挑戦　夕方=
-%_te挑戦　夜=
+%_te課外授業=%_teExtracurricular lessons
+%_te課外授業　昼=%_teExtracurricular lessons: Noon
+%_te課外授業　夕方=%_teExtracurricular lessons: Evening
+%_te課外授業　夜=%_teExtracurricular lessons: Night
+%_te繭=%_teCocoon
+%_te繭　昼=%_teCocoon: Noon
+%_te繭　夕方=%_teCocoon: Evening
+%_te繭　夜=%_teCocoon: Night
+%_te月=%_teMoon
+%_te月　昼=%_teMoon: Noon
+%_te月　夕方=%_teMoon: Evening
+%_te月　夜=%_teMoon: Night
+%_te挑戦=%_teChallenge
+%_te挑戦　昼=%_teChallenge: Noon
+%_te挑戦　夕方=%_teChallenge: Evening
+%_te挑戦　夜=%_teChallenge: Night
 %_te反撃=
 %_te反撃　昼=
 %_te反撃　夕方=
@@ -19041,19 +19052,19 @@
 %_te決戦　昼=
 %_te決戦　夕方=
 %_te決戦　夜=
-設定したい項目にポインターを|合わせて　Aボタンを押せば|設定を変更することができます=
-サウンド出力のモノラル/ステレオを|設定します=
-メッセージと同時に再生されるボイスの|オフ/オンを設定します　メッセージのない|ボイスやムービーには適用されません=
-メッセージ送りの自動オフ/自動オンを|設定します　一部のメッセージには|自動オフが適用されません=
-戻るのか？　マカ？=
-鬼神の卵と化した魂を持つ者を|退治するみたいだな|俺達ならラクショーだな=
+設定したい項目にポインターを|合わせて　Aボタンを押せば|設定を変更することができます=Move the pointer to the icon you want to select and press the A button to change the setting.
+サウンド出力のモノラル/ステレオを|設定します=Set the sound output to either mono or stereo.
+メッセージと同時に再生されるボイスの|オフ/オンを設定します　メッセージのない|ボイスやムービーには適用されません=Set the voice played at the same time as the text either off or on. This does not apply to voices over cutscenes.
+メッセージ送りの自動オフ/自動オンを|設定します　一部のメッセージには|自動オフが適用されません=Set the text forwarding to be either auto-off or auto-on. Auto-off does not apply to some messages.
+戻るのか？　マカ？=Are you going back?|Maka?
+鬼神の卵と化した魂を持つ者を|退治するみたいだな|俺達ならラクショーだな=Those who have souls that have turned into eggs of demons.
 鬼神の卵と化した魂を持つ者を|退治するみたいだな|腕試しにはピッタリだと思うぜ=
-鬼神の卵と化した魂を持つ者を|退治するみたいだな|クールな感じがするぜ=
+鬼神の卵と化した魂を持つ者を|退治するみたいだな|クールな感じがするぜ=I feel like I'm going to get rid of those who have a soul that has turned into a kishin egg.
 敵を退治する内容みたいだな|俺達ならラクショーだな=
-敵を退治する内容みたいだな|腕試しにはピッタリだと思うぜ=
+敵を退治する内容みたいだな|腕試しにはピッタリだと思うぜ=Killing enemies|I think it's perfect for testing your skills.
 敵を退治する内容みたいだな|クールな感じがするぜ=
 アイテムを集めてくるみたいだな|俺達ならラクショーだな=
-アイテムを集めてくるみたいだな|腕試しにはピッタリだと思うぜ=
+アイテムを集めてくるみたいだな|腕試しにはピッタリだと思うぜ=Collecting items huh?|Sound's great to try.
 アイテムを集めてくるみたいだな|クールな感じがするぜ=
 アイテムをさがしてくるみたいだな|俺達ならラクショーだな=
 アイテムをさがしてくるみたいだな|腕試しにはピッタリだと思うぜ=
@@ -19115,27 +19126,27 @@
 目的の場所に向かう内容みたい|私達ならラクラクだよ=
 目的の場所に向かう内容みたい|腕試しにはピッタリだね=
 目的の場所に向かう内容みたい|かなりエキサイトできそうだよ=
-先生が相手してくれるみたい=
-きゃはははは！=
-分%_d[1]%_d[2]秒=
-分%_d[1]%_d[2]秒=
-分%_d[1]%_d[2]秒=
-回=
-匹=
-匹=
-回=
-回=
+先生が相手してくれるみたい=It looks like the teacher will deal with you.
+きゃはははは！=Kihahahaha!
+分%_d[1]%_d[2]秒=Min%_d[1]%_d[2]Sec
+分%_d[1]%_d[2]秒=Min%_d[1]%_d[2]Sec
+分%_d[1]%_d[2]秒=Min%_d[1]%_d[2]Sec
+回=Times
+匹=Counter
+匹=Counter
+回=Times
+回=Times
 %_tr+1ランク=
 %_tr-1ランク=
-%_trなし=
-なし=
-午前授業=
-午後授業=
-課外授業=
-課外授業=
-課外授業=
-明日の解剖授業=
-アイテムハンター=
+%_trなし=%_trNone
+なし=None
+午前授業=Morning class
+午後授業=Afternoon class
+課外授業=Extracurricular classes
+課外授業=Extracurricular classes
+課外授業=Extracurricular classes
+明日の解剖授業=Anatomy class of tomorrow
+アイテムハンター=Item hunter
 保健室のユウウツ=
 吸魂水特訓ステージ=
 彼がいない状況下=
@@ -19147,9 +19158,9 @@
 メデューサ先生=
 メデューサ先生=
 メデューサ先生=
-なし=
+なし=None
 午前授業=
-なし=
+なし=None
 課外授業=
 課外授業=
 課外授業=
@@ -19166,9 +19177,9 @@
 メデューサ先生=
 メデューサ先生=
 メデューサ先生=
-なし=
+なし=None
 午前授業=
-なし=
+なし=None
 緊急連絡=
 緊急連絡=
 緊急連絡=
@@ -19185,9 +19196,9 @@
 メデューサ先生=
 メデューサ先生=
 メデューサ先生=
-なし=
+なし=None
 午前授業=
-なし=
+なし=None
 事件発生=
 事件発生=
 事件発生=
@@ -19204,9 +19215,9 @@
 メデューサ先生=
 メデューサ先生=
 メデューサ先生=
-なし=
+なし=None
 午前授業=
-なし=
+なし=None
 反撃開始=
 反撃開始=
 反撃開始=
@@ -19216,28 +19227,28 @@
 星族の秘法=
 危険なトレーニング=
 打倒マカチョップ=
-イメージチェンジ=
+イメージチェンジ=Makeover
 死神装束をなくした=
 姉妹の最終兵器=
 カエル大作戦=
 メデューサ先生=
 メデューサ先生=
 メデューサ先生=
-なし=
-なし=
-なし=
+なし=None
+なし=None
+なし=None
 決戦=
 決戦=
 決戦=
-なし=
-なし=
-なし=
-なし=
-なし=
-なし=
-なし=
-なし=
-なし=
+なし=None
+なし=None
+なし=None
+なし=None
+なし=None
+なし=None
+なし=None
+なし=None
+なし=None
 Wii本体保存メモリの空き容量が|不足しています。データを保存する場合は|「Wiiメニューのデータ管理画面に戻る」|を選択し、セーブデータ画面でデータを|SDカードに移動するか、データを消去して|１ブロックの空き容量を確保してください。=
 Wii本体保存メモリの空きファイル数が|不足しています。データを保存する場合は|「Wiiメニューのデータ管理画面に戻る」|を選択し、セーブデータ画面でデータを|SDカードに移動するか、データを|消去してください。=
 Wii本体保存メモリの|空き容量が異常です。|くわしくはWii本体の取扱説明書を|お読みください。=
@@ -19287,13 +19298,13 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ブラック☆スター|やることがあるうちは|チームは変えられないわよ=
 キッド　今はやることがあるぜ|チームは変えられないからな=
 !FILE:SYS031_0000.bin
-フィルムのコマを押すとムービーが|再生されます|矢印を押せば　フィルムがスライドします=
-オープニング=
-プロローグ=
-ブラック☆スター　セントベル教会=
-マカ　VS　キルベル=
-フランス市街地=
-キッド　VS　ナルス=
+フィルムのコマを押すとムービーが|再生されます|矢印を押せば　フィルムがスライドします=Press the film frame to play the movie.|Play|Press the arrow to slide the film.
+オープニング=Punning
+プロローグ=Rogue
+ブラック☆スター　セントベル教会=Black Star @ St. Bell Church.
+マカ　VS　キルベル=Maka VS Killbell
+フランス市街地=City area in France
+キッド　VS　ナルス=Kid VS Nals
 ドイツ郊外城下町=
 マカ　VS　アローン=
 ブラック☆スター　VS　ギガント=
@@ -19358,7 +19369,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 最近のリズは・・・=
 保健室からの苦情=
 ソウルの胸の傷=
-劣等感大爆発=
+劣等感大爆発=Soul's chest scar
 ショッキングゾンビ=
 彼の親切とその反応=
 星族の秘法=
@@ -19524,46 +19535,46 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 まだ見ることができません=
 まだ見ることができません=
 !FILE:quest.bin
-%_teなし=
-なし=
-なし=
-%_te死武専生の心得=
-戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=
-職人の技術を使って|全ての敵をやっつけろ！=
-%_teシュタイン博士のお手伝い=
-死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=
-疑似生物おかウニ%_dc[199,133,84]を|見つけ出せ！=
-%_teノラ人形どもを退治せよ！=
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=
+%_teなし=%_teNone
+なし=None
+なし=None
+%_te死武専生の心得=%_teTips for student:
+戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight!|Avoid enemy attacks!|Defeat training dolls!
+職人の技術を使って|全ての敵をやっつけろ！=Use craftsmanship|defeat all enemies!
+%_teシュタイン博士のお手伝い=%_teHelping Professor Stein
+死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=Hiding in a luggage from SEIBU.|For an escaped anatomy lesson:|Catch a pseudo-creature!
+疑似生物おかウニ%_dc[199,133,84]を|見つけ出せ！=Simulated creature sea urchin%_dc[199,133,84]Find out!
+%_teノラ人形どもを退治せよ！=%_teDefeat Death Dolls!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Training for escape from Seibu|Doll%_dc[196,0,0]Desnoir%_dc[199,133,84]To|%_dc[0,0,196]２５%_dc[199,133,84]Beat it!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=
-%_te紛失物回収のお願い=
+%_te紛失物回収のお願い=%_te
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=
-%_te切り裂き魔を退治せよ！=
+%_te切り裂き魔を退治せよ！=%_te
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=
 切り裂きジャック%_dc[199,133,84]を|倒せ！=
-%_teマッドドッグを退治せよ！=
+%_teマッドドッグを退治せよ！=%_te
 遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=
-%_teノラ人形どもを退治せよ！=
+%_teノラ人形どもを退治せよ！=%_te
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=
-%_te共鳴の心得=
+%_te共鳴の心得=%_te
 戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=
-%_te大量失踪事件を調査せよ！=
+%_te大量失踪事件を調査せよ！=%_te
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=
 大量失踪事件の|犯人を倒せ！=
-%_te死武専生の心得=
+%_te死武専生の心得=%_te
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=
-職人の技術を使って|全ての敵をやっつけろ！=
-%_te吸魂水のツボはどこだ！=
+職人の技術を使って|全ての敵をやっつけろ！=Use craftsmanship|defeat all enemies!
+%_te吸魂水のツボはどこだ！=%_te
 ツボ%_dc[199,133,84]の落ちてる場所は|だいたいわかった！　早く|手に入れて特訓再開だぁ！=
 ツボ%_dc[199,133,84]を手に入れろ！=
-%_teノラ人形どもを退治せよ！=
+%_teノラ人形どもを退治せよ！=%_te
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=
-%_te切り裂き魔を退治せよ！=
+%_te切り裂き魔を退治せよ！=%_te
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=
 切り裂きジャック%_dc[199,133,84]を|倒せ！=
 %_te紛失物回収のお願い=
@@ -19583,7 +19594,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 大量失踪事件の|犯人を倒せ！=
 %_te死武専生の心得=
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=
-職人の技術を使って|全ての敵をやっつけろ！=
+職人の技術を使って|全ての敵をやっつけろ！=Use craftsmanship|defeat all enemies!
 %_te切り裂き魔を退治せよ！=
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=
 切り裂きジャック%_dc[199,133,84]を|倒せ！=
