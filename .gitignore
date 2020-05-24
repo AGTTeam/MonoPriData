@@ -3,4 +3,6 @@ repack*
 out_*
 *_output.txt
 *.iso
+*.csv
+*.po
 patch
