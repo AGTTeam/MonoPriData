@@ -13,6 +13,9 @@ I have started labelling the start of each chapter with its title as well as whi
 A note on text color: Whenever %_dc[?,?,?] is inserted it will change the color of all following test until the end of text box or until another color code is inserted. There are five colors used for the text throughout the game: Red [196,0,0], Green [0,196,0], Blue [0,0,196], Yellow [199,133,84], White. Each number in the code represents a color value, so [Red,Green,Blue]. Remember RGB and it will be easy to know which color the text is. As for the uses for each color, White is the standard dialogue text color used throughout the game. I don't believe there is ever an instance of white text being mixed with another color. The other four are used for the mission instructions. What I call yellow, but which is actually more an orangey brown color, is the standard text color for the mission instructions. Red denotes an enemy. Green is used for items. And Blue is used for the number of enemies or items that must be defeated or obtained respectively. Due to a difference in word order, the English translation often needs to change the color of the text immediately at the start of the line. The starting text color for each text box isn't always yellow in the Japanese. Also, make sure the final punctuation is always rendered in the yellow color. This will often require a separate color code just for the punctuation.
 
 
+When playtesting, please try to enter empty locations whenever possible. The majority of the dialogue that happens when the player does so was translated without context, so there is a large potential for errors here. Pay specific attention to if a character is talking to themselves or to another character as it was impossible for me to know as I translated and I had to guess.
+
+
 Japanese tends to use a person’s name far more often than in English, so feel free to remove people’s names from the translation when unnecessary or awkward.
 
 
