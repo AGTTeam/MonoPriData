@@ -1,4 +1,4 @@
-﻿These notes should serve to help in the proofreading phase of this project. There are a number of things which must be agreed on, tested, and implemented within the text in order to maintain consistency. As well, there are a few things that I may have considered later in the translation process, which might be somewhat problematic from a perspective of cultural sensitivity and inclusivity. I intend to address these issues myself, but it is possible that I may miss some instance of them, so I would just like the proofreaders to keep them in mind.
+﻿These notes should serve to help in the proofreading/ playtesting phase of this project. There are a number of things which must be agreed on, tested, and implemented within the text in order to maintain consistency. As well, there are a few things that I may have considered later in the translation process, which might be somewhat problematic from a perspective of cultural sensitivity and inclusivity. I intend to address these issues myself, but it is possible that I may miss some instance of them, so I would just like the proofreaders to keep them in mind.
 
 
 Of course, read any comment made on SmartCat. Some are there only to explain the meaning or context, while others show any concerns I may have had.
@@ -8,6 +8,9 @@ Within the msbe_events file you will find lines separating the dialogue into sec
 
 
 I have started labelling the start of each chapter with its title as well as which Youtube video in Soul Reaper’s playlist corresponds to said chapter. I will continue to do so to make it easier for anyone to find to have more context for the lines.
+
+
+A note on text color: Whenever %_dc[?,?,?] is inserted it will change the color of all following test until the end of text box or until another color code is inserted. There are five colors used for the text throughout the game: Red [196,0,0], Green [0,196,0], Blue [0,0,196], Yellow [199,133,84], White. Each number in the code represents a color value, so [Red,Green,Blue]. Remember RGB and it will be easy to know which color the text is. As for the uses for each color, White is the standard dialogue text color used throughout the game. I don't believe there is ever an instance of white text being mixed with another color. The other four are used for the mission instructions. What I call yellow, but which is actually more an orangey brown color, is the standard text color for the mission instructions. Red denotes an enemy. Green is used for items. And Blue is used for the number of enemies or items that must be defeated or obtained respectively. Due to a difference in word order, the English translation often needs to change the color of the text immediately at the start of the line. The starting text color for each text box isn't always yellow in the Japanese. Also, make sure the final punctuation is always rendered in the yellow color. This will often require a separate color code just for the punctuation.
 
 
 Japanese tends to use a person’s name far more often than in English, so feel free to remove people’s names from the translation when unnecessary or awkward.
