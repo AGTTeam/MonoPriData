@@ -26,6 +26,9 @@ Inconsistency of use of *Sigh*/*Pant* or written out sound effects.; the use of 
 I have tried to maintain roughly the same line length and phrasing in between the English and Japanese to better match the Japanese audio.
 
 
+The word Kishin should always be capitalized.
+
+
 Sid - is he ever referred to as Mr. Sid or anything else but just Sid?
 
 
@@ -42,6 +45,9 @@ Blair - does Blair refer to herself in the third-person?; does Blair have a nick
 
 
 Black Star - does Black Star refer to himself in the third person?; Black Star often uses the terms 大物 and 小物, big thing and small thing respectively, to talk about himself and others, how is ‘small thing’ translated in the official anime dub? I translated it numerous ways (small-fry, weakling, small people, little guys, etc.), it is important to make sure it isn’t translated as little people as that could be considered offensive
+
+
+Grimoire - I've taken to changing his laugh from Hehehe to Hmhmhm to differentiate it from the awkward laugh that Tsubaki and Maka use.
 
 
 Shinigami - how are shinigami and Lord Death referred to throughout the series? reapers, grim reapers, shinigami, etc.
