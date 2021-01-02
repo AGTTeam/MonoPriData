@@ -146,7 +146,7 @@
 893:917:どうだ！=How was that!?
 950:985:今だ　行け！=Now! Go!
 990:1048:やああああああああ！=Yaaaaaaa!
-1115:1227:これで　俺は　鬼神になる・・・|お前らも最後だ！=With this, I will become a Kishin...|It's the end of the line for you!
+1115:1227:これで　俺は　鬼神になる・・・|お前らも最後だ！=With this, I will become a kishin...|It's the end of the line for you!
 1228:1293:あ～！|あれが最後の繭よ！=Aah! That's the last cocoon!
 1288:1312:ヤベェ！=Damn!
 1359:1444:ぐおおおおおおおおおお！=Guuoooooooh!
@@ -161,9 +161,9 @@
 2228:2320:でもさ|狼男って死なないんじゃなかったっけ？=Hold on.|Aren't werewolves supposed to be unkillable or something?
 2321:2345:ふん=Hmph.
 2346:2429:人間の魂を食らい|鬼神になろうとしたときから=I guess he lost the power of his clan
-2430:2495:一族としての　その力を失ったんだろう=when he tried to eat a human soul and become a Kishin.
+2430:2495:一族としての　その力を失ったんだろう=when he tried to eat a human soul and become a kishin.
 2497:2585:さすが　キッド君|アタマいぃ～=Wow. You're so smart, Kid.
-2590:2715:鬼神になろうとしたばっかりに|自分本来の力を奪われちまったのか=So just by trying to become a Kishin, his natural powers were taken from him.
+2590:2715:鬼神になろうとしたばっかりに|自分本来の力を奪われちまったのか=So just by trying to become a kishin, his natural powers were taken from him.
 2789:2860:・・・アイツが黒幕じゃなかったのね=... I guess he wasn't the one pulling the strings after all.
 2903:3031:情報は確かなはずだったんだがな・・・|だが繭は手に入れた=It seems our reconnaissance wasn't entirely reliable...|But we were able to recover the cocoon.
 3048:3088:ひとまず死武専に戻るぞ=For now let's head back to the DWMA.
@@ -228,7 +228,7 @@
 2010:2089:でも|それを変える方法があったの=But it doesn't have to be this way...
 2105:2167:・・・あの人がそれを教えてくれたわ=He helped me realize that.
 2280:2338:見て|ステキでしょ=Look. Isn't it beautiful?
-2366:2489:私が作ったこの繭を使って|一族全てを　鬼神にするの=With the use of the cocoons that I have made, I'll be able to turn the entire clan into Kishin.
+2366:2489:私が作ったこの繭を使って|一族全てを　鬼神にするの=With the use of the cocoons that I have made, I'll be able to turn the entire clan into kishin.
 2501:2581:この子達が　私の願いを叶えてくれるわ=And they will make my wish come true.
 2596:2681:邪魔なものは消して　自由に生きるのよ=I'll get rid of anyone who gets in my way!
 2699:2785:世界の全てを|私とグリモアのものにするの=I will give everything in this world to Grimoire.
@@ -342,7 +342,7 @@
 2289:2369:この子達の力で|世界を変えてあげる・・・=I will change the world with my children's power...
 2391:2441:死神のルールなんか=The Grim Reaper's world...
 2457:2488:壊してやるわ！=I'm going to tear it down!
-2498:2566:鬼神を作るとでもいうのなら|あきらめろ！=If you mean that you intend to create Kishin, give up!
+2498:2566:鬼神を作るとでもいうのなら|あきらめろ！=If you mean that you intend to create kishin, give up!
 2566:2635:アハハハハッ=Ahahahaha!
 2647:2759:よく言うわ　身近な危険に|気づきもしないで　えらそうに！=Your confidence is misplaced. You're so ignorant of the danger creeping up to you!
 2767:2803:身近な危険？=What danger?
