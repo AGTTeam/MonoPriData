@@ -1,99 +1,99 @@
-﻿!FILE:EV0000_000.bscr#intro conversation in the Death Room
-ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Hey! Hi! Heeello!! Sorry for calling you all here so earrrlyyy♪
+!FILE:EV0000_000.bscr#intro conversation in the Death Room
+ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Hey! Hi! Hellooo!! Sorry for calling you all here so early♪
 おはようございます|死神様=Good morning, Lord Death.
-何ですかぁ？|こんな朝っぱらから=Wha-aaat's going on? I-it's so early.
+何ですかぁ？|こんな朝っぱらから=Wha-aaat's going on? I-It's so early.
 先輩|また朝まで　あの店にいたでしょ=Spirit. Staying out late again?
-あぁ？|お前だって　どうせ朝まで|怪しげな実験してただろ=Huh? You're one to talk with your weird experiments all night.
-ちょっと　みんなに|言っときたいことがあってね～♪=Hey, everyone. I've got something I want to say♪
+あぁ？|お前だって　どうせ朝まで|怪しげな実験してただろ=Huh? You're one to talk with all your weird late-night experiments.
+ちょっと　みんなに|言っときたいことがあってね～♪=Listen up, everyone. I've got something I want to tell you all♪
 最近　一度に大勢の人が消えるという|大量失踪事件の報告があった=Recently, there have been reports of mass disappearances. It seems like groups of people are vanishing all at once.
 ふ～ん|で？=Hm-mm. A-nd?
-各支部の報告を合わせて　よく調べて|みたところ　この手の事件が多発している|ことがわかった=I took a closer look at the reports from all the other branches, and it looks like there have been a number of these cases already.
+各支部の報告を合わせて　よく調べて|みたところ　この手の事件が多発している|ことがわかった=I took a closer look at the reports coming in from the other branches, and already there seems to have been a large number of these cases.
 どのくらい？=How many have been affected?
 ここ一ヶ月で・・・=In the past month...
 国が一個作れるぐらいだな=Enough to populate a small country, I'd say.
-！？|ああっ！そんなに？=!? Wha! That many?
-鬼神の卵と化した魂を持つ者達の|仕業か？=Is this the work of Kishin Eggs?
-そう思って調べたが|その気配はないな=That was my first thought as well. I looked into it, but nothing indicates a Kishin Egg.
+！？|ああっ！そんなに？=!? Impossible! That many?
+鬼神の卵と化した魂を持つ者達の|仕業か？=Is this the work of a kishin egg bearer?
+そう思って調べたが|その気配はないな=That was my first thought as well. I looked into it, but nothing points to anyone bearing a kishin egg.
 すると・・・|魔女がらみか？=So... is it witch-related?
-ま♪　ぶっちゃけ|まだなんにも　わかんないけどね～♪=Well♪ To put it bluntly...|We have absolutely no clue♪
-気になるからさ♪|てきとーに気にしてヨロシクね～♪=This is concerning, so let's look into it further, alright♪?
+ま♪　ぶっちゃけ|まだなんにも　わかんないけどね～♪=Glad you asked♪ To put it bluntly...|We have absolutely no clue♪
+気になるからさ♪|てきとーに気にしてヨロシクね～♪=But this has become concerning, so let's look into it further, alright♪?
 はい=Yes, sir.
 はい=Yes, sir.
 はい=Yes, sir.
 はい=Yes, sir.
 !FILE:EV0100_000.bscr#intro conversation in the classroom
 んぁ～　ねみぃ～|なぁ　マカ・・・=I'm so tired...|Hey, Maka...
-今　本読んでるの|後にしてよ=I'm reading a book right now. We'll talk later.
-ちぇっ|まだ　怒ってんのかよ=Damn it. You're still mad at me?
+今　本読んでるの|後にしてよ=Can't you see I'm reading? We'll talk later.
+ちぇっ|まだ　怒ってんのかよ=Are you for real? You're still mad at me?
 ふぅ・・・|ソウルが悪いんでしょ=*Sigh*... It's your fault.
 ケチ=Whatever...
-朝がパンだけなのは　あんたがおかずを|夜中に食べちゃったからでしょ！=The reason we only had bread this morning is because you ate everything else in the middle of the night!
-だから　俺じゃねーっていってんだろ！|俺が食べたのはリ　ン・・・ゴ・・・=I told you it wasn't me! All I ate was an ap...ple...!
+朝がパンだけなのは　あんたがおかずを|夜中に食べちゃったからでしょ！=The reason we only had toast this morning is because you drank the last of the milk in the middle of the night!
+だから　俺じゃねーっていってんだろ！|俺が食べたのはリ　ン・・・ゴ・・・=I told you it wasn't me! All I had was a glass of WA...TER...!
 やっぱり　食べたんじゃない！=Yeah, right. I know it was you!
 ひゃっはぁー！|今日も朝から　最高の俺|オンステージだぜ！=Yahooo! As always, I'm killing it on stage from the moment I wake up!
-どうした　マカ！|俺のサイン色紙やるから機嫌を直せ！=Cheer up, Maka! Have my autograph! That ought to do the trick!
-ちょ　ちょっと|ブラック☆スターったら=H- Hey, Black☆Star!
+どうした　マカ！|俺のサイン色紙やるから機嫌を直せ！=Cheer up, Maka! Have my autograph! That ought to cheer you up!
+ちょ　ちょっと|ブラック☆スターったら=H-Hey, Black☆Star!
 だめよブラック☆スター　早く降りて|・・・ゴメンね=Stop, Black☆Star... Get off the desk... I'm sorry.
 なんだ？|朝から騒々しいな=Why so much noise so early in the morning?
 おーす=Good morning!
 おすっ=G'morning!
 なんだ　またケンカしてんのか|相変わらず　仲いいな=Fighting again? You two are as friendly as ever.
-きゃははは|ケンカ～楽しそぉ　もっとやれぇ～=Kyahahaha! Fights are fun! Let's do it mooore!
-ふう|まぁ　いいか=Hm. Truce?
+きゃははは|ケンカ～楽しそぉ　もっとやれぇ～=Kyahahaha! Fights are so much fun! Fight! Fight!
+ふう|まぁ　いいか=Truce?
 あぁ=Fine.
 こらこら|何を騒いでるんだぁ～=Hey, hey! What's all the fuss about?
 きゃはは|マカ　ＶＳ　ソウル　バトルＯＮＥ！=Kyahaha! Maka VS Soul Round ONE!
 まったく|君達は　いつもいつも・・・=Of course. You two are always...
 いいですか|職人と武器は魂の波長を合わせ|お互いを信じあうことで成長するんです=You see... A meister and weapon thrive when their soul wavelengths are in tune and they believe in each other.
-わかってるって|別にケンカしてねぇよ|なっ　マカ=I know that. It's not like we were fighting for real, right Maka?
+わかってるって|別にケンカしてねぇよ|なっ　マカ=We know that. It's not like we were fighting for real, right Maka?
 ほんとですか=Is that true?
 はい|してません=Yeah. It wasn't a real fight.
 それならまぁ・・・いいでしょ=In that case... good.
 はい♪|じゃあ　授業を始めま～す=Okay♪ Well, let's start class.
 おーす=Good morning!
 !FILE:EV0100_010.bscr#morning class mission
-はい　今日の午前授業は|簡単な実技訓練です♪|くばられたプリントを見てください=Okay, today’s morning class will involve some simple practical training ♪ Please take a look at your handouts.
+はい　今日の午前授業は|簡単な実技訓練です♪|くばられたプリントを見てください=Okay, today’s morning class will involve some simple, practical training ♪ Please take a look at your handouts.
 !FILE:EV0100_011.bscr
-では　理解できたひとから|訓練を始めます♪=Alright, we’ll start with those of you who understood this♪
+では　理解できたひとから|訓練を始めます♪=We’ll begin with those of you who understood the instructions♪
 !FILE:EV0100_012.bscr
-はい|次は誰かな？=Alright. Let's see, who's next?
+はい|次は誰かな？=Who's next? Let's see...
 !FILE:EV0100_013.bscr
-じゃあ|次は君達だね♪=Okay, you guys are next.
+じゃあ|次は君達だね♪=Okay, you will be the next group.
 !FILE:EV0100_014.bscr
-ん～|君は　授業をうけたくないんですね|・・・解剖されたいのかな？=Hm? Is class too boring for you...? Perhaps getting dissected would be more interesting?
+ん～|君は　授業をうけたくないんですね|・・・解剖されたいのかな？=Hm? Is class too boring for you? Perhaps getting dissected would be more interesting?
 !FILE:EV0100_015.bscr
 あきらめちゃだめです|さあ　がんばりましょう！=Don't accept failure so easily. Give it another go!
 !FILE:EV0100_016.bscr
-んじゃ～|午前中の授業はおしまいです♪=Alright~. Morning class is over, everyone. ♪
+んじゃ～|午前中の授業はおしまいです♪=Alright, everyone. Morning class is dismissed♪
 さぁて　どーする？=Aight, what do you wanna do?
 !FILE:EV0100_100.bscr
 ハラへったぁ～|どこでランチにする？=I'm starving! What's for lunch?
 !FILE:EV0100_200.bscr#afternoon class mission
-はい♪　では|午後は『魂の共鳴』の訓練をします|プリントを見てください=Alright♪ This afternoon we will be working on Soul Resonance. Please take a look at the handouts in front of you.
+はい♪　では|午後は『魂の共鳴』の訓練をします|プリントを見てください=Okay♪ This afternoon we will be working on Soul Resonance. Please take a look at the handouts in front of you.
 !FILE:EV0100_201.bscr
 さぁ　誰からでもいいぞ|繰り返し練習して腕をみがいてください=Everyone is going to try it a few times. So do I have any volunteers to go first?
 !FILE:EV0100_202.bscr
-はい|次は誰かな？=Alright. Let's see, who's next?
+はい|次は誰かな？=Who's next? Let's see...
 !FILE:EV0100_203.bscr
-じゃあ|次は君たちだね♪=Okay, you guys are next.
+じゃあ|次は君たちだね♪=Okay, your group is up.
 !FILE:EV0100_204.bscr
-こらこら|勝手に　どこへ行くつもりかな？|・・・ホルマリンのビンにいれるよ=Hey, hey! Where do you think you're going? ... I'll stick you in a jar of formaldehyde!
+こらこら|勝手に　どこへ行くつもりかな？|・・・ホルマリンのビンにいれるよ=Hey, hey! Where do you think you're going? I'll stick you in a jar of formaldehyde!
 !FILE:EV0100_205.bscr
 気を抜いちゃいけませんよ|もう一度　がんばりましょう！=You mustn't lose focus! Try it again, alright!
 !FILE:EV0100_206.bscr
-んじゃ　今日の授業はおしまいです♪|腕試しをしたい場合は『掲示板』を|利用してください♪=Anybody that wants to try out their abilities can make use of the Mission Board♪ Class is dismissed♪
-お～い　誰か|死神様のお手伝いを引き受けるヤツは|いないか？=Everybody listen up! Lord Death is looking for somebody to provide him with some assistance!
+んじゃ　今日の授業はおしまいです♪|腕試しをしたい場合は『掲示板』を|利用してください♪=Anyone wishing to test their abilities can make use of the Mission Board♪ Class is dismissed♪
+お～い　誰か|死神様のお手伝いを引き受けるヤツは|いないか？=Everybody, listen up! Lord Death is looking for someone to provide him with some assistance!
 !FILE:EV0100_300.bscr
 ♪　お手伝いって|何かな？=♪ I wonder what kind of assistance he needs.
-さぁな|クールなら何でもいいぜ=No idea, but whatever is fine as long as it's cool.
+さぁな|クールなら何でもいいぜ=No idea, but I'm down for whatever as long as it's cool.
 !FILE:EV0100_310.bscr#the Kill Bell mission
-うい～すっ！！　おつかれさ～ん|君達が引き受けてくれるのね～♪=Wazzaaa!! Thanks for coming. I could reeeally use your help♪
+うい～すっ！！　おつかれさ～ん|君達が引き受けてくれるのね～♪=Wazzaaa!! Thanks for coming. I could really, really use your help♪
 ま　ま　細かいことは|シド君よろしく～♪=Sid, please fill them in on the details♪
 マカ～　いとしい娘|会いたかったよ～=Maka, my lovely daughter, I was hoping I'd see you.
 パパ！=Papa!
 デスサイズ君=Spirit...
 パパはいつでも|マカのことを思ってるんだよ～=Papa is always thinking about his precious Maka.
-も～　邪魔だよ　パパ=You're a nuisance, Papa.
+も～　邪魔だよ　パパ=You give me such a headache.
 デスサイズ君！=Spirit!
 マカは　手伝いなんかいいから|パパと・・・=Maka can help with anything, so with papa...
 い～かげんにしなさい=That's enough now.
@@ -101,13 +101,13 @@
 ゴホン|頼みたいのは大量失踪事件の調査だ=Ahem. We've asked you here to investigate a case of mass disappearances.
 なんだ　調査だけか|めんどくさいなぁ～=What? Just an investigation? What a waste of my time.
 最近　この手の事件が急増して|人手が足りなくてな=There's been a recent surge in disappearances, and we're a little short on help.
-まぁ　なんでもいい|この俺がクールに決めてやるさ=Eh, that's fine. I'll do whatever, and I'll look cool while I do it.
+まぁ　なんでもいい|この俺がクールに決めてやるさ=Fine. I'll do whatever... And I'll look cool while I do it.
 !FILE:EV0100_311.bscr
-うい～すっ！！　おつかれさ～ん|君たちが引き受けてくれるのね～♪=Wazzaaa!! Thanks for coming. I could reeeally use your help♪
+うい～すっ！！　おつかれさ～ん|君たちが引き受けてくれるのね～♪=Wazzaaa!! Thanks for coming. I could really, really use your help♪
 !FILE:EV0100_312.bscr
 行こうぜ　マカ=Let's go, Maka!
 うん|いってきます！=Yeah! We're off!
-ヨロシクね～♪=Good luuuck♪
+ヨロシクね～♪=Good luck♪
 マガァ～=Makaaa...
 !FILE:EV0100_313.bscr
 んじゃ～　その気になったら|また来てね～♪=Alrighty then. I'll be here if you feel like visiting♪
@@ -121,29 +121,29 @@
 うっすうーっす♪|マカちゃん　ソウル君　ご苦労さ～ん♪|で　どう調査の成果は？=Maka, Soul, what is up with it♪? Working hard I see♪ So the investigation. How'd it go?
 それが|犯人らしいのは仕留めたんですが=Well, we brought down what seems to have been the culprit, but...
 そいつが集めたっていう|魂が見つからなくて=We weren't able to locate the souls he said he had gathered?
-ん？　魂が見つからない？|その犯人は　魂を食べていたわけじゃ|ないんですか？=Huh? Souls he had gathered? Are you implying that he didn't eat the souls?
+ん？　魂が見つからない？|その犯人は　魂を食べていたわけじゃ|ないんですか？=Huh? Souls he had gathered? Are you implying that he didn't eat them?
 それが　奴が消滅したとたんに|魂反応が消えたんだ=Well... the soul response disappeared as soon as we finished him.
 それに　奴の他にも|うじゃうじゃ邪魔する連中もいたしな=Then there's also the other group that was swarming around causing problems.
-ふむ|それは妙だな=Hm. That's odd.
+ふむ|それは妙だな=Hm. How curious...
 ま　それならしょうがないね|二人とも今夜はゆっくり休んでちょうだい♪=Yep. Oh well♪ Why don't you two go on and take it easy tonight, okay?
 はい|死神様=Thanks, Lord Death.
 じゃ=Later.
-鬼神の卵と化した魂を持つ者が|魂を食わずに集めていた？=A Kishin Egg that gathers souls but doesn't devour them?
+鬼神の卵と化した魂を持つ者が|魂を食わずに集めていた？=A kishin egg bearer that gathers souls but doesn't devour them?
 珍しいですね|そんなケースは聞いたことがない=That's rare. I've never heard of a case like this.
-何か妙だな=How very strange.
+何か妙だな=Something's fishy.
 邪魔をしてきた連中の正体も|気になりますね=I'm curious about the group that's really behind this.
-そうね～　も少し詳しく調査しちゃう|必要がありそうだよね♪=It looks like we'll have to look into it a little more closely, huh?♪
+そうね～　も少し詳しく調査しちゃう|必要がありそうだよね♪=It looks like we'll have to investigate a little further, huh♪?
 !FILE:EV0101_400.bscr
-ひゃっはぁー！|今夜も俺オンステージだぜ=Yahoo! Tonight I am on stage!
-ソウルとマカは寝て待ってろ！|いくぜ　椿！=Soul! Maka! Just wait here and relax! Let's go, Tsubaki!
+ひゃっはぁー！|今夜も俺オンステージだぜ=Yahoo! Back on stage again tonight!
+ソウルとマカは寝て待ってろ！|いくぜ　椿！=Soul! Maka! Just wait here and take it easy! Let's go, Tsubaki!
 ちょっ・・・=Wai...
 相変わらず|騒々しいわね=As impatient as ever.
-ほっとけ　それよりマカ|アレ・・・　あの建物　怪しくねーか=Forget him. More importantly, Maka, there... There's something ominous about that building.
+ほっとけ　それよりマカ|アレ・・・　あの建物　怪しくねーか=Forget him. Anyway, Maka... there's something ominous about that building, don't you think?
 うん　感じるわ|・・・中に無数の魂反応=Yeah. I'm sensing a lot of souls inside.
 でも変なの|一箇所にかたまってるのよ=But it's strange. It's like they're all bunched up in the same spot.
 あぁ？|まぁ　行けばわかるだろ=Really? Well, there's one way to find out.
-油断は禁物|行こう　ソウル！=It would be more careless to not go and check it out, don't you think, Soul?
-おう！=Yeah!
+油断は禁物|行こう　ソウル！=It would be irresponsible not to go check it out. Let's go, Soul!
+おう！=I'm with you!
 ゴメンなさい=Sorry.
 待ってよ　ブラック☆スター！=Wait, Black☆Star!
 !FILE:EV0101_401.bscr
@@ -155,52 +155,52 @@
 ギギギ・・・|生かして帰さない！=Kyakyakya... Leave now and you'll live!
 けっ！　ザコどもが！|後悔するぜ！=Hmph! A couple of pests! You'll regret this!
 ソウル！=Soul!
-おう！|クールにいくぜ！=Yeah! Let's make this cool!
+おう！|クールにいくぜ！=Yeah! Let's make it cool!
 !FILE:EV0101_402.bscr
 ソウル　感じる・・・|魂反応がさらに強くなったわ=Soul, I can feel it... The soul response is even stronger than before.
-やっぱりここか|中へ入ろう・・・気を抜くなよ=It's here after all. Let's get inside... Don't let your guard down.
+やっぱりここか|中へ入ろう・・・気を抜くなよ=It's here after all. Let's get inside... And don't let your guard down.
 !FILE:EV0101_403.bscr
 誰もいないぞ=There's no one here.
 ううん　さっきより魂反応は|確実に強くなってる=No. The soul response is definitely stronger than before.
-怪しいとすりゃぁ・・・|あの祭壇か=If there's anything suspicious... I'd say it's that altar.
+怪しいとすりゃぁ・・・|あの祭壇か=The only thing that looks suspicious to me is... that altar.
 そうかも=I agree.
 ぐるるるる・・・=Grrrr...
 ったく　こんな時に|お腹の虫くらい黙らせてよ|ソウル=Seriously, Soul!? Could you please keep your stomach quiet for just a minute?
 クールな俺が|そんなカッコ悪いことするか！=You don't really think someone as cool as me would do something so uncool, do you!?
-うぐぁおおおお～！！|お　オメーら何しに来た！=Ugrrooohh!! Wh-What are you doing here!?
+うぐぁおおおお～！！|お　オメーら何しに来た！=Ugrrooohh!! Wh-Why have you come here!?
 事件の犯人はアンタね！=You must be the criminal we're looking for!
 そ　そういうおメーは・・・|ぶ　武器職人か=Th-That means... you're a w-weapon meister?
 な・・・なら|そっちのおメーは・・・　ま　魔武器だな=A-And you... you must be... a magic weapon.
 さぁね=Bingo!
-お　オデの魂集めの邪魔は|さ　させね～ど=I-I'm not letting you get in the way of me gathering all these souls!
+お　オデの魂集めの邪魔は|さ　させね～ど=I-I will collect these souls, so don't try and stop me!
 ソウル　間違いないわ|犯人はこいつよ=Soul, there's no doubt about it. This is our guy.
-た　魂はわたさねーど|こ　これはオデの宝物ダで=Th-There's no way I'll hand over these souls! It's m-my treasure.
+た　魂はわたさねーど|こ　これはオデの宝物ダで=Th-There's no way I'll hand them over! These s-souls are my treasure.
 あ　アデ？|お　オデの宝物がねぇ・・・|なんでダ？=Wh-What? M-My treasure's gone... How?
-さ　さデは　おメーらが|ぬ　盗んだな=I-It must have been you. You s-stole it.
-何言ってんだ？|初対面のくせに　礼儀を知らない奴だな=We just met and you're accusing us? Where are this guy's manners!?
+さ　さデは　おメーらが|ぬ　盗んだな=I-It must have been you. You s-stole them.
+何言ってんだ？|初対面のくせに　礼儀を知らない奴だな=We just met and you're accusing us? People have no manners these days!
 お　オデの宝物を返せ！=G-Give me back my treasure!
-話しても無駄よ　ソウル！=Talking won't do any good.|Soul!
-おう！|話が通じないなら　これだ！=Yeah! When negotiation fails, there's always plan B!
+話しても無駄よ　ソウル！=We're not going to be able to talk our way out of this one, Soul!
+おう！|話が通じないなら　これだ！=You're right! But when negotiation fails, there's always plan B!
 返せー！|うぐぁおおおお～！！=Give it back! Ugrrroooohhh!!
 !FILE:EV0101_404.bscr
-でぇぇ・・・|た　宝物・・・|お　オデの集めた魂・・・=Waah... M-My treasure... I-I found that soul...
+でぇぇ・・・|た　宝物・・・|お　オデの集めた魂・・・=Waah... M-My treasure... I-I found those souls...
 やっかいな奴だったぜ|さぁ　マカ|奴が集めたっていう魂をさがそうぜ=What a joke! Hey, Maka, we should find the souls he said he gathered.
-変だよ　ソウル|さっきまでの魂反応が・・・|消えたの=There's something strange, Soul. The soul response from earlier... is gone.
+変だよ　ソウル|さっきまでの魂反応が・・・|消えたの=Something's strange, Soul. The soul response from earlier... It's gone.
 え？　なんで・・・|マジかよ=Huh? Wait... Are you serious?
 はぁ・・・　仕方ないわ|死武専に戻って死神様に報告しなくちゃ=*Sigh* ... Oh well. We need to get back to the DWMA and report to Lord Death.
 !FILE:EV0101_450.bscr
-油断は禁物|行こう　ソウル！=It would be more careless to not go and check it out, don't you think, Soul?
-おう！=Yeah!
+油断は禁物|行こう　ソウル！=It would be irresponsible not to go check it out. Let's go, Soul!
+おう！=I'm with you!
 !FILE:EV0101_451.bscr
 ソウル！=Soul!
-おう！|クールにいくぜ！=Yeah! Let's make this cool!
+おう！|クールにいくぜ！=Yeah! Let's make it cool!
 !FILE:EV0101_452.bscr
 ソウル　感じる・・・|魂反応がさらに強くなったわ=Soul, I can feel it... The soul response is even stronger than before.
-やっぱりここか|中へ入ろう・・・気を抜くなよ=It's here after all. Let's get inside... Don't let your guard down.
+やっぱりここか|中へ入ろう・・・気を抜くなよ=It's here after all. Let's get inside... And don't let your guard down.
 !FILE:EV0101_453.bscr
 お　オデの宝物を返せ！=G-Give me back my treasure!
-話しても無駄よ　ソウル！=Talking won't do any good.|Soul!
-おう！|話が通じないなら　これだ！=Yeah! When negotiation fails, there's always plan B!
+話しても無駄よ　ソウル！=We're not going to be able to talk our way out of this one, Soul!
+おう！|話が通じないなら　これだ！=You're right! But when negotiation fails, there's always plan B!
 返せー！|うぐぁおおおお～！！=Give it back! Ugrrroooohhh!!
 !FILE:EV0103_000.bscr
 あっ！=Ah!
@@ -208,10 +208,10 @@
 ・・・・・・・・・=.........
 どうしたんだよ|そんなに深刻な顔をして？=You all right? You seem a little preoccupied?
 最近はすごく物騒になったのよ・・・=I've been a little on edge lately...
-保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the dispensary.
+保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the infirmary.
 メデューサ先生・・・=Dr. Medusa...
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. It's nothing to worry about.
-気にしないで・・・何でもないのよ|今の話は忘れてちょうだい・・・=Don't you worry now... It's nothing. Just forget all about this little conversation...
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
+気にしないで・・・何でもないのよ|今の話は忘れてちょうだい・・・=Don't you worry now... I'm fine. Just forget all about this little conversation...
 ・・・・・・・・・=.........
 あなた達の活躍を|良く耳にするわよ♪=I've been hearing a lot of good things about you♪
 ありがとうございます|すごくうれしいです=Thank you so much! That makes me really proud!
@@ -219,12 +219,12 @@
 これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
 !FILE:EV0103_010.bscr
 あっ！=Ah!
-にゃはは～♪=Meohahaa♪
+にゃはは～♪=Nyahahaa♪
 どうしたのよ一体？=What the heck are you doing?
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
 あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time, I figured I'd come and play at the DWMA♪
 そうか　よかったな・・・=Oh. That's great...
-にゃはは～♪=Meohahaa♪
+にゃはは～♪=Nyahahaa♪
 それじゃあ|また　あいましょう♪=See ya later♪
 !FILE:EV0120_002.bscr#明日の解剖授業 = Tomorrow's Dissection Class Part 32最近の風潮からすると|そういう
 ゴキゲンみたいだけど|何かいいことでも|あったのかしら？=You look like you're in a pretty good mood. Hm... Why might that be?
@@ -636,12 +636,12 @@
 無駄足だったってことか・・・|ま　あんまり気を落とすなよ|地道にやろうぜ　マカ=A fool's errand then...? Well, no crying over spilled milk. We'll just have to stick to the honest path.
 そうね　ソウルの|言う通りね　私達には|地味なのが一番だわ=Yeah, you're right, Soul. Slow and steady wins the race in the end.
 !FILE:EV0122_002.bscr#保健室のユウウツ = Dispensing Depression mission part 33
-さっき保健室に行ったんだけど|メデューサ先生|とても元気がなかったのよ・・・=I was just in the dispensary, and Dr. Medusa seemed pretty upset...
+さっき保健室に行ったんだけど|メデューサ先生|とても元気がなかったのよ・・・=I was just in the infirmary, and Dr. Medusa seemed pretty upset...
 メデューサ先生|どうしたんだ？=What's wrong with Dr. Medusa?
 それが・・・理由を聞いても|教えてくれないのよ・・・=Well... I asked what was wrong, but she wouldn't tell me...
 何かあったのかしら・・・|ちょっと心配よね・・・=I wonder what happened... I'm a little worried...
 !FILE:EV0122_006.bscr
-さっき保健室に行ったんだけど|メデューサ先生|とても元気がなかったのよ・・・=I was just in the dispensary, and Dr. Medusa seemed pretty upset...
+さっき保健室に行ったんだけど|メデューサ先生|とても元気がなかったのよ・・・=I was just in the infirmary, and Dr. Medusa seemed pretty upset...
 メデューサ先生|どうしたんだ？=What's wrong with Dr. Medusa?
 それが・・・理由を聞いても|教えてくれないのよ・・・=Well... I asked what was wrong, but she wouldn't tell me...
 !FILE:EV0122_010.bscr
@@ -657,7 +657,7 @@
 先生・・・|私じゃ頼りないですか？=Doctor... don't you trust me?
 ちがうの　そういうんじゃないの|ただ　やっぱり子供に|聞かせる話じゃないわ・・・=I do. That's not it at all. It's just... I can't bring you children into this...
 先生　何があったんスか？=Doctor, what's going on?
-気にしないで・・・何でもないのよ|今の話は忘れてちょうだい・・・=Don't you worry now... It's nothing. Just forget all about this little conversation...
+気にしないで・・・何でもないのよ|今の話は忘れてちょうだい・・・=Don't you worry now... I'm fine. Just forget all about this little conversation...
 メデューサ先生・・・=Dr. Medusa...
 さぁ　もう行きなさい|私は仕事が残ってるから・・・=Now, I'll need you to leave. I still have a lot of work to do...
 !FILE:EV0122_015.bscr
@@ -747,7 +747,7 @@
 いいのよ・・・|ありがとう　マカちゃん=It's all right... Thank you, Maka.
 !FILE:EV0122_057.bscr
 あなたのお父さんを|このままにはしておけないわね=We can't very well leave your father like this.
-少し保健室で|寝かせておくわよ=He can rest here in the dispensary until he comes to.
+少し保健室で|寝かせておくわよ=He can rest here in the infirmary until he comes to.
 先生　それは危険です！=That would be unwise, doctor!
 えっ！？=What!?
 私達を油断させるための|擬態かもしれません！=He may only be pretending so he can catch us off guard!
@@ -1004,7 +1004,7 @@
 !FILE:EV0220_057.bscr
 先生達　みんな変だ|何か隠してる=The teachers are all acting strange. They're hiding something.
 ソウルのことが|すごく心配になってきちゃった=I'm starting to get really worried about Soul.
-そろそろ　ソウルの|検査が終わる頃ね|保健室に行ってみようかな=Souls medical check-up should be about finished. I guess I'll go to the dispensary.
+そろそろ　ソウルの|検査が終わる頃ね|保健室に行ってみようかな=Souls medical check-up should be about finished. I guess I'll go to the infirmary.
 !FILE:EV0220_062.bscr
 ソウルの検査は|終わったんですか？=Did you already finish Soul's check-up?
 ええ　終わったわ|まったく問題なしよ=Yes. All taken care of, and not a problem in sight.
@@ -1622,7 +1622,7 @@
 ブレア　ああ|先ほどすれ違いましたよ？=Blair? Oh, we just passed each other a little bit ago.
 !FILE:EV0320_030.bscr
 こんな所にいたの！=There you are!
-にゃは♪|やっとソウル君に会えた！|さがしたんだよ♪=Meoha♪ I finally found you, Soul! I've been looking for you♪
+にゃは♪|やっとソウル君に会えた！|さがしたんだよ♪=Nyaha♪ I finally found you, Soul! I've been looking for you♪
 お　おう　大変だったな・・・=Oh. S-Sorry about that...
 ちょっと　私抜きで|話を進めないでよ！=Hold on! You're not just going to ignore me and continue your conversation!
 ねぇーねぇー|ソウル君　何でマカ|怒ってるの？=Hey, Soul. What's Maka's problem? Why's she so angry?
@@ -1644,12 +1644,12 @@
 ソウル|早くブレアをネコにしなさい！=Soul, hurry up and make hurn turn back into a cat!
 頼むからネコになってくれ|お願いだから　ブレア・・・=Please, Blair?Could you please just turn back into a cat...?
 ソウル君が　そういうなら|いいよ・・・=I'll do it for you since you asked so nicely, Soul...
-にゃはは♪ブレアは|ネコでも可愛いでしょ♪=Meohaha♪ Even as a cat, I'm still super cute, huh♪?
+にゃはは♪ブレアは|ネコでも可愛いでしょ♪=Nyahaha♪ Even as a cat, I'm still super cute, huh♪?
 ホント　このネコ|誰かもらってくれねェかな=Honestly, could somebody just get this cat out of my hair?
 !FILE:EV0320_035.bscr
 さてと　にゃにして遊ぶ？=So do you wanna play meow?
 !FILE:EV0320_036.bscr
-にゃはは♪ブレアは|ネコでも可愛いでしょ♪=Meohaha♪ Even as a cat, I'm still super cute, huh♪?
+にゃはは♪ブレアは|ネコでも可愛いでしょ♪=Nyahaha♪ Even as a cat, I'm still super cute, huh♪?
 !FILE:EV0320_037.bscr
 じゃあブレア|もう少し死武専の中を|探検してくるね♪=Well, I'm gonna keep exploring the DWMA for a while♪
 待ちなさいブレア！=Blair, wait!
@@ -1696,7 +1696,7 @@
 うんうん　聞き分けるのも|時には大切だよ～ん♪|まずは頭を冷やしてみようね！=Yep, yep. Even if you understand, these things take time♪ First, why don't you go and cool off a bit!?
 !FILE:EV0320_067.bscr
 ・・・・・・・・・=.........
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. It's nothing to worry about.
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
 落ち込んでないわ　考えてたのよ・・・|私達に足りないものって何なのかな・・・=I'm not worried. I was just thinking... What could we be missing...?
 なぁ　ブレアに|手伝ってもらうのは　どうかな？=Well, why don't we try asking Blair for some help?
 アイツって　結構な|攻撃バリエーションを|もってたじゃねェか=She knows plenty of attack variations and stuff.
@@ -1738,13 +1738,13 @@
 あんたに|手伝ってほしいことがあるの|一緒に来てちょうだい=We have something we'd like your help with, so could you come with us?
 ・・・・・・・・・=.........
 どうして返事をしないの|・・・怒ったのブレア？=Why won't you answer...? Are you angry with me?
-にゃは♪ブーたんね|もうイヤににゃっちゃった♪=Meoha♪ Blair's patience is on its nyanth life♪
+にゃは♪ブーたんね|もうイヤににゃっちゃった♪=Nyaha♪ Blair's patience is on its nyanth life♪
 マカは怒りんぼだし♪|ソウル君は最近|ぜんぜんクールじゃにゃいし♪=Maka, you're such a hothead♪ And even Soul has been totally uncool lately♪
 ブレア|お前　何を言ってるんだ？=What are you talking about, Blair?
 !FILE:EV0320_105.bscr
 ・・・・・・・・・=.........
 !FILE:EV0320_106.bscr
-にゃは♪ブーたんね|もうイヤににゃっちゃった♪=Meoha♪ Blair's patience is on its nyanth life♪
+にゃは♪ブーたんね|もうイヤににゃっちゃった♪=Nyaha♪ Blair's patience is on its nyanth life♪
 マカは怒りんぼだし♪|ソウル君は最近|ぜんぜんクールじゃにゃいし♪=Maka, you're such a hothead♪ And even Soul has been totally uncool lately♪
 !FILE:EV0320_107.bscr
 じゃあ　もう|ブレア行くね♪|バイバイ　ソウル君　マカ♪=Well, it's time for me to pounce♪ Bye-bye, you two♪
@@ -1809,7 +1809,7 @@
 !FILE:EV0320_137.bscr
 叱られなくて|よかったなブレア！=You got off easy this time, Blair!
 ホントよ　これからは|注意してよね　まったく=For real. Please be more careful from now on. Honestly...
-にゃははは♪|ブーたん　もうしにゃいよ♪=Meohaha♪ I won't do it again. I promise♪
+にゃははは♪|ブーたん　もうしにゃいよ♪=Nyahaha♪ I won't do it again. I promise♪
 あ　そろそろバイトの支度|しにゃきゃいけにゃいから|バイバイだよ♪=Ah, I need to start getting ready for work meow, so bye-bye♪
 じゃあね　お家で|また会おうね♪=I'll see you at home later♪
 やれやれ|ブレアは当分|俺達のアパートに居つきそうだな・・・=Well, I guess Blair's gonna be staying for a while yet...
@@ -1905,7 +1905,7 @@
 ああぁあぁぁあ・・・=AAAaAaaAh...
 どうしたんだ一体！？|なにがあったんだ！=What the hell's wrong with you!? What happened!?
 ぁあぁああああぁあ・・・=AaAaAAAAaAh...
-くそ　ダメか！|待ってろ　保健室に|連れてってやるからな！=Damn! This is bad! Hold on! I'm gonna get you to the dispensary!
+くそ　ダメか！|待ってろ　保健室に|連れてってやるからな！=Damn! This is bad! Hold on! I'm gonna get you to the infirmary!
 !FILE:EV0321_065.bscr
 ぁあぁああああぁあ・・・=AaAaAAAAaAh...
 !FILE:EV0321_066.bscr
@@ -1925,14 +1925,14 @@
 !FILE:EV0321_077.bscr
 あら　ソウル？|調べものは終わったの？=Huh? Soul? Are you done with your little investigation thing?
 終わったというか|まぁ　終わったんだろうな・・・=Am I done? Yeah, I guess it's over now...
-ふ～ん・・・|ところで何で保健室に|いたのかしら？=Hmm...? By the way, what are you doing in the dispensary?
+ふ～ん・・・|ところで何で保健室に|いたのかしら？=Hmm...? By the way, what are you doing in the infirmary?
 キッドを運んだんだ|アイツ　またおかしくなってさ・・・=I carried Kid here. He went all haywire again...
 大変じゃない　それ|リズとパティに知らせなきゃ！=Oh, no! We have to let Liz and Patty know!
 リズとパティな・・・=Liz and Patty, huh...?
 !FILE:EV0321_082.bscr
 大変よ　キッド君が|またおかしくなっちゃったみたい=Bad news! It looks like Kid went totally haywire again!
 なんだよ　またかよ|それでキッドはどこにいるんだ？=Seriously? Again? Well, where is he right now?
-ソウルが保健室に|運んだのよ　そうなのよね？=Soul carried him to the dispensary. Right, Soul?
+ソウルが保健室に|運んだのよ　そうなのよね？=Soul carried him to the infirmary. Right, Soul?
 あ　ああ・・・=Y-Yeah...
 手間かけさせちゃって|悪ィな　ソウル！=Sorry for making you do all that, Soul!
 !FILE:EV0321_086.bscr
@@ -1941,7 +1941,7 @@
 大変よ　キッド君が|またおかしくなっちゃったみたい=Bad news! It looks like Kid went totally haywire again!
 またかよ～♪きゃはははは！=Not again♪ Kyahahaha!
 そんで　キッド君は|今どこなの～♪|・・・ソウル君=In that case, where's Kid now♪? ... Soul?
-は　はい|保健室です・・・=Y-Yeah. In the dispensary...#In lines 1944, 1946, and 1952 Soul uses the です form when answering Patty. The form is slightly more polite than he would normal use when speaking with her. It helps to convey that he knows he's guilty and that he's a little scared of Patty. I considered adding "ma'am", but it felt a little too strong. Another consideration would be replacing "Yeah" for "Yes". I'm not sure what else could be done or if it's even necessary really.
+は　はい|保健室です・・・=Y-Yeah. In the infirmary...#In lines 1944, 1946, and 1952 Soul uses the です form when answering Patty. The form is slightly more polite than he would normal use when speaking with her. It helps to convey that he knows he's guilty and that he's a little scared of Patty. I considered adding "ma'am", but it felt a little too strong. Another consideration would be replacing "Yeah" for "Yes". I'm not sure what else could be done or if it's even necessary really.
 ふ～ん　どこで|おかしくなったのかな？|・・・ソウル君=Hmm? And where'd he start going haywire exactly? ... Soul?
 は　はい|特別指導室です・・・=Y-Yeah. In the Special Guidance Room...
 なんで　アンタ達|そんな所にいたのよ？=What were you two doing in there?
@@ -2005,10 +2005,10 @@
 ああ　肉体的なダメージは|ほとんどない　倒れた理由は|どうやら精神的なものらしい・・・=Oh. It looks like there's nothing wrong with him physically. But it seems like he fainted because of some mental reason...
 どうもアイツは|神経質すぎるようだ・・・=That kid is too sensitive...#神経質 could be translated as sensitive or nervous. In the following line Sid uses the same word to describe the way he was in the past, so I wasn't sure which one would be the more appropriate translation for this context.
 俺も神経質な　そんな男だった|だが　それも昔の話か・・・=I was sensitive too. That's the kind of man I was. But that was a long time ago...
-キッドは保健室にいる|気になるなら　見舞って|やってくれ=Kid's in the dispensary right now. So if you're worried about him, why not go and give him a visit?
+キッドは保健室にいる|気になるなら　見舞って|やってくれ=Kid's in the infirmary right now. So if you're worried about him, why not go and give him a visit?
 !FILE:EV0322_026.bscr
 俺も神経質な　そんな男だった|だが　それも昔の話か・・・=I was sensitive too. That's the kind of man I was. But that was a long time ago...
-キッドは保健室にいる|気になるなら　見舞って|やってくれ=Kid's in the dispensary right now. So if you're worried about him, why not go and give him a visit?
+キッドは保健室にいる|気になるなら　見舞って|やってくれ=Kid's in the infirmary right now. So if you're worried about him, why not go and give him a visit?
 !FILE:EV0322_030.bscr
 すまん　どうやら迷惑を|かけてしまったようだな・・・=I heard I caused you two a little trouble apparently, so sorry for that...
 それよりも　キッド君は|何で倒れちゃったの？=Nevermind that, Kid. What made you faint like that?
@@ -2016,7 +2016,7 @@
 いや　やっぱいいよ|大体見当がつくから・・・=Nah, you don't need to explain anything. I think we've pretty much got the gist...
 そうか　残念だ|お前達なら理解してくれると|思ったんだが・・・=Oh, okay. I figured you two would understand...
 そうだ　一つ|頼まれてくれないか？=Anyway. Can I ask you guys for a small favor?
-リズとパティに|俺が保健室にいると伝えてくれ=Could you let Liz and Patty know I'm in the dispensary?
+リズとパティに|俺が保健室にいると伝えてくれ=Could you let Liz and Patty know I'm in the infirmary?
 俺の姿が急に見えなく|なったから　きっと心配|しているだろう=I'm sure they've been worried sick ever since I disappeared.
 あいつらが心配してるかどうかは|わかんねェぜ=I don't know if they'd really be worried or not.
 もう　ソウルったら・・・|いいわよキッド君|二人に知らせておくわね！=That's not nice, Soul... You can count on us, Kid. We'll let them know!
@@ -2024,7 +2024,7 @@
 すまん　どうやら迷惑を|かけてしまったようだな・・・=I heard I caused you two a little trouble apparently, so sorry for that...
 !FILE:EV0322_042.bscr
 キッドから伝言だぜ！=We've got a message for you from Kid!
-今　保健室で休んでいるって|また　キッド君　倒れちゃったのよ=Kid fainted again, so he's resting in the dispensary right now.
+今　保健室で休んでいるって|また　キッド君　倒れちゃったのよ=Kid fainted again, so he's resting in the infirmary right now.
 その口ぶりからすると・・・|うちの相棒が　迷惑かけたみたいだな=Judging by your tone of voice... it looks like our friend has been causing problems.
 かまわねェよ|迷惑のうちに入んねェ！=Not really. We weren't involved at all!
 お見舞いに行ったらどう？=Don't you think you should go and pay him a visit?
@@ -2034,7 +2034,7 @@
 たまには私も|のんびりしたいぜ！=Even I need a break every once in a while!
 !FILE:EV0322_052.bscr
 キッドから伝言だぜ！=We've got a message for you from Kid!
-今　保健室で休んでいるって|また　キッド君　倒れちゃったのよ=Kid fainted again, so he's resting in the dispensary right now.
+今　保健室で休んでいるって|また　キッド君　倒れちゃったのよ=Kid fainted again, so he's resting in the infirmary right now.
 あり？キッド君|また迷惑かけちゃった？=Really? Was Kid being all fussy again?
 お前　あんなんと|一緒にいて疲れねェか？=Don't you ever get tired of putting up with it?
 ほぇ？どうして|ぜんぜん平気だよ♪=Huh? Why? It never bothers me♪
@@ -2598,7 +2598,7 @@
 ソウル君のステージにゃら|いくんだけどにゃ♪|また一緒に踊ろうよ♪=I'd go if you were performing, Soul♪ We could go dancing again♪
 ふ～ん・・・|ソウル　あんたブレアと|そんなことしてたの=Hmm...? Soul, I can't believe you'd do something like that with Blair.
 バカ　違ェよマカ|ブレア　お前も何言ってんだよ！=Don't be stupid, Maka! That never happened! Blair, what are you even talking about?
-にゃははは♪=Meohahaha♪
+にゃははは♪=Nyahahaha♪
 !FILE:EV0421_016.bscr
 ソウル君のステージにゃら|いくんだけどにゃ♪|また一緒に踊ろうよ♪=I'd go if you were performing, Soul♪ We could go dancing again♪
 !FILE:EV0421_022.bscr
@@ -3008,7 +3008,7 @@
 マカもぎりぎりですね|いったん戻りましょう=Maka's reached her limit. Let's retreat for the time being.
 !FILE:EV0501_454.bscr
 ソウル！=Soul!
-おう！|クールにいくぜ！=Yeah! Let's make this cool!
+おう！|クールにいくぜ！=Yeah! Let's make it cool!
 !FILE:EV0501_456.bscr
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
 やるぜ　マカ！=Maka! Let's end him!
@@ -3765,22 +3765,22 @@
 変身魔法があるから|逃げおおせるとか言ってたのは|誰だったかしら？=They said their escaping wouldn't be a problem thanks to their transformation magic. Now who was that?
 ゲコ～・・・=Ribbit...
 そんな・・・なぜいないの？|たしかに魔女の反応が・・・=What... there's no one here? I'm positive I sensed a witch's soul...
-おい　マカ！|ここは保健室だぜ|でっけェ音を立てんじゃねェよ！=Hey, Maka! This is the dispensary, so keep it down!
+おい　マカ！|ここは保健室だぜ|でっけェ音を立てんじゃねェよ！=Hey, Maka! This is the infirmary, so keep it down!
 どうしたの二人とも=What's wrong, you two?
 悪ィな|マカのヤツが|急にハッチャケやがってよ・・・=Nothing. Maka's just doing whatever she feels like...
-メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the dispensary...
+メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the infirmary...
 そう・・・私がいない間に|侵入されちゃったみたいね・・・|二人ともケガはない？=Really...? They must have broken in while I was out... Are you hurt at all?
 大丈夫だぜ|俺達が来た時にはもう|誰もいなかったからよ！=We're fine. The place had already been vacated by the time we got here!
 それよりも|何のために死武専に侵入してきたのかしら？=More importantly, why did they break into the DWMA in the first place?
 !FILE:EV0923_006.bscr
-メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the dispensary...
+メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the infirmary...
 そう・・・私がいない間に|侵入されちゃったみたいね・・・|二人ともケガはない？=Really...? They must have broken in while I was out... Are you hurt at all?
 !FILE:EV0923_012.bscr
-博士・・・|保健室に魔女反応が・・・=Professor... A witch in the dispensary...
+博士・・・|保健室に魔女反応が・・・=Professor... A witch in the infirmary...
 ええ　もちろん|気づきましたよ・・・=Yes, I'm well aware. I noticed it as well...
 冷てェな博士！|来てくれたっていいじゃねェか？=Why are you so calm, professor!? Would it have hurt you to come help out?
-保健室ですから|多分　俺に対する|挑発だと思ったのです・・・=In the dispensary? I thought it might have been an attempt to arouse me...
-なんで保健室だと挑発なんだよ|意味がわかんねェよ！=What does the dispensary have to do with arousing you? You're not making any sense!
+保健室ですから|多分　俺に対する|挑発だと思ったのです・・・=In the infirmary? I thought it might have been an attempt to arouse me...
+なんで保健室だと挑発なんだよ|意味がわかんねェよ！=What does the infirmary have to do with arousing you? You're not making any sense!
 いえ　すみません|何でもありませんから・・・=I'm sorry. Forget I said anything...
 とにかく二人にケガがなくて|何よりです・・・=What's most important is that you two weren't hurt...
 !FILE:EV0923_016.bscr
@@ -3953,7 +3953,7 @@
 普通の保健医だと思うが|違っているのか？=I think she's a normal nurse. Is she not?
 !FILE:EV0924_032.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=What do you know about Dr. Medusa?
-お前のほうが|詳しいんじゃないか？|よく保健室にいくだろう？=Nothing you wouldn't know. You're the one who goes to the dispensary all the time.
+お前のほうが|詳しいんじゃないか？|よく保健室にいくだろう？=Nothing you wouldn't know. You're the one who goes to the infirmary all the time.
 あの人　プライベートな話は|ぜんぜんしねェんだよ・・・=But she never talks about herself at all...
 とにかく俺様は|あんな弱そうなヤツには|まったく興味がねェ☆=In any case, I'm totally not interested in such weaklings☆
 そうねブラック☆スターなら|そういうと思ったわ・・・=Yeah, I figured as much coming from Black☆Star...
@@ -4022,10 +4022,10 @@
 メデューサ先生が|助かったんだから|それを喜ぼうよ・・・=Let's just be happy that Dr. Medusa is okay...
 わかったよ　マカ=You're right, Maka.
 それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
-もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the dispensary, so you can probably go see her there!
+もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the infirmary, so you can probably go see her there!
 !FILE:EV0924_076.bscr
 それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
-もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the dispensary, so you can probably go see her there!
+もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the infirmary, so you can probably go see her there!
 !FILE:EV0924_080.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 死神様から聞いてたけどよ|ケガ一つなかったんだって？=Lord Death already told us, but you're not hurt at all, right?
@@ -4275,7 +4275,7 @@
 もっと難しいと思ってたケド|ちょうどいい手応えの課題だったね=I was expecting more of a challenge, but this task wasn't so bad.
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
 目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really wanting to do even better.
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. It's nothing to worry about.
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
 もっと簡単だと思ってたケド|ちょうどいい手応えの課題だったね=I was worried it was going to be a little too easy, but this task was all right.
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
@@ -4291,9 +4291,9 @@
 もっと簡単だと思ってたケド|ちょうどいい手応えの課題だったね=I was worried it was going to be a little too easy, but this task was all right.
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. It's nothing to worry about.
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
 もっともっと強くならないと・・・=I need to become even stronger...
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. It's nothing to worry about.
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
 もっともっと強くならないと・・・=I need to become even stronger...
 じゃあ今回のはこれで終わりだな=Well, looks like that's another one down.
 目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really wanting to do even better.
@@ -4965,7 +4965,7 @@
 今回のは思ったより難しかったね・・・=That was more difficult than I thought it would be...
 そうだな|敵に変な奴もいたしな！=Yeah. That guy made for a weird opponent!
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. It's nothing to worry about.
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
 今回は思ったより疲れたね・・・=I didn't expect to be so worn out by that...
 しかもアイツ　思ったよりしぶとかったしな=For sure. That guy was really stubborn.
 ふぅ・・・|思ったよりも強かったね=Phew... He was tougher to take down than expected.
@@ -5169,16 +5169,16 @@
 いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I waaaas!!
 !FILE:EV0940_210.bscr
 ブレアをご指名なのね♪|張り切っちゃうんだから♪=You picked me? Probably because I'm so enthusiastic♪
-にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Meoha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
+にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Nyaha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
 ようやくブレアの出番なのね|ずいぶん待たされちゃった♪=It's finally time for my debut perfomance. Sorry for making you wait so terribly long♪
 !FILE:EV0940_211.bscr
 今回はブレアが相手だよ♪|退屈させないでね♪=I'll be your opponent this time♪ Try not to bore me♪
-にゃはははは♪|今回はブレアが先生なんだよ=Meohahaha♪ I'll be your teacher this time♪
+にゃはははは♪|今回はブレアが先生なんだよ=Nyahahaha♪ I'll be your teacher this time♪
 ブレア　先生のバイトして|きれいなお洋服を|たくさん買うのよ♪=Thanks to this new teaching job, I'll be able to shop for all sorts of pretty new clothes♪
 !FILE:EV0940_212.bscr
-ブレア先生に|ちゃんと挨拶しなさい|にゃはははは♪=Let me introduce myself. I'm your new teacher, Ms. Blair. Meohahaha♪
+ブレア先生に|ちゃんと挨拶しなさい|にゃはははは♪=Let me introduce myself. I'm your new teacher, Ms. Blair. Nyahahaha♪
 ブレア　死武専でも|バイトすることにしたの|よろしくね♪=I decided I'd get a part-time teaching job here at the DWMA♪
-にゃは♪|バイトだけどブレアは先生|とっても偉いのよ♪=Meoha♪ It's just a  part-time job, but I'm a pretty great teacher, huh♪?
+にゃは♪|バイトだけどブレアは先生|とっても偉いのよ♪=Nyaha♪ It's just a  part-time job, but I'm a pretty great teacher, huh♪?
 !FILE:EV0940_220.bscr
 ブレアが相手か・・・|どうも闘志がわきにくいのよね・・・=Blair is our opponent... Doesn't really excite me, you know...
 まぁ　とにかく|油断だけはしないでくれ・・・=Well we can't back out now anyway...
@@ -5340,24 +5340,24 @@
 終わり・・・なのかな？=It's... over already?
 あんまり深く考えるのは|やめとこうぜ=It's no use thinking too deeply about it.
 !FILE:EV0941_220.bscr
-にゃは♪|みんなマタタビよりも|すごかったよ♪=Meoha♪ You guys were even better than catnip♪
+にゃは♪|みんなマタタビよりも|すごかったよ♪=Nyaha♪ You guys were even better than catnip♪
 あんたにほめられても|あんまり嬉しくないわね・・・=Is that really supposed to be a compliment...?
-にゃは♪|みんながカッコイイから|毛が逆立っちゃうわ♪=Meoha♪ You guys were so cool you made my fur stand on end♪
+にゃは♪|みんながカッコイイから|毛が逆立っちゃうわ♪=Nyaha♪ You guys were so cool you made my fur stand on end♪
 あんたにほめられても|あんまり嬉しくないわね・・・=Is that really supposed to be a compliment...?
 !FILE:EV0941_221.bscr
-にゃは♪|みんながすごいから|舌がザラザラしてきちゃった♪=Meoha♪ You guys must have tongues as rough and tough as you are♪
+にゃは♪|みんながすごいから|舌がザラザラしてきちゃった♪=Nyaha♪ You guys must have tongues as rough and tough as you are♪
 ありがとう|一応　お礼を言っておくわ=I guess I should thank you, so... thanks.
-にゃは♪|みんなお魚よりも|ステキだったよ♪=Meoha♪ You guys are the best thing since canned tuna♪
+にゃは♪|みんなお魚よりも|ステキだったよ♪=Nyaha♪ You guys are the best thing since canned tuna♪
 ありがとう|一応　お礼を言っておくわ=I guess I should thank you, so... thanks.
 !FILE:EV0941_222.bscr
-にゃは♪|ブレアが爪をとぐ柱より|強かったよ♪=Meoha♪ You guys are tougher than my scratching post♪
+にゃは♪|ブレアが爪をとぐ柱より|強かったよ♪=Nyaha♪ You guys are tougher than my scratching post♪
 ありがとう|一応　お礼を言っておくわ=I guess I should thank you, so... thanks.
-にゃは♪|カッコよかったみんな♪=Meoha♪ You guys are so good it should be a feliney♪
+にゃは♪|カッコよかったみんな♪=Nyaha♪ You guys are so good it should be a feliney♪
 ありがとう|一応　お礼を言っておくわ=I guess I should thank you, so... thanks.
 !FILE:EV0941_223.bscr
-にゃは♪|みんな強くなってるんだね♪=Meoha♪ You guys have gotten so strong♪
+にゃは♪|みんな強くなってるんだね♪=Nyaha♪ You guys have gotten so strong♪
 あんたに評価されるなんて|なんだかへこんできちゃった・・・=Why does being praised by you just make me feel worse...?
-にゃは♪|けっこうイケてたよ　みんな♪=Meoha♪ You guys are as fun as a ball of yarn♪
+にゃは♪|けっこうイケてたよ　みんな♪=Nyaha♪ You guys are as fun as a ball of yarn♪
 あんたに評価されるなんて|なんだかへこんできちゃった・・・=Why does being praised by you just make me feel worse...?
 !FILE:EV0941_280.bscr
 お星様がみえる～=I'm seeing stars...
@@ -5667,7 +5667,7 @@
 ちゃんと考えて行動すんだぞ|お前　意外とそういうとこ|バカなんだからな！=Think first and act second. You should be smart enough to figure that out!
 !FILE:EV0955_020.bscr
 ソウル！=Soul!
-おう！|クールにいくぜ！=Yeah! Let's make this cool!
+おう！|クールにいくぜ！=Yeah! Let's make it cool!
 !FILE:EV0955_030.bscr
 ソウル！=Soul!
 ああ！|行くぜ！=Right! Let's do it!
@@ -6118,7 +6118,7 @@
 いくぜぇ～！|ひゃっはぁ～！=Let's gooo! Yahoo!
 返せー！|うぐぁおおおお～！！=Give it back! Ugrrroooohhh!!
 !FILE:EV1101_403.bscr
-でぇぇ・・・|た　宝物・・・|お　オデの集めた魂・・・=Waah... M-My treasure... I-I found that soul...
+でぇぇ・・・|た　宝物・・・|お　オデの集めた魂・・・=Waah... M-My treasure... I-I found those souls...
 口ほどにもねぇ奴だぜ|椿　奴が集めたっていう魂はどこだ？=All bark and no bite.|Tsubaki, that guy said he found a soul. Where did it go?
 変ね|どこにもないわ　ブラック☆スター=It's strange, but I don't see it anywhere, Black☆Star.
 えぇ？|魂までもが俺様におそれをなしたのか！=Huh? I must have scared away the soul too!
@@ -6137,7 +6137,7 @@
 ………=.........
 どうしたんだよ|シケた面しやがってよ！=What's wrong with you? You're looking grumpier than usual!
 最近はすごく物騒になったのよ…=I've been a little on edge lately...
-保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the dispensary.
+保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the infirmary.
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 やめて　ブラック☆スター！=Stop it, Black☆Star!
 気にしないで…何でもないのよ|今の話は忘れてちょうだい…=Don't you worry now... It's nothing. Just forget all about this little conversation...
@@ -6148,12 +6148,12 @@
 これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
 !FILE:EV1103_010.bscr
 きゃっ！=Kyah!
-にゃはは～♪=Meohahaa♪
+にゃはは～♪=Nyahahaa♪
 ふっ・・・スターの輝きに誘われて|死武専にまであらわれやがったな！=Heh... Drawn all the way to the DWMA by the starlight were we?
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
 あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time, I figured I'd come and play at the DWMA♪
-そうなんですか=Is that so?
-にゃはは～♪=Meohahaa♪
+そうなんですか=I see...
+にゃはは～♪=Nyahahaa♪
 それじゃあ|また　あいましょう♪=See ya later♪
 !FILE:EV1120_002.bscr#吸魂水特訓ステージ = Soul Sapping Water Special Training Stage part 3
 そういえばシド先生が|呼んでたぜ=Oh, by the way, Mr. Sid called for you.
@@ -6953,14 +6953,14 @@
 おうよ　俺様は|かまわねェぜ！=Okay! It's doesn't matter to me!
 それはいいんだけど|なんでお前が呼びにくるんだ？=It's not a problem, but why did you come to call for us?
 保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・='Cause I was like, sleeping in the infirmary. So she made me pass on the message...
-ただし　保健室のベッド|ねごこちはサイコーだな！=But that dispensary bed is crazy comfy!
+ただし　保健室のベッド|ねごこちはサイコーだな！=But that infirmary bed is crazy comfy!
 今度　お前も|さぼった時は寝てみろよ！=Trust me. The next time you skip, try sleeping on them!
 ひやっはぁ☆|ナイスだぜ　リズ！=Yahoo☆ Nice, Liz!
 お前は天才の思考を|完璧に理解してるじゃねェか！=Are you secretly a genius or what?!
 あんまりブラック☆スターに|変なことを教えないでね・・・=Don't give Black☆Star any bad ideas...
 !FILE:EV1220_096.bscr
 保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・='Cause I was like, sleeping in the infirmary. So she made me pass on the message...
-ただし　保健室のベッド|ねごこちはサイコーだな！=But that dispensary bed is crazy comfy!
+ただし　保健室のベッド|ねごこちはサイコーだな！=But that infirmary bed is crazy comfy!
 !FILE:EV1220_097.bscr
 じゃあ　ブラック☆スター|検査に行ってくるからね=Well, Black☆Star, I want to go for that check-up now.
 おう　適当にその辺を|ブラブラしてるぜ！=Okay! I'm gonna wander around for a while!
@@ -8298,9 +8298,9 @@
 そんなことないわよ|ブラック☆スター君=That's not true, Black☆Star.
 でも研究者として博士と一緒にされるのは|悪い気分じゃないわ♪=Although, as a researcher myself, it doesn't feel so bad to be compared to the professor♪
 よくわかんねェよ|その感性・・・=I don't think I want to know what you're talking about...
-椿ちゃんに伝えてちょうだい|いつでもいいから保健室に|検査にきてねって♪=Tsubaki can come to the dispensary and get a check-up whenever she wants♪ You'll tell her that, won't you?
+椿ちゃんに伝えてちょうだい|いつでもいいから保健室に|検査にきてねって♪=Tsubaki can come to the infirmary and get a check-up whenever she wants♪ You'll tell her that, won't you?
 !FILE:EV1420_136.bscr
-椿ちゃんに伝えてちょうだい|いつでもいいから保健室に|検査にきてねって♪=Tsubaki can come to the dispensary and get a check-up whenever she wants♪ You'll tell her that, won't you?
+椿ちゃんに伝えてちょうだい|いつでもいいから保健室に|検査にきてねって♪=Tsubaki can come to the infirmary and get a check-up whenever she wants♪ You'll tell her that, won't you?
 !FILE:EV1420_142.bscr
 なぁ先生　椿のヤツ|ちょっと変じゃねェか？=Hey, Sid. Tsubaki's been acting a little strange, don't you think?
 椿で思い出したんだが|俺はこの間遠出をしてきた・・・|極東にある針の村にだ=You bring her up and that reminds me of the trip I took the other day... to the Village of Needles far to the East.
@@ -8364,7 +8364,7 @@
 マカが急に倒れたんだよ！！=Maka just passed out all of a sudden!!
 げっ！大丈夫なのかよ！！|やべェんじゃねェのか？=Oh, no! She's okay, right!? Is it serious?
 今　マカちゃんは|どこにいるんですか？=Where is she now?
-とりあえず保健室に運んだけどよ|メデューサ先生がいねェんだ！=I carried her straight to the dispensary, but Dr. Medusa wasn't there!
+とりあえず保健室に運んだけどよ|メデューサ先生がいねェんだ！=I carried her straight to the infirmary, but Dr. Medusa wasn't there!
 俺はメデューサ先生を探してくるから|マカについててやってくれ！=I'm looking for Dr. Medusa, so you to go look after Maka!
 マカのヤツは|この俺様にまかせておけ☆=Don't worry! Maka will be in good hands☆
 !FILE:EV1421_006.bscr
@@ -8412,12 +8412,12 @@
 一体　マカに何をしようと|いうのでしょうか・・・=Then why Maka? What does this mean...?
 博士　何ブツブツ|言ってんだよ！=What are you mumbling about, professor!?
 ・・・なんでもありません|ただの独り言です=... Nothing. Just talking to myself.
-マカは保健室で|メデューサ先生に|診てもらっているんですね？=And I imagine Maka is currently in the dispensary receiving an examination from Dr. Medusa?
+マカは保健室で|メデューサ先生に|診てもらっているんですね？=And I imagine Maka is currently in the infirmary receiving an examination from Dr. Medusa?
 それが・・・メデューサ先生|席をはずしてまして・・・=Actually... she wasn't at her post...
 そうですか・・・よかった|俺の考えすぎのようです=Really...? Good. I guess I was imagining things.
 ちっとも良くねェよ|シュタイン博士=Professor Stein, there's nothing good about that!
 !FILE:EV1421_036.bscr
-マカは保健室で|メデューサ先生に|診てもらっているんですね？=And I imagine Maka is currently in the dispensary receiving an examination from Dr. Medusa?
+マカは保健室で|メデューサ先生に|診てもらっているんですね？=And I imagine Maka is currently in the infirmary receiving an examination from Dr. Medusa?
 それが・・・メデューサ先生|席をはずしてまして・・・=Actually... she wasn't at her post...
 そうですか・・・よかった|俺の考えすぎのようです=Really...? Good. I guess I was imagining things.
 !FILE:EV1421_040.bscr
@@ -8526,7 +8526,7 @@
 それにしても強いわね　彼|同世代の中では圧倒的じゃないかしら=Even so, he's really strong, that one. To think he was able to overwhelm someone his own age like that.
 今は　ほめられても|あんまり　うれしくありません・・・=Strong or not, I'm disappointed in him...
 そういえば|バトルの相手はどうしたんですか？=By the way, how's his opponent doing?
-保健室に運ばれたわ・・・=They were carried to the dispensary...
+保健室に運ばれたわ・・・=They were carried to the infirmary...
 そうですか・・・御手数かけます=I see... Sorry for bothering you.
 !FILE:EV1422_026.bscr
 それにしても強いわね　彼|同世代の中では圧倒的じゃないかしら=Even so, he's really strong, that one. To think he was able to overwhelm someone his own age like that.
@@ -9461,10 +9461,10 @@
 メデューサ先生が助かったんだから|それを喜びましょう・・・=Let's just be happy that Dr. Medusa is safe
 ちっ　納得いかねェ・・・=Tch! Whatever...
 それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
-もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the dispensary, so you can probably go see her there!
+もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the infirmary, so you can probably go see her there!
 !FILE:EV1924_086.bscr
 それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
-もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the dispensary, so you can probably go see her there!
+もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the infirmary, so you can probably go see her there!
 !FILE:EV1924_090.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 死神様から聞いたんですけど|ケガがなくてよかったですね♪=Lord Death told us you didn't have even a scratch on you. I'm so glad♪
@@ -10902,16 +10902,16 @@
 いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I waaaas!!
 !FILE:EV1940_210.bscr
 ブレアをご指名なのね♪|張り切っちゃうんだから♪=You picked me? Probably because I'm so enthusiastic♪
-にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Meoha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
+にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Nyaha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
 ようやくブレアの出番なのね|ずいぶん待たされちゃった♪=It's finally time for my debut perfomance. Sorry for making you wait so terribly long♪
 !FILE:EV1940_211.bscr
 今回はブレアが相手だよ♪|退屈させないでね♪=I'll be your opponent this time♪ Try not to bore me♪
-にゃはははは♪|今回はブレアが先生なんだよ=Meohahaha♪ I'll be your teacher this time♪
+にゃはははは♪|今回はブレアが先生なんだよ=Nyahahaha♪ I'll be your teacher this time♪
 ブレア　先生のバイトして|きれいなお洋服を|たくさん買うのよ♪=Thanks to this new teaching job, I'll be able to shop for all sorts of pretty new clothes♪
 !FILE:EV1940_212.bscr
-ブレア先生に|ちゃんと挨拶しなさい|にゃはははは♪=Let me introduce myself. I'm your new teacher, Ms. Blair. Meohahaha♪
+ブレア先生に|ちゃんと挨拶しなさい|にゃはははは♪=Let me introduce myself. I'm your new teacher, Ms. Blair. Nyahahaha♪
 ブレア　死武専でも|バイトすることにしたの|よろしくね♪=I decided I'd get a part-time teaching job here at the DWMA♪
-にゃは♪|バイトだけどブレアは先生|とっても偉いのよ♪=Meoha♪ It's just a  part-time job, but I'm a pretty great teacher, huh♪?
+にゃは♪|バイトだけどブレアは先生|とっても偉いのよ♪=Nyaha♪ It's just a  part-time job, but I'm a pretty great teacher, huh♪?
 !FILE:EV1940_220.bscr
 ふっ・・・スターの輝きに|誘われて　死武専にまで|あらわれやがったな！=Heh... Drawn all the way to the DWMA by the starlight were we?
 そんなことよりも|ケガだけはさせないようにね・・・=Don't take her lightly. Just concentrate on not getting hurt...
@@ -11076,24 +11076,24 @@
 ・・・えっ・・・終わりなのか？=... Huh? ... It's over already?
 そういうことにしましょう|もう付き合いきれないわ=Yeah, let's just end it. I've had enough already.
 !FILE:EV1941_220.bscr
-にゃは♪|みんなマタタビよりも|すごかったよ♪=Meoha♪ You guys were even better than catnip♪
+にゃは♪|みんなマタタビよりも|すごかったよ♪=Nyaha♪ You guys were even better than catnip♪
 なんかよくわかんねェけど|俺様の後光で目がくらむんじゃねェぞ☆=I don't really know what that means, but you must have been pretty dazzles by my aura of light☆
-にゃは♪|みんながカッコイイから|毛が逆立っちゃうわ♪=Meoha♪ You guys were so cool you made my fur stand on end♪
+にゃは♪|みんながカッコイイから|毛が逆立っちゃうわ♪=Nyaha♪ You guys were so cool you made my fur stand on end♪
 なんかよくわかんねェけど|俺様の後光で目がくらむんじゃねェぞ☆=I don't really know what that means, but you must have been pretty dazzles by my aura of light☆
 !FILE:EV1941_221.bscr
-にゃは♪|みんながすごいから|舌がザラザラしてきちゃった♪=Meoha♪ You guys must have tongues as rough and tough as you are♪
+にゃは♪|みんながすごいから|舌がザラザラしてきちゃった♪=Nyaha♪ You guys must have tongues as rough and tough as you are♪
 なんかよくわかんねェけど|俺様の完全勝利ということか☆=I don't really know what that means, but it sounds like another Black☆Star victory for the history books☆
-にゃは♪|みんながステキだから|しっぽが生えてきそうよん♪=Meoha♪ You guys are almost cool enough to grow tails and become cats yourselves♪
+にゃは♪|みんながステキだから|しっぽが生えてきそうよん♪=Nyaha♪ You guys are almost cool enough to grow tails and become cats yourselves♪
 なんかよくわかんねェけど|俺様の完全勝利ということか☆=I don't really know what that means, but it sounds like another Black☆Star victory for the history books☆
 !FILE:EV1941_222.bscr
-にゃは♪|ブレアが爪をとぐ柱より|強かったよ♪=Meoha♪ You guys are tougher than my scratching post♪
+にゃは♪|ブレアが爪をとぐ柱より|強かったよ♪=Nyaha♪ You guys are tougher than my scratching post♪
 なんかよくわかんねェけど|俺様の完全勝利ということか☆=I don't really know what that means, but it sounds like another Black☆Star victory for the history books☆
-にゃは♪|カッコよかったみんな♪=Meoha♪ You guys are so good it should be a feliney♪
+にゃは♪|カッコよかったみんな♪=Nyaha♪ You guys are so good it should be a feliney♪
 なんかよくわかんねェけど|俺様の完全勝利ということか☆=I don't really know what that means, but it sounds like another Black☆Star victory for the history books☆
 !FILE:EV1941_223.bscr
-にゃは♪|みんな強くなってるんだね♪=Meoha♪ You guys have gotten so strong♪
+にゃは♪|みんな強くなってるんだね♪=Nyaha♪ You guys have gotten so strong♪
 なんかよくわかんねェけど|ようやく俺様のすごさに気づいたようだな☆=I don't really know what you're talking about, but it sounds like you've finally opened your eyes to my greatness☆
-にゃは♪|けっこうイケてたよ　みんな♪=Meoha♪ You guys are as fun as a ball of yarn♪
+にゃは♪|けっこうイケてたよ　みんな♪=Nyaha♪ You guys are as fun as a ball of yarn♪
 なんかよくわかんねェけど|ようやく俺様のすごさに気づいたようだな☆=I don't really know what you're talking about, but it sounds like you've finally opened your eyes to my greatness☆
 !FILE:EV1941_280.bscr
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times...
@@ -11576,7 +11576,7 @@
 マカちゃんって|基本的にはいい子なんだけど・・・=In general, Maka's a really well-behaved kid, but...
 ちょっとムキになる所があるのよね・・・|あれはなおしたほうがいいわ・・・=She has a little bit of a temper, huh? ... She should probably work on that...
 ソウル君の胸の傷って|もう大丈夫なのよね？=That wound on Soul's chest is healed by now, right...?
-魔剣にやられた後|ずっと保健室に|通ってるみたいだけど・・・=But ever since his fight with that Demon Sword, it feels like he's been in and out of the dispensary constantly...
+魔剣にやられた後|ずっと保健室に|通ってるみたいだけど・・・=But ever since his fight with that Demon Sword, it feels like he's been in and out of the infirmary constantly...
 それにしてもキッド君って|マイペースよね・・・=Kid really does as he pleases, huh?
 病気みたいなものだから|仕方ないのはわかってるけど・・・|わざとじゃないかと思う時があるわ=I know that sometimes you're sick, and there's nothing you can do, but... sometimes it feels like it does it on purpose.
 そういえば　シド先生って|どんな顔をしていたのかしら？=I just thought about it, but what did Sid look like before?
@@ -11778,16 +11778,16 @@
 ぐるるるる・・・=Grrrrr...
 お姉ちゃん|お腹のムシが鳴いてる～|きゃはは=Sis, did you forget to feed your tumtum again? Kyahaha♪
 えっ！？　マジで！？|なってた！？=Huh!? Seriously!? It wasn't me!?
-うぐぁおおおお～！！|お　オメーら何しに来た！=Ugrrooohh!! Wh-What are you doing here!?
+うぐぁおおおお～！！|お　オメーら何しに来た！=Ugrrooohh!! Wh-Why have you come here!?
 犯人はお前か！=This must be the culprit!
 そ　そういうおメーは・・・|ぶ　武器職人か=Th-That means... you're a w-weapon meister?
 な・・・なら|そっちのおメー達は・・・|ま　魔武器だな=Th-Then... you two are... m-magic weapons. 
 いーわない=I'm not telling♪
-お　オデの魂集めの邪魔は|さ　させね～ど=I-I'm not letting you get in the way of me gathering all these souls!
+お　オデの魂集めの邪魔は|さ　させね～ど=I-I will collect these souls, so don't try and stop me!
 キッド|間違いない|こいつが犯人だ=There's no mistaking it, Kid. This is the guy.
-た　魂はわたさねーど|こ　これはオデの宝物ダで=Th-There's no way I'll hand over these souls! It's m-my treasure.
+た　魂はわたさねーど|こ　これはオデの宝物ダで=Th-There's no way I'll hand them over! These s-souls are my treasure.
 あ　アデ？|お　オデの宝物がねぇ・・・|なんでダ？=Wh-What? M-My treasure's gone... How?
-さ　さデは　おメーらが|ぬ　盗んだな=I-It must have been you. You s-stole it.
+さ　さデは　おメーらが|ぬ　盗んだな=I-It must have been you. You s-stole them.
 宝物？|それがシンメトリーなものなら|見てみたいな=Treasure? If it's symmetrical I'd be interested in taking a look.
 お　オデの宝物を返せ！=G-Give me back my treasure!
 だめだこりゃ=This is bad.
@@ -11799,7 +11799,7 @@
 返せー！|うぐぁおおおお～！！=Give it back! Ugrrroooohhh!!
 変ー身！=Transform!
 !FILE:EV2101_404.bscr
-でぇぇ・・・|た　宝物・・・|お　オデの集めた魂・・・=Waah... M-My treasure... I-I found that soul...
+でぇぇ・・・|た　宝物・・・|お　オデの集めた魂・・・=Waah... M-My treasure... I-I found those souls...
 さ～て|奴が集めたっていう魂は　どこかな～？=Alrighty then. Where are all the souls that guy had?
 変だな・・・|魂の反応を　感じない・・・=Strange... I'm not sensing any souls now...
 どっこにもないよ～=Not anywhere?
@@ -11818,7 +11818,7 @@
 ………=.........
 何があったか知らないけど|元気出せよ　先生！=I don't know what happened, but cheer up, Sid!
 最近はすごく物騒になったのよ…=I've been a little on edge lately...
-保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the dispensary.
+保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the infirmary.
 キッド君…=Kid...
 うむ…=Yeah...
 気にしないで…何でもないのよ|今の話は忘れてちょうだい…=Don't you worry now... It's nothing. Just forget all about this little conversation...
@@ -11829,12 +11829,12 @@
 これからも|期待しているわよ♪=I’m expecting a lot from you♪
 !FILE:EV2103_010.bscr
 ほぇ～=Whoooa.
-にゃはは～♪=Meohahaa♪
+にゃはは～♪=Nyahahaa♪
 どうしたんだよ一体？=What the heck are you doing here?
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
 あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time, I figured I'd come and play at the DWMA♪
 うむ　問題ない=Right. That's fine.
-にゃはは～♪=Meohahaa♪
+にゃはは～♪=Nyahahaa♪
 それじゃあ|また　あいましょう♪=See ya later♪
 !FILE:EV2120_002.bscr
 そういえばキッド君|死神様が来てほしいって|言ってたわよ=By the way, Kid. Lord Death was saying he wanted you to stop by.
@@ -12760,14 +12760,14 @@
 お前らに補習を押し付けて|どっかで　サボってんだろ|そんな　気にする必要ねェよ！=They guilt you into helping with the remedial class and then flake out. I say forget about them!
 !FILE:EV2220_122.bscr
 ブラック☆スター達を|見なかったか？=Have you seen Black☆Star and Tsubaki?
-あの二人が|保健室に来ることなんて|ほとんどないわよ♪=Those two almost never come to the dispensary♪
+あの二人が|保健室に来ることなんて|ほとんどないわよ♪=Those two almost never come to the infirmary♪
 さがす場所を|間違えてるんじゃないかしら？=I'd guess you're looking in the wrong place.
 それも　そうだよね|きゃはははは♪=Looks like it. Kyahahaha♪
-リズちゃんのほうがよっぽど|保健室を利用してくれるわ♪=I think Liz here is much more likely to make use of the dispensary♪
+リズちゃんのほうがよっぽど|保健室を利用してくれるわ♪=I think Liz here is much more likely to make use of the infirmary♪
 あははは・・・そんなこと|ねェと思うけどな・・・=Ahaha... I don't know about that...
 !FILE:EV2220_126.bscr
-あの二人が|保健室に来ることなんて|ほとんどないわよ♪=Those two almost never come to the dispensary♪
-リズちゃんのほうがよっぽど|保健室を利用してくれるわ♪=I think Liz here is much more likely to make use of the dispensary♪
+あの二人が|保健室に来ることなんて|ほとんどないわよ♪=Those two almost never come to the infirmary♪
+リズちゃんのほうがよっぽど|保健室を利用してくれるわ♪=I think Liz here is much more likely to make use of the infirmary♪
 !FILE:EV2220_130.bscr
 あ　みんな|ここにいたんですね！？=Oh! You were all here!?
 よかったよ～・・・|やっと椿が見つかったよ～・・・=I'm so glad to see you, Tsubaki... We've been looking for you everywhere...
@@ -12957,7 +12957,7 @@
 ・・・・・・・・・|・・・ん！？=.........|...Hm!?
 何をぼんやりしている|パティが倒れたぞ！=Why does everything seem so fuzzy? Patty fell!
 え　ほんとだ|うそ！ヤダ！パティ！！=Huh? Really? No! No way! Patty!!
-たわけ　さっさと|パティを保健室に運ぶぞ！=Idiot! Quick! Help me carry her to the dispensary!
+たわけ　さっさと|パティを保健室に運ぶぞ！=Idiot! Quick! Help me carry her to the infirmary!
 !FILE:EV2221_030.bscr
 どうしよう！？どうしよう！？|どうしよう！？どうしよう！？|どうしよう！？どうしよう！？=What do we do!? What do we do!? What do we do!? What do we do!? What do we do!? What do we do!?
 ええい　うるさい|少しは落ち着け！！=Hey, hey! You're being loud! Calm down a little!!
@@ -14009,15 +14009,15 @@
 !FILE:EV2420_067.bscr
 パティ　ちょっと|お姉ちゃん　一人に|なってもいいかな？=Patty, you think your big sis could be alone for a little bit?
 ほぇ？どうしたの？=Huh? What's wrong?
-いや・・・保健室で|昼寝でもしてこようと思って・・・=Nothing... I was just thinking about taking a little nap in the dispensary...
+いや・・・保健室で|昼寝でもしてこようと思って・・・=Nothing... I was just thinking about taking a little nap in the infirmary...
 ふ～ん・・・|いってらっしゃい=Hmm... Okay. See you later.
 なんか改めて聞いてみると|キッドって　すげェんだな・・・=I just like keep hearing the same thing... Kid's amazing...
 普段はただの神経質な|ガキだから忘れちゃうんだけどな・・・=I guess I kind of forget since he's normally just a fussy little brat, but...
 ひょっとして私達って|いらないんじゃないの？=Maybe he doesn't really need us...
 笑えねェ　落ち込んできた|核心ついちゃったかもしんない=Who am I kidding? That's the real reason I'm upset.
-やべェ　くさくさしてきた|保健室にいって寝てこよう・・・=Damn it. I'm depressed. I'm gonna go lie down in the dispensary...
+やべェ　くさくさしてきた|保健室にいって寝てこよう・・・=Damn it. I'm depressed. I'm gonna go lie down in the infirmary...
 !FILE:EV2420_072.bscr
-またお昼寝に来たのかしら|こまったわね・・・保健室は|仮眠所じゃないのよ=Let me guess. You came here for another nap? ... This is the dispensary, not a nap room, you know.
+またお昼寝に来たのかしら|こまったわね・・・保健室は|仮眠所じゃないのよ=Let me guess. You came here for another nap? ... This is the infirmary, not a nap room, you know.
 そんな堅いこと|言わないで寝かしてくれよ先生=I know, but can I please lie down for a while, doctor?
 仕方ないわね|そのかわり病人がきたら|すぐに出ていってもらうから=I guess. But if a real patient comes in, you're being evicted from that bed immediately.
 ありがとう先生|やっとゆっくり眠れるぜ・・・=Thanks, doctor. Finally I can sleep a little...
@@ -14171,18 +14171,18 @@
 そういえば　キッドを|メデューサ先生が呼んでたぜ！=By the way, Medusa was looking for you, Kid!
 ふ～ん・・・|キッド君に何の用かな？=Hmm... I wonder why she's looking for Kid.
 メデューサ先生|機嫌が悪そうだったぜ・・・=It looked like Dr. Medusa wasn't in the best mood...
-お前　死神のくせに|保健室の利用率が異様に高いからよ|それで文句でも言われるんじゃねェか？=Maybe she was complaining about how unusually often you visit the dispensary despite being a grim reaper...
+お前　死神のくせに|保健室の利用率が異様に高いからよ|それで文句でも言われるんじゃねェか？=Maybe she was complaining about how unusually often you visit the infirmary despite being a grim reaper...
 たしかに　死神のお前が|ベッドを占拠するのは|無駄でしかないからな！=For real. Letting a grim reaper like you occupy the bed is nothing but a waste!
 お前だって|無駄に昼寝で占拠しているではないか=What about you? Using them to take pointless naps...
 私は人が来たら|どくようにしている！=I always leave as soon as someone comes in!
-まぁまぁ　落ちつけよ|とにかく伝言は伝えたからな|保健室に行ってくれよ=All right, calm down you two. Anyway, I was just passing on the message, so if you wouldn't mind going to the dispensary...
+まぁまぁ　落ちつけよ|とにかく伝言は伝えたからな|保健室に行ってくれよ=All right, calm down you two. Anyway, I was just passing on the message, so if you wouldn't mind going to the infirmary...
 !FILE:EV2421_006.bscr
 メデューサ先生|機嫌が悪そうだったぜ・・・=It looked like Dr. Medusa wasn't in the best mood...
 !FILE:EV2421_007.bscr
 しまった・・・|俺としたことが　ウカツだった・・・=Damn it... How could I, of all people, be so careless...?
 どうしたのキッド君？=What's wrong, Kid?
 図書館の本を|返すことを忘れていた・・・=I forgot to return my book to the library...
-いいじゃないか後でも|保健室に行こうぜ|先生が待ってるからよ=We'll take care of it later. Let's get to the dispensary. The doctor's waiting for us.
+いいじゃないか後でも|保健室に行こうぜ|先生が待ってるからよ=We'll take care of it later. Let's get to the infirmary. The doctor's waiting for us.
 だめだ　こういうことは|キッチリカッチリ|しなければならない！=I can't! I need to rectify this before the world falls into utter chaos!
 リズ　パティ　すまないが|先に行っててくれ！=Liz, Patty, sorry. I have to hurry!
 あ～あ・・・|行っちゃったよ・・・|仕方がないパティ　先に行こう=Yeeeep... He's gone... Whatever. Patty, let's go on ahead.
@@ -14190,11 +14190,11 @@
 !FILE:EV2421_012.bscr
 キッド君は　少し遅れてくるよ|本を返してくるんだって！=Kid's gonna be a little late. He had to return a library book or something!
 ・・・そう　わかったわ=... Right. Got it.
-やっぱり　保健室を|利用しすぎかな　アイツ？=So, he makes too many visits to the dispensary, huh?
+やっぱり　保健室を|利用しすぎかな　アイツ？=So, he makes too many visits to the infirmary, huh?
 彼は死神なんだから|人よりも丈夫なはずなのに|利用率が誰よりも多いの・・・=Since he's a grim reaper, you'd think that he would be better off than the regular students, but he visits more than anyone else...
 もう　少しなんとかならないか|彼と話してみようと思ったんだけど=I already tried having a little talk with him about it, but...
 無理だ|ありゃなおんねェよ！|きゃはははは♪=No use. His illness is incurable! Kyahahaha♪
-別にかまわないのよ|ここは保健室なんだから=There's isn't much I can do about it seeing as this is the dispensary.
+別にかまわないのよ|ここは保健室なんだから=There's isn't much I can do about it seeing as this is the infirmary.
 でも急に病気の人や|けが人がでたときなんか=But sometimes I have patients who are sick or injured who show up without warning...
 彼がベッドを占拠していると|困っちゃうのよ！=I can't have him occupying the bed when that happens!
 もしかして|私が昼寝にくるのも迷惑なのか？=But if I come to take a nap, that's not a problem, is it?
@@ -14214,11 +14214,11 @@
 なんか冷静だね・・・=He's calm now...
 う～ん・・・|もう慣れちゃったのかな|それにアイツ死神だからさ=Yeah... Calm as death. He is a grim reaper after all.
 そうだね　全然平気だろうね=Yep. He always looks grim, huh?
-しょうがないから|保健室に運んでやろうか・・・|先生　何ていうかな・・・=I guess we should probably carry him to the dispensary... What's the doctor going to say...?
+しょうがないから|保健室に運んでやろうか・・・|先生　何ていうかな・・・=I guess we should probably carry him to the infirmary... What's the doctor going to say...?
 !FILE:EV2421_025.bscr
 ・・・・・・・・・=.........
 !FILE:EV2421_026.bscr
-しょうがないから|保健室に運んでやろうか・・・|先生　何ていうかな・・・=I guess we should probably carry him to the dispensary... What's the doctor going to say...?
+しょうがないから|保健室に運んでやろうか・・・|先生　何ていうかな・・・=I guess we should probably carry him to the infirmary... What's the doctor going to say...?
 !FILE:EV2421_030.bscr
 ふーっ・・・=Hmph...
 何といっていいか・・・|さすがにすみません・・・=What should I say? ... We're really sorry...
@@ -14329,13 +14329,13 @@
 ほんとにヒドイな・・・=Absolutely hideous...
 もう　わかったから|さっさと出てけ=I got it already. Now get out.
 !FILE:EV2422_017.bscr
-あれ　まだ|保健室に行ってねェのか？=Huh? Weren't you going to the dispensary?
+あれ　まだ|保健室に行ってねェのか？=Huh? Weren't you going to the infirmary?
 もう行ってきた|そして　そこで|ソウルが魔剣にやられた傷跡を見た・・・=I already went. While I was there I saw the scar Soul got from the Demon Sword...
 傷はどうだったの？=How bad was it?
 左から　けさがけに|バッサリやられていた|本当にひどい・・・=It goes diagonally from his left shoulder all the way down his torso. It's hideous...
 うげぇ　聞いてるこっちが|ヘコんできたぜ・・・=Nngh. I feel terrible just thinking about it...
 ソウル君|大丈夫なんだよね？=Soul's okay, right?
-そのはずだけど|あいつ　今でもたまに|保健室に通っている・・・=He should be, yeah. But to think he's making the occasional trip to the dispensary even now...
+そのはずだけど|あいつ　今でもたまに|保健室に通っている・・・=He should be, yeah. But to think he's making the occasional trip to the infirmary even now...
 本当に大丈夫なのかな？=Will he really be all right?
 ソウルは何か|言ってなかったか？=Did Soul say anything?
 ・・・あまりに傷がひどすぎて|ソウルの話をまともに|聞いてなかった・・・=... If I'm being honest, I didn't listen to anything he said. That scar was just too hideous...
@@ -14716,7 +14716,7 @@
 どういうことなんだ父上|詳しく話を聞かせてくれ！=What are you talking about, father? Please, tell us everything you know!
 詳しい話は|まだ聞いてないんだけどね=I haven't heard the whole story yet, but...
 私が頼んだ指令を失敗|しちゃったみたいなのさ=Apparently he failed to carry out my orders.
-今はシド君|保健室に運ばれた|みたいだよ～ん♪=And now it looks like he's been taken to the dispensary♪
+今はシド君|保健室に運ばれた|みたいだよ～ん♪=And now it looks like he's been taken to the infirmary♪
 ところでシド君の|イメチェンの件だけどさ♪=By the way, about Sid's new look...♪
 父上　ごめん|その話は　後にさせてもらう=Sorry, father. That conversation will have to wait.
 もう！空気読んでよ|死神様！！=Come on, Lord Death! Read the room!!
@@ -14910,11 +14910,11 @@
 キッド君　ほら|死神装束だよ！=Kid, look! Reaper robes!
 ああぁぁぁぁああ・・・|ん！？=AaaaAAa...|Hn!?
 これは　まさに|死神装束！こんな所に|あったのか！？=These are reaper robes! They were here all along!?
-保健室にいかなくて|よかったね　キッド君♪=I bet you're glad we didn't take you to the dispensary, huh Kid♪?
+保健室にいかなくて|よかったね　キッド君♪=I bet you're glad we didn't take you to the infirmary, huh Kid♪?
 !FILE:EV2521_065.bscr
 うむ　問題ない=Yeah. No problem.
 !FILE:EV2521_066.bscr
-保健室にいかなくて|よかったね　キッド君♪=I bet you're glad we didn't take you to the dispensary, huh Kid♪?
+保健室にいかなくて|よかったね　キッド君♪=I bet you're glad we didn't take you to the infirmary, huh Kid♪?
 いいベッドで寝てたから|すごく気持ちよかったよ♪=I found a great bed to sleep in. It was super comfy♪
 !FILE:EV2521_067.bscr
 キッド君|何　もたもたしてるの？=Kid, what's taking you so long?
@@ -15162,7 +15162,7 @@
 !FILE:EV2924_042.bscr
 メデューサ先生について|知ってることがあったら教えてちょうだい♪=Pretty please♪ If you know anything about Dr. Medusa, will you tell us?
 実はあんまりよく|わからないんだよな・・・=Honestly, I don't really know anything about her...
-あれだけ保健室に|通っているのにか？=Even though you're always going to the dispensary?
+あれだけ保健室に|通っているのにか？=Even though you're always going to the infirmary?
 ああ　先生のプライベートな話は|まったくわかんねェ・・・=No. She doesn't talk about her private life at all...
 ミステリアスな女だ・・・|くそう　負けていられねェ！=A woman of mystery... Damn, I can't let her outdo me!
 もしかするとさ|子供なんかいたりしてね♪=Maye she has a kid. Like a little baby medusa♪
@@ -15221,10 +15221,10 @@
 やめんか　二人とも！=Quit it, you two!
 メデューサ先生が|助かったのだぞ|よかったではないか！=So Dr. Medusa has been saved. That's wonderful!
 それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
-もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the dispensary, so you can probably go see her there!
+もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the infirmary, so you can probably go see her there!
 !FILE:EV2924_076.bscr
 それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
-もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the dispensary, so you can probably go see her there!
+もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the infirmary, so you can probably go see her there!
 !FILE:EV2924_080.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 父上から聞きました|おケガがなくてなによりです=We heard from father that you weren't at all injured.
@@ -17101,16 +17101,16 @@
 いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I waaaas!!
 !FILE:EV2940_210.bscr
 ブレアをご指名なのね♪|張り切っちゃうんだから♪=You picked me? Probably because I'm so enthusiastic♪
-にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Meoha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
+にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Nyaha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
 ようやくブレアの出番なのね|ずいぶん待たされちゃった♪=It's finally time for my debut perfomance. Sorry for making you wait so terribly long♪
 !FILE:EV2940_211.bscr
 今回はブレアが相手だよ♪|退屈させないでね♪=I'll be your opponent this time♪ Try not to bore me♪
-にゃはははは♪|今回はブレアが先生なんだよ=Meohahaha♪ I'll be your teacher this time♪
+にゃはははは♪|今回はブレアが先生なんだよ=Nyahahaha♪ I'll be your teacher this time♪
 ブレア　先生のバイトして|きれいなお洋服を|たくさん買うのよ♪=Thanks to this new teaching job, I'll be able to shop for all sorts of pretty new clothes♪
 !FILE:EV2940_212.bscr
-ブレア先生に|ちゃんと挨拶しなさい|にゃはははは♪=Let me introduce myself. I'm your new teacher, Ms. Blair. Meohahaha♪
+ブレア先生に|ちゃんと挨拶しなさい|にゃはははは♪=Let me introduce myself. I'm your new teacher, Ms. Blair. Nyahahaha♪
 ブレア　死武専でも|バイトすることにしたの|よろしくね♪=I decided I'd get a part-time teaching job here at the DWMA♪
-にゃは♪|バイトだけどブレアは先生|とっても偉いのよ♪=Meoha♪ It's just a  part-time job, but I'm a pretty great teacher, huh♪?
+にゃは♪|バイトだけどブレアは先生|とっても偉いのよ♪=Nyaha♪ It's just a  part-time job, but I'm a pretty great teacher, huh♪?
 !FILE:EV2940_220.bscr
 ネコとはいえ女性|どう戦っていいか皆目見当がつかん・・・=Even if we forget the cat part. I don't even have the slightest idea how I'm supposed to fight a woman...
 そんなことよりも|目の前に集中してくれ！=Don't worry about that. Just keep your eyes focused on the target!
@@ -17275,24 +17275,24 @@
 仕方あるまい・・・|本当は　もう少しやりたかった|ところだが・・・=It was inevitable, but I was really hoping we'd do a little more than that...
 でもさ　キッド|結構楽しかったから|いいんじゃんかよ=But like you enjoyed yourself, Kid, so it's not so bad.
 !FILE:EV2941_220.bscr
-にゃは♪|みんなマタタビよりも|すごかったよ♪=Meoha♪ You guys were even better than catnip♪
+にゃは♪|みんなマタタビよりも|すごかったよ♪=Nyaha♪ You guys were even better than catnip♪
 わ～い♪|キャット先生に|ほめられちった♪=Yay♪ We got a compliment from Ms. Kitty♪
-にゃは♪|みんながカッコイイから|毛が逆立っちゃうわ♪=Meoha♪ You guys were so cool you made my fur stand on end♪
+にゃは♪|みんながカッコイイから|毛が逆立っちゃうわ♪=Nyaha♪ You guys were so cool you made my fur stand on end♪
 わ～い♪|キャット先生に|ほめられちった♪=Yay♪ We got a compliment from Ms. Kitty♪
 !FILE:EV2941_221.bscr
-にゃは♪|みんなお魚よりも|ステキだったよ♪=Meoha♪ You guys are the best thing since canned tuna♪
+にゃは♪|みんなお魚よりも|ステキだったよ♪=Nyaha♪ You guys are the best thing since canned tuna♪
 うれしさも|半分くらいだな　コリャ♪=Well, that's half a compliment♪
-にゃは♪|みんながステキだから|しっぽが生えてきそうよん♪=Meoha♪ You guys are almost cool enough to grow tails and become cats yourselves♪
+にゃは♪|みんながステキだから|しっぽが生えてきそうよん♪=Nyaha♪ You guys are almost cool enough to grow tails and become cats yourselves♪
 うれしさも|半分くらいだな　コリャ♪=Well, that's half a compliment♪
 !FILE:EV2941_222.bscr
-にゃは♪|ブレアが爪をとぐ柱より|強かったよ♪=Meoha♪ You guys are tougher than my scratching post♪
+にゃは♪|ブレアが爪をとぐ柱より|強かったよ♪=Nyaha♪ You guys are tougher than my scratching post♪
 うれしさも|半分くらいだな　コリャ♪=Well, that's half a compliment♪
-にゃは♪|カッコよかったみんな♪=Meoha♪ You guys are so good it should be a feliney♪#The Japanese here just says "You guys were great." I think they ran out of cat jokes, so I came up with a little pun to make it a little more interesting.
+にゃは♪|カッコよかったみんな♪=Nyaha♪ You guys are so good it should be a feliney♪#The Japanese here just says "You guys were great." I think they ran out of cat jokes, so I came up with a little pun to make it a little more interesting.
 うれしさも|半分くらいだな　コリャ♪=Well, that's half a compliment♪
 !FILE:EV2941_223.bscr
-にゃは♪|みんな強くなってるんだね♪=Meoha♪ You guys have gotten so strong♪
+にゃは♪|みんな強くなってるんだね♪=Nyaha♪ You guys have gotten so strong♪
 また遊ぼうね|ネコちゃん♪=Let's play some more later, Kitty Cat♪
-にゃは♪|けっこうイケてたよ　みんな♪=Meoha♪ You guys are as fun as a ball of yarn♪
+にゃは♪|けっこうイケてたよ　みんな♪=Nyaha♪ You guys are as fun as a ball of yarn♪
 また遊ぼうね|ネコちゃん♪=Let's play some more later, Kitty Cat♪
 !FILE:EV2941_280.bscr
 いいかげんにしろよ|ヘタレ=Get a grip, damn you.
@@ -18354,7 +18354,7 @@
 !FILE:EV9962_123.bscr
 ・・・・・・・・・=.........
 !FILE:EV9962_200.bscr
-にゃはは♪|じゃあね～♪=Meohaha♪ Bye, now♪
+にゃはは♪|じゃあね～♪=Nyahaha♪ Bye, now♪
 !FILE:EV9962_201.bscr
 ブレアも忙しいから|もう行くね！=I'm going to go. I have kitty some business to take care of!
 !FILE:EV9962_202.bscr
@@ -18534,7 +18534,7 @@
 デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Spirit or Blair...
 ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our appartment, I've totally lost my cool while at home...
 誰か　あのネコ|もらってくれねェかな・・・=Does anybody want to take a cat off my hands?
-何回行っても|保健室って所は落ち着かねェぜ=No matter how many times I go there, I always feel terrible while I'm in the dispensary.
+何回行っても|保健室って所は落ち着かねェぜ=No matter how many times I go there, I always feel terrible while I'm in the infirmary.
 あそこにいると|自分が本当に病人と思えてくるしよ=Whenever I'm there, I can't help but to start thinking I'm actually sick.
 俺がここにいることは|俺んとこのご主人様には内緒だぜ=I'm hiding out here to avoid my meister.
 見つかると　手伝いやら|課題やらで色々めんどくせェからよ=If she finds me it'll be nothing but mission this and homework that!
@@ -18620,21 +18620,21 @@
 !FILE:EV9967_080.bscr
 趣味で　漢方薬を作っているの|もしよかったら試してもらえないかしら？=I'm making herbal medicine as a hobby. Could you help me with testing it, please?
 大丈夫よ|危険なものじゃないわ♪=Don't worry, it's nothing dangerous ♪
-わかっていると思うけど|保健室は病人やけが人の|ための部屋なのよ=I'm sure you already know this, but the dispensary is a place for the sick and injured.
+わかっていると思うけど|保健室は病人やけが人の|ための部屋なのよ=I'm sure you already know this, but the infirmary is a place for the sick and injured.
 来てくれるのはうれしいけど|その辺をちゃんと考えてね♪=I enjoy visitors, but try to keep that in mind, okay♪?
 はじめは死武専の構造に手間取ったけど|この頃はずいぶんなれたのよ=It was difficult to navigate the DWMA at first, but I've gotten used to it.
 もう目をつぶっても歩けるわ|何があっても大丈夫よ♪=I could find my way around with my eyes closed now♪
 最近はすごく物騒になったのよ・・・=I've been a little on edge lately...
-保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the dispensary.
+保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the infirmary.
 全部同じに見えるけど|白衣って意外と奥が深いのよ♪=They all look the same at first glance, but laboratory coats can be surprisingly varied♪
 今日の白衣は|ちょっと小悪魔風にしてみたけど|どうかしら？=As for the coat I'm wearing today, I was going for a temptress look. How'd I do?
 死神様って|どうして死武専付近にしか|現れないのかしら？=I wonder why I only ever see Lord Death around the DWMA.
 もし　事情を知るようなことがあったら|私に教えてちょうだい♪=I'm dying to know, so if you come across any clues, don't forget to fill me in, okay♪?
 私の顔って|結構きついって言われてるの・・・|まるでヘビみたいって・・・=I've heard my face can be rather sharp... Almost snake-like...
 口に出されると|結構ショックだから|心の中で思うだけにしてね♪=It's a little shocking to say out loud like that, but just think about it♪
-こんな時に保健室なんて|怖気づいたのかしら？=Were you so frightened you had to come to the dispensary?
+こんな時に保健室なんて|怖気づいたのかしら？=Were you so frightened you had to come to the infirmary?
 !FILE:EV9967_081.bscr
-こんな時に保健室なんて|怖気づいたのかしら？=Were you so frightened you had to come to the dispensary?
+こんな時に保健室なんて|怖気づいたのかしら？=Were you so frightened you had to come to the infirmary?
 !FILE:EV9967_090.bscr
 これから　ちょっと|ヤボ用で外出してくるからよ=I'll be leaving to take care of a few small errands.
 死神様とかには|内緒にしてくれよな！|もちろんマカにもだぜ！=Just don't mention it to Lord Death! And not a word about it to Maka either!
