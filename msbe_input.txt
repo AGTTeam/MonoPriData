@@ -227,21 +227,21 @@
 にゃはは～♪=Nyahahaa♪
 それじゃあ|また　あいましょう♪=See ya later♪
 !FILE:EV0120_002.bscr#明日の解剖授業 = Tomorrow's Dissection Class Part 32最近の風潮からすると|そういう
-ゴキゲンみたいだけど|何かいいことでも|あったのかしら？=You look like you're in a pretty good mood. Hm... Why might that be?
-おもしろいね|マカのと～ちゃん♪|きゃはははは！=He's so funny, Maka♪ Your dad! Kyahahaha!
-デスサイズのことか？|アイツ何やってたんだ？=Spirit? What was he up to this time?
+ゴキゲンみたいだけど|何かいいことでも|あったのかしら？=You look like you're in a pretty good mood. And why might that be, I wonder.
+おもしろいね|マカのと～ちゃん♪|きゃはははは！=Your dad is so funny, Maka! Kyahahaha!
+デスサイズのことか？|アイツ何やってたんだ？=Death Scythe? What's he up to this time?
 泣き笑いで博士と|じゃれあってたよ！=He was goofing around with the professor and laughing so hard he was crying!
 博士がらみか|何か嫌な予感がするぜ・・・=With the professor? I have a bad feeling about this...
 ほぇ？何でそんなに|深刻になっちゃうの？=Huh? Why so serious all of a sudden?
-なんだか胸騒ぎがする・・・|様子を見てこようかな・・・=Something doesn't add up... We should go see what's up...
+なんだか胸騒ぎがする・・・|様子を見てこようかな・・・=Something doesn't add up... I think we should go check on them.
 !FILE:EV0120_006.bscr
 博士がらみか|何か嫌な予感がするぜ・・・=With the professor? I have a bad feeling about this...
 ほぇ？何でそんなに|深刻になっちゃうの？=Huh? Why so serious all of a sudden?
 !FILE:EV0120_007.bscr
-お前　デスサイズのことが|気になってるのか？=You're a little worried about Spirit, huh?
-うん　一応　パパだからね|ヒドイことされてなきゃいいけど・・・=Yeah. Like it or not, he is my papa, so I'd rather nothing bad happened to him...
-博士は恐ろしい科学者だけど|デスサイズもサイテーの父親だ|結構いい勝負になるんじゃねェか？=The professor is a mad scientist, but Spirit is the world's worst father. Should make for an interesting match.
-それって|どういう勝負なの？=What kind of a match is that?
+お前　デスサイズのことが|気になってるのか？=You're actually kind of worried about him, aren't you?
+うん　一応　パパだからね|ヒドイことされてなきゃいいけど・・・=Yeah. Like it or not, he is my papa, so I'd rather nothing bad happen to him...
+博士は恐ろしい科学者だけど|デスサイズもサイテーの父親だ|結構いい勝負になるんじゃねェか？=The professor is a mad scientist, but Death Scythe's the world's worst father. Should make for quite the match.
+それって|どういう勝負なの？=What kind of match are we talking about?
 !FILE:EV0120_010.bscr
 ・・・・・・・・・=.........
 どうしたの　パパ？=What's wrong, papa?
@@ -249,9 +249,9 @@
 パパ・・・パパ！|どうしたのパパ|しっかりして！=Papa... Papa! What's wrong, papa? Pull yourself together!
 悪魔の実験は|終わってなかったのか|ちくしょう　シュタイン・・・=I thought that devil's experiments would never end. That damn Stein...
 やっぱり博士が|何かやったんだわ=Of course the professor is behind this.
-ソウル　博士を|さがしましょう！=Soul, can you help me look for the professor?
+ソウル　博士を|さがしましょう！=Soul, will you help me look for the professor?
 マジかよ|あんまりかかわりたくねェなあ・・・=You serious? I don't really want to get involved...
-もう　お願いだから|シャキッとしてちょうだい！=Come on. Don't be a slacker. I asked nicely!
+もう　お願いだから|シャキッとしてちょうだい！=Come on. Don't be a baby. I asked nicely!
 !FILE:EV0120_015.bscr
 ・・・・・・・・・=.........
 !FILE:EV0120_016.bscr
@@ -260,11 +260,11 @@
 ・・・・・・・・・=.........
 無口だな|もしかして　お前|ビビってんじゃねェのか！？=You're not very talkative. You're nervous, aren't you!?
 私は怖いわよ|そりゃ授業中なんかは|いい先生なんだけどね=I'm scared, yeah. He's a good teacher during class and everything, but...
-教室とかで二人きりに|なった時には　すごい目で|見られている時があるのよ・・・=Whenever it's just the two of us in the classroom or wherever, sometimes he watches me with this intense look in his eyes...
+教室とかで二人きりに|なった時には　すごい目で|見られている時があるのよ・・・=Whenever it's just the two of us in the classroom or wherever, he stares at me with this really intense look in his eyes...
 大丈夫だぜ|今は人目があるから|博士も無茶はしねェよ！！=It'll be okay. There will be witnesses, so even the professor wouldn't do anything weird!!
-そういう|はげまし方ってないと思う・・・=Is that supposed to make me feel better...?
+そういう|はげまし方ってないと思う・・・=Is that supposed to make me feel better?
 !FILE:EV0120_022.bscr
-博士　デスサイズに|何をしたんだよ？=Professor, what did you do to Spirit?
+博士　デスサイズに|何をしたんだよ？=Professor, what did you do to Death Scythe?
 身に覚えがありすぎて|何のことを言われているのか|まったくわかりません？=I've done far too many things to remember them all, so I haven't the faintest idea what you're talking about.
 ありすぎてって・・・=When you say "too many things"...
 でも博士　なんで|パパばかりなんですか？=But, professor, why only to papa?
@@ -274,13 +274,13 @@
 ジャマするなってことか=Don't interfere, right?
 あはは・・・|肝に銘じておきます・・・=Ahaha... I'll keep that in mind...
 とにかく　これだけは|覚えておいてほしいのですが=Anyway, I just want you to remember one thing...
-今も昔もスピリット先輩は|俺にとって最高のパートナーであることに|変わりはありません=Spirit has and will always be my most useful partner, and nothing will ever change that.
+今も昔もスピリット先輩は|俺にとって最高のパートナーであることに|変わりはありません=Spirit has and will always be my most... useful partner, and nothing will ever change that.
 パートナーって|何か裏の意味がありそうで|怖ェよ博士・・・=I get the feeling there's some hidden meaning there. He gives me the creeps...
 !FILE:EV0120_026.bscr
 とにかく　これだけは|覚えておいてほしいのですが=Anyway, I just want you to remember one thing...
-今も昔もスピリット先輩は|俺にとって最高のパートナーであることに|変わりはありません=Spirit has and will always be my most useful partner, and nothing will ever change that.
+今も昔もスピリット先輩は|俺にとって最高のパートナーであることに|変わりはありません=Spirit has and will always be my most... useful partner, and nothing will ever change that.
 !FILE:EV0120_027.bscr
-そうだ　君達に|お願いがあります=Right. I have a little favor to ask of you.
+そうだ　君達に|お願いがあります=By the way, I have a little favor to ask of you.
 なんだよ　博士？=What now, professor?
 明日の授業は解剖だと|いうことを皆に知らせておいてください=I'd like you to please inform your classmates that tomorrow's class will be on dissection.
 またかよ=Again!?
@@ -288,20 +288,20 @@
 とんでもない　明日は|特別な生物を使った解剖ですよ=You misunderstand me. Tomorrow we will be dissecting quite an exceptional organism.
 そもそもあれが生物と|いえるかどうか・・・疑似生物と|いったほうが正確でしょう=To begin with, I'm not sure I should even call it an organism... Perhaps it would be more precise to refer to it as an artificial organism.
 ははは　がんばります=Hehehe... We'll do our best.
-とにかくマカにソウル|お願いしましたよ！=In that case, I'll leave it to you two!
+とにかくマカにソウル|お願いしましたよ！=Great. I'll leave it to you two then!
 !FILE:EV0120_032.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
 なんだよ　また解剖かよ|つまんねェな　特訓してたほうが|１００倍マシだぜ！=What? Dissection again? That's so boring. Intensive training would be a hundred times better!
 ゼッタイ来るように|博士が言ってたわよ？=The professor said it's important that everyone come.
-ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what Mr. Screw-n-Glasses said! I can't stop my special training!
+ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what that screwball four-eyes said! I can't stop my special training!
 !FILE:EV0120_036.bscr
-ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what Mr. Screw-n-Glasses said! I can't stop my special training!
+ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what screwball four-eyes said! I can't stop my special training!
 !FILE:EV0120_042.bscr
-明日は解剖の授業があるよ=Tomorrow will be a class on dissection.
-病気になって|学校をお休みすれば|授業を受けなくていいですよね・・・=You can't really go to class if you're sick and have to stay at home for the day, huh...?
+明日は解剖の授業があるよ=We've got a class on dissection tomorrow.
+病気になって|学校をお休みすれば|授業を受けなくていいですよね・・・=Nobody could really blame me for missing class if I were sick, could they?
 そんなに嫌だったのか=Is it really that bad?
 !FILE:EV0120_046.bscr
-病気になって|学校をお休みすれば|授業を受けなくていいですよね・・・=You can't really go to class if you're sick and have to stay at home for the day, huh...?
+病気になって|学校をお休みすれば|授業を受けなくていいですよね・・・=Nobody could really blame me for missing class if I were sick, could they?
 そんなに嫌だったのか=Is it really that bad?
 !FILE:EV0120_052.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
@@ -321,7 +321,7 @@
 いやだよ服が汚れるし|爪が汚くなる！=No can do. My clothes could get dirty. And think about my nails!
 そういう問題じゃねェだろ|ゼッテェ　来いって|博士が言ってたぜ？=That's not my problem. The professor said everyone has to come. No exceptions.
 服が汚れたら　お前が|弁償してくれるのかよ！？='Cause you think he's the one who's going to buy me new clothes when they get dirty!?
-何言ってんだよ　お前・・・=Are you serious right now...?
+何言ってんだよ　お前・・・=Are you serious?
 !FILE:EV0120_066.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
 いやだよ服が汚れるし|爪が汚くなる！=No can do. My clothes could get dirty. And think about my nails!
@@ -329,31 +329,31 @@
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
 何か食べられるかな？=Will we be able to eat it afterward?
 調理実習じゃないから|無理だと思うけど・・・=It's not a cooking class, so I highly doubt it...
-え～～っ！|そんなのツマンナイ！=Whaaat!? That's no fun!
+え～～っ！|そんなのツマンナイ！=Awwww! That's no fun!
 !FILE:EV0120_076.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
-え～～っ！|そんなのツマンナイ！=Whaaat!? That's no fun!
+え～～っ！|そんなのツマンナイ！=Awwww! That's no fun!
 !FILE:EV0120_087.bscr
 それにしても解剖の授業は|人気がねェな・・・=I don't think anyone's too jazzed about this dissection class...
-完全に博士の|個人的な趣味だもんね・・・=It's the professor's own personal hobby...
+完全に博士の|個人的な趣味だもんね・・・=It's the professor's own personal hobby.
 このままだと|みんな授業に来てくれないよ・・・=At this rate, nobody's going to come to class tomorrow...
-仕方ねェんじゃないか|みんな　もうあきちまったんだよ！=There's nothing you can do. Everyone's had enough already!
+仕方ねェんじゃないか|みんな　もうあきちまったんだよ！=There's nothing you can do. Everyone's sick of it!
 そうなったら|私達と博士の三人きりだよ・・・=But that means it'll be just us three tomorrow...
 俺も多分行かねェから|正確にはマカと博士の|二人だけだぜ！=I doubt I'm going, so it'll probably just be you and the professor actually!
 もうソウルったら|マジメに考えてちょうだい！=Soul, will you please be serious for a second!
-う～～ん　じゃあ|死神様に相談にいこうか？=Nnnngh. Fine, why don't we try talking to Lord Death?
-それもアリね|怪しい授業が多すぎるのは|たしかなんだから・・・=That's not a bad idea. I mean, there have definitely been far too many of these bizarro classes...
-死神様に苦情を言っても|バチはあたらないわ！=It can't hurt to just complain to Lord Death!
+う～～ん　じゃあ|死神様に相談にいこうか？=Nnnngh. Fine. Why don't we try talking to Lord Death?
+それもアリね|怪しい授業が多すぎるのは|たしかなんだから・・・=That's not a bad idea. I mean, we've definitely had way too many of these bizarro classes...
+死神様に苦情を言っても|バチはあたらないわ！=It can't hurt to put in a complaint to Lord Death!
 じゃ　決まりだな|デスルームに行こうぜ！=It's settled then. Let's go to the Death Room!
 !FILE:EV0120_092.bscr
 ・・・・・・・・・=.........
-あれれ？|どうしちゃったのかな？=Uh oh. What happened here, hm?
-死神様　あのネジメガネを|何とかしてくれよ=Lord Death, you've gotta do something about that Mr. Screw-n-Glasses!
+あれれ？|どうしちゃったのかな？=Uh-oh. What happened here, hm?
+死神様　あのネジメガネを|何とかしてくれよ=Lord Death, you've gotta do something about that screwball four-eyes!
 シュタイン君が|どうかしたのかな？=Whatever has Stein done this time?
 授業の内容が|解剖ばっかりなんです=His class's content. It's nothing but dissection.
 う～～ん|気持ちはわかるけどね♪=Hmmm... I understand how you feel♪
 たしかにシュタイン君の|授業内容は偏っていると|私も思うよ～ん♪=I agree the content of Stein's class is heavily biased♪
-じゃあ　死神様！=Then Lord Death...!
+じゃあ　死神様！=Then that means...!
 うん　でも今すぐという|話じゃないよ=Yes... But I can't do anything immediately.
 シュタイン君にも考えがあると思うから|まずは事情を確認してみないとね～ん♪=I'm sure Stein has his reasons, so I must first confirm that the situation is as it appears♪
 ゼッテェ|あいつの趣味だよ・・・=It's just a hobby for him...
@@ -364,12 +364,12 @@
 どうしたんですか博士？|そんな恐ろしい顔をして=What's wrong, professor? Why that scary look?
 これは失礼しました|俺としたことが取り乱してしまったようです=My apologies. I, of all people, have made a colossal blunder, it would seem.
 実は　明日の授業に使おうとしていた|疑似生物が逃げ出してしまったのです=The truth is, the artificial organisms that I intended to use during tomorrow's class have escaped.
-ラッキー|あっ　なんでもありません|続けてください=Yes! Ah, ignore me. Please continue.
+ラッキー|あっ　なんでもありません|続けてください=Yes! Oh, ignore me. Please continue.
 俺がこの手で捕まえたいのですが|あいにくとヒマがありません・・・=I wish I could capture them myself, but my hands are, unfortunately, full at the moment...
-ますますラッキーだな♪=It's my lucky day♪
+ますますラッキーだな♪=It must be our lucky day♪
 そうだ　もしよかったら|君達が疑似生物を|捕まえてきてくれませんか？=Indeed. If you're up to it, I would appreciate it if you could catch the artificial organisms for me.
-詳しいことはシドに伝えてあるので|もしよかったら聞いてみてください=If your interested, please speak with Sid. I left him with all the necessary details.
-どうする　マカ？|別の授業になりそうだから|放っておけばいいんじゃねェか？=What do you want to do, Maka? This would be mean a different class, so maybe we should just ignore it.
+詳しいことはシドに伝えてあるので|もしよかったら聞いてみてください=If you're interested, please speak with Sid. I left him with all the necessary details.
+どうする　マカ？|別の授業になりそうだから|放っておけばいいんじゃねェか？=What do you want to do, Maka? This would mean a different class, so maybe we should just ignore it.
 う～ん　でもそれじゃあ|根本的な解決には|ならないと思うし・・・=Yeeeah. But I think that would only be a temporary solution...
 !FILE:EV0120_102.bscr
 手伝ってほしいことがあるのだが|聞いてもらえないか？=I have something I'd like to ask your help with if you don't mind.
@@ -388,14 +388,14 @@
 とりあえず　回収した|疑似生物は俺のほうで預かっておこう=I can hold on to the artificial organism you recovered for now.
 先生|これ　私の方から博士に|渡しておきます=Sid, if it's all right, I'd like to give this to the professor myself.
 うむ　それでは|お願いすることにしよう=Sure. In that case, I'll leave it to you.
-ちゃんとシュタインに渡すんだぞ・・・|そうしないと|アイツに何をされるかわからん・・・=But be sure to give it to him, though... If you don't, I don't know what he might do...
+ちゃんとシュタインに渡すんだぞ・・・|そうしないと|アイツに何をされるかわからん・・・=But be sure to give it to him. If you don't... who knows what he might do...
 !FILE:EV0120_116.bscr
-ちゃんとシュタインに渡すんだぞ・・・|そうしないと|アイツに何をされるかわからん・・・=But be sure to give it to him, though... If you don't, I don't know what he might do...
+ちゃんとシュタインに渡すんだぞ・・・|そうしないと|アイツに何をされるかわからん・・・=But be sure to give it to him. If you don't... who knows what he might do...
 !FILE:EV0120_117.bscr
-まさかお前|解剖を楽しんでいたのか・・・|博士だけだと思ってたんだがな・・・=I can't believe you actually enjoy dissecting things... I figured the professor was the only one...
+まさかお前|解剖を楽しんでいたのか・・・|博士だけだと思ってたんだがな・・・=I can't believe you actually enjoy dissecting things. I figured the professor was the only one...
 何言ってるのよソウル|そんなわけないじゃない！=What are you talking about, Soul? You're way off the mark!
 じゃあ　そいつら|どうするんだよ！？=Then what did you go through all that trouble getting it back for!?
-しばらく隠れて飼おうと|思うの・・・誰にも見つからない|私の秘密の場所で=I'm thinking about hiding it for a while... We'll keep it in a secret spot where nobody will find it.
+しばらく隠れて飼おうと|思うの・・・誰にも見つからない|私の秘密の場所で=I'm thinking about hiding it for a while. We'll keep it in a secret spot where nobody will find it.
 その意見には賛成だ|やるじゃねェか　マカ！=Now that's an idea I can get behind! What are you waiting for, Maka?
 じゃあ|さっそく　この子達を隠してくるね！=Right. I'm gonna hurry and hide the little guy!
 お待たせ　ソウル！=Sorry for the wait, Soul!
@@ -404,30 +404,30 @@
 お前　何も考えて|なかったのか？=You mean you didn't consider any of that beforehand?
 えへへ=Ehehe...
 ったく|しょうがねェなあ・・・=Geez! Whatever...
-ま　でも博士だって|すぐには気づかねェよ|バレたらそん時考えようぜ！=Well, but it's the professor. He won't notice right away. We'll deal with it once the cat's out of the bag!
+ま　でも博士だって|すぐには気づかねェよ|バレたらそん時考えようぜ！=Knowing the professor, he won't notice right away. We'll deal with it once the cat's out of the bag!
 !FILE:EV0120_122.bscr
-お前達|シュタインにあれを渡してないのか・・・=Why didn't you two give that thing to Stein...?
-何でそれを|知ってるんだ？=How do you know that?
-今のシュタインを見ればわかる|ものすごい顔をして|お前達をさがしているぞ・・・=I knew it the moment I saw Stein. I he was looking for you, and he had this look of pure excitement on his face...
+お前達|シュタインにあれを渡してないのか・・・=Why didn't you two give that thing back to Stein...?
+何でそれを|知ってるんだ？=How did you know?
+今のシュタインを見ればわかる|ものすごい顔をして|お前達をさがしているぞ・・・=I knew it the moment I saw Stein. He was looking for you, and he had this look of pure excitement on his face...
 ソウル・・・=Soul...
 いつまでもココにいたら危険だ|とにかく他の所に逃げよう！=Every second we stay here is a risk. For right now we need to get somewhere safe!
 !FILE:EV0120_126.bscr
-お前達|シュタインにあれを渡してないのか・・・=Why didn't you two give that thing to Stein...?
+お前達|シュタインにあれを渡してないのか・・・=Why didn't you two give that thing back to Stein...?
 !FILE:EV0120_132.bscr
 あなた達を|シュタイン博士が|さがしてたわよ=Professor Stein was looking for you two.
-げっ　やべェよ・・・=Ngh... This is bad...!
-それにしても博士|ステキな顔をしていたわ・・・=I don't know, but he looked like he was in a wonderful mood, at any rate...
+げっ　やべェよ・・・=Ngh! This is bad...
+それにしても博士|ステキな顔をしていたわ・・・=I don't know about that. If you ask me, he looked to be in a wonderful mood.
 いつも　ああいう顔だったら|いつだってダンスに付き合って|あげるのに・・・=I'd be ready to dance with him at a moments notice if he were always in such a mood...
-趣味が悪い・・・=What bad taste...
+趣味が悪い・・・=What terrible taste in men...
 先生の趣味なんて|どうでもいいから早く逃げるぞ！=Forget about the doctor's taste. We need to get out of here, like, yesterday!
 !FILE:EV0120_136.bscr
-それにしても博士|ステキな顔をしていたわ・・・=I don't know, but he looked like he was in a wonderful mood, at any rate...
+それにしても博士|ステキな顔をしていたわ・・・=I don't know about that. If you ask me, he looked to be in a wonderful mood.
 !FILE:EV0120_140.bscr
-やだ　誰かが|カギを閉めたみたい・・・=No way. I think someone locked the door...
+やだ　誰かが|カギを閉めたみたい・・・=No way! I think someone locked the door...
 ・・・・・・・・・=.........
 うおぅ！！？=Whoa!!?
 やめてくれよ|博士が急に出てくるから|ビックリしたじゃねェか！=Don't sneak up on me like that! You freaked me out!
-そうよ　急にカギなんかかけて|一体　どういうつもりなんですか？=And why is the door locked all of a sudden? What the heck are you trying to do?
+そうよ　急にカギなんかかけて|一体　どういうつもりなんですか？=And why'd you lock the door like that? What the heck are you trying to do?
 二人とも|俺の大切なあれを|どうしたんですか？=What have the two of you done with that precious organism of mine?
 ああ　あれね！|他のヤツが回収に|行ったんじゃねェかな？=Oh, that! Didn't somebody else go to find it?
 そうよ　博士|私達は何も知らないわ=Yeah, professor. We don't know anything about it.
@@ -483,7 +483,7 @@
 やったな！|解剖の授業がなくなったぜ！=Sweet! No more dissection classes!
 本当によかったわ・・・=I'm so glad everything worked out...
 !FILE:EV0120_157.bscr
-ふぅ・・・一時は|どうなることかと思ったわ・・・=Phew... For a minute there, I wasn't sure what was going to happen...
+ふぅ・・・一時は|どうなることかと思ったわ・・・=Phew... For a minute there, I wasn't sure what was going to happen.
 まあ　でも結果的には|解剖の授業がなくなったから|よかったんじゃねェか？=Yeah. But in the end, the dissection classes are no more, so I'd say it was worth it.
 そうね・・・後はアパートに|戻る時にでも　あの子達を|逃がしてあげることにしましょう♪=Definitely... When we get back to the apartment later, I think we should set the little guy free♪
 ・・・・・・・・・=.........
@@ -496,7 +496,7 @@
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
 今　君達が頭で想像したよりも|もっとすごいことをしちゃいます=Anything you could possibly imagine in those little heads of yours will pale in comparison to what I have planned.
-ソウル　やっぱり|あの人メチャクチャだ・・・・・・=Soul, I think he means it...
+ソウル　やっぱり|あの人メチャクチャだ・・・・・・=Soul, I think he means it.
 クールな俺も命は惜しい|今後　博士のものには|ぜってェ手を出さねェ！=Even a cool guy like me values his own life. From now on, I'm not laying a finger on any of the professor's things!
 !FILE:EV0121_002.bscr#アイテムハンター = Item Hunter chapter Part 33
 どうしたマカ？|ずいぶん顔色が|悪いみたいだけど・・・=Are you all right, Maka? You look really pale...
@@ -6296,7 +6296,7 @@
 ふっ　今日という日が|来ることは　はじめから|わかっていた・・・=Heh, I always knew that this day was going to come...
 もともとあのツボは|スターである俺様の特訓に|付き合うには　役不足だったのさ！=You see, this jar was never good enough to participate in the special training of a star like me to begin with!
 そうかしら|たんにブラック☆スターの|不注意だと思うんだけど=I wonder about that. To me it seems like you were just being careless, to be honest.
-こうなったら仕方がない・・・|ネジメガネに|新しいツボをもらいに行くぜ=There's no helping it, then... We must go ask Mr. Screw-n-Glasses for a new jar.
+こうなったら仕方がない・・・|ネジメガネに|新しいツボをもらいに行くぜ=There's no helping it, then... We must go ask that screwball four-eyes for a new jar.
 てことは|まだ特訓をあきらめてないの？=So you aren't giving up on the training yet?
 言っただろう|特訓ステージを見せてやるって！|ひやっはははははは☆=Didn't I tell you that I was going to show you my magnificent special training? Hyahahahaha☆
 とほほ|今度はシュタイン博士の所に行くのね=Awww. So we're visiting Professor Stein this time, huh?
@@ -7521,7 +7521,7 @@
 ひやっはぁ☆|話がわかるじゃねェか=Yahoo☆ Did you hear that?
 それじゃあ博士|私達は単独で出かけても・・・=Then, professor, we could go out indepen...?
 それとこれとは話が別です|単独行動は認められません=That's an entirely different question. I cannot approve independent movement.
-なんだよ　ネジメガネ！|期待させんじゃねェよ！=Why Mr. Screw-n-Glasses!? Don't get my hopes up like that!
+なんだよ　ネジメガネ！|期待させんじゃねェよ！=Screw you, professor! Why'd you go and get my hopes up like that!?
 課外授業には|必ず二組で出かけてください|ルールを破ったらお仕置きですよ！=Please be sure to partner up with another team for any extracurricular classes. The breaking of rules will be punished!
 !FILE:EV1320_016.bscr
 課外授業には|必ず二組で出かけてください|ルールを破ったらお仕置きですよ！=Please be sure to partner up with another team for any extracurricular classes. The breaking of rules will be punished!
@@ -7722,7 +7722,7 @@
 えへへ・・・|お礼を言うべきなんでしょうか・・・=Should I be thanking you...?
 !FILE:EV1320_157.bscr
 痛ててて・・・=Ow, ow, ow...
-あのネジメガネ|俺様を亡き者にする気まんまんだったぜ！=That Mr. Screw-n-Glasses! He really wanted to do me in!
+あのネジメガネ|俺様を亡き者にする気まんまんだったぜ！=That screwball four-eyes! He really wanted to do me in!
 これにこりたなら|ちょっと行動をつつしんでちょうだい・・・=If you learned your lesson, please try to behave a little...
 何言ってんだよ|俺様は神を超越する男だぜ！|こんなことでつまずいてらんねェ☆=What are you saying? I'm the man that will surpass God! I can let a thing like that hold me back☆
 はぁ・・・|まだこりないのね・・・=*Sigh*... He hasn't learned yet...
@@ -9456,7 +9456,7 @@
 まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale! Yeah? Yeah♪?
 俺様は|落ち込んでなんかいねェぞ　ダンナ！=We don't need any pep talk, boss!
 そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa your worried about, Stein rescued her♪
-なんだって　あのネジメガネ|よくも俺様のステージを|横取りしやがったな！=Mr. Screw-n-Glasses!? I can't believe he would dare upstage me!
+なんだって　あのネジメガネ|よくも俺様のステージを|横取りしやがったな！=That screwball four-eyes!? I can't believe he would dare upstage me!
 そんな言い方しないの！|ブラック☆スター=Let it go, Black☆Star!
 メデューサ先生が助かったんだから|それを喜びましょう・・・=Let's just be happy that Dr. Medusa is safe
 ちっ　納得いかねェ・・・=Tch! Whatever...
@@ -9486,7 +9486,7 @@
 !FILE:EV1924_102.bscr
 どうしたんですか博士|こんな所に一人で？=Are you okay, professor? Why are you here all alone?
 今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
-なんだよ　ネジメガネ！|それは自慢かよ　いいかげんにしやがれ！=Are you for real, Mr. Screw-n-Glasses!? First you upstage me, and now you want to brag!?
+なんだよ　ネジメガネ！|それは自慢かよ　いいかげんにしやがれ！=Screw you, professor! First you upstage me, and now you want to brag!?
 まぁ　まぁ|抑えてください・・・=Come on now. Try not to get carried away...
 いや　別に自慢を|していたわけではないのですが・・・=No, it really doesn't have anything to do with me wanting to boast...
 すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget about what I was just saying...
@@ -11673,7 +11673,7 @@
 ブラック☆スター|シド先生が相手なんだから|真剣に行きましょう=Black☆Star. Our opponent is Sid, so let's take this seriously.
 ひゃっはっは|そんな小物　前みたいにとっ捕まえてやるぜ=Hyaha! I'll catch that small fry like before.
 !FILE:EV1981_720.bscr
-椿！　ネジメガネは手強い！|俺様の後光で目が眩んだ|瞬間を狙うぞ=Tsubaki, Mr. Screw-n-Glasses is no joke! Wait for the moment his eyes get lost in my aura of light and then we pounce!
+椿！　ネジメガネは手強い！|俺様の後光で目が眩んだ|瞬間を狙うぞ=Tsubaki, that screwball four-eyes is no joke! Wait for the moment his eyes get lost in my aura of light and then we pounce!
 ぁぁ・・・|えっと・・・ブラック☆スター？|今のは・・・作戦かしら？=Uhh... Um... Black☆Star? Is that a... real strategy?
 !FILE:EV1988_100.bscr
 だいたいこんな感じだったと|思うのですが・・・=That's pretty much how it went, I think...
