@@ -499,66 +499,66 @@
 ソウル　やっぱり|あの人メチャクチャだ・・・・・・=Soul, I think he means it.
 クールな俺も命は惜しい|今後　博士のものには|ぜってェ手を出さねェ！=Even a cool guy like me values his own life. From now on, I'm not laying a finger on any of the professor's things!
 !FILE:EV0121_002.bscr#アイテムハンター = Item Hunter chapter Part 33
-どうしたマカ？|ずいぶん顔色が|悪いみたいだけど・・・=Are you all right, Maka? You look really pale...
+どうしたマカ？|ずいぶん顔色が|悪いみたいだけど・・・=Are you all right, Maka? You're really pale.
 うん　昨日遅くまで|調べものをしていたから・・・=I'm all right. I was up late last night looking into something...
-よくわからないけど|私でよかったら　いつでも|相談に乗るぜ！=I'm not sure what you're talking about, but if you ever someone to talk to, I give good advice!
-ありがとう　でも|ものすごく個人的なことなの・・・=Thanks, but it's something extremely personal...
+よくわからないけど|私でよかったら　いつでも|相談に乗るぜ！=I'm not sure what you're talking about, but if you ever need someone to talk to, I give good advice!
+ありがとう　でも|ものすごく個人的なことなの・・・=Thanks, but it's pretty personal...
 ・・・・・・・・・=.........
 !FILE:EV0121_006.bscr
 よくわからないけど|私でよかったら　いつでも|相談に乗るぜ！=I'm not sure what you're talking about, but if you ever someone to talk to, I give good advice!
-ありがとう　でも|ものすごく個人的なことなの・・・=Thanks, but it's something extremely personal...
+ありがとう　でも|ものすごく個人的なことなの・・・=Thanks, but it's pretty personal...
 !FILE:EV0121_012.bscr
 先生　質問があります=Sid, can we ask you something?
 おう　何でも|聞いてくれ！=Of course. Ask away!
-これからの戦いを考えると|色々な道具を有効に|使う必要があると思うんです=I was thinking about all the fighting to come, and I think it may be necessary for me to be able to use various weapons effectively.
-そうだ　そのとおりだ|俺に質問とは道具の具体的な使い方か？=That's true. And following that line of thinking, you've come to ask me about the proper use of a weapon, right?
-ちげェよ　先生|簡単に手に入れる|方法を聞きたいんだよ！=Wrong. We wanted to ask for an easy way to get our hands on one!
+これからの戦いを考えると|色々な道具を有効に|使う必要があると思うんです=I was thinking about all the fighting to come, and I think it may be necessary for me to be able to use various weapons.
+そうだ　そのとおりだ|俺に質問とは道具の具体的な使い方か？=That's true. And following that line of thinking, you've come to ask me about the proper use of a weapon, is that it?
+ちげェよ　先生|簡単に手に入れる|方法を聞きたいんだよ！=Not exactly. We wanted to ask for an easy way to get our hands on some!
 ・・・・・・・・・=.........
-先生　どうしたんですか？=Is something wrong, Sid?
-世の中はそんなに甘くない・・・=The world isn't such a simple place...
-そんな方法があるくらい|だったら俺が教えてほしいくらいだ・・・=If such an easy method exists, I'd like to know what it is...
+先生　どうしたんですか？=What's wrong, Sid?
+世の中はそんなに甘くない・・・=The world isn't such a simple place.
+そんな方法があるくらい|だったら俺が教えてほしいくらいだ・・・=If such an easy method exists, I'd like to know what it is myself.
 だから言ったじゃねェか|虫が良すぎるってよ=Didn't I say so? When are you gonna grow up and realize the world isn't like in the fairy tales?
 はぁ　今さら何言ってるのよ|ソウルだって　あの時は|賛成したじゃない！？=What? You wanna say that again? I seem to remember somebody agreeing with me!
 ケンカはやめるんだ二人とも！|俺は争いを好まない|そんな男だった・・・=Stop your arguing, you two! I don't like conflict. That's the kind of man I was...
 !FILE:EV0121_016.bscr
-世の中はそんなに甘くない・・・=The world isn't such a simple place...
-そんな方法があるくらい|だったら俺が教えてほしいくらいだ・・・=If such an easy method exists, I'd like to know what it is...
+世の中はそんなに甘くない・・・=The world isn't such a simple place.
+そんな方法があるくらい|だったら俺が教えてほしいくらいだ・・・=If such an easy method exists, I'd like to know what it is myself.
 !FILE:EV0121_017.bscr
-あ～あ|たくさん道具が欲しいなぁ・・・=Aww. I really wanted a bunch of weapons...
+あ～あ|たくさん道具が欲しいなぁ・・・=Aww. I really wanted a bunch of cool weapons and gadgets...
 ねぇ　ソウル|ブラック☆スターやキッド君達は|どうしてるのかしら？=Hey, Soul, what if we asked Kid and Black☆Star?
-どっちも　そういうことに|あんましこだわりが|なさそうだけどな・・・=I doubt either of them is going to be all that interested...
-無駄かもしんねェけど|一応　あたってみるか・・・=They might not be of much help, but it can't hurt to try...
+どっちも　そういうことに|あんましこだわりが|なさそうだけどな・・・=I doubt either of them is going to be all that interested.
+無駄かもしんねェけど|一応　あたってみるか・・・=They might not be of much help, but it can't hurt to try.
 !FILE:EV0121_022.bscr
 戦闘で有効な道具を|簡単に集める方法を|知らないかな？=Do you know an easy way get a hold of some tools that would be useful in combat?
-そういや　そういうものが|あったような気もするな・・・=Honestly, I didn't think anything like that really existed...
+そういや　そういうものが|あったような気もするな・・・=Honestly, I didn't think anything like that really existed.
 ブラック☆スターは|そういうの持ってないのか？=Don't you carry some around with you, Black☆Star?
 あんまり把握してねェ！|なんなら椿に聞いてみてくれ☆=I don't know! If you want, try asking Tsubaki☆
-大体なんで俺様が|そんなチマチマしたことを|知ってなきゃなんねェんだよ！=Why would someone like me need to know that small stuff in the first place!?
+大体なんで俺様が|そんなチマチマしたことを|知ってなきゃなんねェんだよ！=All that stuff is for weaklings anyway!
 !FILE:EV0121_026.bscr
 戦闘で有効な道具を|簡単に集める方法を|知らないかな？=Do you know an easy way get a hold of some tools that would be useful in combat?
-そういや　そういうものが|あったような気もするな・・・=Honestly, I didn't think anything like that really existed...
+そういや　そういうものが|あったような気もするな・・・=Honestly, I didn't think anything like that really existed.
 !FILE:EV0121_032.bscr
 戦闘で有効な道具を|簡単に集める方法を|知らないかな？=You know an easy way get a hold of some tools that would be useful in combat, right?
-あったらいいですよね|そんな方法=That would be nice, wouldn't it? If there was an easy way...
-椿ちゃん　そんな憐れむような目で|私をみないでちょうだい・・・=Tsubaki, please don't look at me with such pity...
+あったらいいですよね|そんな方法=That would be nice, wouldn't it? If there were an easy way...
+椿ちゃん　そんな憐れむような目で|私をみないでちょうだい・・・=Tsubaki, please don't look at me with such pity.
 !FILE:EV0121_036.bscr
 戦闘で有効な道具を|簡単に集める方法を|知らないかな？=Do you know an easy way get a hold of some tools that would be useful in combat?
 あったらいいですよね|そんな方法=That would be nice, wouldn't it? If there was an easy way...
 !FILE:EV0121_042.bscr
 戦闘で有効な道具を|簡単に集める方法を|知らないかな？=Do you know an easy way get a hold of some tools that would be useful in combat?
 そういうことはパティが|得意だって言ってたぞ=Apparently that's Patty's specialty, or so I heard.
-本当なのキッド君！=Really, Kid!?
-まぁ　どこまでホントか|わからんが・・・話半分で|聞いてみるといい・・・=Well, I don't know how true it is, but... you may as well listen to what she has to say...
+本当なのキッド君！=Are you serious, Kid!?
+まぁ　どこまでホントか|わからんが・・・話半分で|聞いてみるといい・・・=Well, I don't know how true it is, but... you may as well listen to what she has to say.
 パティか|何かありそうだな・・・=Patty, huh? Could be anything...
-細かいことなんか今はいいじゃない！|パティを　はやくさがしましょう！=I'll take anything at this point! Come on! Let's find Patty!
+細かいことなんか今はいいじゃない！|パティを　はやくさがしましょう！=I'll take anything at this point! Come on! Let's find her!
 !FILE:EV0121_046.bscr
 戦闘で有効な道具を|簡単に集める方法を|知らないかな？=Do you know an easy way get a hold of some tools that would be useful in combat?
 そういうことはパティが|得意だって言ってたぞ=Apparently that's Patty's specialty, or so I heard.
 !FILE:EV0121_052.bscr
 戦闘で有効な|道具を集めることが|得意だって聞いたんだけど・・・=We heard you have a special talent for finding tools that are effective in combat, and...
-うん　ホントだよ♪|ざくざく入手してたよ♪=Yep. It's true♪ Enough to make a jingly keychain out of them♪
+うん　ホントだよ♪|ざくざく入手してたよ♪=Yep. It's true♪ Enough to make a jingly keychain out of 'em♪
 マカ　こいつは|本物かもしれねェぞ！=This might be the real deal, Maka!
-パティ　もしよかったら|私に　その方法を教えて|もらえないかな？=Patty, if you don't mind, you think you could show me how to do it?
+パティ　もしよかったら|私に　その方法を教えて|もらえないかな？=Patty, if you don't mind, do you think you could show me how to do it?
 ・・・うん　いいよ|マカは見所がありそうだから♪=... Hm. Yeah! I think you have potential, Maka♪
 本当！ありがとう！=Really? Thanks!
 じゃあ準備してくるから|ちょっと後で　私の所へ来てね♪=Well, I'm going to go get ready, so come find me in a little bit♪
@@ -566,7 +566,7 @@
 あ　ソウル君はダメ|教えるのはマカだけだよ！=Oh, not you, Soul. I can only teach Maka!
 なんでだよ|俺にも教えてくれよ！=Why not? Teach me too!
 男子禁制だよ！|きゃはははは♪=No boys allowed! Kyahahaha♪
-ソウル　お願いだから・・・|私　どうしてもパティから|極意を教わりたいのよ・・・=Soul, please... I have to learn Patty's secret teachings no matter what...
+ソウル　お願いだから・・・|私　どうしてもパティから|極意を教わりたいのよ・・・=Soul, please. I have to learn Patty's secret teachings no matter what...
 ちっ！わかったよ！=Hmph! Fine!
 !FILE:EV0121_055.bscr
 忙しくなってきやがったな！=I've got lots to do now!
@@ -579,7 +579,7 @@
 うん　パティの極意を|しっかり極めてくるね♪=Yeah. I'm going to master Patty's secret technique♪
 !FILE:EV0121_060.bscr
 お　マカ来たね♪=Oh, there you are, Maka♪
-それじゃあ　早速|でかけましょう！=Let's not waste anymore time! Let's head out!
+それじゃあ　早速|でかけましょう！=Let's not waste any more time! Let's head out!
 遠出するんなら|先生に言って許可を|もらってこないと・・・=We'll have to talk to one of the teachers to get permission to leave the school, so...
 何言ってんの　マカ|死武専の中で充分だよ♪=What are you talking about, Maka? There are plenty inside the DWMA♪
 えっ？私てっきり|どこかへ行くものと|思っていたわ・・・=Huh? But I thought for sure we were going somewhere...
@@ -591,59 +591,59 @@
 !FILE:EV0121_067.bscr
 じゃあ　私|先に行ってるよ♪=Well, I'm going on ahead♪
 あ　待ってちょうだい|もう少し説明を・・・=Ah, wait up! I'm still confused, and...
-パティ　行っちゃったな・・・|しょうがないから私も|行くことにしよう・・・=She's gone... I guess I have no choice but to go too...
+パティ　行っちゃったな・・・|しょうがないから私も|行くことにしよう・・・=She's gone... I guess I'll just have to run after her.
 !FILE:EV0121_070.bscr
 パティは|リズの所に行くって言ってたけど・・・=Patty said to come find Liz, but...
 あ　あんな所に二人がいたわ・・・=Oh, they're over there...
-お願い|お姉ちゃん♪=Pretty please, sis♪
+お願い|お姉ちゃん♪=Pretty please, sis♪?
 無理だってパティ|ブルックリン時代なら|無茶もできたけど・・・=I told you we can't, Patty. I know we used to do that crazy stuff back in Brooklyn, but...
 お姉ちゃん|私のこと嫌いに|なっちゃったの？=You hate who I am, don't you sis?
 違うよ！パティ|そういうんじゃなくて|死武専内で荒事は・・・=Not at all, Patty! It's not that. It's just the whole ruffian thing at the DWMA...
 もう私達は|かたぎになったんじゃないか=I thought we were respectable people now.
-昔は私のお願い|聞いてくれたよね・・・やっぱり|私のこと嫌いになったの？=You used to listen to me when I asked for something... You really do hate me now, don't you?
-だから　そういうんじゃなくて|困ったな・・・=Like I said, it's not that, it's just...
+昔は私のお願い|聞いてくれたよね・・・やっぱり|私のこと嫌いになったの？=You used to listen to me when I asked for something. You really do hate me now, don't you?
+だから　そういうんじゃなくて|困ったな・・・=I said it's not that. It's just...
 あの二人|何の話をしているのかな？=What are you two talking about?
 マカ　ちょっと|来るのが早いよ！=Maka, you're here a little early!
-あ　お姉ちゃん|逃げちった・・・少し|腕が鈍ってたかな・・・=Ah, sis ran off... She's really lost some of her edge...
+あ　お姉ちゃん|逃げちった・・・少し|腕が鈍ってたかな・・・=Ah, sis ran off... She's really lost some of her edge.
 もしかして|今のが戦闘に有効な道具を|たくさん集める極意？=Did that have something to do with your ability to find combat tools?
-そうだよ　乙女の魅力で|メロメロにさせて　ブツを|とってこさせるの♪=Yeah. We use our feminine charm to make the man fall madly in love. Then we get him to bring the loot to us♪
+そうだよ　乙女の魅力で|メロメロにさせて　ブツを|とってこさせるの♪=Yeah. We use our feminine charm to make a man fall madly in love. Then we get him to bring the loot to us♪
 だから男子禁制なのね・・・|でも　乙女の魅力って・・・|パティったら意外と自信家なのかしら・・・=Which is why it's girls only... But this feminine charm... I'm surprised by how much self-confidence you must have, Patty...
-昔はこれでお姉ちゃんに|たくさんとってきてもらったんだけどね|うまくいかなかったね♪=Well, before it was mostly my big sis that got all the offerings. Things didn't go so smoothly for me, you know♪
+昔はこれでお姉ちゃんに|たくさんとってきてもらったんだけどね|うまくいかなかったね♪=Well, before it was mostly my big sis that got all the offerings. Things didn't go so smoothly for me, you know♪?
 そうなんだ・・・=That makes sense...
 でも　マカなら|大丈夫だよ！=But it should be a piece of cake for you, Maka!
 えっ！？|どうして？=Huh!? Why is that?
 デスサイズだよ|パパさんをメロメロにすれば|一発だよ♪=Mr. Death Scythe! Show your papa a little attention and you'll be swimming in new tools♪
-マカのパパさんなら|死神様を倒してでも|集めてくるよ♪=With your papa under your control, even Lord Death's tools would be up for grabs♪
+マカのパパさんなら|死神様を倒してでも|集めてくるよ♪=With your papa under your control, even Lord Death's fancy doohickeys would be up for grabs♪
 マカのためだったらね|きゃはははは♪=All for you of course, Maka. Kyahahaha♪
 ・・・・・・・・・=.........
-あり？どうしたのマカ？|何で黙っちゃうの？=Huh? What's wrong, Maka? Why'd you get all quiet?
-あはは|何でもないのよ|気にしないで・・・=Ahaha. It's nothing, really. Don't worry about it...
+あり？どうしたのマカ？|何で黙っちゃうの？=Huh? What's wrong, Maka? I thought you'd be excited.
+あはは|何でもないのよ|気にしないで・・・=Ahaha. It's nothing, really. Don't worry about it.
 とにかく　パパさんに|今　私がやってみたように|おねだりしてみなよ♪=Anyway, now just try begging your papa like I always do♪
 マカだったら|私よりもたくさんブツを|集められるよ！=Since it's you, you'll be able to get even more loot than me!
-何しろデスサイズが|集めてきてくれんだからね！=He even gets stuff for me, so there's no way it won't work for you!
+何しろデスサイズが|集めてきてくれんだからね！=He even gets me stuff, so there's no way it won't work for you!
 ・・・・・・・・・=.........
 !FILE:EV0121_075.bscr
 私の講座は|これで終了だよ！|きゃはははは♪=I have nothing left to teach you, my young apprentice! Kyahahaha♪
 !FILE:EV0121_076.bscr
 マカだったら|私よりもたくさんブツを|集められるよ！=Since it's you, you'll be able to get even more loot than me!
-何しろデスサイズが|集めてきてくれんだからね！=He even gets stuff for me, so there's no way it won't work for you!
+何しろデスサイズが|集めてきてくれんだからね！=He even gets me stuff, so there's no way it won't work for you!
 ・・・・・・・・・=.........
 !FILE:EV0121_077.bscr
 それじゃ後で|結果を教えてね♪=See ya later! And don't forget to tell me how it went♪
 どうだった？|極意はつかめたか？=Well? Did you learn her secret?
 はははパティの極意は|実行できないと思う=Hehehe. I don't think I've got what it takes to implement Patty's secret technique.
-私のプライドがゆるさないわ・・・|それに人道的にも問題が|あると思うの・・・=My pride wouldn't allow it... Besides, I think it's a little questionable societally speaking...
-無駄足だったってことか・・・|ま　あんまり気を落とすなよ|地道にやろうぜ　マカ=A fool's errand then...? Well, no crying over spilled milk. We'll just have to stick to the honest path.
+私のプライドがゆるさないわ・・・|それに人道的にも問題が|あると思うの・・・=My pride wouldn't allow it... Besides, I think it's a little questionable ethically speaking.
+無駄足だったってことか・・・|ま　あんまり気を落とすなよ|地道にやろうぜ　マカ=A fool's errand then? Well, no crying over spilled milk. We'll just have to stick to the honest path.
 そうね　ソウルの|言う通りね　私達には|地味なのが一番だわ=Yeah, you're right, Soul. Slow and steady wins the race in the end.
 !FILE:EV0122_002.bscr#保健室のユウウツ = Dispensing Depression mission part 33
 さっき保健室に行ったんだけど|メデューサ先生|とても元気がなかったのよ・・・=I was just in the infirmary, and Dr. Medusa seemed pretty upset...
 メデューサ先生|どうしたんだ？=What's wrong with Dr. Medusa?
-それが・・・理由を聞いても|教えてくれないのよ・・・=Well... I asked what was wrong, but she wouldn't tell me...
-何かあったのかしら・・・|ちょっと心配よね・・・=I wonder what happened... I'm a little worried...
+それが・・・理由を聞いても|教えてくれないのよ・・・=Well... I asked what was wrong, but she wouldn't tell me.
+何かあったのかしら・・・|ちょっと心配よね・・・=I wonder what happened. I'm a little worried.
 !FILE:EV0122_006.bscr
 さっき保健室に行ったんだけど|メデューサ先生|とても元気がなかったのよ・・・=I was just in the infirmary, and Dr. Medusa seemed pretty upset...
 メデューサ先生|どうしたんだ？=What's wrong with Dr. Medusa?
-それが・・・理由を聞いても|教えてくれないのよ・・・=Well... I asked what was wrong, but she wouldn't tell me...
+それが・・・理由を聞いても|教えてくれないのよ・・・=Well... I asked what was wrong, but she wouldn't tell me.
 !FILE:EV0122_010.bscr
 ・・・・・・・・・=.........
 こんにちは　先生=Hello, doctor.
@@ -653,29 +653,29 @@
 おいおい　本気かよ？|マカに相談したって|何の解決にもなんねェぜ！=Woah, woah, you serious? Getting advice from Maka isn't going to solve your problems!
 先生は　私に相談があるの！|さぁ　メデューサ先生|私に何でも相談してください！=You can talk to me about anything, Dr. Medusa! So go ahead and let it all out!
 ・・・・・・・・・=.........
-ごめんなさい|やっぱり　やめとくわ・・・=I'm sorry. This was a bad idea...
-先生・・・|私じゃ頼りないですか？=Doctor... don't you trust me?
-ちがうの　そういうんじゃないの|ただ　やっぱり子供に|聞かせる話じゃないわ・・・=I do. That's not it at all. It's just... I can't bring you children into this...
+ごめんなさい|やっぱり　やめとくわ・・・=I'm sorry. This was a bad idea.
+先生・・・|私じゃ頼りないですか？=Doctor... Don't you trust me?
+ちがうの　そういうんじゃないの|ただ　やっぱり子供に|聞かせる話じゃないわ・・・=I do. That's not it at all. It's just... I can't bring you children into this.
 先生　何があったんスか？=Doctor, what's going on?
-気にしないで・・・何でもないのよ|今の話は忘れてちょうだい・・・=Don't you worry now... I'm fine. Just forget all about this little conversation...
+気にしないで・・・何でもないのよ|今の話は忘れてちょうだい・・・=Don't you worry now... I'm fine. Just forget all about this little conversation of ours.
 メデューサ先生・・・=Dr. Medusa...
-さぁ　もう行きなさい|私は仕事が残ってるから・・・=Now, I'll need you to leave. I still have a lot of work to do...
+さぁ　もう行きなさい|私は仕事が残ってるから・・・=Now I'll need you to leave. I still have a lot of work to do.
 !FILE:EV0122_015.bscr
 ・・・・・・・・・=.........
 !FILE:EV0122_016.bscr
-さぁ　もう行きなさい|私は仕事が残ってるから・・・=Now, I'll need you to leave. I still have a lot of work to do...
+さぁ　もう行きなさい|私は仕事が残ってるから・・・=Now I'll need you to leave. I still have a lot of work to do.
 !FILE:EV0122_017.bscr
 メデューサ先生|どうしちまったんだ？=Something's definitely wrong with Dr. Medusa.
-うん　明らかに|いつもと感じが|ちがっていたね・・・=Yeah. She wasn't her normal self at all...
+うん　明らかに|いつもと感じが|ちがっていたね・・・=Yeah. She wasn't her normal self at all.
 マカに何か相談を|しかけたけど・・・=And she started to ask you for advice, but...
-そうなの　だから|すごく気になるのよ・・・|どうしよう　ソウル・・・=Yeah. That's why I'm so concerned... What should we do, Soul...?
-先生達なら　何か事情を|知ってるかもしれないな・・・=The other teachers might know something...
+そうなの　だから|すごく気になるのよ・・・|どうしよう　ソウル・・・=Yeah. That's why I'm so concerned... What should we do, Soul?
+先生達なら　何か事情を|知ってるかもしれないな・・・=The other teachers might know something.
 そうね　先生達に|話を聞いてみることにしましょう=That's true. I guess we'll try asking the teachers about it.
 !FILE:EV0122_022.bscr
 やあ！マカちゃんにソウル君！|元気？調子はどうよ？=Yooo! Maka and Soul! Sup? How ya doin'?
-メデューサ先生の|元気がないんですけど|何かごぞんじですか？=Something is bothering Doctor Medusa. Do you know anything about it?
+メデューサ先生の|元気がないんですけど|何かごぞんじですか？=Something is bothering Dr. Medusa. Do you know anything about it?
 ・・・・・・・・・=.........
-死神様　どうして|だまってるんだよ？=I know you heard us, so why won't you answer, Lord Death?
+死神様　どうして|だまってるんだよ？=I know you heard us, so why won't you answer?
 死神様！|どうしたんですか？=Lord Death! What's going on?
 あっ　他から連絡が|入っちゃったみたいだね♪=Ah, it looks like I have another call coming in♪
 もうしわけないけど|このへんで失礼するよ～ん！=My sincerest apologies, but I really have to take this!
@@ -685,40 +685,40 @@
 あっ　他から連絡が|入っちゃったみたいだね♪=Ah, it looks like I have another call coming in♪
 もうしわけないけど|このへんで失礼するよ～ん！=My sincerest apologies, but I really have to take this!
 !FILE:EV0122_032.bscr
-メデューサ先生の|元気がないんですけど|何かごぞんじですか？=Something is bothering Doctor Medusa. Do you know anything about it?
+メデューサ先生の|元気がないんですけど|何かごぞんじですか？=Something is bothering Dr. Medusa. Do you know anything about it?
 ・・・・・・・・・=.........
-シド先生　どうして|だまってるんですか？=Sid, why won't you say anything?
-この問題が表ざたになると|傷つく人がいる|だから言うことはできない=Somebody's going to get hurt if this issue becomes public knowledge, so I can't say anything.
+シド先生　どうして|だまってるんですか？=Sid, say something.
+この問題が表ざたになると|傷つく人がいる|だから言うことはできない=Somebody's going to get hurt if this issue becomes public knowledge, so my lips are sealed.
 傷つく人って|誰ですか？=Who would get hurt?
 残念だが　それも言うことはできない=I'm sorry, but I can't tell you that either.
-なんだよ　ケチくせェな！=Fine! Keep your secrets, you jerk!
-何とでも言うがいい|だが俺からは何も言うことはない！=You can say whatever you please, but you'll get nothing out of me!
+なんだよ　ケチくせェな！=Fine! Keep your secrets, jerk!
+何とでも言うがいい|だが俺からは何も言うことはない！=You can call me whatever you please, but you'll get nothing out of me!
 生前の俺は口が堅い|そんな男だった=When I was alive, I never revealed a secret. That's the kind of man I was.
 !FILE:EV0122_035.bscr
 ・・・・・・・・・=.........
 !FILE:EV0122_036.bscr
-何とでも言うがいい|だが俺からは何も言うことはない！=You can say whatever you please, but you'll get nothing out of me!
+何とでも言うがいい|だが俺からは何も言うことはない！=You can call me whatever you please, but you'll get nothing out of me!
 生前の俺は口が堅い|そんな男だった=When I was alive, I never revealed a secret. That's the kind of man I was.
 !FILE:EV0122_037.bscr
-どうしたんだ|後は博士の所に行くだけだぜ=What's going on?|The professor is the only one left to try.
-わかっちゃったかもしれない|メデューサ先生に元気がない理由・・・=I think I finally figured out what's bothering Dr. Medusa...
+どうしたんだ|後は博士の所に行くだけだぜ=What's going on?|The professor's the only one left to try.
+わかっちゃったかもしれない|メデューサ先生に元気がない理由・・・=I think I finally figured out what's bothering Dr. Medusa.
 わかったのか|何が原因なんだ　教えてくれよ=You figured it out? Tell me then! What is it?
-私の口からは|いいたくない・・・=I'd rather not be the one to say it...
-おいおい　今度は|マカがだんまりかよ=Woah, woah! Now you're the own taking a vow of silence?
+私の口からは|いいたくない・・・=I'd rather not be the one to say it.
+おいおい　今度は|マカがだんまりかよ=Woah, woah! Now you're the one taking a vow of silence?
 !FILE:EV0122_042.bscr
 メデューサ先生に|元気がねェんだけどさ|博士　その理由知ってる？=Professor, something's bothering Dr. Medusa. You know what it could be?
 先輩がちょっかい|出してるからです=Spirit has been making passes at her.
-あっさり原因が|つかめたぜ　しかも・・・=That's all it took to get the truth...?
-説得力充分で|最悪の真相だわ・・・=That was persuasive enough, I guess. And it's the worst possible truth...
-やっぱり　そうだったのね・・・|イヤな予感はしてたのよ・・・=I figured as much... I had a bad feeling it would be...
-だから先生達　私には|言えなかったんだ・・・=That's why nobody could tell me...
-事が明るみに出ると|傷つく人って|マカのことだったんだな・・・=And the person that would get when things were brought to light was Maka...
-事情を知らなかったのは|君達二人だけです=You two were the only two still in the dark on this.
+あっさり原因が|つかめたぜ　しかも・・・=That's all it took to get the truth?
+説得力充分で|最悪の真相だわ・・・=That was persuasive enough, I guess. And it's the worst possible truth.
+やっぱり　そうだったのね・・・|イヤな予感はしてたのよ・・・=I figured as much. I had a bad feeling it would be.
+だから先生達　私には|言えなかったんだ・・・=That's why nobody could tell me.
+事が明るみに出ると|傷つく人って|マカのことだったんだな・・・=And the person that would get hurt when things were brought to light was Maka...
+事情を知らなかったのは|君達二人だけです=You two were the only ones still in the dark on this.
 みんな　このことを|マカの耳に入れないように|気をつかっていたのでしょうね=Everyone was being extra careful not to let you get wind of the situation.
 ・・・・・・・・・=.........
 !FILE:EV0122_046.bscr
 事情を知らなかったのは|君達二人だけです=You two were the only two still in the dark on this.
-みんな　このことを|マカの耳に入れないように|気をつかっていたのでしょうね=Everyone was being extra careful not to let you get wind of the situation.
+みんな　このことを|マカの耳に入れないように|気をつかっていたのでしょうね=Everyone was being extra careful to keep you from finding out.
 ・・・・・・・・・=.........
 !FILE:EV0122_047.bscr
 私　急に行かなければ|ならない所ができたので|これで失礼します=There's somewhere that I need to go immediately, so please excuse me.
@@ -729,37 +729,37 @@
 僕は病気なんだ|白衣を着た　マイ・エンジェル=I've fallen ill, my angel in white.#They used English phrases in this lines 729 and 732 to make Spirit's flirting sound especially cheesy. I considered using a romance language such as Spanish, French, or Italian to achieve the same effect in English, but I couldn't think of any phrases that the average English-speaker would understand while still sounding correct within the context of the conversation.
 いいかげんに|やめてくれませんか|仕事の邪魔なんですけど・・・=Would you kindly stop? You're distracting me from my work...
 いいや　やめない！|やめたらどうにかなってしまう=I can't stop, no! Whatever would happen to me if I stopped?
-さあ　今こそ君の|メディカル・ラブで|僕をいやしておくれ・・・=No! I need you now more than ever for I've fallen ill, and your medical love is the only cure...
+さあ　今こそ君の|メディカル・ラブで|僕をいやしておくれ・・・=No! I need you now more than ever for I've fallen ill, and your love potion is the only cure...
 もう　どうにか|なってるんじゃねェのか？=I guess everything's already under control.
 あれ|マカちゃんにソウル君=Huh? Maka and Soul...
 マカ！？=Maka!?
-ちょうどよかったわ|マカちゃん・・・=What perfect timing, Maka...
+ちょうどよかったわ|マカちゃん・・・=What perfect timing, Maka.
 お父さんを何とか|してくれないかな？=Do you think you could do something about your father?
 パパ！！=Papa!!
-やぁ　マカ|パパに何か用かな？=Heyyy, Maka... What can papa do for you?
-いっそ・・・いっそ！=Bad... Bad!
-ご迷惑を　おかけしました|メデューサ先生・・・=I'm sorry for the trouble he's caused you, Dr. Medusa...
-いいのよ・・・|ありがとう　マカちゃん=It's all right... Thank you, Maka.
+やぁ　マカ|パパに何か用かな？=Heeey, Maka... What can papa do for you?
+いっそ・・・いっそ！=Bad! Bad!
+ご迷惑を　おかけしました|メデューサ先生・・・=I'm sorry for the trouble he's caused you, Dr. Medusa.
+いいのよ・・・|ありがとう　マカちゃん=It's all right. Thank you, Maka.
 !FILE:EV0122_055.bscr
 ・・・・・・・・・=.........
 !FILE:EV0122_056.bscr
-ご迷惑を　おかけしました|メデューサ先生・・・=I'm sorry for the trouble he's caused you, Dr. Medusa...
-いいのよ・・・|ありがとう　マカちゃん=It's all right... Thank you, Maka.
+ご迷惑を　おかけしました|メデューサ先生・・・=I'm sorry for the trouble he's caused you, Dr. Medusa.
+いいのよ・・・|ありがとう　マカちゃん=It's all right. Thank you, Maka.
 !FILE:EV0122_057.bscr
 あなたのお父さんを|このままにはしておけないわね=We can't very well leave your father like this.
 少し保健室で|寝かせておくわよ=He can rest here in the infirmary until he comes to.
 先生　それは危険です！=That would be unwise, doctor!
 えっ！？=What!?
 私達を油断させるための|擬態かもしれません！=He may only be pretending so he can catch us off guard!
-タヌキじゃねェんだからさ・・・=He's not possum you know...
+タヌキじゃねェんだからさ・・・=He's not a possum, you know.
 先生に　危害を加えられない所まで|私が運んでいきます=I'll drag him somewhere where he won't be able to bother you anymore.
 そ　そう|それじゃお願いしようかしら=O-Okay. I'll leave it to you then, I guess.
-わかりました|それでは先生失礼します=Thank you. Again, I'm sorry, doctor.
+わかりました|それでは先生失礼します=Thank you. Sorry again.
 おい　待ってくれよ|マカ！=Maka! Hey, wait for me!
 ここらで|いいんじゃねェか？=Here ought to be good, right?
-そうね　ここならよさそうね|・・・ここにしましょう=Yep. Looks good to me... We can just drop him anywhere.
+そうね　ここならよさそうね|・・・ここにしましょう=Yep. Looks good to me. We can just drop him anywhere.
 さぁ　行きましょうか！=All right, ready when you are!
-全然ためらいがねェな|さすがというべきなのか・・・=How can you be so nonchalant about this...?
+全然ためらいがねェな|さすがというべきなのか・・・=How can you be so nonchalant about this?
 !FILE:EV0200_000.bscr#morning class
 なんか|納得できないんだよなぁ=There's something fishy going on.
 そうだね=It seems like it.
