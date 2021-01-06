@@ -1,4 +1,9 @@
+Current progress: Haribeau's proofreading of msbe_input from start to !FILE:EV0220_002.bscr.
+
 These notes should serve to help in the proofreading/ playtesting phase of this project. There are a number of things which must be agreed on, tested, and implemented within the text in order to maintain consistency. As well, there are a few things that I may have considered later in the translation process, which might be somewhat problematic from a perspective of cultural sensitivity and inclusivity. I intend to address these issues myself, but it is possible that I may miss some instance of them, so I would just like the proofreaders to keep them in mind.
+
+
+I recommend using Smartcat in conjunction with GitHub to help with consistency throughout repeated lines. Smartcat marks lines with repetitions with a yellow arrow.
 
 
 Comments are designated by the # symbol. Some are there only to explain the meaning or context, while others show any concerns I may have had.
