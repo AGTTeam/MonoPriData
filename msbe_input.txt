@@ -1,4 +1,4 @@
-!FILE:EV0000_000.bscr#intro conversation in the Death Room
+﻿!FILE:EV0000_000.bscr#intro conversation in the Death Room
 ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Hey! Hi! Hellooo!! Sorry for calling you all here so early♪
 おはようございます|死神様=Good morning, Lord Death.
 何ですかぁ？|こんな朝っぱらから=Wha-aaat's going on? I-It's so early.
@@ -52,9 +52,9 @@
 はい♪|じゃあ　授業を始めま～す=Okay♪ Well, let's start class.
 おーす=Good morning!
 !FILE:EV0100_010.bscr#morning class mission
-はい　今日の午前授業は|簡単な実技訓練です♪|くばられたプリントを見てください=Okay, today’s morning class will involve some simple, practical training ♪ Please take a look at your handouts.
+はい　今日の午前授業は|簡単な実技訓練です♪|くばられたプリントを見てください=Okay, today's morning class will involve some simple, practical training ♪ Please take a look at your handouts.
 !FILE:EV0100_011.bscr
-では　理解できたひとから|訓練を始めます♪=We’ll begin with those of you who understood the instructions♪
+では　理解できたひとから|訓練を始めます♪=We'll begin with those of you who understood the instructions♪
 !FILE:EV0100_012.bscr
 はい|次は誰かな？=Who's next? Let's see...
 !FILE:EV0100_013.bscr
@@ -216,7 +216,7 @@
 あなた達の活躍を|良く耳にするわよ♪=I've been hearing a lot of good things about you♪
 ありがとうございます|すごくうれしいです=Thank you so much! That makes me really proud!
 けっこう　こういうのは|照れくさいもんだな・・・=Yeah, that's not an awkward thing to say at all...
-これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
+これからも|期待しているわよ♪=I'm expecting a lot from you two. ♪
 !FILE:EV0103_010.bscr
 あっ！=Ah!
 にゃはは～♪=Nyahahaa♪
@@ -777,7 +777,7 @@
 時間制限内に目標を達成して下さい|ルールはプリントを見て下さい♪=Try to complete the objectives within the allotted time. And be sure to read the instructions on the handouts♪
 はい 今日の午前授業は|トライアル訓練です♪=This morning's class will be a Trial Practice session♪
 !FILE:EV0200_011.bscr
-では　理解できたひとから|訓練を始めます♪=Alright, we’ll start with those of you who understood the instructions♪
+では　理解できたひとから|訓練を始めます♪=Alright, we'll start with those of you who understood the instructions♪
 時間制限内に目標を達成してください|ルールはプリントを見てください♪=Try to complete the objectives within the allotted time. And be sure to read the instructions on the handouts♪
 !FILE:EV0200_012.bscr
 はい|次は誰かな？=Alright. Let's see... Who's next?
@@ -2171,7 +2171,7 @@
 !FILE:EV0400_010.bscr
 『訓練君』は結構手強いですよ|気を抜かないよ～にしてください♪=Training Buddy is rather solid, so please don't let your minds wander during the exercise♪
 !FILE:EV0400_011.bscr
-では　理解できたひとから|訓練を始めます♪=Alright, we’ll start with those of you who were paying attention♪
+では　理解できたひとから|訓練を始めます♪=Alright, we'll start with those of you who were paying attention♪
 『訓練君』は結構手強いですよ|気を抜かないよ～にしてください♪=Training Buddy is rather solid, so please don't let your minds wander during the exercise♪
 !FILE:EV0400_012.bscr
 はい|次は誰かな？=Alright. Let's see... Who's next?
@@ -4155,7 +4155,7 @@
 ずいぶんと調子がいいじゃん|期待してるよ　ソウル！=You look like you're in pretty good shape, Soul. I'm expecting a lot then!
 !FILE:EV0932_022.bscr
 なんだか武者ぶるいが|してきちゃった・・・=I'm trembling with excitement for some reason...
-まぁ　あんまり|肩に力を入れんなよ=Just don’t get too excited, all right?
+まぁ　あんまり|肩に力を入れんなよ=Just don't get too excited, all right?
 そうね　ソウルの|言う通りかもしれないわね=Yeah. You're probably right, Soul.
 ねェ　ソウル・・・|ここ　あちこちから|異様な反応がするよ・・・=Hey, Soul... I'm sensing something strange all around this area...
 そりゃ　するだろうよ|そういう所に|来てんだからよ！=That makes sense. That's sort of why we're here!
@@ -4429,7 +4429,7 @@
 イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
 なんとかするよ！ソウル！=Let's do it, Soul!
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
-さぁ！|やるよ！ソウル！=Alright, let’s do it, Soul!
+さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_100.bscr
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
@@ -4558,7 +4558,7 @@
 イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
 なんとかするよ！ソウル！=Let's do it, Soul!
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
-さぁ！|やるよ！ソウル！=Alright, let’s do it, Soul!
+さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_330.bscr
 ＨＡ！ＨＡ！=Ha! Ha!
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
@@ -4628,7 +4628,7 @@
 イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
 なんとかするよ！ソウル！=Let's do it, Soul!
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
-さぁ！|やるよ！ソウル！=Alright, let’s do it, Soul!
+さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_430.bscr
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
@@ -4784,7 +4784,7 @@
 イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
 なんとかするよ！ソウル！=Let's do it, Soul!
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
-さぁ！|やるよ！ソウル！=Alright, let’s do it, Soul!
+さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_730.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
@@ -5426,7 +5426,7 @@
 !FILE:EV0951_003.bscr
 気を抜くなよ！マカ！=Stay focused, Maka!
 !FILE:EV0951_004.bscr
-俺達の力を見せてやろうぜ！=Let’s show 'em what we can do!
+俺達の力を見せてやろうぜ！=Let's show 'em what we can do!
 !FILE:EV0951_010.bscr
 そっちじゃない！=Not there!
 !FILE:EV0951_011.bscr
@@ -5660,8 +5660,8 @@
 !FILE:EV0954_512.bscr
 クールに復活だ！=That was a cool come-back!
 !FILE:EV0955_000.bscr
-さぁ！|やるよ！ソウル！=Alright, let’s do it, Soul!
-まぁ　あんまり|肩に力を入れんなよ=Just don’t get too excited, all right?
+さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
+まぁ　あんまり|肩に力を入れんなよ=Just don't get too excited, all right?
 !FILE:EV0955_010.bscr
 どうしようかな？=What should we do now?
 ちゃんと考えて行動すんだぞ|お前　意外とそういうとこ|バカなんだからな！=Think first and act second. You should be smart enough to figure that out!
@@ -5746,9 +5746,9 @@
 それほどでもねェよ|ちょっと大げさじゃねェか=We haven't done that much. I think you're exaggerating just a little.
 これを渡しておくから|もっとがんばってちょうだい♪=I'm going to give you this, so keep at it and do your best out there♪
 ありがとうございます|すごくうれしいです=Thank you so much! That makes me so happy!
-これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
+これからも|期待しているわよ♪=I'm expecting a lot from you two. ♪
 !FILE:EV0966_006.bscr
-これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
+これからも|期待しているわよ♪=I'm expecting a lot from you two. ♪
 !FILE:EV0966_012.bscr
 マカ|いいものあげようか？=Maka, I've got something nice for you.
 何　はやくしてよ=Make it quick. What is it?
@@ -6143,9 +6143,9 @@
 気にしないで…何でもないのよ|今の話は忘れてちょうだい…=Don't you worry now... It's nothing. Just forget all about this little conversation...
 ………=.........
 あなた達の活躍を|良く耳にするわよ♪=I've been hearing a lot of good things about you♪
-ありがとうございます|すごく嬉しいです=Thank you so much! It’s a pleasure to hear this!
+ありがとうございます|すごく嬉しいです=Thank you so much! It's a pleasure to hear this!
 なんだよ　やっとかよ|気づくのが遅ェぜ！=Huh, is that so? Took you a while to notice!
-これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
+これからも|期待しているわよ♪=I'm expecting a lot from you two. ♪
 !FILE:EV1103_010.bscr
 きゃっ！=Kyah!
 にゃはは～♪=Nyahahaa♪
@@ -6331,40 +6331,40 @@
 あんまり無茶しないでね|おねがいだから・・・=Don't do anything reckless, please...
 ・・・・・・・・・=.........
 どうしたの|ブラック☆スター？=What's wrong, Black☆Star?
-なぁ　博士　吸魂水を|ツボに入れる時　水が|手にかかったよな？=Hey, professor. When you poured the water in the jar, some of it splashed on your hand, didn’t it?
-ええ　かかりましたよ|でも　あれくらいならば|俺は全然平気です=Yeah. It did. But such a small amount won’t affect me.
-ホントに吸魂水を|入れてくれたんだろうな？|改めさせてもらうぜ！=That’s not really the Soul Sapping Water is it? I’ll change it myself!
-むほ！！|確かに　吸魂水だ！=Woah! That’s Soul Sapping Water alright!
-やっぱり　博士はすごいわね・・・=You’re as impressive as always professor...
+なぁ　博士　吸魂水を|ツボに入れる時　水が|手にかかったよな？=Hey, professor. When you poured the water in the jar, some of it splashed on your hand, didn't it?
+ええ　かかりましたよ|でも　あれくらいならば|俺は全然平気です=Yeah. It did. But such a small amount won't affect me.
+ホントに吸魂水を|入れてくれたんだろうな？|改めさせてもらうぜ！=That's not really the Soul Sapping Water is it? I'll change it myself!
+むほ！！|確かに　吸魂水だ！=Woah! That's Soul Sapping Water alright!
+やっぱり　博士はすごいわね・・・=You're as impressive as always professor...
 ブラック☆スターも鍛えれば|すぐに俺くらいにはなれますよ=Black☆Star will be as strong as me in no time if he keeps training.
-さぁ行きましょうブラック☆スター|特訓ステージじゃなかったの？=Well, this isn’t a proper stage for special training, is it? Should we go, Black☆Star?
+さぁ行きましょうブラック☆スター|特訓ステージじゃなかったの？=Well, this isn't a proper stage for special training, is it? Should we go, Black☆Star?
 ・・・・・・・・・=.........
 はい　わかりました=Right. Okay.
-吸魂水を　ツボの中に|入れましたよ=I’ve filled the jar with the Soul Sapping Water.
+吸魂水を　ツボの中に|入れましたよ=I've filled the jar with the Soul Sapping Water.
 !FILE:EV1120_096.bscr
-やっぱり　博士はすごいわね・・・=You’re as impressive as always professor...
+やっぱり　博士はすごいわね・・・=You're as impressive as always professor...
 ブラック☆スターも鍛えれば|すぐに俺くらいにはなれますよ=Black☆Star will be as strong as me in no time if he keeps training.
 !FILE:EV1120_097.bscr
 ブラック☆スター|何を考えているの？=What are you thinking about, Black☆Star?
-ずいぶんとまたせたが|これから俺様の|特訓ステージを開演する☆=I’ve kept the audience waiting, but now the curtain will rise on Black☆Star’s special training stage☆!
+ずいぶんとまたせたが|これから俺様の|特訓ステージを開演する☆=I've kept the audience waiting, but now the curtain will rise on Black☆Star's special training stage☆!
 俺様は　今から|吸魂水を飲む！=Black☆Star will now DRINK the Soul Sapping Water!
-ブラック☆スター！|お願いだから　やめてちょうだい！=Black☆Star! I’m begging you. Please stop!
-博士に対抗心を燃やさなくても・・・|あなたはまだ子供じゃない！=There’s no need to compete with the professor… You’re still just a kid after all!
-小物じみたことを|言ってんじゃねェぞ！=Don’t call me a kid!
-ゆるゆる生きろって|そう言ってんのか？=Kids are small, but I’m big!
+ブラック☆スター！|お願いだから　やめてちょうだい！=Black☆Star! I'm begging you. Please stop!
+博士に対抗心を燃やさなくても・・・|あなたはまだ子供じゃない！=There's no need to compete with the professor… You're still just a kid after all!
+小物じみたことを|言ってんじゃねェぞ！=Don't call me a kid!
+ゆるゆる生きろって|そう言ってんのか？=Kids are small, but I'm big!
 ブラック☆スター|お願いだからやめてちょうだい=Please stop, Black☆Star.
 もういい　俺様一人で|ステージを敢行する！=Fine. Black☆Star will take the stage alone!
 あっ　待ってちょうだい|ブラック☆スター・・・=Ah, please wait. Black☆Star...
 大変なことになったわね・・・|ブラック☆スターをさがさなきゃ・・・=This has gotten a little out of hand… I need to find Black☆Star...
 !FILE:EV1120_102.bscr
 ごめんなさい|ブラック☆スターを|見なかったかしら？=Sorry. Have you seen Black☆Star?
-ブラック☆スターなら|ほら　あそこにいるぜ！=Black☆Star? Oh! He’s over there!
+ブラック☆スターなら|ほら　あそこにいるぜ！=Black☆Star? Oh! He's over there!
 おお　何かすげェな|見ろよ　あんなに|にこやかに笑ってる！=Oh, this oughta be pretty great. Look at that huge grin!
 ・・・・・・・・・=.........
-よかった|まだ吸魂水を飲んでないのね・・・=Oh good. He hasn’t drank the Soul Sapping Water yet...
+よかった|まだ吸魂水を飲んでないのね・・・=Oh good. He hasn't drank the Soul Sapping Water yet...
 ブラック☆スタ～|大丈夫なの～～=Hey, Black☆Star! Are you all right?
 ・・・・・・・・・=.........
-あれ　なんで|返事をしてくれないのかしら・・・=Huh? I wonder why he isn’t answering...
+あれ　なんで|返事をしてくれないのかしら・・・=Huh? I wonder why he isn't answering...
 そういえば|ちょっと様子がおかしいな？=Now that you mention it, something seems a little off, right?
 ん？？=Wait.
 あいつ　立ったまま|気絶してねェ？=Did he pass out standing up?
@@ -6372,27 +6372,27 @@
 あぁーーーっ|ブラック☆スター！！=Aaaah! Black☆Star!!
 う～～ん=Unngh.
 あれ・・・ここは・・・|なんだ　死武専かよ=Huh…? Where…? The DWMA?
-お　立ちあがった|どうやら気がついたみたいだな=Haha. You’re up. Looks like you’re awake.
+お　立ちあがった|どうやら気がついたみたいだな=Haha. You're up. Looks like you're awake.
 ブラック☆スター|大丈夫なの？=Black☆Star. Are you all right?
 さっきまで|オヤジとオフクロに|会っていたぜ！=I just saw my mom and my old man!
-何バカなこと言ってるのよ・・・=You’re talking nonsense...
-悪ィ・・・心配かけたようだな・・・=My bad… I made you worry, didn’t I?
+何バカなこと言ってるのよ・・・=You're talking nonsense...
+悪ィ・・・心配かけたようだな・・・=My bad… I made you worry, didn't I?
 椿から聞いたよ|お前　吸魂水を飲んだんだって？=Tsubaki told me. You were going to drink the Soul Sapping Water?
 ああ　軽く気絶しそうに|なったけど耐えたな・・・=Yeah. For a second I thought I might faint, but I endured...
 気絶してたわよ=You passed out.
-これにこりたら|もう無茶はやめるんだな|ブラック☆スター！=You’ve learned your lesson. So no more of this nonsense. Right, Black☆Star?
-何いってんだよ|だからお前は小物なんだ！=What are you saying? That’s why you’re small!
-俺は神を超越する男だぜ！|まだまだやるに決まってんだろ！=I am the man who will surpass God! I’ll keep training!
+これにこりたら|もう無茶はやめるんだな|ブラック☆スター！=You've learned your lesson. So no more of this nonsense. Right, Black☆Star?
+何いってんだよ|だからお前は小物なんだ！=What are you saying? That's why you're small!
+俺は神を超越する男だぜ！|まだまだやるに決まってんだろ！=I am the man who will surpass God! I'll keep training!
 椿　いいのか？=Are you going to be alright, Tsubaki?
-しょうがないわよ|ブラック☆スターだから・・・=It can’t be helped. It is Black☆Star after all...
+しょうがないわよ|ブラック☆スターだから・・・=It can't be helped. It is Black☆Star after all...
 でも　あんまり|無茶しないでちょうだいね=But please try not to get too carried away this time. Okay?
 わかってるよ　椿|ひやっはははははは☆=Okay, Tsubaki. Hiyahahahahahaha☆
 !FILE:EV1120_105.bscr
 さてと　どうするかな？=Well, what now?
 !FILE:EV1120_106.bscr
-これにこりたら|もう無茶はやめるんだな|ブラック☆スター！=You’ve learned your lesson. So no more of this nonsense. Right, Black☆Star?
-何いってんだよ|だからお前は小物なんだ！=What are you saying? That’s why you’re small!
-俺は神を超越する男だぜ！|まだまだやるに決まってんだろ！=I am the man who will surpass God! I’ll keep training!
+これにこりたら|もう無茶はやめるんだな|ブラック☆スター！=You've learned your lesson. So no more of this nonsense. Right, Black☆Star?
+何いってんだよ|だからお前は小物なんだ！=What are you saying? That's why you're small!
+俺は神を超越する男だぜ！|まだまだやるに決まってんだろ！=I am the man who will surpass God! I'll keep training!
 !FILE:EV1121_002.bscr#彼がいない状況下 = In His Absence part 3
 ブラック☆スター|お前の好きなアレの最新刊が|図書館に入ったらしいぞ=Black☆Star, it looks like the library just got the newest volume of that thing you like so much.
 アレってなんなの？=What thing?
@@ -7022,76 +7022,76 @@
 二人とも御苦労様|これで薬を作ることができるわ♪=Thank you both for your hard work. With this I can make that medicine♪
 確かに渡したぜ|メデューサ先生！=Here! Take it, Dr. Medusa!
 先生　それでは|よろしくお願いします！=Thank you so much for this, doctor!
-薬の調合には|少し時間がかかるから|もうしばらく待っていてちょうだい=It’s going to take a little time to prepare the medicine, so please wait just a moment.
-いいところを頼むぜ先生！=Give me the best seat you’ve got, doctor!
-寿司屋じゃないのよ|ブラック☆スター・・・=This isn’t a sushi restaurant, Black☆Star!
-寿司？なんだそれ？|椿の故郷の食い物か？=Sushi? What’s sushi? Some kind of food from your home town, Tsubaki?
+薬の調合には|少し時間がかかるから|もうしばらく待っていてちょうだい=It's going to take a little time to prepare the medicine, so please wait just a moment.
+いいところを頼むぜ先生！=Give me the best seat you've got, doctor!
+寿司屋じゃないのよ|ブラック☆スター・・・=This isn't a sushi restaurant, Black☆Star!
+寿司？なんだそれ？|椿の故郷の食い物か？=Sushi? What's sushi? Some kind of food from your home town, Tsubaki?
 二人とも　気が散るから|しばらく外に出ていてちょうだい=You two are distracting me. Would you mind waiting outside just a minute?
 すみません先生・・・=Sorry, doctor…
 !FILE:EV1220_146.bscr
-薬の調合には|少し時間がかかるから|もうしばらく待っていてちょうだい=It’s going to take a little time to prepare the medicine, so please wait just a moment.
+薬の調合には|少し時間がかかるから|もうしばらく待っていてちょうだい=It's going to take a little time to prepare the medicine, so please wait just a moment.
 !FILE:EV1220_147.bscr
 二人とも御苦労様|これで薬を作る事ができるわ♪=Thank you both for your hard work. With this I can make that medicine♪
 !FILE:EV1220_152.bscr
-どうしたのマカちゃん|うかない顔をして？=What’s wrong Maka? Why the long face?
+どうしたのマカちゃん|うかない顔をして？=What's wrong Maka? Why the long face?
 ・・・・・・・・・=.........
 シュタイン博士に|薬をもらっちゃったの！=Professor Stein gave me some medicine!
-どうしよう|飲まなきゃダメかな！？=What do I do? I have to drink it, don’t I?
+どうしよう|飲まなきゃダメかな！？=What do I do? I have to drink it, don't I?
 捨てたら　あたりが汚染されそうだし|捨てられないのよ！？=I can't throw it away! Wherever I throw it out will be contaminated if I do!
 大変そうだな・・・=That does seem rough…
 !FILE:EV1220_155.bscr
 ・・・・・・・・・=.........
 !FILE:EV1220_156.bscr
-どうしたのマカちゃん|うかない顔をして？=What’s wrong Maka? Why the long face?
+どうしたのマカちゃん|うかない顔をして？=What's wrong Maka? Why the long face?
 シュタイン博士に|薬をもらっちゃったの！=Professor Stein gave me some medicine!
 !FILE:EV1220_161.bscr
-どうしたんですか二人とも|ヒマそうですね？=What’s going on, you two? You don’t seem too busy.
+どうしたんですか二人とも|ヒマそうですね？=What's going on, you two? You don't seem too busy.
 !FILE:EV1220_162.bscr
-薬が出来るのを|待っているんです=We’re waiting while my medicine is being made.
+薬が出来るのを|待っているんです=We're waiting while my medicine is being made.
 そういえば椿は|検査をうけたのですよね|結果はどうでしたか？=That reminds me. Tsubaki, you had a medical exam done, right? What were the results?
 よくない病気かも|しれないんだってさ☆=It might be a pretty serious illness after all☆
-おかしいですね|俺のところには何の|報告もありませんよ？=How peculiar. I haven’t been notified of anything.
-でも　たしかに|メデューサ先生が・・・=But I’m sure that Dr. Medusa…
-魂反応からすると|椿はまごうことない健康体です・・・=Judging by your soul response, Tsubaki, you’re undoubtedly as healthy as normal…
+おかしいですね|俺のところには何の|報告もありませんよ？=How peculiar. I haven't been notified of anything.
+でも　たしかに|メデューサ先生が・・・=But I'm sure that Dr. Medusa…
+魂反応からすると|椿はまごうことない健康体です・・・=Judging by your soul response, Tsubaki, you're undoubtedly as healthy as normal…
 今の状況で薬を服用したほうが|かえって身体に害があるでしょう=Taking the medicine in your current state would do more harm than good.
 でもせっかくメデューサ先生が|薬を作ってくれているのに・・・=But Dr. Medusa is making medicine specifically for me…
-俺が　言ってあげますから|大丈夫です|椿に薬は必要ないと・・・=You can trust me when I say that it’s okay. You don’t need any medicine, Tsubaki…
+俺が　言ってあげますから|大丈夫です|椿に薬は必要ないと・・・=You can trust me when I say that it's okay. You don't need any medicine, Tsubaki…
 でも・・・=But...
-そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I’ll give you a little present. Some of my special remedy.
-いえ　いまはいいです・・・|ふふふ・・・=No. I’m okay now… Hehehe…
+そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I'll give you a little present. Some of my special remedy.
+いえ　いまはいいです・・・|ふふふ・・・=No. I'm okay now… Hehehe…
 おかしいですね|マカには好評だったのに=You sure? Maka seemed pleased when I gave it to her.
 あいつ　結構|外面いいよな・・・=She was probably just being nice…
 !FILE:EV1220_166.bscr
-そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I’ll give you a little present. Some of my special remedy.
-いえ　いまはいいです・・・|ふふふ・・・=No. I’m okay now… Hehehe…
+そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I'll give you a little present. Some of my special remedy.
+いえ　いまはいいです・・・|ふふふ・・・=No. I'm okay now… Hehehe…
 おかしいですね|マカには好評だったのに=You sure? Maka seemed pleased when I gave it to her.
 あいつ　結構|外面いいよな・・・=She was probably just being nice…
 !FILE:EV1220_167.bscr
-それでは　俺は|ちょっとメデューサ先生と|お話ししてきますね=Now then. I’m going to go have a little chat with Dr. Medusa.
+それでは　俺は|ちょっとメデューサ先生と|お話ししてきますね=Now then. I'm going to go have a little chat with Dr. Medusa.
 はは・・・お願いしますというか・・・|お願いするんでしょうね・・・|やっぱり・・・=Hehe... Should I thank him or... I should thank him... Of course...
 ねぇ　ブラック☆スター|博士とメデューサ先生のこと|心配だと思わない？=Hey, Black☆Star. Do you think we should be worried about Dr. Medusa and the professor?
-いや　別に|全然　思わねェ！=Nah. There’s nothing to worry about!
-私は心配だわ・・・|もし二人がケンカをしてたら|それは私の責任よ・・・=I’m worried… What if those two are fighting and it’s all my fault…?
+いや　別に|全然　思わねェ！=Nah. There's nothing to worry about!
+私は心配だわ・・・|もし二人がケンカをしてたら|それは私の責任よ・・・=I'm worried… What if those two are fighting and it's all my fault…?
 私が体調を崩したせいで・・・=All because I got sick...
-わかったよ　やつらの|会話を聞いてきてやるよ=I understand. I’ll go listen in on there conversation for you.
+わかったよ　やつらの|会話を聞いてきてやるよ=I understand. I'll go listen in on there conversation for you.
 それで　お前の気が|楽になるんだろ？=Will that make you stop worrying?
 ありがとう|お願いよブラック☆スター♪=Thanks, Black☆Star♪
 さて　あいつら|何を話してるんだ・・・=Now what are they talking about…?
-今度は多変型の武器である|椿に興味をもったわけですか・・・=It would seem you’ve been showing quite the interest for the multi-form weapon, Tsubaki, recently…
-ええ　死武専の生徒で|興味のない生徒はいませんわ|保健医ですもの♪=Of course. She’s a student at the DWMA, and there isn’t a student here that I’m not interested in. I’m the nurse♪
+今度は多変型の武器である|椿に興味をもったわけですか・・・=It would seem you've been showing quite the interest for the multi-form weapon, Tsubaki, recently…
+ええ　死武専の生徒で|興味のない生徒はいませんわ|保健医ですもの♪=Of course. She's a student at the DWMA, and there isn't a student here that I'm not interested in. I'm the nurse♪
 あなたがマカに渡した薬を|調べさせてもらいました=Maka let me examine the medicine you gave her.
-データが少なくハッキリとは|わかりませんが・・・あの薬を飲むと|黒血が促進される可能性があります=The data is incomplete, and I don’t understand it completely, but… there’s a possibility that drinking that medicine will accelerate the black blood.
+データが少なくハッキリとは|わかりませんが・・・あの薬を飲むと|黒血が促進される可能性があります=The data is incomplete, and I don't understand it completely, but… there's a possibility that drinking that medicine will accelerate the black blood.
 そして　あなたは　健康で|あるはずの椿にも薬を|渡そうとしていましたね？=And then you intended give the medicine to the seemingly healthy Tsubaki as well, no?
 あなたは一体何を|たくらんでいるのですか？=What exactly are you playing at?
-たくらむだなんて　博士|単なる私のミスですわ|こんどからは気をつけます=Playing? Why professor, it was just a simple little mistake of mine. I’ll be sure to be more careful in the future.
+たくらむだなんて　博士|単なる私のミスですわ|こんどからは気をつけます=Playing? Why professor, it was just a simple little mistake of mine. I'll be sure to be more careful in the future.
 何者なんですか|あなたという存在は・・・=Who are you? Who are you really…?
-私はただの保健医|メデューサ先生ですよ♪=I’m Dr. Medusa. Just a simple nurse♪
-あなたがただの保健医なら|俺は無害な先生ということに|なりますね=If you’re just a simple nurse, the students can start calling me Professor Harmless.
+私はただの保健医|メデューサ先生ですよ♪=I'm Dr. Medusa. Just a simple nurse♪
+あなたがただの保健医なら|俺は無害な先生ということに|なりますね=If you're just a simple nurse, the students can start calling me Professor Harmless.
 あら　違うんですか？=Oh? Do they not?
 今は|そういうことにしておきましょう=Perhaps they will for the time being.
 どうだった？|ケンカしてなかった？=Well? Were they fighting?
-声はよく聞こえなかったけど|二人ともニコニコしてたから|大丈夫だと思うぜ！=I couldn’t hear their voices too well, but they were both smiling, so I’m sure it’s fine!
-そう　よかったわ|ありがとうブラック☆スター！=That’s wonderful. Thanks, Black☆Star!
+声はよく聞こえなかったけど|二人ともニコニコしてたから|大丈夫だと思うぜ！=I couldn't hear their voices too well, but they were both smiling, so I'm sure it's fine!
+そう　よかったわ|ありがとうブラック☆スター！=That's wonderful. Thanks, Black☆Star!
 !FILE:EV1221_002.bscr#私の睡眠ライフ = My Life of Sleep part 8
 マカちゃん|今は一人なんですか？=Maka, are you alone right now?
 読みたい本が|あったから　今はソウルと|別行動なのよ♪=There's a book I wanted to read, so Soul's out there doing his own thing ♪
@@ -7230,17 +7230,17 @@
 !FILE:EV1222_002.bscr#おばちゃんの秘密 = Auntie's Secret part 8
 さっきシド先生に|会ったんだけど|元気がなかったよ～=I ran into Sid a little while ago. He was upset.
 シド先生が・・・|何かあったんでしょうか？=Sid was… Did something happen?
-知らな～い|ゾンビに興味ないもん！|きゃはははは♪=I doooon’t know. I'm not interested in zombies! Kyahahahaha♪
+知らな～い|ゾンビに興味ないもん！|きゃはははは♪=I doooon't know. I'm not interested in zombies! Kyahahahaha♪
 ったく　しょうがねェ|ゾンビ君だぜ！=Geez. Mr. Zombie is so helpless!
 スターである俺様が|いっちょカツを入れてやるか！|ひやっはははははは☆=I guess it's up to a star like me to give him a pep-talk! Hiyahahahahahaha☆
 !FILE:EV1222_006.bscr
 シド先生が・・・|何かあったんでしょうか？=Sid was… Did something happen?
-知らな～い|ゾンビに興味ないもん！|きゃはははは♪=I doooon’t know. I'm not interested in zombies! Kyahahahaha♪
+知らな～い|ゾンビに興味ないもん！|きゃはははは♪=I doooon't know. I'm not interested in zombies! Kyahahahaha♪
 !FILE:EV1222_012.bscr
-シド先生|元気がないですね？|どうかしたんですか？=Are you upset about something, Sid? What’s wrong?
-ああ　久し振りに|怒られてしまった・・・=Yeah. It’s been a long time since I’ve been scolded so much…
-死神様に怒られたぐらいで|ヘコまないでください=If it’s just Lord Death scolding you, try not to let it get to you too much.
-いや　死神様じゃないんだ・・・=No. It wasn’t Lord Death…
+シド先生|元気がないですね？|どうかしたんですか？=Are you upset about something, Sid? What's wrong?
+ああ　久し振りに|怒られてしまった・・・=Yeah. It's been a long time since I've been scolded so much…
+死神様に怒られたぐらいで|ヘコまないでください=If it's just Lord Death scolding you, try not to let it get to you too much.
+いや　死神様じゃないんだ・・・=No. It wasn't Lord Death…
 誰に怒られたんだよ？=Who was it then?
 学生課のおばちゃんだ=The school secretary, Auntie.
 おばちゃんが|シド先生を怒ったんですか？=Auntie scolded you?
@@ -7253,7 +7253,7 @@
 おばちゃんは|本当に変わらない・・・=Auntie hasn't changed at all...
 !FILE:EV1222_017.bscr
 ・・・・・・・・・=.........
-何　考えてるの？|どうせくだらないことだと思うけど・・・=What’s on your mind? It was probably some silly misunderstanding…
+何　考えてるの？|どうせくだらないことだと思うけど・・・=What's on your mind? It was probably some silly misunderstanding…
 おばちゃんのことが|気になってな・・・=Auntie is suddenly very intriguing...
 ああ　やっぱり・・・=Yeah. I thought so...
 椿は気にならねェのかよ？|あのシド先生を叱れるんだぜ！|ただ者じゃねェよ☆=How are you not intrigued, Tsubaki? She scolded Sid! That's no ordinary person☆
@@ -7639,7 +7639,7 @@
 !FILE:EV1320_110.bscr
 ミッションクリア|お疲れさ～ん♪=Mission clear! Welcome back♪
 楽勝だったぜ　ダンナ！|もっとすげェのは|ねェのかよ！=That was too easy, boss! Tell me you've got something more my speed!
-その前にお説教だよ|君達単独で出かけたよね？=The sermon comes first! You went out without another team, right?#Translated 説教 as sermon as opposed to lecture or preaching due to Lord Death’s god status, but it might be a bit much.
+その前にお説教だよ|君達単独で出かけたよね？=The sermon comes first! You went out without another team, right?#Translated 説教 as sermon as opposed to lecture or preaching due to Lord Death's god status, but it might be a bit much.
 あはは・・・|やっぱりバレてましたか・・・=Ahaha... We got caught after all...?
 キッドはよくて|どうして俺達がダメなんだよ！|納得いかねェよ　ダンナ！=Why is it okay for Kid, but we're not allowed? It's not fair, boss!
 確かにブラック☆スターの実力ならば|許してあげてもいいんじゃないの|とは思うよ♪=Black☆Star is certainly very competent, so I think it'll be okay to excuse it♪
@@ -7779,7 +7779,7 @@
 リズの奴も　俺様が大物であることを|ようやくわかってきたみてェだな♪=It looks like Liz finally understands how big I am♪
 はぁ　キッド君に|なんて言ったらいいのかしら・・・=*Sigh* What are we supposed to tell Kid...?
 !FILE:EV1321_041.bscr
-リズとパティが|まだ来ないのだが・・・=Liz and Patty still haven’t shown up...
+リズとパティが|まだ来ないのだが・・・=Liz and Patty still haven't shown up...
 !FILE:EV1321_042.bscr
 すみません・・・|私が至らないばかりに・・・=Sorry... I'm totally useless...
 てめェがさがしに行きゃ|いいじゃねェか！？=Why don't you go and look for them yourself!?
@@ -9502,7 +9502,7 @@
 ・・・・・・・・・=.........
 !FILE:EV1930_000.bscr
 それにしても|ツボはどの辺にあるのかしら？=I wonder where that jar could be.
-椿！考えるんじゃない|感じるんだ！|身体全体でツボを☆=Tsubaki! Don’t think! Feel the jar! With your whole body☆!
+椿！考えるんじゃない|感じるんだ！|身体全体でツボを☆=Tsubaki! Don't think! Feel the jar! With your whole body☆!
 !FILE:EV1930_001.bscr
 薬なんて大げさじゃねェか？|どう考えても　お前の不摂生が|原因だと思うぜ！=Medicine is so overrated. It's pretty clear that your problems come from your unhealthy lifestyle!
 そんなこと言わないで|お願いよブラック☆スター！=Please stop saying things like that, Black☆Star.
@@ -9522,9 +9522,9 @@
 お願いだから|慎重にね　ブラック☆スター=Please be careful, Black☆Star!
 !FILE:EV1931_000.bscr
 これがあれば|特訓が再開できるぜ☆=With this I can get back to my special training☆!
-よかったわね|ブラック☆スター♪=That’s great Black☆Star♪
+よかったわね|ブラック☆スター♪=That's great Black☆Star♪
 !FILE:EV1931_001.bscr
-やったぜ　椿！|これがあればいいんだろ！？= Awesome! Tsubaki, you’ll be fine now that we have this!   
+やったぜ　椿！|これがあればいいんだろ！？= Awesome! Tsubaki, you'll be fine now that we have this!   
 ああ　これさえあれば|私は健康体に戻れるわ♪=Yeah. With this I can get back to my normal, healthy self♪   
 !FILE:EV1931_002.bscr
 はぁ・・・終わったわね=*Sigh* ... It's over.
@@ -9853,7 +9853,7 @@
 !FILE:EV1934_041.bscr
 気をつけてね！|ブラック☆スター！=Be careful, Black☆Star!
 椿！|最初から飛ばすぜっ！=This'll be done in no time, Tsubaki!
-がんばりましょ！　|ブラック☆スター！=Let’s give it our best, Black☆Star!
+がんばりましょ！　|ブラック☆スター！=Let's give it our best, Black☆Star!
 さぁ　どんと来い！=Yeah! Let it rip!
 集中して！|ブラック☆スター！=Stay focused, Black☆Star!
 俺様オンステージの開幕だぜっ！！=Raise the curtain! Black☆Star is on stage!!
@@ -9861,7 +9861,7 @@
 それを聞くのは|野暮ってヤツだぜ・・・=How dumb do you have to be to ask a question like that...?
 !FILE:EV1934_042.bscr
 あ・・・あまり近寄りたくない相手ね・・・=I... don't want to get too close to him...
-いや　別に|全然　思わねェ！=Nah. There’s nothing to worry about!
+いや　別に|全然　思わねェ！=Nah. There's nothing to worry about!
 なんだか強そうな相手ね・・・=He looks like he might make for a difficult foe...
 そうか？|そんな事ねェと思うけどな☆=Really? I was thinking the exact opposite☆
 話が噛み合ってない気が・・・=I don't think they're talking about the same thing...
@@ -9985,7 +9985,7 @@
 天上天下　唯我独尊！！|俺様が最強だぜぇ！=Throughout the heavens and on Earth!! No one is as strong and as confident as I am!!
 油断は禁物よ！|ブラック☆スター！=We can't afford to be careless! Black☆Star!
 俺時代到来！|さぁ　行くぜ！椿！=Black☆Star on stage! Leeet's go! Tsubaki!
-がんばりましょ！　|ブラック☆スター！=Let’s give it our best, Black☆Star!
+がんばりましょ！　|ブラック☆スター！=Let's give it our best, Black☆Star!
 椿！気合いれていけよっ！=Tsubaki! Let's turn up the heat!
 なんだか強そうな相手ね・・・=He looks like he might make for a difficult foe...
 どうでもいいぜ！|俺様が大活躍するだけだしなっ！！=Who cares!? It won't change the spectacular show I'll be putting on!!
@@ -10052,7 +10052,7 @@
 !FILE:EV1934_341.bscr
 気をつけてね！|ブラック☆スター！=Be careful, Black☆Star!
 椿！|最初から飛ばすぜっ！=This'll be done in no time, Tsubaki!
-がんばりましょ！　|ブラック☆スター！=Let’s give it our best, Black☆Star!
+がんばりましょ！　|ブラック☆スター！=Let's give it our best, Black☆Star!
 さぁ　どんと来い！=Yeah! Let it rip!
 集中して！|ブラック☆スター！=Stay focused, Black☆Star!
 俺様オンステージの開幕だぜっ！！=Raise the curtain! Black☆Star is on stage!!
@@ -10060,7 +10060,7 @@
 それを聞くのは|野暮ってヤツだぜ・・・=How dumb do you have to be to ask a question like that...?
 !FILE:EV1934_342.bscr
 あ・・・あまり近寄りたくない相手ね・・・=I... don't want to get too close to him...
-いや　別に|全然　思わねェ！=Nah. There’s nothing to worry about!
+いや　別に|全然　思わねェ！=Nah. There's nothing to worry about!
 なんだか強そうな相手ね・・・=He looks like he might make for a difficult foe...
 そうか？|そんな事ねェと思うけどな☆=Really? I was thinking the exact opposite☆
 話が噛み合ってない気が・・・=I don't think they're talking about the same thing...
@@ -10208,7 +10208,7 @@
 !FILE:EV1934_641.bscr
 気をつけてね！|ブラック☆スター！=Be careful, Black☆Star!
 椿！|最初から飛ばすぜっ！=This'll be done in no time, Tsubaki!
-がんばりましょ！　|ブラック☆スター！=Let’s give it our best, Black☆Star!
+がんばりましょ！　|ブラック☆スター！=Let's give it our best, Black☆Star!
 さぁ　どんと来い！=Yeah! Let it rip!
 集中して！|ブラック☆スター！=Stay focused, Black☆Star!
 俺様オンステージの開幕だぜっ！！=Raise the curtain! Black☆Star is on stage!!
@@ -10216,7 +10216,7 @@
 主役は俺様！！！|そうだろ？椿！！|いくぜっ！！=I'm the lead role!!! The show can't go on without me, right, Tsubaki? So let's give the people what they want!!
 !FILE:EV1934_642.bscr
 あ・・・あまり近寄りたくない相手ね・・・=I... don't want to get too close to him...
-いや　別に|全然　思わねェ！=Nah. There’s nothing to worry about!
+いや　別に|全然　思わねェ！=Nah. There's nothing to worry about!
 なんだか強そうな相手ね・・・=He looks like he might make for a difficult foe...
 椿！気合いれていけよっ！=Tsubaki! Let's turn up the heat!
 話が噛み合ってない気が・・・=I don't think they're talking about the same thing...
@@ -11486,14 +11486,14 @@
 なんだよ　やっとかよ|気づくのが遅ェぜ！=Huh, is that so? Took you a while to notice!
 これを渡しておくから|もっとがんばってちょうだい♪=I'm going to give you this, so keep at it and do your best out there♪
 ほめてもらった上に|こんなものまでもらえるなんて・・・=To think that we got praised and even received such a gift on top of that...
-これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
+これからも|期待しているわよ♪=I'm expecting a lot from you two. ♪
 !FILE:EV1966_026.bscr
-これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
+これからも|期待しているわよ♪=I'm expecting a lot from you two. ♪
 !FILE:EV1966_032.bscr
 ブレアからのプレゼント|受け取ってもらえる？=You want a little present from yours truly?
 ひやっはぁ☆|スターへの貢ぎ物とは感心だ|もらっておいてやろう！=Hiyahaa☆ A star's tribute is always appreciated. I'll gladly accept it!
 さぁ|うけとってちょうだい♪=Go on. Take it♪
-ありがとうございます|すごく嬉しいです=Thank you so much! It’s a pleasure to hear this!
+ありがとうございます|すごく嬉しいです=Thank you so much! It's a pleasure to hear this!
 にゃはは♪|ブレアもうれしいよ♪=Nyahaha♪ I'm happy too♪
 !FILE:EV1966_036.bscr
 にゃはは♪|ブレアもうれしいよ♪=Nyahaha♪ I'm happy too♪
@@ -11511,7 +11511,7 @@
 何がもらえるのかしら|ドキドキしますね=What could it be? My heart is pounding.
 これだよ～ん！|受け取ってちょうだい♪=Surprise! Go on! Take it! Take it♪
 わるくねェな|受け取っておいてやるぜ！=Not bad. We'll take it off your hands!
-ありがとうございます|すごく嬉しいです=Thank you so much! It’s a pleasure to hear this!
+ありがとうございます|すごく嬉しいです=Thank you so much! It's a pleasure to hear this!
 うんうん|喜んでもらえて|私も嬉しいよ♪=Yep, yep. I'm happy just seeing your smiling faces♪
 !FILE:EV1966_087.bscr
 そうだ　私のお古でよかったら|もらってちょうだい♪=Well, I have a new one, so if you want it, you can have it♪
@@ -11519,7 +11519,7 @@
 何がもらえるのかしら|ドキドキしますね=What could it be? My heart is pounding.
 これよ　これ|受け取ってちょうだい♪=Here you go. You can have this♪
 わるくねェな|受け取っておいてやるぜ！=Not bad. We'll take it off your hands!
-ありがとうございます|すごく嬉しいです=Thank you so much! It’s a pleasure to hear this!
+ありがとうございます|すごく嬉しいです=Thank you so much! It's a pleasure to hear this!
 よろこんでもらえて|私も嬉しいわ♪=I'm glad seeing it makes you happy♪
 !FILE:EV1966_097.bscr
 さっき　そこで拾ったんだが|俺がもっててもしょうがねぇ|よかったら貰ってくれ！=I just picked this up over there, but I don't have any need for it. If you want it, you can have!
@@ -11527,7 +11527,7 @@
 何がもらえるのかしら|ドキドキしますね=What could it be? My heart is pounding.
 ものはそんなに悪くないと思うぜ！=I think this thing might come in handy!
 わるくねェな|受け取っておいてやるぜ！=Not bad. We'll take it off your hands!
-ありがとうございます|すごく嬉しいです=Thank you so much! It’s a pleasure to hear this!
+ありがとうございます|すごく嬉しいです=Thank you so much! It's a pleasure to hear this!
 また　拾ったらお前達にやるよ！=If I come across another one, I'll be sure to give it to you guys!
 !FILE:EV1966_107.bscr
 忘れるところでした|これを渡すように死神様から|言付かっていたのです=I had forgotten. Lord Death asked me to give this to you.
@@ -11535,7 +11535,7 @@
 何がもらえるのかしら|ドキドキしますね=What could it be? My heart is pounding.
 これです|受け取ってください=This. Please, take it.
 わるくねェな|受け取っておいてやるぜ！=Not bad. We'll take it off your hands!
-ありがとうございます|すごく嬉しいです=Thank you so much! It’s a pleasure to hear this!
+ありがとうございます|すごく嬉しいです=Thank you so much! It's a pleasure to hear this!
 大切に使ってください=Please use it with caution.
 !FILE:EV1966_117.bscr
 部屋を整理してたら|昔使っていたものが出てきた|よかったらもらってくれ=I was rearranging my room when I came across this. I haven't used it in quite some time. Do you want it?
@@ -11543,7 +11543,7 @@
 何がもらえるのかしら|ドキドキしますね=What could it be? My heart is pounding.
 さぁ　これだ！|受け取ってくれ！=Yo, here! Take this with you!
 わるくねェな|受け取っておいてやるぜ！=Not bad. We'll take it off your hands!
-ありがとうございます|すごく嬉しいです=Thank you so much! It’s a pleasure to hear this!
+ありがとうございます|すごく嬉しいです=Thank you so much! It's a pleasure to hear this!
 俺はものを惜しまない|そんな男だった・・・=I spare no expense. That's the kind of man I was...
 !FILE:EV1966_537.bscr
 ブレアからのプレゼント|受け取ってもらえる？=You want a little present from yours truly?
@@ -11551,7 +11551,7 @@
 何がもらえるのかしら|ドキドキしますね=What could it be? My heart is pounding.
 さぁ|うけとってちょうだい♪=Go on. Take it♪
 わるくねェな|受け取っておいてやるぜ！=Not bad. We'll take it off your hands!
-ありがとうございます|すごく嬉しいです=Thank you so much! It’s a pleasure to hear this!
+ありがとうございます|すごく嬉しいです=Thank you so much! It's a pleasure to hear this!
 にゃはは♪|ブレアもうれしいよ♪=Nyahaha♪ I'm happy too♪
 !FILE:EV1968_040.bscr
 死神様がいないなんて　珍しいわね・・・=Lord Death really isn't here. That's rare...
@@ -11608,7 +11608,7 @@
 ・・・・・・・・・=.........
 !FILE:EV1981_000.bscr
 こんにちは　おば様=Hello, Auntie.
-来たね　あんた達|おばちゃん|ちゃんと見てたよ=So, you’ve come, huh? I’ve been watching you closely.
+来たね　あんた達|おばちゃん|ちゃんと見てたよ=So, you've come, huh? I've been watching you closely.
 ひゃっはー！　おばちゃん！|ビッグな俺様にふさわしい|課題はどれだ！？=Woohoo! Auntie! What do you suppose would be a proper task for a big man like me?! 
 相変わらずだね|ブラック☆スター=You never change, do you, Black☆Star?
 先に言っとくけど|あんまり　危険な所には|行かせないよ=Don't forget that I won't let you go to any particularly dangerous places.
@@ -11641,7 +11641,7 @@
 どうやら　俺様の後光に|ひかれてやってきたようだな|椿！一緒に行くやつは決まったぜ！=Seems like you've been caught in the radiance of my halo! Tsubaki, I've decided who's coming with us!
 私に何か用ですか？=Do you need me for something?
 !FILE:EV1981_600.bscr
-がんばりましょ|ブラック☆スター=Let’s give it our best, Black☆Star!
+がんばりましょ|ブラック☆スター=Let's give it our best, Black☆Star!
 行きましょ|ブラック☆スター=Let's go, Black☆Star.
 真面目にやってね|ブラック☆スター=Let's take this seriously, Black☆Star.
 ブラック☆スターの実力なら|きっと達成できるよ=If it's with Black☆Star's true strength, we can definitely accomplish it.
@@ -11826,7 +11826,7 @@
 あなた達の活躍を|良く耳にするわよ♪=I've been hearing a lot of good things about you♪
 いいね　いいね|誉められるのは好きだぜ！=Goody goody! I like to be praised!
 おお　ありがとうございます=Oh! Thank you very much.
-これからも|期待しているわよ♪=I’m expecting a lot from you♪
+これからも|期待しているわよ♪=I'm expecting a lot from you♪
 !FILE:EV2103_010.bscr
 ほぇ～=Whoooa.
 にゃはは～♪=Nyahahaa♪
@@ -17716,9 +17716,9 @@
 きゃはははは|ほめられちゃった♪=Kyahahaha! We did good things♪
 これを渡しておくから|もっとがんばってちょうだい♪=I'm going to give you this, so keep at it and do your best out there♪
 物をもらうってのは|やっぱ気持ちいいね！=With the thing you gave us I feel better already!
-これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
+これからも|期待しているわよ♪=I'm expecting a lot from you two. ♪
 !FILE:EV2966_006.bscr
-これからも|期待しているわよ♪=I’m expecting a lot from you two. ♪
+これからも|期待しているわよ♪=I'm expecting a lot from you two. ♪
 !FILE:EV2966_012.bscr
 にゃんだか最近|カッコいいね～♪=You've been looking me-owfully cool recently♪
 うむ　問題ない=Hm. Sure.
@@ -17894,7 +17894,7 @@
 !FILE:EV2981_000.bscr
 オッス=Hey!
 ちゅ～す=Hiya!
-来たね　あんた達|おばちゃん|ちゃんと見てたよ=So, you’ve come, huh? I’ve been watching you closely.
+来たね　あんた達|おばちゃん|ちゃんと見てたよ=So, you've come, huh? I've been watching you closely.
 おばちゃん|何か簡単なやつある？=Auntie, you got anything simple?
 たわけ・・・|簡単すぎたら|意味がないだろうが=Idiot... There's no point if it's too easy.
 そのとおりだよ|でもね・・・=That's true, but...
@@ -17985,72 +17985,72 @@
 !FILE:EV2988_105.bscr
 レスキューってことで|よろしく頼むよ～ん♪=Good luck with the rescue mission♪
 !FILE:EV9907_000.bscr
-さあ|軽く準備運動から始めましょう=Okay, let’s start with a little warm up.
-まずは下半身の運動から|「コントロールスティック」を倒して|移動してみましょう=We’ll begin with lower body movement. You can move around using the analog stick.
-では実際に移動してみてください|満足したら「1ボタン」を押してください=Now, try actually moving around. Once you’re ready, press Button 1.
+さあ|軽く準備運動から始めましょう=Okay, let's start with a little warm up.
+まずは下半身の運動から|「コントロールスティック」を倒して|移動してみましょう=We'll begin with lower body movement. You can move around using the analog stick.
+では実際に移動してみてください|満足したら「1ボタン」を押してください=Now, try actually moving around. Once you're ready, press Button 1.
 !FILE:EV9907_010.bscr
 次は上半身の運動です|「Aボタン」を押してパンチを|出してみましょう=Next up is upper body movement. Try pressing the A Button to punch.
 テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=By pressing the A Button several times in a row you can launch a combo attack.
-大事なことを忘れていました|木箱のことを説明しておきましょう=Oh, we forgot about something important. Let’s take a short look at this wooden box.
+大事なことを忘れていました|木箱のことを説明しておきましょう=Oh, we forgot about something important. Let's take a short look at this wooden box.
 木箱や宝箱はパンチで壊したり|開けたりすることができます=You can break open wooden boxes, as well as treasure chests, by punching them.
-中に大事なものや役に立つものが|入っていることがありますから|忘れないでください=There could be important or helpful items inside, so please don’t forget to do that.
-では実際にパンチを出してみてください|満足したら「1ボタン」を押してください=Now, try actually punching for once. Once you’re ready, press Button 1.
-前が見にくいと感じたときは「Zボタン」を|押してください　カメラが見ているほうを|向くようにリセットされます=When you can’t see what’s in front of you, press the Z Button. This will cause the camera to face the direction that your character is looking in.
+中に大事なものや役に立つものが|入っていることがありますから|忘れないでください=There could be important or helpful items inside, so please don't forget to do that.
+では実際にパンチを出してみてください|満足したら「1ボタン」を押してください=Now, try actually punching for once. Once you're ready, press Button 1.
+前が見にくいと感じたときは「Zボタン」を|押してください　カメラが見ているほうを|向くようにリセットされます=When you can't see what's in front of you, press the Z Button. This will cause the camera to face the direction that your character is looking in.
 !FILE:EV9907_020.bscr
-さあ|いよいよパートナーとの訓練です=Now, it’s finally time to train with your partner.
-俺達の力を見せてやろうぜ！=Let’s show 'em what we can do!
-まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=We’ll start by learning some footwork that’s necessary in the heat of battle.
+さあ|いよいよパートナーとの訓練です=Now, it's finally time to train with your partner.
+俺達の力を見せてやろうぜ！=Let's show 'em what we can do!
+まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=We'll start by learning some footwork that's necessary in the heat of battle.
 「コントロールスティック」を倒すと|いつもと同じように移動できます=You can move as always by using the analog stick.
 「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=By shaking the Wii Remote you can quickly sidestep to the right.
 「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=By shaking the Nunchuck you can quickly sidestep to the left.
 「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=Pull back the Wii Remote to quickly step back.
-では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Now, try actually using some of these footwork techniques. Once you’re ready, press Button 1.
+では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Now, try actually using some of these footwork techniques. Once you're ready, press Button 1.
 !FILE:EV9907_021.bscr
-さあ|いよいよパートナーとの訓練です=Now, it’s finally time to train with your partner.
-がんばりましょ|ブラック☆スター=Let’s give it our best, Black☆Star!
-まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=We’ll start by learning some footwork that’s necessary in the heat of battle.
+さあ|いよいよパートナーとの訓練です=Now, it's finally time to train with your partner.
+がんばりましょ|ブラック☆スター=Let's give it our best, Black☆Star!
+まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=We'll start by learning some footwork that's necessary in the heat of battle.
 「コントロールスティック」を倒すと|いつもと同じように移動できます=You can move as always by using the analog stick.
 「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=By shaking the Wii Remote you can quickly sidestep to the right.
 「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=By shaking the Nunchuck you can quickly sidestep to the left.
 「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=Pull back the Wii Remote to quickly step back.
-では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Now, try actually using some of these footwork techniques. Once you’re ready, press Button 1.
+では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Now, try actually using some of these footwork techniques. Once you're ready, press Button 1.
 !FILE:EV9907_022.bscr
-さあ|いよいよパートナーとの訓練です=Now, it’s finally time to train with your partner.
-やってやろうぜ！キッド！=Let’s do it, Kid!
-まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=We’ll start by learning some footwork that’s necessary in the heat of battle.
+さあ|いよいよパートナーとの訓練です=Now, it's finally time to train with your partner.
+やってやろうぜ！キッド！=Let's do it, Kid!
+まずは戦いのときのフットワークと|とっさの場合のステップワークを|覚えましょう=We'll start by learning some footwork that's necessary in the heat of battle.
 「コントロールスティック」を倒すと|いつもと同じように移動できます=You can move as always by using the analog stick.
 「Wiiリモコン」を振ると「右」へ|すばやくサイドステップできます=By shaking the Wii Remote you can quickly sidestep to the right.
 「ヌンチャク」を振ると「左」へ|すばやくサイドステップできます=By shaking the Nunchuck you can quickly sidestep to the left.
 「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=Pull back the Wii Remote to quickly step back.
-では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Now, try actually using some of these footwork techniques. Once you’re ready, press Button 1.
+では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Now, try actually using some of these footwork techniques. Once you're ready, press Button 1.
 !FILE:EV9907_030.bscr
 次は武器での攻撃の仕方です|「Aボタン」を押して攻撃を|してみましょう=Next on the list are weapon attacks. Press the A button to attack.
 テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=By pressing the A Button several times in a row you can launch a combo attack.
-では武器での攻撃を試してみてください|満足したら「1ボタン」を押してください=Why don’t you give it a try? Once you’ve had enough, press Button 1.
+では武器での攻撃を試してみてください|満足したら「1ボタン」を押してください=Why don't you give it a try? Once you've had enough, press Button 1.
 !FILE:EV9907_040.bscr
 今度はコンビネーション攻撃を|途中で変化させる方法です=You can also transform your combo attacks while executing them.
 ２回目の攻撃中に「Wiiリモコン」もしく|は「ヌンチャク」を振りながら「Aボタン」|をテンポ良く押してみましょう=During your second attack, try shaking either the Wii Remote or the Nunchuck while quickly pressing the A button.
-ではコンビネーション攻撃の変化を|試してみてください|満足したら「1ボタン」を押してください=Give the alternative combo attacks a try. Press Button 1 when you’ve had enough.
+ではコンビネーション攻撃の変化を|試してみてください|満足したら「1ボタン」を押してください=Give the alternative combo attacks a try. Press Button 1 when you've had enough.
 !FILE:EV9907_050.bscr
-次は狙った相手を攻撃する|ロックオンの仕方です=Now, you’ll learn how to target enemies. In other words, locking on to them.
-では|練習相手を呼び出します=Okay, let’s give you a training partner.
+次は狙った相手を攻撃する|ロックオンの仕方です=Now, you'll learn how to target enemies. In other words, locking on to them.
+では|練習相手を呼び出します=Okay, let's give you a training partner.
 ロックオンをするには「Bボタン」を押し|ます　「Bボタン」を押すと自分の一番|近くにいる相手をロックオンします=In order to lock on, press the B button. Once you do that, you will lock on to the nearest enemy.
-狙った相手の足元にはロックオンマークが|現れ　画面の左上にロックオンの文字が|表示されます=A lock-on marker will appear around the feet of the enemy you’re targeting and a “lock-on” sign will be displayed in the upper left part of your screen.
+狙った相手の足元にはロックオンマークが|現れ　画面の左上にロックオンの文字が|表示されます=A lock-on marker will appear around the feet of the enemy you're targeting and a "lock-on" sign will be displayed in the upper left part of your screen.
 ロックオンをやめるには　もう一度|「Bボタン」を押します|ロックオンマークと文字が消えます=In order to stop locking on, press the B button again. This will cause the lock on marker, as well as the sign, to disappear. 
 「Bボタン」を繰り返し押すことで|一番近くにいる相手にすばやく攻撃する|ことができます=If you keep pressing the B button, you can quickly attack the enemies that are closest to you.
-ロックオンをしている間はロックオンした|相手を中心にして移動します=When you lock on, your movements will center around the enemy you’ve locked on to.
+ロックオンをしている間はロックオンした|相手を中心にして移動します=When you lock on, your movements will center around the enemy you've locked on to.
 「Aボタン」での攻撃も全てロックオン|した相手に行われます=The A button attacks you make will also be directed at the locked-on enemy.
 また「Zボタン」を押し続けるとカメラが|常にロックオンをしている相手のほうを|向くようになります=Also, while you hold the Z button, the camera will stay focused on the locked-on enemy.
-では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=It’s time to give the lock-on technique a try. Press Button 1 when you feel satisfied.
+では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=It's time to give the lock-on technique a try. Press Button 1 when you feel satisfied.
 !FILE:EV9907_060.bscr
-職人としての技術を覚えましたか？|では実際に戦ってみましょう=Did you memorize all meister techniques? Let’s test your skills in actual battle.
+職人としての技術を覚えましたか？|では実際に戦ってみましょう=Did you memorize all meister techniques? Let's test your skills in actual battle.
 !FILE:EV9907_500.bscr
 皆さん|準備はいいですか？=Is everyone ready?
 おう！=Yeah!
 さあ|魂の共鳴の仕方を覚えましょう=Now. Let's go over how to use Soul Resonance.
 魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack will increase the Resonance Gauge.
 共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and the meister's attack power will increase. Not attacking will cause the Resonance Gauge to deplete.
-では|練習相手を呼び出します=Okay, let’s give you a training partner.
+では|練習相手を呼び出します=Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_501.bscr
 皆さん|準備はいいですか？=Is everyone ready?
@@ -18058,7 +18058,7 @@
 さあ|魂の共鳴の仕方を覚えましょう=Now. Let's go over how to use Soul Resonance.
 魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack will increase the Resonance Gauge.
 共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and the meister's attack power will increase. Not attacking will cause the Resonance Gauge to deplete.
-では|練習相手を呼び出します=Okay, let’s give you a training partner.
+では|練習相手を呼び出します=Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_502.bscr
 皆さん|準備はいいですか？=Is everyone ready?
@@ -18066,7 +18066,7 @@
 さあ|魂の共鳴の仕方を覚えましょう=Now. Let's go over how to use Soul Resonance.
 魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack will increase the Resonance Gauge.
 共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and the meister's attack power will increase. Not attacking will cause the Resonance Gauge to deplete.
-では|練習相手を呼び出します=Okay, let’s give you a training partner.
+では|練習相手を呼び出します=Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_510.bscr
 次は職人固有の必殺技についてです|必殺技を使うには条件があります=Next, we'll discuss meister-specific Finishing Strikes. There are certain requirements to use a Finishing Strike.
@@ -18325,7 +18325,7 @@
 !FILE:EV9962_094.bscr
 ・・・・・・・・・=.........
 !FILE:EV9962_100.bscr
-それでは　また後で|授業で会いましょう=Okay. I’ll see you in class later then.
+それでは　また後で|授業で会いましょう=Okay. I'll see you in class later then.
 !FILE:EV9962_101.bscr
 早く去ってください|・・・どんな惨劇が起こるか|わかりませんよ・・・=Please leave now... You never know when there might be a tragic accident...
 !FILE:EV9962_102.bscr
@@ -18888,7 +18888,7 @@
 やるじゃない　あなた達！|これじゃ私の世話になることはなさそうね=Well done, you guys! I guess you won't be needing my care after all.
 結構やるのね～　あなた達|正直見直したわ=Well done, you guys. You've really improved.
 うん　いいと思うわよ|これなら少しがんばれば|もっといい成績を出せるわよ=Yeah. I think that was all right. If you push a little harder, you could manage even better grades.
-ちょっと残念な成績ね|もっと良くなるはずだから|次もがんばってみて=These grades are a little low. But I’m sure you can do better, so give it your all next time.
+ちょっと残念な成績ね|もっと良くなるはずだから|次もがんばってみて=These grades are a little low. But I'm sure you can do better, so give it your all next time.
 あなた達　大丈夫？|次からは　もっと　治療道具を|用意したほうがいいかしら・・・=Are you all right? I wonder if I should prepare more medical tools for next time...
 あなた達　やったわね|レベルが上がったみたいよ=You did it, guys! It looks like you've gone up a level!
 !FILE:EV9983_090.bscr
