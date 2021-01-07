@@ -1,7 +1,12 @@
-﻿These notes should serve to help in the proofreading/ playtesting phase of this project. There are a number of things which must be agreed on, tested, and implemented within the text in order to maintain consistency. As well, there are a few things that I may have considered later in the translation process, which might be somewhat problematic from a perspective of cultural sensitivity and inclusivity. I intend to address these issues myself, but it is possible that I may miss some instance of them, so I would just like the proofreaders to keep them in mind.
+Current progress: Haribeau's proofreading of msbe_input from start to !FILE:EV0220_002.bscr.
+
+These notes should serve to help in the proofreading/ playtesting phase of this project. There are a number of things which must be agreed on, tested, and implemented within the text in order to maintain consistency. As well, there are a few things that I may have considered later in the translation process, which might be somewhat problematic from a perspective of cultural sensitivity and inclusivity. I intend to address these issues myself, but it is possible that I may miss some instance of them, so I would just like the proofreaders to keep them in mind.
 
 
-Of course, read any comment made on SmartCat. Some are there only to explain the meaning or context, while others show any concerns I may have had.
+I recommend using Smartcat in conjunction with GitHub to help with consistency throughout repeated lines. Smartcat marks lines with repetitions with a yellow arrow.
+
+
+Comments are designated by the # symbol. Some are there only to explain the meaning or context, while others show any concerns I may have had.
 
 
 Within the msbe_events file you will find lines separating the dialogue into sections which follow this format !FILE:EV0000_000.bscr. Maybe no one will care, but I personally found it helpful to understand a little about how it works, so I’ll explain it just in case anybody would find that helpful. The first two digits denote which group the player is using as well as the day they are currently on. So 0???_??? is team Maka, 1???_??? is team Black Star, and 2???_??? is team Kid. ?1???_??? is day 1, ?2???_??? is day 2, et cetera all the way to 6. ?9??_??? is extra dialogue that happens during missions, as well as when having conversations that aren’t required to progress the game, such as when entering an empty location. The third and fourth digits of the first group show the chapter. ??00_???, for example, should be the first chapter of the day. The first chapter of each day within the msbe_events file will always be the morning class, and the second will always be the evening class, which occurs at the end of the day in-game. The second group of three digits increase, and each new number typically means a separate conversation which happens during the chapter. Often there will be two or three lines which receive their own file number that are repeated from the previous conversation. These are the lines that happen if the player chooses to speak to the same person again as opposed to leaving after the conversation. There are many larger groups of extra dialogue lines. These usually consist of a single character saying two lines that go together or a short back and forth between two or three characters. This would look like AA, ABA, or ABC. The issue is that these short conversations are all grouped together with no way to know for sure if they go together or not. Just look for one of these patterns and hopefully the dialogue itself will help to clear everything up.
@@ -19,47 +24,57 @@ When playtesting, please try to enter empty locations whenever possible. The maj
 Japanese tends to use a person’s name far more often than in English, so feel free to remove people’s names from the translation when unnecessary or awkward.
 
 
-Punctuation and spelling inconsistent for held sounds, yawning, stuttering, etc.
-Inconsistency of use of *Sigh*/*Pant* or written out sound effects.; the use of ~ , … , ** , ♪ , ☆ , etc.
+Avoid overuse of elongated vowels. This problem is especially prevalent with Lord Death with his exaggerated speech style. The official English dub does away with this.
+
+Avoid overuse of ellipses (...) as found in the Japanese.
+
+The ♪ comes after exclamation points but before question marks. It replaces periods. The same rules apply to ☆.
+
+Make use of *Sigh* and *Pant* as opposed to spelling them out.
+
+Stuttering should make use of hyphen and repeated letter. When at the start of a sentence, the letter should be capitalized in both instances (Y-You). In the case of consonant digraphs, include both letters (wh-what, tr-treasure). There should be no spaces around the hyphen.
 
 
-I have tried to maintain roughly the same line length and phrasing in between the English and Japanese to better match the Japanese audio.
+I have tried to maintain roughly the same line length and phrasing in between the English and Japanese to better match the Japanese audio. Try to keep this in mind, but natural language and flow are obviously the first priority.
 
 
-The word Kishin should always be capitalized.
+The word kishin should only be capitalized when referring to Asura, which I don't believe happens in the game, so as a general rule, remove capitalization of the word when not beginning a sentence.
 
 
-Sid - is he ever referred to as Mr. Sid or anything else but just Sid?
+Parameres - their laugh is ギギ (gigi) in Japanese, I originally translated it as 'kyakya', but I'm now considering Chkchk to try to imitate a sort of cicada sound, I welcome any ideas and suggestions as I'm really not sure about it
 
 
-Spirit - how does Stein typically refer to him?; is it odd for Tsubaki to refer to him as Mr. Albarn?
+Sid - can be referred to as Mr. Sid
 
 
-Medusa - is she referred to as Dr. Medusa?; is she referred to as the doctor or the nurse or…?
+Spirit - referred to as Spirit by adult characters, Death Scythe by the children, papa by Maka, and Mr. Albarn when -san is added on
 
 
-Stein - is he referred to as Dr. or Professor Stein?; Stein is given the nickname ネジメガネ which has been translated as Mr. Screw-n-Glasses this seems long and unwieldy, I propose Screwhead but am open to other suggestions
+Medusa - refer to her as doctor and never nurse for consistency
 
 
-Blair - does Blair refer to herself in the third-person?; does Blair have a nickname that she refers to herself by?
+Stein - refer to him as professor and never doctor to help distinguish him from Medusa
 
 
-Black Star - does Black Star refer to himself in the third person?; Black Star often uses the terms 大物 and 小物, big thing and small thing respectively, to talk about himself and others, how is ‘small thing’ translated in the official anime dub? I translated it numerous ways (small-fry, weakling, small people, little guys, etc.), it is important to make sure it isn’t translated as little people as that could be considered offensive
+Blair - Blair often refers to herself in the third-person; does Blair have a nickname that she refers to herself by {ブーたん (Buu-tan) in Japanese}?; Blair's laugh has been made consistent as nyahaha
+
+
+Black Star - Black Star can refer to himself in the third-person, often in place of 俺様 (ore-sama); Black Star often uses the terms 大物 and 小物, big thing and small thing respectively, to talk about himself and others, how is ‘small thing’ translated in the official anime dub? I translated it numerous ways (small-fry, weakling, small people, little guys, etc.), it is important to make sure it isn’t translated as little people as that could be considered offensive
 
 
 Grimoire - I've taken to changing his laugh from Hehehe to Hmhmhm to differentiate it from the awkward laugh that Tsubaki and Maka use.
 
 
-Shinigami - how are shinigami and Lord Death referred to throughout the series? reapers, grim reapers, shinigami, etc.
+Shinigami - should be translated as reapers, not shinigami; I'm still not sure as to the difference between reaper and grim reaper as used in the series; how do enemies refer to the reapers and Lord Death?
 
 
-Alone - after the first encounter with the werewolf, Alone, the characters are unsure of his identity and refer to him as 黒いの or 黒い奴, again, I translated this a few different ways, I think ‘black creature’ or ‘shadowy creature’ may be ideal translations, it’s imperative that it isn’t translated literally as ‘black guy’ for obvious reasons
+Alone - after the first encounter with the werewolf, Alone, the characters are unsure of his identity and refer to him as 黒いの or 黒い奴, again, I translated this a few different ways, I think ‘shadowy creature’ may be the ideal translation, it’s imperative that it isn’t translated literally as ‘black guy’ for obvious reasons
 
 
-locations - location names need to be decided and tested before being changed accordingly throughout the text for consistency, I saw that the nurse’s office where Dr. Medusa works was called the ‘dispensary’ on the SE wiki, but I don’t recall hearing it being called as such in the anime and I feel that ‘nurse’s office’ or ‘medical center’ or something of the like would be better if no official term exists
+locations - location names need to be decided and tested before being changed accordingly throughout the text for consistency; I have gone with infirmary for the 保健室 (hokenshitsu) as it is shorter than nurse's office but more colloquial than dispensary
 
 
 attack names - how should the different attacks, combos, and techniques be referred to in the tutorials and menus
 
 
-後光 - halo: the Japanese halo is a ring of light behind the back, not above the head, so I translated this as aura of light, Black Star talks about having one which attracts, blinds, stuns, frightens people
+後光 - apparently the official translations do refer to this as a halo, so its use should be okay, although aura of light, etc. are still acceptable
