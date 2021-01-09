@@ -1,4 +1,4 @@
-Current progress: Haribeau's proofreading of msbe_input from start to !FILE:EV0222_000.bscr
+Current progress: Haribeau's proofreading of msbe_input from start to !FILE:EV0300_000.bscr
 
 These notes should serve to help in the proofreading/ playtesting phase of this project. There are a number of things which must be agreed on, tested, and implemented within the text in order to maintain consistency. As well, there are a few things that I may have considered later in the translation process, which might be somewhat problematic from a perspective of cultural sensitivity and inclusivity. I intend to address these issues myself, but it is possible that I may miss some instance of them, so I would just like the proofreaders to keep them in mind.
 
