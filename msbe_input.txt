@@ -1321,20 +1321,20 @@
 おい　あんな所に|キッドがいるぞ！=Hey, that's Kid over there!
 え　ほんと？|どこに？=Huh? Really? Where?
 設計図なんか広げて|何やってんだ？=Is that a blueprint he's looking at? What's he doing?#Doesn't seem to be used in the game.
-ちょっとだけ気になるわね=Makes me a little worried.
-おいおい|何やってんだ　アイツ！=Wait a minute! What's he doing?
+ちょっとだけ気になるわね=I've got a bit of a bad feeling about it.
+おいおい|何やってんだ　アイツ！=Wait! What's he doing?
 !FILE:EV0222_005.bscr
 そんなことより|この後　何するんだよ？=Anyway. What're we doing now?
 !FILE:EV0222_006.bscr#Need to test talking to Soul again after the previous dialogue.
 設計図なんか広げて|何やってんだ？=Is that a blueprint he's looking at? What's he doing?
-ちょっとだけ気になるわね=Makes me a little worried.
+ちょっとだけ気になるわね=I've got a bit of a bad feeling about it.
 おい　あんな所に|キッドがいるぞ！=Hey, that's Kid over there!
 !FILE:EV0222_012.bscr
 なんか最近|正面玄関前あたりが|荒れてねェか？=The area around the main entrance has been looking really run down lately, huh?
 どうせアンタが|壊してるんでしょ？=Maybe because you went through and wrecked the place?
 わざわざあんなチンケな所を|狙って壊すわけねェだろ！=There's no way I'd go out of my way to just to wreck such a boring spot!
 俺様みたいなスターに|そんな時間があるかよ！=Do you really think a star as big as me has the time for that!?
-いつも狙って壊してた|わけじゃなかったのかよ・・・=But you're constantly going there to wreck everything...
+いつも狙って壊してた|わけじゃなかったのかよ・・・=But you're constantly going there to wreck everything.
 それは意外だったわ|ブラック☆スター=You can't really blame us for thinking it was you, Black☆Star.
 でも　正面玄関前って|キレイになってたような気がした|けど誰かが直してくれたのかな？=Although, now that I think about it, the main entrance looked like it was pretty clean. Someone must have cleaned and repaired everything.
 !FILE:EV0222_016.bscr
@@ -1342,14 +1342,14 @@
 !FILE:EV0222_020.bscr#The lines in this conversation aren't in the proper order. As well, lines 1346 - 1348 don't appear to be used at all.
 うむ　一休み|することにしよう=All right, break time.
 何してたんだ　キッド？=What are you doing, Kid?
-どうも　この辺りが|荒れていたのでな・・・|修理をしていたところだ=Well, this area was in total shambles... So I've been doing renovations.
+どうも　この辺りが|荒れていたのでな・・・|修理をしていたところだ=Well, this area was in total shambles, so I've been doing renovations.
 ねェ　なんで設計図なんか|広げてたの？=Hey, what's with the blueprints or whatever that is?
 修理といえば　設計図から|キッチリやるのが当然だ！=Obviously the renovations have to follow the blueprints exactly!
 あはは　そうだね・・・=Ahaha... That's true, I guess...
 でも　もう終わりだろ？=But you're already done?
 まだ　終わってない|設計図に比べると|ミリ単位でゆがみがある=No, not yet. While comparing it to the blueprints, I realized that something is a whole milliunit off.
 あはは　大変だね・・・=Ahaha. Yeah, that won't do...
-そうなんだ・・・=That makes sense...
+そうなんだ・・・=That makes sense.
 !FILE:EV0222_025.bscr
 そろそろ作業に戻るから|あっちへ行ってはくれまいか？=I've got to get back to work, so if you guys wouldn't mind leaving the area...
 !FILE:EV0222_026.bscr
@@ -1360,38 +1360,38 @@
 おい　今度はこっちに|キッドがいるぜ！=Hey, Kid's here now!
 え　ほんと？|どこに？=Huh? Really? Where?
 キッドのヤツ発作が|起きてんじゃねェのか？=I think he's about to lose it.
-ははは　行きましょうか|ソウル・・・=Hahaha. Should we leave then, Soul...?
+ははは　行きましょうか|ソウル・・・=Hahaha. Should we leave then, Soul?
 !FILE:EV0222_035.bscr
-たしかにやべェな　ありゃ・・・=He's looking really rough...
+たしかにやべェな　ありゃ・・・=He's looking really rough.
 !FILE:EV0222_036.bscr
 キッドのヤツ発作が|起きてんじゃねェのか？=I think he's about to lose it.
-ははは　行きましょうか|ソウル・・・=Hahaha. Should we leave then, Soul...?
+ははは　行きましょうか|ソウル・・・=Hahaha. Should we leave then, Soul?
 !FILE:EV0222_042.bscr
 教室の窓ガラスが|何枚か割られていたことを知っています？=Did you hear about what happened in the classroom? Several of the windows were broken.
 ちょっと前に教室に行ったけど|別に異常はなかったぜ=We were just in the classroom, and nothing seemed out of the ordinary.
-別の意味で異常があったから|しばらくは近づかないほうが|いいと思うけど・・・=It's true that noTHING was out of the ordinary, but I'd recommend not getting too close for a little while...
+別の意味で異常があったから|しばらくは近づかないほうが|いいと思うけど・・・=It's true that noTHING was out of the ordinary, but I'd recommend not getting too close for a little while.
 じゃあ　きっと|誰かが　もう直してくれたんですね♪=I guess that means someone already cleaned everything up.
 マカ　さっきの|キッドはやっぱり・・・=Maka, you don't think Kid just now...
-多分　窓ガラスを|修理していたんだと思うわ・・・=Probably. I think he's the one that fixed the windows...
+多分　窓ガラスを|修理していたんだと思うわ・・・=Probably. I think he's the one that fixed the windows.
 なんで修理くらいで|発作がおきかかってるんだ？=Why would he repair everything to the point of breaking himself?
-あはは・・・|私にわかるはずないじゃない・・・=Ahaha... Why would I know...?
+あはは・・・|私にわかるはずないじゃない・・・=Ahaha... Why would I know?
 !FILE:EV0222_046.bscr
 教室の窓ガラスが|何枚か割られていたことを知ってます？=Did you hear about what happened in the classroom? Several of the windows were broken.
 !FILE:EV0222_050.bscr
 修理・・・してんだよな？=Still... doing renovations?
 見てわからんか？=What's it look like?
 そうだから|聞いてんだけどな・・・=That's why I'm asking, but...
-うむ　けっこうな数のガラスが|割られてたのだ・・・=Yeah. There were several broken windows...
-まったく　なげかわしい|死武専の完璧なデザインが！|損なわれてしまうではないか=It's honestly sinful that we allow the DWMA, with it's flawless design, to fall into such disrepair.
+うむ　けっこうな数のガラスが|割られてたのだ・・・=Yeah. There were several broken windows.
+まったく　なげかわしい|死武専の完璧なデザインが！|損なわれてしまうではないか=It's honestly sinful that we allow the DWMA, with its flawless design, to fall into such disrepair.
 でも　もうキレイになってるんじゃない？=But you've already tidied everything up, haven't you?
-いいや　まだだ|まだミリ単位の破片が|回収されてない・・・=No, not quite. There's still a small fragment of glass that I haven't yet managed to recover...
+いいや　まだだ|まだミリ単位の破片が|回収されてない・・・=No, not quite. There's still a small fragment of glass that I haven't yet managed to recover.
 !FILE:EV0222_055.bscr
 そろそろ作業に戻るから|あっちへ行ってはくれまいか？=I've got to get back to work, so if you guys wouldn't mind leaving the area...
 !FILE:EV0222_056.bscr
-まったく　なげかわしい|死武専の完璧なデザインが！|損なわれてしまうではないか=It's honestly sinful that we allow the DWMA, with it's flawless design, to fall into such disrepair.
+まったく　なげかわしい|死武専の完璧なデザインが！|損なわれてしまうではないか=It's honestly sinful that we allow the DWMA, with its flawless design, to fall into such disrepair.
 !FILE:EV0222_060.bscr
 ・・・・・・・・・=.........
-今度はここを|修理してるのか・・・=Now he's renovating this area...?
+今度はここを|修理してるのか・・・=Now he's renovating this area?
 すごいわね|ある意味　尊敬するわ=That's crazy. In a way, I respect him.
 俺は今忙しいのだが|何か用があるのか？=I'm rather occupied at the moment, but did you need something?
 いや　なんでもねェよ|続けてくれ=No, sorry. Keep doing your thing.
@@ -1399,38 +1399,38 @@
 !FILE:EV0222_065.bscr
 ・・・・・・・・・=.........
 !FILE:EV0222_066.bscr
-今度はここを|修理してるのか・・・=Now he's renovating this area...?
+今度はここを|修理してるのか・・・=Now he's renovating this area?
 すごいわね|ある意味　尊敬するわ=That's crazy. In a way, I respect him.
 !FILE:EV0222_067.bscr
 でも　あいつ|あんなに働いてていいのかよ=You think it's okay for him to be working non-stop like that?
 死神だから|身体のほうは大丈夫だと思うけど=He's a reaper, so I'm sure he'll be fine physically, but...
-一人であんなに働いて|ちょっとかわいそうね・・・=It's kind of sad that he's working all alone like that...
+一人であんなに働いて|ちょっとかわいそうね・・・=It's kind of sad that he's working all alone like that.
 なぁ　死神様に|相談してみねェか？=Hey, what if we had a chat with Lord Death?
 そうね|そうしてみようか=Yeah, let's try that.
 !FILE:EV0222_072.bscr
 死神様　キッドのヤツ|あんまりにも働きすぎじゃねェか？=Lord Death, we think Kid's overworking himself.
-アイツ　一人で死武専の壊れた所を|全部なおしちゃってるぜ|・・・趣味なのかもしれねェけどよ=That guy's going around fixing every little thing in the DWMA... It's like it's a hobby or something.
+アイツ　一人で死武専の壊れた所を|全部なおしちゃってるぜ|・・・趣味なのかもしれねェけどよ=That guy's going around fixing every little thing in the DWMA. It's like it's a hobby or something.
 う～ん・・・誰かほかに|手伝ってくれる人がいると|いいんだけどね・・・=Hmm... It would be nice if there were someone else who could help him, but...
-パパはどうでしょうか？|いっつもブラブラしてヒマそうだし=What about papa? He's always wandering around doing nothing good.
-無理だろ　デスサイズは|死神様の武器だぜ=That won't work. Spirit is Lord Death's weapon.
+パパはどうでしょうか？|いっつもブラブラしてヒマそうだし=What about papa? He's always wandering around doing nothing at all.
+無理だろ　デスサイズは|死神様の武器だぜ=That won't work. Death Scythe is Lord Death's weapon.
 有事に備えて|控えてなきゃいけねェからな=He needs to be ready in case there's an emergency.
 そうよね・・・無理よね・・・=Oh, yeah... I didn't think about that...
 別にいいよ～ん♪|オッケー！オッケー！=Actually, I don't mind♪ Okay! Okay!
 早速　デスサイズ君に|働いてもらうことにするよ♪=I'll get Spirit to work right away♪
 いやぁ♪マカちゃん|ナイスアイディア！|グー！グー！=Yeah, Maka♪ Great idea! RIGHT ON!
 いいんだ　それで・・・=That works too, I suppose...
-パパって　いらないのかな・・・=I guess you don't need papa...
+パパって　いらないのかな・・・=So much for papa being needed...
 !FILE:EV0222_076.bscr
 早速　デスサイズ君に|働いてもらうことにするよ♪=I'll get Spirit to work right away♪
 いやぁ♪マカちゃん|ナイスアイディア！|グー！グー！=Yeah, Maka♪ Great idea! RIGHT ON!
 !FILE:EV0222_077.bscr
 もう　修理をしなくていいって|キッドに知らせに行こうぜ！=Let's go let Kid know that he can stop with the renovations now!
-それにデスサイズの様子も|確認してみないとな・・・=We should also see how Spirit's taking the news...
+それにデスサイズの様子も|確認してみないとな・・・=We should also see how Death Scythe's taking the news.
 キッド君|よろこんでくれるかな？=I'm sure Kid will be really happy.
 !FILE:EV0222_080.bscr
 はぁ・・・=*Sigh*
-なんで死神様の武器である|この俺が修理なんてしなきゃ|いけないのかな・・・=I'm the weapon of Lord Death himself. So why am I stuck doing maintenance...?
-いっそのこと|田舎に帰っちゃおうかな・・・=I'd rather go back to the countryside...
+なんで死神様の武器である|この俺が修理なんてしなきゃ|いけないのかな・・・=I'm the weapon of Lord Death himself... So why am I stuck doing maintenance?
+いっそのこと|田舎に帰っちゃおうかな・・・=I'd rather go back to the countryside.
 やってるな|デスサイズ！=Working hard, Death Scythe!?
 うるせェ|あっちへ　行きやがれ！=Shut it! And get out of here!
 働いてる　パパって|かっこいいな！=Papa, you're so handsome when you're working!
@@ -1456,7 +1456,7 @@
 !FILE:EV0222_097.bscr
 マカ　どうすんだ？|また修理をはじめちゃったぜ！=Maka, what do we do? He's started renovating again!
 私に聞かれても|わかんないよ=Don't ask me. I don't know.
-そうだな|とりあえず放っておこう・・・|これは　もう趣味の世界だ・・・=Yeah. Let's just forget about it for now... He's having the time of his life anyway...
+そうだな|とりあえず放っておこう・・・|これは　もう趣味の世界だ・・・=Yeah. Let's just forget about it for now. He's having the time of his life anyway.
 !FILE:EV0300_000.bscr#start of day 3
 すっかり話題のマトになってるね=It's like the talk of the town now.
 そりゃ　そーだろ=Yeah, totally.
