@@ -1,4 +1,4 @@
-﻿!FILE:movie0000.bin
+!FILE:movie0000.bin
 712:767:ワーム・モワール=Wormoire...
 784:832:グリモワール=Grimoire...
 861:915:ワーム・モワール=Wormoire...
@@ -362,7 +362,7 @@
 504:639:|すれ違う生命の奥に=Inside our passing existences,
 641:762:|それぞれの夢　絡み合う=Our individual dreams become intertwined
 764:884:|この場所で=In this place.
-930:1060:|所々剥がれてきて　安く見られる=Here and there it wears away, easy to|brush-off.
+930:1060:|所々剥がれてきて　安く見られる=Here and there it wears away, easy to|brush off.
 1062:1193:|真っさらより上等だろ？　誇りも払わない=Ain't it better than new?|Who cares about pride!
 1195:1328:|麻酔のように効いた夜に　痛さ忘れて=Forget the pain in the night that sets in|like anesthesia,
 1330:1456:|躊躇いさえ奪う時が 来るの待っている=Waiting for time to steal away even the|hesitation.
