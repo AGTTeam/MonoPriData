@@ -1,4 +1,4 @@
-!FILE:EV0000_000.bscr#intro conversation in the Death Room
+﻿!FILE:EV0000_000.bscr#intro conversation in the Death Room
 ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Hey! Hi! Hellooo!! Sorry for calling you all here so early♪
 おはようございます|死神様=Good morning, Lord Death.
 何ですかぁ？|こんな朝っぱらから=Wha-aaat's going on? I-It's so early.
@@ -43,8 +43,8 @@
 あぁ=Fine.
 こらこら|何を騒いでるんだぁ～=Hey, hey! What's all the fuss about?
 きゃはは|マカ　ＶＳ　ソウル　バトルＯＮＥ！=Kyahaha! Maka VS Soul Round ONE!
-まったく|君達は　いつもいつも・・・=Of course. You two are always...
-いいですか|職人と武器は魂の波長を合わせ|お互いを信じあうことで成長するんです=You see... A meister and weapon thrive when their soul wavelengths are in tune and they believe in each other.
+まったく|君達は　いつもいつも・・・=Really now? You lot are so...
+いいですか|職人と武器は魂の波長を合わせ|お互いを信じあうことで成長するんです=Listen... A meister and weapon thrive when their soul wavelengths are in tune and they believe in each other.
 わかってるって|別にケンカしてねぇよ|なっ　マカ=We know that. It's not like we were fighting for real, right Maka?
 ほんとですか=Is that true?
 はい|してません=Yeah. It wasn't a real fight.
@@ -54,7 +54,7 @@
 !FILE:EV0100_010.bscr#morning class mission
 はい　今日の午前授業は|簡単な実技訓練です♪|くばられたプリントを見てください=This morning's class will involve some simple, practical training♪|Please take a look at your handouts.
 !FILE:EV0100_011.bscr
-では　理解できたひとから|訓練を始めます♪=Let's start with those of you who understand the instructions♪
+では　理解できたひとから|訓練を始めます♪=Let's start with those of you who understand the instructions.
 !FILE:EV0100_012.bscr
 はい|次は誰かな？=Who's next? Let's see...
 !FILE:EV0100_013.bscr
@@ -64,7 +64,7 @@
 !FILE:EV0100_015.bscr
 あきらめちゃだめです|さあ　がんばりましょう！=Don't accept failure so easily.|Give it another go!
 !FILE:EV0100_016.bscr
-んじゃ～|午前中の授業はおしまいです♪=Alright, everyone. Class is dismissed♪
+んじゃ～|午前中の授業はおしまいです♪=Alright, everyone. That's all for this morning's class♪
 さぁて　どーする？=Aight, what do you wanna do?
 !FILE:EV0100_100.bscr
 ハラへったぁ～|どこでランチにする？=I'm starving! What's for lunch?
@@ -227,10 +227,10 @@
 にゃはは～♪=Nyahahaa♪
 それじゃあ|また　あいましょう♪=See ya later♪
 !FILE:EV0120_002.bscr#明日の解剖授業 = Tomorrow's Dissection Class Part 32最近の風潮からすると|そういう
-ゴキゲンみたいだけど|何かいいことでも|あったのかしら？=You look like you're in a pretty good mood. And why might that be, I wonder.
+ゴキゲンみたいだけど|何かいいことでも|あったのかしら？=You look like you're in a pretty good mood. Did something good happen, I wonder?
 おもしろいね|マカのと～ちゃん♪|きゃはははは！=Your dad is so funny, Maka! Kyahahaha!
 デスサイズのことか？|アイツ何やってたんだ？=Death Scythe? What's he up to this time?
-泣き笑いで博士と|じゃれあってたよ！=He was goofing around with the professor and laughing so hard he was crying!
+泣き笑いで博士と|じゃれあってたよ！=He was goofing around with the professor and laughing so hard|he was crying!
 博士がらみか|何か嫌な予感がするぜ・・・=With the professor? I have a bad feeling about this...
 ほぇ？何でそんなに|深刻になっちゃうの？=Huh? Why so serious all of a sudden?
 なんだか胸騒ぎがする・・・|様子を見てこようかな・・・=Something doesn't add up... I think we should go check on them.
@@ -240,7 +240,7 @@
 !FILE:EV0120_007.bscr
 お前　デスサイズのことが|気になってるのか？=You're actually kind of worried about him, aren't you?
 うん　一応　パパだからね|ヒドイことされてなきゃいいけど・・・=Yeah. Like it or not, he is my papa, so I'd rather nothing bad happen to him...
-博士は恐ろしい科学者だけど|デスサイズもサイテーの父親だ|結構いい勝負になるんじゃねェか？=The professor is a mad scientist, but Death Scythe's the world's worst father. Should make for quite the match.
+博士は恐ろしい科学者だけど|デスサイズもサイテーの父親だ|結構いい勝負になるんじゃねェか？=The professor is a mad scientist, but Death Scythe's the world's worst father. They make for quite a match.#Shortened to fit 1 textbox 
 それって|どういう勝負なの？=What kind of match are we talking about?
 !FILE:EV0120_010.bscr
 ・・・・・・・・・=.........
@@ -5860,7 +5860,7 @@
 お前とは別な意味できっつい職人だからな|ブラック☆スターは！=He's a tough meister to deal with, but you are too in your own way!
 キッドのヤツ新入生なんだよな？=Isn't Kid a new student here?
 なんかもう死武専の王様|みたいな顔をしてるから|たまにそのことを忘れるぜ=He's always walking around like he owns the place, so I almost forgot.
-しかしキッドのチームもいびつだな|あん中じゃリズが常識人に|思えてくるほどだからよ=Kid's team is a little warped, isn't it? Enough to make Liz look normal...
+しかしキッドのチームもいびつだな|あん中じゃリズが常識人に|思えてくるほどだからよ=Kid's team is a little skewed, isn't it? Enough to make Liz look normal...#seen
 リズだって|充分すぎるほど変なヤツなんだけどな=And she's not exactly the most normal person herself.
 なぁ　マカ|パティについて何か思うことはあるか？=Hey, Maka. What do you think about Patty?
 いや　何もなかったら|今の発言は忘れてくれ=No, it's nothing like that. Just forget I said anything.
@@ -5891,13 +5891,13 @@
 ・・・・・・・・・=.........
 !FILE:EV0981_000.bscr
 うっす　おばちゃん！='Sup, Auntie?
-来たね　あんた達|おばちゃん|ちゃんと見てたよ=You came to see me. Auntie's been watching you closely.
+来たね　あんた達|おばちゃん|ちゃんと見てたよ=You've finally come to see me, hm?|Auntie's been watching you closely.
 なぁ　おばちゃん|しょぼい課題しか掲示板に|張り出されてねェな=Hey, Auntie. Why's there nothing but lame assignments posted on the mission board?
 もっと　クールな|課題は　ねぇのかよ=You don't have anything cooler?
-今のところ　魔剣や魔眼は|姿をひそめてるけど|問題は解決してないから=The Demon Sword and the Demon Eye have gone into hiding, but they're still out there, so for now, this is the way it has to be.
+今のところ　魔剣や魔眼は|姿をひそめてるけど|問題は解決してないから=The Demon Sword and the Demon Eye might be in hiding, but they're still out there, so this is how it has to be.#must be kept short
 あんまり　危険な所に　|生徒達を行かせる|わけにはいかないからね=I can't let you students run headfirst into a potentially dangerous situation.
-・・・言いたくないけど|あんた達が魔剣に|やられたせいでもあるんだよ=... I didn't want to mention it, but it's because of when the demon sword almost destroyed you.
-やられてねェよ|おばちゃん！！=It didn't almost destroy me!!
+・・・言いたくないけど|あんた達が魔剣に|やられたせいでもあるんだよ=...I didn't want to mention it, but it's because of when the demon sword almost killed you.
+やられてねェよ|おばちゃん！！=It didn't almost kill me!!
 ソウル！=Soul!
 んだよ　マカ！=What, Maka!?
 やめなさい　ソウル！|おば様に失礼よ！！=Please stop! Now apologize to Auntie!!
@@ -6167,7 +6167,7 @@
 さあな　そこまでは|聞いてねェ|行けばわかるんじゃねェの=Who knows, didn't ask him. If you just go to him, you'll find out anyway, right?
 !FILE:EV1120_012.bscr
 お前まだ　吸魂水を|使った特訓をしているのか？=Hey, are you still using that Soul Sapping Water to train?
-吸魂水って|たしか魂の波長を|吸い取る水ですよね？=Soul Sapping Water is the kind of water that can absorb your soul's wavelength, right?
+吸魂水って|たしか魂の波長を|吸い取る水ですよね？=Soul Sapping Water is that water which can absorb your soul's wavelength, right?
 そうだ　シュタインが|特訓用に貸したと聞いているが・・・=Exactly. I heard that Stein lent you some to use in your special training...
 おうヨ！|もちろん続けてるぜ！！=Hell yeah! Of course I'm still doing it!!
 そうか・・・だが一つだけ忠告しておく|吸魂水をゼッタイに飲んではダメだ！=I see... I have to warn you though, you should absolutely never drink that water!
@@ -6179,7 +6179,7 @@
 わかりました|自信はありませんけど|命にかかわることですから=Understood. I'm not sure I'll be able to, but it might cost him his life otherwise.
 二人とも　何ヘコんでんのか|しんネェけど　心配すんなよ！=I don't know why you two look so down, but there's no need to worry!
 俺は神を超越する男|ブラック☆スターだぜ☆=I am Black☆Star, the man who shall surpass God!
-そうなんですか・・・=Is that so..?
+そうなんですか・・・=Is that so...?
 あんまり無茶しないでね|おねがいだから・・・=Don't do anything reckless, please...
 !FILE:EV1120_016.bscr
 椿　こいつが|危険なことをしそうになったら止めてくれ=Tsubaki, if he ever seems like he's about to do anything dangerous, please stop him.
@@ -6416,7 +6416,7 @@
 いや　スターである|俺様は理解している・・・=Yeah, as a star, I get it...
 いつも側にいたんじゃ|後光で目が疲れて|しまうってな☆=Always being by my side,|your eyes must be tired because of my aura of light☆#後光 and halo aren't exactly the same thing
 あはは・・・本当に|そんなことないんだけど・・・=Haha... But that's really not it...
-いいから椿|たまには　俺様から離れて|一人の時間を楽しんでこいよ☆=Listen up, Tsubaki. Once in a while you've got to stop fangirling over me and have fun by yourself!☆#Fangirling feels maybe a bit too strong, but I was struggling to express the idea naturally in English while still showing Black Star's arrogance.
+いいから椿|たまには　俺様から離れて|一人の時間を楽しんでこいよ☆=Listen up, Tsubaki. Once in a while you've got to stop fangirling over me and have fun by yourself!☆#Fangirling feels maybe a bit too strong, but I was struggling to express the idea naturally in English while still showing Black☆Star's arrogance.
 でも=But...
 !FILE:EV1121_015.bscr
 さっさと行けよ|時間がもったいないぜ！=Hurry! Go! There's no time to waste!
@@ -8895,7 +8895,7 @@
 何を言ってるか・・・よくわからんが|死神様がお前を呼んでいるぞ！=What was that? ... I don't know what you're up to, but Lord Death is calling for you!
 なんの用か聞いてませんか？=What is he calling him for?
 お前達・・・いや|ブラック☆スターにしか|頼めないことらしい・・・=It seems only you two... no, only Black☆Star can be trusted with this...
-ひやっはぁ☆|死神のダンナもようやく|わかってきたじゃねェか！=Yahoo☆ Looks like Lord Boss has finally opened his eyes to the starlight!#Also considered the Death Boss, as opposed to Lord Boss. (that's assuming we continue to translate 旦那 as boss) I also changed the sentence to say that Lord Death opens his eyes to what Black Star is capable of because the Japanese just says that he has finally come to understand, but I feel like that's maybe a little too vague.
+ひやっはぁ☆|死神のダンナもようやく|わかってきたじゃねェか！=Yahoo☆ Looks like Lord Boss has finally opened his eyes to the starlight!#Also considered the Death Boss, as opposed to Lord Boss. (that's assuming we continue to translate 旦那 as boss) I also changed the sentence to say that Lord Death opens his eyes to what Black☆Star is capable of because the Japanese just says that he has finally come to understand, but I feel like that's maybe a little too vague.
 よかったわね|ブラック☆スター！=That's great, Black☆Star!
 がんばってこいよ・・・=Good luck...
 !FILE:EV1520_096.bscr
@@ -9077,7 +9077,7 @@
 !FILE:EV1521_027.bscr
 二度と俺の指導が|受けられると思うなよ！=I doubt I'll ever agree to provide you with any special guidance again!
 なんで先生|あんなに怒ってたのかしら？=I wonder why Sid got so angry like that...
-さぁ・・・あの年頃の男の情緒は|さっぱりわかんねェや・・・=Yeah... I don't understand the feelings of a guy that age at all...#The footage for this section of the walkthrough was lost, so I didn't have any video to reference. I'm assuming there's a pause during the ellipses that implies Black Star and Tsubaki talked for a brief moment.
+さぁ・・・あの年頃の男の情緒は|さっぱりわかんねェや・・・=Yeah... I don't understand the feelings of a guy that age at all...#The footage for this section of the walkthrough was lost, so I didn't have any video to reference. I'm assuming there's a pause during the ellipses that implies Black☆Star and Tsubaki talked for a brief moment.
 ねェ　ブラック☆スター|一応　博士にも報告しておいたほうが|いいんじゃない？=Hey, Black☆Star. You think we should report back to the professor just in case?
 別にかまわねェと思うけどな・・・|ま　やることもなくなったし|好きにすればいいぜ☆=I don't think it really matters, but... meh. I'm not doing anything right now, so we can if you want☆
 本当！じゃあ|博士に報告に行きましょう！=Really!? Then let's go report to the professor!
@@ -9250,7 +9250,7 @@
 たとえ　離れていても|お前の幸運を祈ってるぜ！=Even at a distance, I'll pray for your good luck!
 おうよ！お前との|友情パワーを炸裂させて|必ずマカチョップを破ってみせる！=Definitely! I'm gonna explode with the power of friendship and defeat the Maka Chop for sure!
 頼んだぜ相棒！|お前に全てを任せたぜ！=I believe in you comrade! It's all up to you!
-あの・・・二人とも・・・|まだ終わらないの？=Um... Are you two... almost finished with the bromance?#Soul and Black Star's sudden talk of the power of friendship and all comes across to me as odd for the characters, so I included the comment about the bromance to amplify the comedic effect. The original Japanese is "Um... Are you two... still not finished?" The original Japanese is supposed to be funny, but I think it falls a little flat in English, especially without an English voiceover.
+あの・・・二人とも・・・|まだ終わらないの？=Um... Are you two... almost finished with the bromance?#Soul and Black☆Star's sudden talk of the power of friendship and all comes across to me as odd for the characters, so I included the comment about the bromance to amplify the comedic effect. The original Japanese is "Um... Are you two... still not finished?" The original Japanese is supposed to be funny, but I think it falls a little flat in English, especially without an English voiceover.
 !FILE:EV1522_066.bscr
 たとえ　離れていても|お前の幸運を祈ってるぜ！=Even at a distance, I'll pray for your good luck!
 !FILE:EV1522_067.bscr
@@ -9641,8 +9641,8 @@
 オックス君なら|はぐれてしまっても|大丈夫だと思うわ♪=It's Ox, so even if he wanders off, I think he'll be all right♪
 ヤツらを出し抜くチャンスだな|椿　先を急ぐぞ！=This is our chance to lose them. Tsubaki, let's hurry up!
 !FILE:EV1933_010.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
@@ -9653,31 +9653,31 @@
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahooo♪ Let me bask in the light of my own aura!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 楽勝～！楽勝～！=Too! Easy!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahooo♪ Let me bask in the light of my own aura!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally uuunbeatable!!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally uuunbeatable!!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 楽勝～！楽勝～！=Too! Easy!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 !FILE:EV1933_011.bscr
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
 目標達成したぜ！|まっ 当然だけどな！=We achieved our goal! Well, obviously!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha Ha! This is child's play for me!
 今後も油断しないでいきましょうね|ブラック☆スター！=Let's not get careless in the future though, Black☆Star!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright!  One more anecdote for my legendary tale!
@@ -9687,7 +9687,7 @@
 ひゃっはぁ～♪|目標達成だぜ！！=Yahoooo♪ Mission complete!!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 目標達成したぜ！|まっ 当然だけどな！=We achieved our goal! Well, obviously!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha Ha! This is child's play for me!
@@ -10316,8 +10316,8 @@
 !FILE:EV1935_032.bscr
 ぐぉぉぉ・・・|私の身体がぁっぁ！！！=Rooooh... My bodyyyy!!!
 !FILE:EV1935_040.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
@@ -10328,10 +10328,10 @@
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahooo♪ Let me bask in the light of my own aura!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 楽勝～！楽勝～！=Too! Easy!
@@ -10342,17 +10342,17 @@
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright!  One more anecdote for my legendary tale!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 楽勝～！楽勝～！=Too! Easy!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 !FILE:EV1935_041.bscr
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
 目標達成したぜ！|まっ 当然だけどな！=We achieved our goal! Well, obviously!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha Ha! This is child's play for me!
 今後も油断しないでいきましょうね|ブラック☆スター！=Let's not get careless in the future though, Black☆Star!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright!  One more anecdote for my legendary tale!
@@ -10362,7 +10362,7 @@
 ひゃっはぁ～♪|目標達成だぜ！！=Yahoooo♪ Mission complete!!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 目標達成したぜ！|まっ 当然だけどな！=We achieved our goal! Well, obviously!
 これからも|この調子でいきましょう♪=Let's keep going like this.
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha Ha! This is child's play for me!
@@ -10480,8 +10480,8 @@
 !FILE:EV1935_332.bscr
 モット・・・|モットちからヲヲヲ！=More... More powerrrr!
 !FILE:EV1935_340.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
@@ -10492,10 +10492,10 @@
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahooo♪ Let me bask in the light of my own aura!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 楽勝～！楽勝～！=Too! Easy!
@@ -10506,17 +10506,17 @@
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright!  One more anecdote for my legendary tale!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 楽勝～！楽勝～！=Too! Easy!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 !FILE:EV1935_341.bscr
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
 目標達成したぜ！|まっ 当然だけどな！=We achieved our goal! Well, obviously!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha Ha! This is child's play for me!
 今後も油断しないでいきましょうね|ブラック☆スター！=Let's not get careless in the future though, Black☆Star!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright!  One more anecdote for my legendary tale!
@@ -10526,7 +10526,7 @@
 ひゃっはぁ～♪|目標達成だぜ！！=Yahoooo♪ Mission complete!!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 目標達成したぜ！|まっ 当然だけどな！=We achieved our goal! Well, obviously!
 これからも|この調子でいきましょう♪=Let's keep going like this.
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha Ha! This is child's play for me!
@@ -10644,8 +10644,8 @@
 !FILE:EV1935_632.bscr
 ミンチにし損ねたよぉぉ～～=But... then they're still there...
 !FILE:EV1935_640.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
@@ -10656,10 +10656,10 @@
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahooo♪ Let me bask in the light of my own aura!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 楽勝～！楽勝～！=Too! Easy!
@@ -10670,17 +10670,17 @@
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright!  One more anecdote for my legendary tale!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 楽勝～！楽勝～！=Too! Easy!
 これからもがんばりましょうね！=Let's give it our best 'til the end!
 !FILE:EV1935_641.bscr
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
 目標達成したぜ！|まっ 当然だけどな！=We achieved our goal! Well, obviously!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha Ha! This is child's play for me!
 今後も油断しないでいきましょうね|ブラック☆スター！=Let's not get careless in the future though, Black☆Star!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright!  One more anecdote for my legendary tale!
@@ -10690,7 +10690,7 @@
 ひゃっはぁ～♪|目標達成だぜ！！=Yahoooo♪ Mission complete!!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 目標達成したぜ！|まっ 当然だけどな！=We achieved our goal! Well, obviously!
 これからも|この調子でいきましょう♪=Let's keep going like this.
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha Ha! This is child's play for me!
@@ -11387,11 +11387,11 @@
 ビッグな　俺様に|相応しい授業にしてやるぜ=Finally! A class worthy of a big man like me!
 あまり乱暴はしないでね|あとでみんなに謝るのは私なんだから・・・=Try not to cause too much chaos. It's always me that has to apologize to everyone afterward...
 !FILE:EV1956_000.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 !FILE:EV1956_009.bscr
-輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star can!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 !FILE:EV1956_010.bscr
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 これからも頑張りましょうね！=Let's do our best from now on!
@@ -11412,10 +11412,10 @@
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 !FILE:EV1956_040.bscr
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 !FILE:EV1956_049.bscr
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-すごいわ！|ブラック☆スター！！=Great work, Black Star!
+すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 !FILE:EV1956_050.bscr
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally uuunbeatable!!
 これからも頑張りましょうね！=Let's do our best from now on!
@@ -11608,7 +11608,7 @@
 ・・・・・・・・・=.........
 !FILE:EV1981_000.bscr
 こんにちは　おば様=Hello, Auntie.
-来たね　あんた達|おばちゃん|ちゃんと見てたよ=So, you've come, huh? I've been watching you closely.
+来たね　あんた達|おばちゃん|ちゃんと見てたよ=You've finally come to see me, hm?|Auntie's been watching you closely.
 ひゃっはー！　おばちゃん！|ビッグな俺様にふさわしい|課題はどれだ！？=Woohoo! Auntie! What do you suppose would be a proper task for a big man like me?! 
 相変わらずだね|ブラック☆スター=You never change, do you, Black☆Star?
 先に言っとくけど|あんまり　危険な所には|行かせないよ=Don't forget that I won't let you go to any particularly dangerous places.
@@ -17895,7 +17895,7 @@
 !FILE:EV2981_000.bscr
 オッス=Hey!
 ちゅ～す=Hiya!
-来たね　あんた達|おばちゃん|ちゃんと見てたよ=So, you've come, huh? I've been watching you closely.
+来たね　あんた達|おばちゃん|ちゃんと見てたよ=You've finally come to see me, hm?|Auntie's been watching you closely.
 おばちゃん|何か簡単なやつある？=Auntie, you got anything simple?
 たわけ・・・|簡単すぎたら|意味がないだろうが=Idiot... There's no point if it's too easy.
 そのとおりだよ|でもね・・・=That's true, but...
@@ -17991,7 +17991,7 @@
 では実際に移動してみてください|満足したら「1ボタン」を押してください=Now, try actually moving around. Once you're ready, press Button 1.
 !FILE:EV9907_010.bscr
 次は上半身の運動です|「Aボタン」を押してパンチを|出してみましょう=Next up is upper body movement. Try pressing the A Button to punch.
-テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=By pressing the A Button several times in a row you can launch a|combo attack.
+テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=By pressing the A Button several times in a row, you can launch a|combo attack.
 大事なことを忘れていました|木箱のことを説明しておきましょう=Oh, I almost forgot. Let's take a quick look at that wooden box.
 木箱や宝箱はパンチで壊したり|開けたりすることができます=You can break open wooden boxes, as well as treasure chests, by punching them.
 中に大事なものや役に立つものが|入っていることがありますから|忘れないでください=There might be useful or important items inside, so don't forget to look.
@@ -18026,7 +18026,7 @@
 では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Now, try using some of these footwork techniques. Once you're ready, press Button 1.
 !FILE:EV9907_030.bscr
 次は武器での攻撃の仕方です|「Aボタン」を押して攻撃を|してみましょう=Next on the list are weapon attacks. Press the A button to attack.
-テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=By pressing the A Button several times in a row you can launch a|combo attack.
+テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=By pressing the A Button several times in a row, you can launch a|combo attack.
 では武器での攻撃を試してみてください|満足したら「1ボタン」を押してください=Why don't you give it a try? Once you've had enough, press Button 1.
 !FILE:EV9907_040.bscr
 今度はコンビネーション攻撃を|途中で変化させる方法です=You can also spice up your moves while executing a combo attack.
@@ -18036,13 +18036,13 @@
 次は狙った相手を攻撃する|ロックオンの仕方です=Now, you'll learn how to target enemies. In other words, locking|on to them.
 では|練習相手を呼び出します=Okay, let's give you a training partner.
 ロックオンをするには「Bボタン」を押し|ます　「Bボタン」を押すと自分の一番|近くにいる相手をロックオンします=In order to lock on, press the B button. Once you do that, you will|lock on to the nearest enemy.
-狙った相手の足元にはロックオンマークが|現れ　画面の左上にロックオンの文字が|表示されます=A marker will appear around the enemies feet and a "lock-on" sign will be displayed to the upper-left.#must be kept short
+狙った相手の足元にはロックオンマークが|現れ　画面の左上にロックオンの文字が|表示されます=A marker will appear around the enemies feet and a "lock on" sign will be displayed to the upper-left.#must be kept short
 ロックオンをやめるには　もう一度|「Bボタン」を押します|ロックオンマークと文字が消えます=In order to stop locking on, press the B button again. This will cause the lock on markers to disappear.#must be kept short
 「Bボタン」を繰り返し押すことで|一番近くにいる相手にすばやく攻撃する|ことができます=If you keep pressing the B button, you can quickly attack the enemies that are closest to you.
 ロックオンをしている間はロックオンした|相手を中心にして移動します=When you lock on, your movements|will center around the enemy you've locked on to.
 「Aボタン」での攻撃も全てロックオン|した相手に行われます=The attacks you make with the A button will also be directed at that enemy.
 また「Zボタン」を押し続けるとカメラが|常にロックオンをしている相手のほうを|向くようになります=You can also hold down the Z button|to keep the camera focused on the locked-on enemy.
-では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=It's time to give the lock-on technique a try. Press Button 1 when you feel satisfied.
+では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=It's time to give the lock on technique a try. Press Button 1 when you feel satisfied.
 !FILE:EV9907_060.bscr
 職人としての技術を覚えましたか？|では実際に戦ってみましょう=Did you memorize all the meister techniques? Let's test your skills|with a real battle.
 !FILE:EV9907_500.bscr
@@ -18104,7 +18104,7 @@
 !FILE:EV9961_000.bscr
 私に何か用？=Do you need something?
 !FILE:EV9961_001.bscr
-まだ何かあるの？=Do you still need anything?
+まだ何かあるの？=Do you still need somethingthing?
 !FILE:EV9961_004.bscr
 あら　誰もいないみたいね=Oh, I guess there's nobody here.
 !FILE:EV9961_005.bscr
@@ -18138,7 +18138,7 @@
 !FILE:EV9961_032.bscr
 誰もいねェみたいだぞ？=Looks like there's no one here.
 !FILE:EV9961_033.bscr
-さて|これからどうすんだ？=So what should I do now?
+さて|これからどうすんだ？=So what should we do now?
 !FILE:EV9961_034.bscr
 おいおい|誰もいねェぜ・・・=Yo! Anybody home...!?
 !FILE:EV9961_035.bscr
@@ -18226,7 +18226,7 @@
 !FILE:EV9961_110.bscr
 どうした　俺に用か？=What's up? Do you need my help?
 !FILE:EV9961_111.bscr
-まだ何かあるのか？=Do you still need anything?
+まだ何かあるのか？=Do you still need something?
 !FILE:EV9961_117.bscr
 ・・・・・・・・・=.........
 !FILE:EV9961_120.bscr
@@ -18520,8 +18520,8 @@
 はたして本当に|帰っていいのか迷っているところだ・・・=Of course, I'm not so sure it's really okay for me to go right now though...
 みなはなぜ|備品の乱れが気にならんのだ？=How can everyone act so nonchalant when something's out of order?
 こういう所から|キッチリカッチリしなければ|いけないということが　わからんのか？=Do they not understand that everything must be absolutely perfect and symmetrical?
-俺はいっそ一人のほうが|すがすがしい！=It's kind of refreshing to be alone...
-リズとパティどちらか一人だと|シンメトリーではなくなってしまうからな=If I were alone with only of the sisters, it wouldn't be symmetrical at all.
+俺はいっそ一人のほうが|すがすがしい！=It's kind of refreshing to be alone...#seen
+リズとパティどちらか一人だと|シンメトリーではなくなってしまうからな=If I were alone with only one of the sisters, it wouldn't be symmetrical at all.
 魔剣に魔眼・・・|どうも最近　死武専の|周りが騒がしいようだ=That Demon Eye and the Demon Sword... There've been a lot of rumblings around the DWMA recently...
 お互いに　充分気をつけねばならんな=We need to all work together to keep everyone safe.
 今のお前達には|他にやるべき事があるだろう！|さっさと本分に戻れ！！=I know you guys have something else you're supposed to be doing right now! So go and get it done!!
@@ -18604,7 +18604,7 @@
 心の片隅に|そのことを留めておいてちょうだい♪=Please keep that safe in the back of your minds♪
 わかんないことがあったら|シュタイン君に聞いてちょうだい♪=If there's something you're not sure about, please direct all questions to Stein♪
 どうも私の説明はアッサリしすぎて|わかりにくいみたいだからさ♪=Apparently I ramble too much, so my explanations can be difficult to follow♪
-キッドはうまくやってるのかな？=And how's my Kid doing?
+キッドはうまくやってるのかな？=And how's my Kid doing?#seen
 こういうのは公私混同なんだけど|私は心配なんだよ～ん♪=I might be mixing official business with personal matters, but I worry sometimes♪
 常に死武専の生徒としての|誇りを持って行動してちょうだい♪=Please remember that, as students of the DWMA, your every action affects the public opinion of this school♪
 誰が見ているかわからないからね・・・|たとえば　おばちゃんとかさ・・・=And you never know who might be watching you... Like Auntie, for example...
@@ -18685,7 +18685,7 @@
 !FILE:EV9967_101.bscr
 君達には|やらなければいけないことが|あるはずでしょう？=I believe you have something that you need to be doing right now, no?
 !FILE:EV9967_110.bscr
-俺の指導は確かに厳しい！|だが　それも全て|お前達を思ってのことなのだ！=My guidance is certainly strict! But it's all done with for your own good!
+俺の指導は確かに厳しい！|だが　それも全て|お前達を思ってのことなのだ！=My guidance is certainly strict! But it's all done for your own good!#seen
 俺は昔から熱血教師だった・・・=I've always been an enthusiastic teacher...
 確かに二組以上のチームで|出かけるというルールは|わずらわしいかもしれない・・・=I understand how frustrating it must be to be unable to leave without at least two teams due to the new rule...
 だが　魔剣や魔眼の危機が|去ったわけではないのだ|そこをよく聞き分けてくれ=But the Demon Sword and Demon Eye have not yet been dealt with, so please be reasonable and follow the rule.
@@ -18763,12 +18763,12 @@
 あんた達なら|簡単に終わらせちゃいそうだね|どうするんだい？=You kids make it look like you're going to finish this easily.
 おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件　大合格だよ！=Auntie has been watching you from behind for a while... You've met the requirements for this task with flying colors!
 こいつは　あんた達の魂にピッタリだ|さあ　どうするんだい？=It aligns with your souls wonderfully. So will you accept it? 
-おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件　ぎりぎり合格だよ！=Auntie has been watching you from behind for a while... By the skin of your teeth, but you meet the requirements for this task!
+おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件　ぎりぎり合格だよ！=Auntie has been watching you... By the skin of your teeth, but you meet the requirements for this task!#must be kept short
 あんた達には　大変だと思うけど|やる価値はあると思うよ=I think this will be tough for you kids, but I still think it's worth it.
 !FILE:EV9981_030.bscr
 しょうがないね|ちゃんと　自分にあったのを|選ぶんだよ=No worries. Choose only what's best for yourself.
-おや？|あんた達の魂には|合わなかったのかな=Oh?  Maybe it doesn't align with your souls.
-やめるのかい・・・|まあ　他にも魂にビンビンくるのが|あるかもしれないしね=You've changed your mind? ... Now, now. Perhaps another one will call out to your soul directly.
+おや？|あんた達の魂には|合わなかったのかな=Oh? Maybe it doesn't align with your souls.
+やめるのかい・・・|まあ　他にも魂にビンビンくるのが|あるかもしれないしね=You've changed your mind?|...Well, perhaps another one will call out to your soul more.
 そうだね|あんた達には　もっと相応しいのが|あるはずだよ=I understand. I'm sure there's something more suitable here for you kids.
 !FILE:EV9981_040.bscr
 がんばるんだよ　あんた達|おばちゃん　応援してるよ|後ろからね=You're doing your best, kids.  Auntie is supporting you from the rear, ok?
@@ -18902,7 +18902,7 @@
 おっ　レベルが上がったようだな|やったな！　お前達=Oh! Looks like you've gone up a level! Good work, you guys!
 !FILE:EV9983_100.bscr
 おつかれさまです♪|君達の成績は　こんな感じですよ=Well done♪ Your grades are as follows...
-これは　驚いた・・・|君達に|いっそう興味がわきましたよ=This is surprising... and this makes me even more interested in you guys.
+これは　驚いた・・・|君達に|いっそう興味がわきましたよ=This is surprising... and this makes me even more interested in you.
 とても良い成績ですね|この調子で　次もがんばってみなさい=These are some really good grades. Keep up the good work, children.
 ふむ　合格点ってところですね|スジはいいので　がんばれば|もっと良くなりますよ=Hm. You passed. You've got talent. Work hard and you'll become much stronger.
 う～ん|合格点　一歩手前って感じですね|もう　少し気を引き締めるように=Hmm. Looks like you passed. But just barely. Try to strengthen your resolve a little.
@@ -19041,7 +19041,7 @@
 %_te決戦　昼=%_teThe Final Battle: Noon
 %_te決戦　夕方=%_teThe Final Battle: Evening
 %_te決戦　夜=%_teThe Final Battle: Night
-設定したい項目にポインターを|合わせて　Aボタンを押せば|設定を変更することができます=Hover the pointer over the settings you wish to configure and press the A button. From there you will be able to change the configuration.
+設定したい項目にポインターを|合わせて　Aボタンを押せば|設定を変更することができます=Hover the pointer over the settings you wish to configure and press the A button.
 サウンド出力のモノラル/ステレオを|設定します=Set the audio output to Mono/Stereo.
 メッセージと同時に再生されるボイスの|オフ/オンを設定します　メッセージのない|ボイスやムービーには適用されません=Set the message voice playback to On/Off. Does not apply to cutscenes and speech without text.
 メッセージ送りの自動オフ/自動オンを|設定します　一部のメッセージには|自動オフが適用されません=Set the text autoplay to Off/On. Certain text autoplay cannot be disabled.
@@ -19134,7 +19134,7 @@
 課外授業=Extracurricular classes
 課外授業=Extracurricular classes
 課外授業=Extracurricular classes
-明日の解剖授業=Tomorrow's Dissection Class
+明日の解剖授業=Tomorrow's Dissection Class#too long
 アイテムハンター=Item Hunter
 保健室のユウウツ=Dispensing Depression#I used the title as a play on dispensary, but if we don't end up using that as the name for the 保健室, I also propose Clinical Depression.
 吸魂水特訓ステージ=Soul Sapping Water Special Training Stage
@@ -19287,7 +19287,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ブラック☆スター|やることがあるうちは|チームは変えられないわよ=Black☆Star, aren't you in the middle of something? You can't change teams now.
 キッド　今はやることがあるぜ|チームは変えられないからな=Kid, aren't you in the middle of something? You can't change teams now.
 !FILE:SYS031_0000.bin
-フィルムのコマを押すとムービーが|再生されます|矢印を押せば　フィルムがスライドします=Use the arrows to cycle through the cinematics. Click on the image to view it.
+フィルムのコマを押すとムービーが|再生されます|矢印を押せば　フィルムがスライドします=Use the arrows to cycle through the cinematics. Click on an image to play the scene.
 オープニング=Opening
 プロローグ=Prologue
 ブラック☆スター　セントベル教会=Black☆Star - Saint Bell Church
@@ -19319,8 +19319,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 まだ見ることができません=You can't view this yet.
 まだ見ることができません=You can't view this yet.
 見たいシナリオを選択してください=Please select the scenario you wish to view.
-メインシナリオを見ることができます=You can view this main scenario.
-サブシナリオを見ることができます=You can view this sub-scenario.
+メインシナリオを見ることができます=Choose from the main scenario.
+サブシナリオを見ることができます=Choose from the sub-scenario.
 フィルムのコマを押すとシナリオが|再生されます|矢印を押せば　フィルムがスライドします=Use the arrows to cycle through the cinematics. Click on the image to view it.
 明日の解剖授業=Tomorrow's dissection class
 アイテムハンター=Item Hunter
@@ -19529,7 +19529,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 なし=None
 %_te死武専生の心得=%_teDWMA Student Guidelines
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight! Dodge the enemy attacks and defeat the training dummies!
-職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat all enemies!
+職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
 %_teシュタイン博士のお手伝い=%_teAssisting Professor Stein
 死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=The Dissection class specimen hid in some luggage and escaped the DWMA. Capture the artificial organism!
 疑似生物おかウニ%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Artificial Land Urchin%_dc[199,133,84]!
@@ -19537,7 +19537,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that have escaped from DWMA! 
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat|%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Could ya get 'em back for me?
+ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84], who has a soul that has turned into a Kishin egg!
@@ -19556,7 +19556,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 大量失踪事件の|犯人を倒せ！=Defeat the culprit of the mass disappearances!
 %_te死武専生の心得=%_teDWMA Student Guidelines
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight! Dodge the enemy attacks and defeat the training dummies!
-職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat all enemies!
+職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
 %_te吸魂水のツボはどこだ！=%_teA Jar for the Soul Sapping Water!
 ツボ%_dc[199,133,84]の落ちてる場所は|だいたいわかった！　早く|手に入れて特訓再開だぁ！=I'm pretty sure I know where the %_dc[0,196,0]Jar %_dc[199,133,84]is! Let's get it quick and restart the special training!
 ツボ%_dc[199,133,84]を手に入れろ！=Get the %_dc[0,196,0]Jar!
@@ -19567,7 +19567,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84], who has a soul that has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Could ya get 'em back for me?
+ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
 気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Track down the irritated prankster bat%_dc[196,0,0]Bad Eaters%_dc[199,133,84]  and defeat|%_dc[0,0,196]10%_dc[199,133,84] of them!
@@ -19583,7 +19583,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 大量失踪事件の|犯人を倒せ！=Defeat the culprit of the mass disappearances!
 %_te死武専生の心得=%_teDWMA Student Guidelines
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight! Dodge the enemy attacks and defeat the training dummies!
-職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat all enemies!
+職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84], who has a soul that has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
@@ -19600,7 +19600,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=My supply of %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]that I use to repair the school's equipment is running low. Help me out and get me some!
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Could ya get 'em back for me?
+ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_te共鳴の心得=%_teResonance Guide
 戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Let's learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
@@ -19837,7 +19837,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Could ya get 'em back for me?
+ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
 制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|   By Sid
