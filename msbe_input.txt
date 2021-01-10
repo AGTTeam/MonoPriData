@@ -1,11 +1,11 @@
-﻿!FILE:EV0000_000.bscr#intro conversation in the Death Room
+!FILE:EV0000_000.bscr#intro conversation in the Death Room
 ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Hey! Hi! Hellooo!! Sorry for calling you all here so early♪
 おはようございます|死神様=Good morning, Lord Death.
 何ですかぁ？|こんな朝っぱらから=Wha-aaat's going on? I-It's so early.
 先輩|また朝まで　あの店にいたでしょ=Spirit. Staying out late again?
 あぁ？|お前だって　どうせ朝まで|怪しげな実験してただろ=Huh? You're one to talk with all your weird late-night experiments.
 ちょっと　みんなに|言っときたいことがあってね～♪=Listen up, everyone. I've got something I want to tell you all♪
-最近　一度に大勢の人が消えるという|大量失踪事件の報告があった=We've recieved reports of mass disappearances. It seems like groups of people are vanishing all at once.
+最近　一度に大勢の人が消えるという|大量失踪事件の報告があった=We've received reports of mass disappearances. It seems like groups of people are vanishing all at once.
 ふ～ん|で？=Hm-mm. A-nd?
 各支部の報告を合わせて　よく調べて|みたところ　この手の事件が多発している|ことがわかった=From what we've heard from the other branches, it seems there's already been a large number of cases.#this line must be kept as one textbox
 どのくらい？=How many have been affected?
@@ -1463,15 +1463,15 @@
 あちこちで　目撃されてるらしいじゃん|あの　光る繭=Apparently that glowing cocoon has been seen all over.
 あれ　キレーだよね|ピカピカ　ピカピカってさ=It's sooo pretty. It's like, "Sparkle, sparkle! Glitter, glitter!"
 その繭を持ち去った|黒い影ってのもな=Then there's that black shadow that took off with the cocoon.
-黒いヤツは　このブラック☆スター様が|必ず倒す！　ぜってー逃がさねぇ！=There's no way some guy who hides in the shadows will escape again 'cause Black☆Star will be there to take him down!
+黒いヤツは　このブラック☆スター様が|必ず倒す！　ぜってー逃がさねぇ！=Black☆Star will be there to take him down next time! He's not going to be running off with our cocoon again!
 お前|光る繭はかんけーねーって|思ってるだろ？=Why are you so interested in the glowing cocoon all of a sudden?
 これ以上|俺に光るモノは必要ない！=There's no need for another shining object besides me!
-やっぱりな=Should have know...
-で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B- But there's those guys with the masks too. They're probably working with that shadow person.
+やっぱりな=Should have known...
+で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the person in the shadows.
 そうかもしれないな=It's possible.
-う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... But there was something... different about his soul.
+う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... There was something... different about his soul though.
 まぁ|まだわからないな　それは=Well, I don't know anything about that, but...
-にしても|これだけ話題になっちゃ|なんかあるかもね=Even though everyone is talking about it, we have no idea what it is.
+にしても|これだけ話題になっちゃ|なんかあるかもね=Even though everyone is talking about it, we still have no idea who they are.
 はい　みんな静かに|授業を始めます♪=Alright everyone. Quiet down so we can begin class♪
 !FILE:EV0300_001.bscr
 はい　今日は予定を変更して|試験をやります♪=Okay. Today's program has been changed, and we're going to have a test♪
@@ -1488,7 +1488,7 @@
 今からプリントを配る|よく読め！=I'm going to start passing around the handouts. Read them carefully!
 !FILE:EV0300_011.bscr
 分かったかー|さぁ　誰から挑戦するんだ？=Everyone got it!? Now who's walking up to bat first?
-よし！|しっかりとやるんだぞ　お前たち=Alright! Fight hard till the you guys!
+よし！|しっかりとやるんだぞ　お前たち=Alright! Fight hard till the end you guys!
 なに？　試験を受けたくないのか？|じゃあ　俺がお前らの知らない領域を|こってりと教えてやろうか？=You don't want to take the test or what? Well, let me just tell you. You don't know as much as you think.
 !FILE:EV0300_012.bscr
 よし|次！=Good. Next!
@@ -1500,7 +1500,7 @@
 あ～　なにやってんだぁ|根性だしていけぇ～！=Hey, what are you doing!? Just grit your teeth and go!!
 !FILE:EV0300_016.bscr
 よ～し　試験はおしまいだ|合格したものは　午後に|デスルームに集合しろ=Alright! The test is over. For those that passed, meet in the Death Room this afternoon.
-さぁ～て|どーすんだ？=Weeell, what now?
+さぁ～て|どーすんだ？=Sooo? What now?
 !FILE:EV0300_100.bscr
 合格して良かったね=I'm glad we passed.
 試験をするほどの手伝いって|なんだろな？=What kind of help could they need that they test us first?
@@ -1534,9 +1534,9 @@
 ごくろ～さま♪|二人はもう　戻っていいよん♪=Thanks for your hard work, you two♪ You're good to go now♪
 はい|死神様=Thanks, Lord Death.
 で　コレが|その繭です=Right. Here's the cocoon.
-鬼神を生み出す繭か・・・|恐ろしいモノだな=A kishin-bearing cocoon...? That's a frightening prospect.
+鬼神を生み出す繭か・・・|恐ろしいモノだな=A kishin-bearing cocoon? That's a frightening prospect.
 他の生徒の中にも|コレを持ち帰ってきているものがいます=There were other students that came back with some as well.
-一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=... Judging by its soul response, this cocoon should be minuscule. Their must be a Soul Protect on it.
+一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=... Judging by its soul response, this cocoon should be minuscule. There must be a Soul Protect on it.
 ってことは|黒幕は魔女か=Then it's a witch behind all of this?
 やっかいなことになりそうですね=This whole thing is becoming quite the ordeal.
 そゆことになるね～♪|じゃあ　シュタイン君|詳しく調べちゃってちょうだい=Quite♪ Now, Stein, I would like you to examine the cocoon in more detail.
@@ -1557,7 +1557,7 @@
 感じる|強いよ　この中のヤツ=Whatever's in there. It's strong. I feel it.
 へっ　望むとこだぜ|クールに決めるぜ　マカ=Heh. Wouldn't want it any other way. Be cool, Maka.
 !FILE:EV0301_402.bscr
-うへっ|なんだよコレ=Uh, what is this...?
+うへっ|なんだよコレ=Uh, what is this?
 ソウル|黙ってて・・・=Soul, shh...
 ぐるる・・・|噂ほどの味じゃねぇな|魂ってやつは=Grrr... These souls don't taste like the rumors said at all.
 ！　・・・いる|・・・あそこの後ろ=! ... There... Behind there.
@@ -6102,7 +6102,7 @@
 ゴメンなさい=Sorry.
 待ってよ　ブラック☆スター！=Wait, Black☆Star!
 !FILE:EV1101_401.bscr
-な　なんなの？=Wh- What?
+な　なんなの？=Wh-What?
 俺様の前に立ちはだかるとは|一億年はえぇ！=You're still light years from blocking my path!#Basically impossible to translate both directly and naturally, so I went with a slight reference to Brock's gym in gen 1 Pokémon which shares the idea.
 ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gigi! A meister and a magic weapon... Death sent his drones, huh?
 そういう　おメェらは|どっから見ても　ザコだな=What did you say? I couldn't hear you over the drone of my fans.
@@ -6279,7 +6279,7 @@
 おじ様達が絡んでいる|変な紋様のツボのことかしら？=Do you mean that jar with the weird design that looks like intertwined old men?
 そうです　そのツボです|どこで見たんですか？=Yes, that's the one. Where did you see it?
 さっきまで　そこに落ちていたわ・・・|でも　もうないわよ・・・=It was lying over there just a short while ago... but it's gone now...
-なんだって！|誰が盗んでいったんだよ☆=What's that!? Who ran off with it!☆?
+なんだって！|誰が盗んでいったんだよ☆=What's that!? Who ran off with it!?
 盗んだんじゃなくて|職員さん達が回収していったの・・・=Nobody did, the staff members just took it back...
 なんでも　割れたツボの中から|危険な液体が漏れていたんだって・・・=That cracked jar was supposedly leaking some kind of dangerous liquid...
 もしかして　あのツボ|あなた達のだったの？=Does that jar belong to you guys?
@@ -6801,7 +6801,7 @@
 !FILE:EV1201_405.bscr
 グフッ|・・・なぜ|私が生まれ変わる邪魔を・・・=Ugkh... Why do you hinder my rebirth...?
 はぁ　はぁ|手ごたえのねぇ　ヤローだったぜ=*Pant*|That guy wasn't so tough.
-そ　そうね|早く　あの繭を回収しましょ=Ye- Yeah. Quick, let's grab that cocoon.
+そ　そうね|早く　あの繭を回収しましょ=Y-Yeah. Quick, let's grab that cocoon.
 ぐるるるる・・・=Grrrr...
 なに今の？|・・・ブラック☆スター　お腹すいたの？=What's was that? ... Are you hungry, Black☆Star?
 ハラは減ったけど|俺様じゃね～ぞ？=I'm starving, but that wasn't me.
@@ -7173,7 +7173,7 @@
 !FILE:EV1221_046.bscr
 保健室のベッドのねごこち|きっと気に入ってくれると思うぜ！=I'm sure that you're gonna enjoy the comfort of the infirmary bed!
 !FILE:EV1221_052.bscr
-椿ちん|どうしたの～♪=Tsubaki, wussup～♪
+椿ちん|どうしたの～♪=Tsubaki, wussup~♪
 頭痛がするから|仮眠ができそうな場所を|さがしてるんです=I've got a headache so I'm looking for a napping spot.
 図書館はどう？=How about the library?
 でも　眠っていたら|シド先生に怒られるんじゃ・・・=But... if I fall asleep there, I'll get scolded by Mr. Sid...
@@ -7273,7 +7273,7 @@
 ええ　シワや白髪も|増えもしなければ|減りもしない・・・=Yes. Not a single wrinkle or grey hair more or less...
 コピーしたように|俺が子供の頃と|まったくかわっていません=She hasn't changed at all since I was a kid. Like a copy.
 あれは本当に|生物なのでしょうか？=Makes you wonder if she's a real living organism.
-は　はぁ|私にはよくわかりませんが・・・=H- Haa. I don't know anything about that, but...
+は　はぁ|私にはよくわかりませんが・・・=H-Haa. I don't know anything about that, but...
 そうだ　せっかくだから|これをあげましょう=Right. Let me give you this.
 これはおばちゃんの写真ですか？=A photo of Auntie?
 ええ　俺が子供の頃に|撮ったおばちゃんの写真です=Yes. A photo I took of Auntie back when I was a child.
@@ -7392,15 +7392,15 @@
 あちこちで　目撃されてるらしいじゃん|あの　光る繭=Apparently that glowing cocoon has been seen all over.
 あれ　キレーだよね|ピカピカ　ピカピカってさ=It's sooo pretty. It's like, "Sparkle, sparkle! Glitter, glitter!"
 その繭を持ち去った|黒い影ってのもな=Then there's that black shadow that took off with the cocoon.
-黒いヤツは　このブラック☆スター様が|必ず倒す！　ぜってー逃がさねぇ！=There's no way some guy who hides in the shadows will escape again 'cause Black☆Star will be there to take him down!
+黒いヤツは　このブラック☆スター様が|必ず倒す！　ぜってー逃がさねぇ！=Black☆Star will be there to take him down next time! He's not going to be running off with our cocoon again!
 お前|光る繭はかんけーねーって|思ってるだろ？=Why are you so interested in the glowing cocoon all of a sudden?
 これ以上|俺に光るモノは必要ない！=There's no need for another shining object besides me!
-やっぱりな=Should have know...
-で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B- But there's those guys with the masks too. They're probably working with the person in black.
+やっぱりな=Should have known...
+で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the person in the shadows.
 そうかもしれないな=It's possible.
-う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... But there was something... different about his soul.
+う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... There was something... different about his soul though.
 まぁ|まだわからないな　それは=Well, I don't know anything about that, but...
-にしても|これだけ話題になっちゃ|なんかあるかもね=Even though everyone is talking about it, we have no idea what it is.
+にしても|これだけ話題になっちゃ|なんかあるかもね=Even though everyone is talking about it, we still have no idea who they are.
 はい　みんな静かに|授業を始めます♪=Alright everyone. Quiet down so we can begin class♪
 !FILE:EV1300_100.bscr
 合格して良かったね|ブラック☆スター=Great job passing the test, Black☆Star.
@@ -7411,9 +7411,9 @@
 とにかく|黒いヤローは片付けたぜ=In any case, we totally wiped the floor with the guy!
 ごくろ～さま♪|二人はもう　戻っていいよん♪=Thanks for your hard work, you two♪ You're good to go now♪
 で　コレが|その繭です=Right. Here's the cocoon.
-鬼神を生み出す繭か・・・|恐ろしいモノだな=A kishin-bearing cocoon...? That's a frightening prospect.
+鬼神を生み出す繭か・・・|恐ろしいモノだな=A kishin-bearing cocoon? That's a frightening prospect.
 他の生徒の中にも|コレを持ち帰ってきているものがいます=There were other students that came back with some as well.
-一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=... Judging by its soul response, this cocoon should be minuscule. Their must be a Soul Protect on it.
+一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=... Judging by its soul response, this cocoon should be minuscule. There must be a Soul Protect on it.
 ってことは|黒幕は魔女か=Then it's a witch behind all of this?
 やっかいなことになりそうですね=This whole thing is becoming quite the ordeal.
 そゆことになるね～♪|じゃあ　シュタイン君|詳しく調べちゃってちょうだい=Quite♪ Now, Stein, I would like you to examine the cocoon in more detail.
@@ -7727,7 +7727,7 @@
 何言ってんだよ|俺様は神を超越する男だぜ！|こんなことでつまずいてらんねェ☆=What are you saying? I'm the man that will surpass God! I can let a thing like that hold me back☆
 はぁ・・・|まだこりないのね・・・=*Sigh* He hasn't learned yet...
 見てたわよ|ブラック☆スター=I was watching, Black☆Star.
-マ　マカちゃん・・・|えっと　ど　どうか落ち着いて・・・=Ma- Maka... Um. Pl- Please calm down...
+マ　マカちゃん・・・|えっと　ど　どうか落ち着いて・・・=M-Maka... Um. Pl-Please calm down...
 わかっているわよ　椿ちゃん・・・|博士にあれだけやられた後じゃ|やる気なくしたわ=It's all right, Tsubaki... I'm satisfied after what the professor did to him.
 一つ貸しとくわよブラック☆スター　|もう二度と|人の名前をダシに使わないでちょうだい=I lent you the first one for free, Black☆Star. But please don't use someone else's name like that again.
 おうよ　たしかに|借りたぜ　マカ！=Yeah. That's right. I did borrow something, Maka!
@@ -10946,7 +10946,7 @@
 !FILE:EV1941_011.bscr
 そこまでっ！！|君達の成長具合に|少し驚きましたよ=I'm shocked to see just how far you've come!!
 ふっ・・・|俺様の後光が世界中を満たす日も近いな・・・=Heh... The day my aura of light fills the world is near...
-ちょ　ちょっと|ブラック☆スターったら=H- Hey, Black☆Star!
+ちょ　ちょっと|ブラック☆スターったら=H-Hey, Black☆Star!
 そこまでっ！|良い魂反応を|見せてもらいました♪=That's enough! You've shown me an amazing soul response♪
 俺様サイキョー！！=No one can match me!!
 ありがとうございました　博士=I appreciate the kind words, professor.
@@ -11006,10 +11006,10 @@
 !FILE:EV1941_111.bscr
 今回の授業は終了だ！|お前達の成長には驚かされたよ！=This lesson is finished! I'm amazed by your growth!
 ふっ・・・|俺様の後光が世界中を満たす日も近いな・・・=Heh... The day my aura of light fills the world is near...
-ちょ　ちょっと|ブラック☆スターったら=H- Hey, Black☆Star!
+ちょ　ちょっと|ブラック☆スターったら=H-Hey, Black☆Star!
 今回はここまでだ！|予想以上に成長しているな！お前達！=That'll be it for today! You've all grown far more than I could have ever expected!
 俺様サイキョー！！=No one can match me!!
-ちょ　ちょっと|ブラック☆スターったら=H- Hey, Black☆Star!
+ちょ　ちょっと|ブラック☆スターったら=H-Hey, Black☆Star!
 !FILE:EV1941_112.bscr
 よし！ここまでだ！|なかなかの成長だな！=All right, we'll end it here! You've definitely improved!
 やはり俺様が|目立っちまったな！=I'm obviously on a whole other level!
@@ -12663,11 +12663,11 @@
 ええ　リズが手伝ってくれた|おかげで思いのほか早く|終わりました=Yes. I finished faster than I thought I would thanks to your sister's help.
 リズの姿が見えませんが|まさか博士・・・=I don't see any sign of her. Professor, tell me you didn't...
 色々と誤解があるようですね・・・=There seems to be a lot of misunderstandings today...
-掃除が早く終わったので|リズを解放したのが|そんなにいけなかったのでしょうか？=I let her go since the cleaning was finished so quickly. Was I not supposed to ?
+掃除が早く終わったので|リズを解放したのが|そんなにいけなかったのでしょうか？=I let her go since the cleaning was finished so quickly. Was I not supposed to?
 !FILE:EV2220_046.bscr
 リズの姿が見えませんが|まさか博士・・・=I don't see any sign of her. Professor, tell me you didn't...
 色々と誤解があるようですね・・・=There seems to be a lot of misunderstandings today...
-掃除が早く終わったので|リズを解放したのが|そんなにいけなかったのでしょうか？=I let her go since the cleaning was finished so quickly. Was I not supposed to ?
+掃除が早く終わったので|リズを解放したのが|そんなにいけなかったのでしょうか？=I let her go since the cleaning was finished so quickly. Was I not supposed to?
 !FILE:EV2220_052.bscr
 おう　お前達|何やってるんだ！？=Yo! What are you guys up to!?
 お姉ちゃんを|さがしているんだよ♪=We're looking for my big sister♪
@@ -13188,14 +13188,15 @@
 あちこちで　目撃されてるらしいじゃん|あの　光る繭=Apparently that glowing cocoon has been seen all over.
 あれ　キレーだよね|ピカピカ　ピカピカってさ=It's sooo pretty. It's like, "Sparkle, sparkle! Glitter, glitter!"
 その繭を持ち去った|黒い影ってのもな=Then there's that black shadow that took off with the cocoon.
-黒いヤツは　このブラック☆スター様が|必ず倒す！　ぜってー逃がさねぇ！=There's no way some guy who hides in the shadows will escape again 'cause Black☆Star will be there to take him down!お前|光る繭はかんけーねーって|思ってるだろ？=Why are you so interested in the glowing cocoon all of a sudden?
+黒いヤツは　このブラック☆スター様が|必ず倒す！　ぜってー逃がさねぇ！=Black☆Star will be there to take him down next time! He's not going to be running off with our cocoon again!
+お前|光る繭はかんけーねーって|思ってるだろ？=Why are you so interested in the glowing cocoon all of a sudden?
 これ以上|俺に光るモノは必要ない！=There's no need for another shining object besides me!
-やっぱりな=Should have know...
-で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B- But there's those guys with the masks too. They're probably working with the person in black.
+やっぱりな=Should have known...
+で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the person in the shadows.
 そうかもしれないな=It's possible.
-う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... But there was something... different about his soul.
+う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... There was something... different about his soul though.
 まぁ|まだわからないな　それは=Well, I don't know anything about that, but...
-にしても|これだけ話題になっちゃ|なんかあるかもね=Even though everyone is talking about it, we have no idea what it is.
+にしても|これだけ話題になっちゃ|なんかあるかもね=Even though everyone is talking about it, we still have no idea who they are.
 はい　みんな静かに|授業を始めます♪=Alright everyone. Quiet down so we can begin class♪
 !FILE:EV2300_100.bscr
 やったね～　合格ぅ！=Hooray! We passed!
@@ -13209,9 +13210,9 @@
 余計なこと　言うんじゃない！=That wasn't called for!
 ごくろ～さま♪|三人はもう　戻っていいよん♪=Thanks for your hard work, you three♪ You're good to go now♪
 で　コレが|その繭です=Right. Here's the cocoon.
-鬼神を生み出す繭か・・・|恐ろしいモノだな=A kishin-bearing cocoon...? That's a frightening prospect.
+鬼神を生み出す繭か・・・|恐ろしいモノだな=A kishin-bearing cocoon? That's a frightening prospect.
 他の生徒の中にも|コレを持ち帰ってきているものがいます=There were other students that came back with some as well.
-・・・一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=... Judging by its soul response, this cocoon should be minuscule. Their must be a Soul Protect on it.
+・・・一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=... Judging by its soul response, this cocoon should be minuscule. There must be a Soul Protect on it.
 ってことは|黒幕は魔女か=Then it's a witch behind all of this?
 やっかいなことになりそうですね=This whole thing is becoming quite the ordeal.
 そゆことになるね～♪|じゃあ　シュタイン君|詳しく調べちゃってちょうだい=Quite♪ Now, Stein, I would like you to examine the cocoon in more detail.
