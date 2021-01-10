@@ -28,7 +28,15 @@ Avoid overuse of elongated vowels. This problem is especially prevalent with Lor
 
 Avoid overuse of ellipses (...) as found in the Japanese.
 
-The ♪ comes after exclamation points but before question marks. It replaces periods. The same rules apply to ☆.
+Punctuation combinations:
+!?
+♪?
+!♪
+☆?
+!☆
+Never combine more than two of the four: !?☆♪
+♪ and ☆ replace periods. No space between final word and symbol just as with a period.
+No spaces between symbols.
 
 Make use of *Sigh* and *Pant* as opposed to spelling them out.
 
