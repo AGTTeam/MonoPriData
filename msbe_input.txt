@@ -244,9 +244,9 @@
 それって|どういう勝負なの？=What kind of match are we talking about?
 !FILE:EV0120_010.bscr
 ・・・・・・・・・=.........
-どうしたの　パパ？=What's wrong, papa?
-まいったな俺・・・|どうしよう俺・・・|なんてこったい俺・・・=Damn it... What do I do...? This can't keep happening...
-パパ・・・パパ！|どうしたのパパ|しっかりして！=Papa... Papa! What's wrong, papa? Pull yourself together!
+どうしたの　パパ？=What's wrong, Papa?
+まいったな俺・・・|どうしよう俺・・・|なんてこったい俺・・・=Damn it... What do I do...?|This can't keep happening...
+パパ・・・パパ！|どうしたのパパ|しっかりして！=Papa... Papa! What's wrong, Papa?|Pull yourself together!
 悪魔の実験は|終わってなかったのか|ちくしょう　シュタイン・・・=I thought that devil's experiments would never end. That damn Stein...
 やっぱり博士が|何かやったんだわ=Of course the professor is behind this.
 ソウル　博士を|さがしましょう！=Soul, will you help me look for the professor?
@@ -255,47 +255,47 @@
 !FILE:EV0120_015.bscr
 ・・・・・・・・・=.........
 !FILE:EV0120_016.bscr
-まいったな俺・・・|どうしよう俺・・・|なんてこったい俺・・・=Damn it... What do I do...? This can't keep happening...
+まいったな俺・・・|どうしよう俺・・・|なんてこったい俺・・・=Damn it... What do I do...?|This can't keep happening...
 !FILE:EV0120_017.bscr
 ・・・・・・・・・=.........
-無口だな|もしかして　お前|ビビってんじゃねェのか！？=You're not very talkative. You're nervous, aren't you!?
+無口だな|もしかして　お前|ビビってんじゃねェのか！？=You're not very talkative.|Don't tell me you're chickening out, are you!?
 私は怖いわよ|そりゃ授業中なんかは|いい先生なんだけどね=I'm scared, yeah. He's a good teacher during class and everything, but...
-教室とかで二人きりに|なった時には　すごい目で|見られている時があるのよ・・・=Whenever it's just the two of us in the classroom or wherever, he stares at me with this really intense look in his eyes...
+教室とかで二人きりに|なった時には　すごい目で|見られている時があるのよ・・・=Whenever it's just the two of us alone somewhere, he stares at me with this really intense look in his eyes...#must be kept short
 大丈夫だぜ|今は人目があるから|博士も無茶はしねェよ！！=It'll be okay. There will be witnesses, so even the professor wouldn't do anything weird!!
 そういう|はげまし方ってないと思う・・・=Is that supposed to make me feel better?
 !FILE:EV0120_022.bscr
 博士　デスサイズに|何をしたんだよ？=Professor, what did you do to Death Scythe?
 身に覚えがありすぎて|何のことを言われているのか|まったくわかりません？=I've done far too many things to remember them all, so I haven't the faintest idea what you're talking about.
 ありすぎてって・・・=When you say "too many things"...
-でも博士　なんで|パパばかりなんですか？=But, professor, why only to papa?
+でも博士　なんで|パパばかりなんですか？=But, professor, why only to Papa?
 俺と先輩が積み重ねてきた|日々には　それくらいの|重さがあるんですよ・・・=Well, Spirit and I have known each other for so very long. An unbreakable bond has been made between us...
-それは先輩の娘である|君ですら立ち入れない|領域なのです=An unbreakable bond that even his own daughter shouldn't try to interfere with.
+それは先輩の娘である|君ですら立ち入れない|領域なのです=An unbreakable bond that even his own daughter can't touch.
 俺の言っていることが|わかりますね？=Do you understand what I'm trying to tell you?
 ジャマするなってことか=Don't interfere, right?
 あはは・・・|肝に銘じておきます・・・=Ahaha... I'll keep that in mind...
 とにかく　これだけは|覚えておいてほしいのですが=Anyway, I just want you to remember one thing...
 今も昔もスピリット先輩は|俺にとって最高のパートナーであることに|変わりはありません=Spirit has and will always be my most... useful partner, and nothing will ever change that.
-パートナーって|何か裏の意味がありそうで|怖ェよ博士・・・=I get the feeling there's some hidden meaning there. He gives me the creeps...
+パートナーって|何か裏の意味がありそうで|怖ェよ博士・・・=I get the feeling there's some kind of hidden meaning there. You're giving me the creeps, Professor...
 !FILE:EV0120_026.bscr
 とにかく　これだけは|覚えておいてほしいのですが=Anyway, I just want you to remember one thing...
 今も昔もスピリット先輩は|俺にとって最高のパートナーであることに|変わりはありません=Spirit has and will always be my most... useful partner, and nothing will ever change that.
 !FILE:EV0120_027.bscr
 そうだ　君達に|お願いがあります=By the way, I have a little favor to ask of you.
 なんだよ　博士？=What now, professor?
-明日の授業は解剖だと|いうことを皆に知らせておいてください=I'd like you to please inform your classmates that tomorrow's class will be on dissection.
+明日の授業は解剖だと|いうことを皆に知らせておいてください=I'd like you to please inform your classmates that tomorrow's class|will be on dissection.
 またかよ=Again!?
-伝えなくても　みんな|察していると思いますが？=I think everyone would guess as much even if we didn't tell them anything.
+伝えなくても　みんな|察していると思いますが？=I think everyone could guess as much even if we didn't tell them anything.
 とんでもない　明日は|特別な生物を使った解剖ですよ=You misunderstand me. Tomorrow we will be dissecting quite an exceptional organism.
-そもそもあれが生物と|いえるかどうか・・・疑似生物と|いったほうが正確でしょう=To begin with, I'm not sure I should even call it an organism... Perhaps it would be more precise to refer to it as an artificial organism.
+そもそもあれが生物と|いえるかどうか・・・疑似生物と|いったほうが正確でしょう=No, not organism... Perhaps it would be more precise to refer to it as an artificial organism.#must be kept short
 ははは　がんばります=Hehehe... We'll do our best.
 とにかくマカにソウル|お願いしましたよ！=Great. I'll leave it to you two then!
 !FILE:EV0120_032.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
 なんだよ　また解剖かよ|つまんねェな　特訓してたほうが|１００倍マシだぜ！=What? Dissection again? That's so boring. Intensive training would be a hundred times better!
-ゼッタイ来るように|博士が言ってたわよ？=The professor said it's important that everyone come.
-ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what that screwball four-eyes said! I can't stop my special training!
+ゼッタイ来るように|博士が言ってたわよ？=The professor said it's important that everyone comes.
+ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what that screwball four-eyes said! I can't stop my|special training!
 !FILE:EV0120_036.bscr
-ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what screwball four-eyes said! I can't stop my special training!
+ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what that screwball four-eyes said! I can't stop my|special training!
 !FILE:EV0120_042.bscr
 明日は解剖の授業があるよ=We've got a class on dissection tomorrow.
 病気になって|学校をお休みすれば|授業を受けなくていいですよね・・・=Nobody could really blame me for missing class if I were sick, could they?
@@ -318,16 +318,16 @@
 しょうがねェよ|解剖にシンメトリーは|期待できねェ・・・=It's unavoidable. You can't expect much symmetry from a dissection...
 !FILE:EV0120_062.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
-いやだよ服が汚れるし|爪が汚くなる！=No can do. My clothes could get dirty. And think about my nails!
-そういう問題じゃねェだろ|ゼッテェ　来いって|博士が言ってたぜ？=That's not my problem. The professor said everyone has to come. No exceptions.
-服が汚れたら　お前が|弁償してくれるのかよ！？='Cause you think he's the one who's going to buy me new clothes when they get dirty!?
+いやだよ服が汚れるし|爪が汚くなる！=No can do. My clothes could get dirty. And think of my nails!
+そういう問題じゃねェだろ|ゼッテェ　来いって|博士が言ってたぜ？=That's not my problem. The professor said everyone has to come.|No exceptions.
+服が汚れたら　お前が|弁償してくれるのかよ！？=So you're gonna buy me new clothes if mine get dirty, are ya!?
 何言ってんだよ　お前・・・=Are you serious?
 !FILE:EV0120_066.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
-いやだよ服が汚れるし|爪が汚くなる！=No can do. My clothes could get dirty. And think about my nails!
+いやだよ服が汚れるし|爪が汚くなる！=No can do. My clothes could get dirty. And think of my nails!
 !FILE:EV0120_072.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
-何か食べられるかな？=Will we be able to eat it afterward?
+何か食べられるかな？=Will we be able to eat it afterwards?
 調理実習じゃないから|無理だと思うけど・・・=It's not a cooking class, so I highly doubt it...
 え～～っ！|そんなのツマンナイ！=Awwww! That's no fun!
 !FILE:EV0120_076.bscr
@@ -339,12 +339,12 @@
 このままだと|みんな授業に来てくれないよ・・・=At this rate, nobody's going to come to class tomorrow...
 仕方ねェんじゃないか|みんな　もうあきちまったんだよ！=There's nothing you can do. Everyone's sick of it!
 そうなったら|私達と博士の三人きりだよ・・・=But that means it'll be just us three tomorrow...
-俺も多分行かねェから|正確にはマカと博士の|二人だけだぜ！=I doubt I'm going, so it'll probably just be you and the professor actually!
+俺も多分行かねェから|正確にはマカと博士の|二人だけだぜ！=I'm probably not going to go, so it'll just be you and the professor, actually!
 もうソウルったら|マジメに考えてちょうだい！=Soul, will you please be serious for a second!
 う～～ん　じゃあ|死神様に相談にいこうか？=Nnnngh. Fine. Why don't we try talking to Lord Death?
 それもアリね|怪しい授業が多すぎるのは|たしかなんだから・・・=That's not a bad idea. I mean, we've definitely had way too many of these bizarro classes...
 死神様に苦情を言っても|バチはあたらないわ！=It can't hurt to put in a complaint to Lord Death!
-じゃ　決まりだな|デスルームに行こうぜ！=It's settled then. Let's go to the Death Room!
+じゃ　決まりだな|デスルームに行こうぜ！=It's settled then.|Let's go to the Death Room!
 !FILE:EV0120_092.bscr
 ・・・・・・・・・=.........
 あれれ？|どうしちゃったのかな？=Uh-oh. What happened here, hm?
@@ -355,13 +355,13 @@
 たしかにシュタイン君の|授業内容は偏っていると|私も思うよ～ん♪=I agree the content of Stein's class is heavily biased♪
 じゃあ　死神様！=Then that means...!
 うん　でも今すぐという|話じゃないよ=Yes... But I can't do anything immediately.
-シュタイン君にも考えがあると思うから|まずは事情を確認してみないとね～ん♪=I'm sure Stein has his reasons, so I must first confirm that the situation is as it appears♪
+シュタイン君にも考えがあると思うから|まずは事情を確認してみないとね～ん♪=I'm sure Stein has his reasons, so I must first confirm the situation♪
 ゼッテェ|あいつの趣味だよ・・・=It's just a hobby for him...
 !FILE:EV0120_096.bscr
-シュタイン君にも考えがあると思うから|まずは事情を確認してみないとね～ん♪=I'm sure Stein has his reasons, so I must first confirm that the situation is as it appears♪
+シュタイン君にも考えがあると思うから|まずは事情を確認してみないとね～ん♪=I'm sure Stein has his reasons, so I must first confirm the situation♪
 ゼッテェ|あいつの趣味だよ・・・=It's just a hobby for him...
 !FILE:EV0120_097.bscr
-どうしたんですか博士？|そんな恐ろしい顔をして=What's wrong, professor? Why that scary look?
+どうしたんですか博士？|そんな恐ろしい顔をして=What's wrong, professor?|Why that scary look?
 これは失礼しました|俺としたことが取り乱してしまったようです=My apologies. I, of all people, have made a colossal blunder, it would seem.
 実は　明日の授業に使おうとしていた|疑似生物が逃げ出してしまったのです=The truth is, the artificial organism that I intended to use during tomorrow's class has escaped.
 ラッキー|あっ　なんでもありません|続けてください=Yes! Oh, ignore me. Please continue.
@@ -369,19 +369,19 @@
 ますますラッキーだな♪=It must be our lucky day♪
 そうだ　もしよかったら|君達が疑似生物を|捕まえてきてくれませんか？=Indeed. If you're up to it, I would appreciate it if you could catch the artificial organism for me.
 詳しいことはシドに伝えてあるので|もしよかったら聞いてみてください=If you're interested, please speak with Sid. I left him with all the necessary details.
-どうする　マカ？|別の授業になりそうだから|放っておけばいいんじゃねェか？=What do you want to do, Maka? This would mean a different class, so maybe we should just ignore it.
+どうする　マカ？|別の授業になりそうだから|放っておけばいいんじゃねェか？=What do you want to do, Maka?|This would mean a different class, so maybe we should just ignore it.
 う～ん　でもそれじゃあ|根本的な解決には|ならないと思うし・・・=Yeeeah. But I think that would only be a temporary solution...
 !FILE:EV0120_102.bscr
 手伝ってほしいことがあるのだが|聞いてもらえないか？=I have something I'd like to ask your help with if you don't mind.
 疑似生物のことだろ|博士に聞いたぜ・・・=Is this about the artificial organism? We just saw the professor...
-お前達が　シュタインの授業を|どう思っているか|俺なりにわかっているつもりだ・・・=What do you two think of Stein's class? In my own way, I understand, but...
+お前達が　シュタインの授業を|どう思っているか|俺なりにわかっているつもりだ・・・=What do you two think of Stein's class? In my own way, I think I already know the answer, but...
 だが　話だけでも|聞いてもらえないだろうか？=I'm rambling. Would you hear me out?
 わかりました先生|詳しい話を教えてください=I understand, Sid. Please tell us what we need to know.
 その上で前向きに|検討したいと思います=I want to try to have an open mind about this.
 お前　何言い出すんだよ|放っておくんじゃねェのかよ！=Did Stein drill a hole in your head or something? We should totally ignore this request!
 決定権は職人の|私にあるの　お願いだから|したがってちょうだい・・・=The meister has the final say, and as the meister I say we at least listen to him. Please...
 そんな必死な顔をされちゃ|何も言えねェじゃねェか・・・=I can't refuse you when you're this set on something. Fine.
-・・・よし　話は|終わったようだな=... Great. It's decided then.
+・・・よし　話は|終わったようだな=Great. It's decided then.
 それでは手伝いの|内容を説明するぞ！=Now, let me lay out all the info you'll need for this request!
 !FILE:EV0120_110.bscr
 お前達　御苦労だったな！=Thanks for the hard work, you two!
@@ -5724,11 +5724,11 @@
 !FILE:EV0960_030.bscr
 さてと　これから|どうすんだよ？=Well, what's it gonna be now?
 !FILE:EV0960_031.bscr
-さてと　忙しく|なってきたぜ！=Now things are getting hectic!
+さてと　忙しく|なってきたぜ！=Things are getting lively!
 !FILE:EV0960_032.bscr
 ちゃんと考えて行動すんだぞ|お前　意外とそういうとこ|バカなんだからな！=Think first and act second. You should be smart enough to figure that out!
 !FILE:EV0960_033.bscr
-そんなにいそがねェで|ちょっとはブラブラして|いかねェか？=We don't have much going on. Why don't we roam for a bit?
+そんなにいそがねェで|ちょっとはブラブラして|いかねェか？=We don't have much going on.|Why don't we roam for a bit?
 !FILE:EV0960_034.bscr
 俺が何したってんだよ！|ったく　頭にくるぜ！=What am I doing? Ugh! This is pissing me off!
 !FILE:EV0960_035.bscr
@@ -5739,8 +5739,8 @@
 マカ　死神様を|呼び出そうぜ！=Maka, call up Lord Death!
 わかったわ・・・=Yeah...
 あれがあって・・・|これがあって・・・後は・・・=Whenever you want to knock on death's door...
-死神様の鏡番号|４２－４２－５６４=42 - 42 - 564. Lord Death's mirror number.
-ハローハロー　死神様|鎌職人のマカです！=Calling Lord Death. This is scythe-meister Maka!
+死神様の鏡番号|４２－４２－５６４=42 - 42 - 564.|Lord Death's mirror number.
+ハローハロー　死神様|鎌職人のマカです！=Calling Lord Death.|This is scythe-meister Maka!
 !FILE:EV0966_002.bscr
 あなた達の活躍を|よく耳にするわよ♪=I've been hearing a lot of good things about you♪
 それほどでもねェよ|ちょっと大げさじゃねェか=We haven't done that much. I think you're exaggerating just a little.
@@ -5836,11 +5836,11 @@
 サンキュー|一応　礼を言っとくぜ！=Thanks! We really can't thank you enough!
 にゃはは♪|ブレアもうれしいよ♪=Nyahaha♪ I'm happy too♪
 !FILE:EV0968_030.bscr
-死神様がいないんじゃ|手伝いとかもできねェな=Lord Death isn't here, huh? I guess I can't help then.
+死神様がいないんじゃ|手伝いとかもできねェな=Lord Death isn't here, huh?|I guess we can't help then.#seen
 まぁ　俺的にはノンビリできるから|ラッキーだけどな！=Well, that means a little relaxation time for me. It must be my lucky day!
 やれやれ|保健医がどこへいったんだか・・・=Oh, no. The nurse isn't here?
 けが人が出たらどうすんだよ|ブラック☆スターがいる限り|その確率は常に高いぜ！=What do we do if someone gets hurt? And with Black☆Star around I'd say it's more likely than not!
-人一人いない教室って|なんか寂しいもんだな・・・=The classroom is totally empty. It was crammed full of people just a little while ago...
+人一人いない教室って|なんか寂しいもんだな・・・=The classroom is totally empty. It was crammed full of people just a little while ago...#seen
 ちょっと前までは|あんなににぎわってたのによ・・・=But now it feels almost desolate...
 どうだ　マカ|このままここで|ノンビリしていかねェか=So, Maka? You wanna stick around here and relax for a while?
 わかってる|言ってみただけだよ|本気で期待しちゃいねェよ=I know. I was just throwing it out there as a possibility. I didn't really expect you to go for it.
@@ -5850,15 +5850,15 @@
 こんなに集めてどうすんだろうな|全部読んだヤツがいるのかよ！=What's even the point of gathering them all up in the same place? It's not like one person could read them all!
 誰もいないから|この際言っとくけどよ=Since we're alone right now, I'm gonna take this chance to tell you something...
 お前　ガンバリすぎんなよな|そうなるとロクな結果にならねェんだからよ=You're trying too hard. You're not going to get the results you want if you keep this up.
-そういえば|お前サーモン食べれるようになったっけ？=By the way, when did you start being able to eat salmon?
+そういえば|お前サーモン食べれるようになったっけ？=By the way, when did you start being able to eat salmon?#seen
 たしか苦手だったよな|好き嫌いはよくねェぜ！=I didn't think you liked it. Or do you just not have any preferences at all!?
 誰もいないから|この際言っとくけどよ=Since we're alone right now, I'm gonna take this chance to tell you something...
 お前　もう少しだけデスサイズに|優しくしてやれよ|見ていてあわれだぜ・・・=You think you could be just a little nicer to Spirit? It's honestly a little hard to watch...
-ブラック☆スターのヤツ|今ごろ何やってんのかな？=I wonder what Black☆Star is up to right now.
+ブラック☆スターのヤツ|今ごろ何やってんのかな？=I wonder what Black☆Star is up to right now.#seen
 ヤツの声が聞こえないってことは|この辺にはいないってこと|なんだろうけどよ=If you can't hear him, you know it means he's nowhere nearby.
 しかし　椿もよく|ブラック☆スターと|チームを組むことができるぜ=Somehow Tsubaki has managed to create a solid team with Black☆Star.
-お前とは別な意味できっつい職人だからな|ブラック☆スターは！=He's a tough meister to deal with, but you are too in your own way!
-キッドのヤツ新入生なんだよな？=Isn't Kid a new student here?
+お前とは別な意味できっつい職人だからな|ブラック☆スターは！=I thought you were a tough meister to work with, but he brings a whole new meaning to the word!
+キッドのヤツ新入生なんだよな？=Isn't Kid a new student here?#seen
 なんかもう死武専の王様|みたいな顔をしてるから|たまにそのことを忘れるぜ=He's always walking around like he owns the place, so I almost forgot.
 しかしキッドのチームもいびつだな|あん中じゃリズが常識人に|思えてくるほどだからよ=Kid's team is a little skewed, isn't it? Enough to make Liz look normal...#seen
 リズだって|充分すぎるほど変なヤツなんだけどな=And she's not exactly the most normal person herself.
@@ -6008,7 +6008,7 @@
 それでは　俺のほうから出かけることを|先生達に報告してくるとしよう！=In that case, I'm going to let one of the teachers know we're heading out!
 !FILE:EV0988_202.bscr
 センキュー！センキュー！|じゃ♪よろしく頼むよ=Thank ya! Thank ya! Well, it's up to you♪
-基本「殺伐だけどウキウキライフ」で|んじゃ！かいさ～ん♪=Remember. It's a savage but super fun life. Now! See yaaaa♪
+基本「殺伐だけどウキウキライフ」で|んじゃ！かいさ～ん♪=Remember, "it's a savage but super fun life." Now! See yaaaa♪
 !FILE:EV0988_203.bscr
 それじゃ|よろしくね♪=All right. Good luck♪
 薬だったらたくさんあるから|ケガしちゃっても大丈夫よ♪=I've got plenty of medicine, so don't worry about any little injuries♪
@@ -11448,7 +11448,7 @@
 椿　死神のダンナを呼び出そうぜ！=Tsubaki, let's call up Lord Boss!
 わかったわ・・・=All right...
 あれがあるでしょ・・・|これもあるでしょ・・・後は・・・=Whenever you want to knock on Death's door...
-死神様の鏡番号|４２－４２－５６４・・・=42 - 42 - 564. Lord Death's mirror number.
+死神様の鏡番号|４２－４２－５６４・・・=42 - 42 - 564.|Lord Death's mirror number.
 もしもし　死神様|魔暗器の椿です！=Hello, Lord Death? It's the demon weapon, Tsubaki!
 !FILE:EV1964_050.bscr
 椿　死神のダンナを呼び出そうぜ！=Tsubaki, let's call up Lord Boss!
@@ -18042,7 +18042,7 @@
 ロックオンをしている間はロックオンした|相手を中心にして移動します=When you lock on, your movements|will center around the enemy you've locked on to.
 「Aボタン」での攻撃も全てロックオン|した相手に行われます=The attacks you make with the A button will also be directed at that enemy.
 また「Zボタン」を押し続けるとカメラが|常にロックオンをしている相手のほうを|向くようになります=You can also hold down the Z button|to keep the camera focused on the locked-on enemy.
-では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=It's time to give the lock on technique a try. Press Button 1 when you feel satisfied.
+では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=It's time to give the lock-on technique a try. Press Button 1 when you feel satisfied.
 !FILE:EV9907_060.bscr
 職人としての技術を覚えましたか？|では実際に戦ってみましょう=Did you memorize all the meister techniques? Let's test your skills|with a real battle.
 !FILE:EV9907_500.bscr
@@ -18188,7 +18188,7 @@
 !FILE:EV9961_067.bscr
 ・・・・・・・・・=.........
 !FILE:EV9961_070.bscr
-うっす！ちゃっす|うい～～す|お疲れさ～～ん♪=Hi! Hi! Helloooo! Thanks for cominnng♪
+うっす！ちゃっす|うい～～す|お疲れさ～～ん♪=Hi! Hi! Helloooo! What's up♪?
 !FILE:EV9961_071.bscr
 まだ私に用があるのかな～ん？=Can I do anything else for you guys?
 !FILE:EV9961_072.bscr
@@ -18304,7 +18304,7 @@
 !FILE:EV9962_070.bscr
 それじゃぁ　みなさん|バハハ～イ！=Well then, everyone. Bahahaaaiii!
 !FILE:EV9962_071.bscr
-基本「殺伐だけどウキウキライフ」で|んじゃ！かいさ～ん♪=Remember. It's a savage but super fun life. Now! See yaaaa♪
+基本「殺伐だけどウキウキライフ」で|んじゃ！かいさ～ん♪=Remember, "it's a savage but super fun life." Well, see yaaaa!♪
 !FILE:EV9962_072.bscr
 ほんじゃあ　まぁ|応援なんかしちゃったりするんで|がんばっちに～♪=Righto! Well, I'll be cheering you on, so do your best, okay♪?
 !FILE:EV9962_073.bscr
@@ -18561,7 +18561,7 @@
 !FILE:EV9967_041.bscr
 生意気に聞こえるかも|しれないけど　あなた達には|他にやるべきことがあるはずです=It might not be my place to say, but I'm pretty sure you have something you're supposed to be doing.
 !FILE:EV9967_050.bscr
-期待はしてなかったけど|死武専の男子って歳相応に|ガキっぽいヤツばっかりだな=I wasn't expecting much, but all the guys at the DWMA aren't men. They're just a bunch of boys.
+期待はしてなかったけど|死武専の男子って歳相応に|ガキっぽいヤツばっかりだな=I wasn't expecting much, but all the guys at the DWMA aren't men. They're just a bunch of boys.#seen
 ステキな出会いを求めていた|お姉ちゃんとしては|ちょっとザンネンですよ・・・=It's a little bit of a let-down for a girl looking for a good time...
 学校に来るのは|死武専がはじめてなんだけど|思ったより楽しくねェな=The DWMA is my first time coming to school, but it's not as fun as I expected.
 あの勉強ってヤツは|どうにかなんねェのかな？=I wonder if there's something to that study thing that everyone's always talking about...
@@ -18610,9 +18610,9 @@
 誰が見ているかわからないからね・・・|たとえば　おばちゃんとかさ・・・=And you never know who might be watching you... Like Auntie, for example...
 どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to be accompanied by at least one other team♪
 魔剣に魔眼|その他　もろもろ・・・|まだまだ危険はいっぱいだよ～ん♪=The Demon Sword and the Demon Eye and who knows what else... The world is full of danger♪
-私の仮面って　まだ|おっかないかな？=Does my mask still frighten you?
-もう少しだけなら♪|かわいらしくしてもいいんだけどね・・・=I suppose I could still make it a little cuter♪
-いっとくけど　私は|鏡の中にはいないからね？|鏡はただの通信機だよ♪=Perhaps you already know this, but I'm not really in the mirror. The mirror is just a means of communication♪
+私の仮面って　まだ|おっかないかな？=Is my mask still scary?#seen
+もう少しだけなら♪|かわいらしくしてもいいんだけどね・・・=I suppose I could make it a little cuter♪
+いっとくけど　私は|鏡の中にはいないからね？|鏡はただの通信機だよ♪=Perhaps you already know this, but I'm not really in the mirror. The mirror is just a means of communication♪#seen
 そこまでメルヘンな|世界じゃないんだよ～ん♪=This isn't some sort of fairy tale world, you know♪
 あれれ　まだ|こんな所をウロウロしちゃってるの？=Tsk tsk... Still standing around with our hands in our pockets, are we?
 !FILE:EV9967_071.bscr
@@ -18749,7 +18749,7 @@
 !FILE:EV9967_531.bscr
 うれしいにゃ♪|大事な用を放っぽらかしてまで|ブレアと話しにきてくれたのね♪=I'm flattered♪ You wanted to talk to Blair so bad you even shirked all those big important things you have to do♪
 !FILE:EV9981_000.bscr
-来たね　あんた達|おばちゃん　ここから見てたよ=So you've come, huh? Auntie's been watching you from here.
+来たね　あんた達|おばちゃん　ここから見てたよ=So you've come, huh?|Auntie's been watching you from here.
 受けたいものがあったら|おばちゃんの所に|もってくるんだよ=If you've got any items that you want Auntie to hold on to, just bring them to me, okay?
 !FILE:EV9981_010.bscr
 おばちゃんね　ずっと見てたよ|後ろからね・・・=You know, Auntie has always been watching you from behind...
@@ -18763,7 +18763,7 @@
 あんた達なら|簡単に終わらせちゃいそうだね|どうするんだい？=You kids make it look like you're going to finish this easily.
 おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件　大合格だよ！=Auntie has been watching you from behind for a while... You've met the requirements for this task with flying colors!
 こいつは　あんた達の魂にピッタリだ|さあ　どうするんだい？=It aligns with your souls wonderfully. So will you accept it? 
-おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件　ぎりぎり合格だよ！=Auntie has been watching you... By the skin of your teeth, but you meet the requirements for this task!#must be kept short
+おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件　ぎりぎり合格だよ！=Auntie has been watching you... It's by the skin of your teeth, but you meet the requirements for this task!#must be kept short
 あんた達には　大変だと思うけど|やる価値はあると思うよ=I think this will be tough for you kids, but I still think it's worth it.
 !FILE:EV9981_030.bscr
 しょうがないね|ちゃんと　自分にあったのを|選ぶんだよ=No worries. Choose only what's best for yourself.
@@ -19530,22 +19530,22 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te死武専生の心得=%_teDWMA Student Guidelines
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight! Dodge the enemy attacks and defeat the training dummies!
 職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
-%_teシュタイン博士のお手伝い=%_teAssisting Professor Stein
-死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=The Dissection class specimen hid in some luggage and escaped the DWMA. Capture the artificial organism!
+%_teシュタイン博士のお手伝い=%_teAssisting Stein
+死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=The Dissection class specimen has escaped. Capture it at once!
 疑似生物おかウニ%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Artificial Land Urchin%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that have escaped from DWMA! 
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat|%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84], who has a soul that has turned into a Kishin egg!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]|whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_teマッドドッグを退治せよ！=%_teEliminate the Mad Dogs!
 遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=There's been a flood of noise complaints about distant howling! Track down and defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
@@ -19560,11 +19560,11 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te吸魂水のツボはどこだ！=%_teA Jar for the Soul Sapping Water!
 ツボ%_dc[199,133,84]の落ちてる場所は|だいたいわかった！　早く|手に入れて特訓再開だぁ！=I'm pretty sure I know where the %_dc[0,196,0]Jar %_dc[199,133,84]is! Let's get it quick and restart the special training!
 ツボ%_dc[199,133,84]を手に入れろ！=Get the %_dc[0,196,0]Jar!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that have escaped from DWMA! 
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat|%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84], who has a soul that has turned into a Kishin egg!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]|whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
@@ -19572,7 +19572,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
 気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Track down the irritated prankster bat%_dc[196,0,0]Bad Eaters%_dc[199,133,84]  and defeat|%_dc[0,0,196]10%_dc[199,133,84] of them!
 バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Defeat%_dc[0,0,196] 10%_dc[196,0,0] Bad Eaters%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
@@ -19585,16 +19585,16 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight! Dodge the enemy attacks and defeat the training dummies!
 職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84], who has a soul that has turned into a Kishin egg!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]|whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that have escaped from DWMA! 
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat|%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs!
 %_teノラ人形どもを追え！=%_tePursue the stray dummies!
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に敵を|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that have escaped from the DWMA! 
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5%_dc[199,133,84] %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[196,0,0] Death Noirs%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=My supply of %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]that I use to repair the school's equipment is running low. Help me out and get me some!
@@ -19647,7 +19647,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Patch%_dc[199,133,84] during transport. Could you get it back for me?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies!
 %_te魔女の道具を探せ！=%_teSearch for the Witches' Apparatus
@@ -19671,7 +19671,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=My supply of %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]that I use to repair the school's equipment is running low. Help me out and get me some!
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
@@ -19692,7 +19692,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te連続殺人魔を退治せよ！=%_teEliminate the Bloodthirsty Killer!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ソンソンＪ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 ソンソンＪ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
@@ -19743,7 +19743,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te連続殺人魔を退治せよ！=%_teEliminate the Bloodthirsty Killer!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ソンソンＪ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 ソンソンＪ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専からノラ人形が|%_dc[0,0,196]４０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]40 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies within the time limit!
 %_te危険物の回収=%_teRetrieve the Hazardous Materials
@@ -19764,7 +19764,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te死武専生なら　なっ！=%_teFor DWMA Students!
 死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my prized soul studies book have gone missing. Please recover them for me.
 魂学書の破れたページ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]ページ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Torn Pages of a Soul Studies Book%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
@@ -19782,7 +19782,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_teアメリカつばきを探せ！=%Search for an American Camellia!
 博士が探しているという|%_dc[0,196,0]アメリカつばき%_dc[199,133,84]を見つけて|わけてもらおう！=Find the |%_dc[0,196,0]American Camellias %_dc[199,133,84]for the professor!
 アメリカつばき%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find an %_dc[0,196,0]American Camellia%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te危険物の回収=%_teRetrieve the Hazardous Materials
@@ -19833,7 +19833,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te魔女の道具を探せ！=%_teSearch for the Witches' Apparatus
 怪しげな魔法のモトになる|という%_dc[0,196,0]水晶の欠片%_dc[199,133,84]を|回収してきてくれ！=Go and recover the suspicious %_dc[0,196,0]Crystal Shard %_dc[199,133,84]that acts as a catalyst for the witches' magic!
 水晶の欠片%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Crystal Shard%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teEliminate out the stray dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
