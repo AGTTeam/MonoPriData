@@ -1,4 +1,4 @@
-﻿!FILE:EV0000_000.bscr#intro conversation in the Death Room
+!FILE:EV0000_000.bscr#intro conversation in the Death Room
 ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Hey! Hi! Hellooo!! Sorry for calling you all here so early♪
 おはようございます|死神様=Good morning, Lord Death.
 何ですかぁ？|こんな朝っぱらから=Wha-aaat's going on? I-It's so early.
@@ -18104,7 +18104,7 @@
 !FILE:EV9961_000.bscr
 私に何か用？=Do you need something?
 !FILE:EV9961_001.bscr
-まだ何かあるの？=Do you still need somethingthing?
+まだ何かあるの？=Do you still need something?
 !FILE:EV9961_004.bscr
 あら　誰もいないみたいね=Oh, I guess there's nobody here.
 !FILE:EV9961_005.bscr
