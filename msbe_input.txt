@@ -292,7 +292,7 @@
 !FILE:EV0120_032.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
 なんだよ　また解剖かよ|つまんねェな　特訓してたほうが|１００倍マシだぜ！=What? Dissection again? That's so boring. Intensive training would be a hundred times better!
-ゼッタイ来るように|博士が言ってたわよ？=The professor said it's important that everyone comes.
+ゼッタイ来るように|博士が言ってたわよ？=The professor said it's important that everyone comes.#This is a difference between American and British English. American English prefers the use of the subjunctive mood here, which would be 'come'.
 ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what that screwball four-eyes said! I can't stop my|special training!
 !FILE:EV0120_036.bscr
 ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what that screwball four-eyes said! I can't stop my|special training!
@@ -327,7 +327,7 @@
 いやだよ服が汚れるし|爪が汚くなる！=No can do. My clothes could get dirty. And think of my nails!
 !FILE:EV0120_072.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
-何か食べられるかな？=Will we be able to eat it afterwards?
+何か食べられるかな？=Will we be able to eat it afterwards?#Again, this is a difference of dialect. The preferred form in American English is afterward.
 調理実習じゃないから|無理だと思うけど・・・=It's not a cooking class, so I highly doubt it...
 え～～っ！|そんなのツマンナイ！=Awwww! That's no fun!
 !FILE:EV0120_076.bscr
