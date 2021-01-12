@@ -204,7 +204,7 @@
 返せー！|うぐぁおおおお～！！=Give it back! Ugrrroooohhh!!
 !FILE:EV0103_000.bscr
 あっ！=Ah!
-こんにちは　先生=Hello, doctor.
+こんにちは　先生=Hello, Doctor.
 ・・・・・・・・・=.........
 どうしたんだよ|そんなに深刻な顔をして？=You all right? You seem a little preoccupied?
 最近はすごく物騒になったのよ・・・=I've been a little on edge lately...
@@ -292,7 +292,7 @@
 !FILE:EV0120_032.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
 なんだよ　また解剖かよ|つまんねェな　特訓してたほうが|１００倍マシだぜ！=What? Dissection again? That's so boring. Intensive training would be a hundred times better!
-ゼッタイ来るように|博士が言ってたわよ？=The professor said it's important that everyone comes.#This is a difference between American and British English. American English prefers the use of the subjunctive mood here, which would be 'come'.
+ゼッタイ来るように|博士が言ってたわよ？=The professor said it's important that everyone come.#This is a difference between American and British English. American English prefers the use of the subjunctive mood here, which would be 'come'.
 ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what that screwball four-eyes said! I can't stop my|special training!
 !FILE:EV0120_036.bscr
 ネジメガネが|何言ってるのか知らねェけど|俺様の特訓は止められねェぜ！=Who cares what that screwball four-eyes said! I can't stop my|special training!
@@ -327,7 +327,7 @@
 いやだよ服が汚れるし|爪が汚くなる！=No can do. My clothes could get dirty. And think of my nails!
 !FILE:EV0120_072.bscr
 おい　明日は|解剖の授業があるぞ=Yo, we've got a dissection class tomorrow.
-何か食べられるかな？=Will we be able to eat it afterwards?#Again, this is a difference of dialect. The preferred form in American English is afterward.
+何か食べられるかな？=Will we be able to eat it afterward?#Again, this is a difference of dialect. The preferred form in American English is afterward.
 調理実習じゃないから|無理だと思うけど・・・=It's not a cooking class, so I highly doubt it...
 え～～っ！|そんなのツマンナイ！=Awwww! That's no fun!
 !FILE:EV0120_076.bscr
@@ -399,9 +399,9 @@
 その意見には賛成だ|やるじゃねェか　マカ！=Now that's an idea I can get behind! What are you waiting for, Maka?
 じゃあ|さっそく　この子達を隠してくるね！=Right. I'm gonna hurry and hide the little guy!
 お待たせ　ソウル！=Sorry for the wait, Soul!
-そんなことねェよ|早かったぜ　マカ！=No problem. It didn't take you too long!
+そんなことねェよ|早かったぜ　マカ！=No problem.|It didn't take you too long!
 でも　どうしよう|博士がこのことを知ったら怒るかな？=But what are we going to do if the professor finds out? He'll blow a gasket for sure.
-お前　何も考えて|なかったのか？=You mean you didn't consider any of that beforehand?
+お前　何も考えて|なかったのか？=You mean you didn't think about that beforehand?
 えへへ=Ehehe...
 ったく|しょうがねェなあ・・・=Geez! Whatever...
 ま　でも博士だって|すぐには気づかねェよ|バレたらそん時考えようぜ！=Knowing the professor, he won't notice right away. We'll deal with it once the cat's out of the bag!
@@ -417,30 +417,30 @@
 あなた達を|シュタイン博士が|さがしてたわよ=Professor Stein was looking for you two.
 げっ　やべェよ・・・=Ngh! This is bad...
 それにしても博士|ステキな顔をしていたわ・・・=I don't know about that. If you ask me, he looked to be in a wonderful mood.
-いつも　ああいう顔だったら|いつだってダンスに付き合って|あげるのに・・・=I'd be ready to dance with him at a moments notice if he were always in such a mood...
+いつも　ああいう顔だったら|いつだってダンスに付き合って|あげるのに・・・=I'd be ready to dance with him at a moment's notice if he were always in such a mood...
 趣味が悪い・・・=What terrible taste in men...
-先生の趣味なんて|どうでもいいから早く逃げるぞ！=Forget about the doctor's taste. We need to get out of here, like, yesterday!
+先生の趣味なんて|どうでもいいから早く逃げるぞ！=Forget about the doctor's taste.|We need to get out of here, like, yesterday!
 !FILE:EV0120_136.bscr
-それにしても博士|ステキな顔をしていたわ・・・=I don't know about that. If you ask me, he looked to be in a wonderful mood.
+それにしても博士|ステキな顔をしていたわ・・・=The professor looked to be in a wonderful mood.
 !FILE:EV0120_140.bscr
 やだ　誰かが|カギを閉めたみたい・・・=No way! I think someone locked the door...
 ・・・・・・・・・=.........
 うおぅ！！？=Whoa!!?
-やめてくれよ|博士が急に出てくるから|ビックリしたじゃねェか！=Don't sneak up on me like that! You freaked me out!
-そうよ　急にカギなんかかけて|一体　どういうつもりなんですか？=And why'd you lock the door like that? What the heck are you trying to do?
+やめてくれよ|博士が急に出てくるから|ビックリしたじゃねェか！=Don't sneak up on me like that!|You freaked me out!
+そうよ　急にカギなんかかけて|一体　どういうつもりなんですか？=And why'd you lock the door like that? What on earth are you trying to do?
 二人とも|俺の大切なあれを|どうしたんですか？=What have the two of you done with that precious organism of mine?
-ああ　あれね！|他のヤツが回収に|行ったんじゃねェかな？=Oh, that! Didn't somebody else go to find it?
-そうよ　博士|私達は何も知らないわ=Yeah, professor. We don't know anything about it.
-とぼけても無駄です|君達が回収に向かったことは|シドに確認済みです=Feigning ignorance won't save you. I've already confirmed it with Sid. You two went out to find it.
+ああ　あれね！|他のヤツが回収に|行ったんじゃねェかな？=Oh, that! Didn't somebody else go and find it?
+そうよ　博士|私達は何も知らないわ=Yeah, Professor. We don't know anything about it.
+とぼけても無駄です|君達が回収に向かったことは|シドに確認済みです=Feigning ignorance won't save you. I've already confirmed it with Sid.|You two went out to find it.
 ・・・・・・・・・=.........
 さぁ　こっちに来なさい・・・=Now, come here please...
 こっちに来ないと|大変なことになりますよ=If you don't come here, things are going to get painful.
 ははは　冗談ですよね　博士？|どうして　そんなに|怒ってるんですか？=Hahaha. You're joking, right? Professor? Why are you so angry?
 それは　ウソをついている|生徒がいるからですよ=It would seem we have some students who like to fib.
-どうして　戦闘態勢に|入ってるんだよ？=Why are you getting into a combat position?
+どうして　戦闘態勢に|入ってるんだよ？=Why are you getting into a fighting stance?
 それは　ウソをついている|生徒をこれから|おしおきするからです=Isn't it obvious? Why, fibbing students must be punished of course.
 どうして　そんなに|うれしそうなんですか？=Why do you seem excited about that?
-おしゃべりは|これくらいにしておこう|いくぞ　どろぼう猫！=The time for chatting is up. Let's dance, you little thieves!
+おしゃべりは|これくらいにしておこう|いくぞ　どろぼう猫！=The time for chatting is up.|Let's dance, you little thieves!
 キャーーッ！！|ママ　助けて！！=Kyaaaaaa!! Mama, save me!!
 シュタイン　この部屋を|閉め切って何をやってるんだ！？=Stein, what the hell were you thinking locking this room!?
 ん　マカに|ソウル・・・お前もいたのか！？=Hm? Maka? And Soul... You're here too!?
@@ -456,9 +456,9 @@
 わかりました|それでは先に行っています=Understood. I'll be going now.
 マカ達も|デスルームへ行くんだよ♪=Maka, you two head to the Death Room as well, okay♪?
 マカ　デスルームだってよ=The Death Room, Maka. Come on.
-ははは　ひざが笑って|うまく歩けないよ・・・=Hahaha. My knees are all wobbly. I don't think I can even walk...
+ははは　ひざが笑って|うまく歩けないよ・・・=Hahaha. My knees are all wobbly.|I don't think I can even walk...
 !FILE:EV0120_145.bscr
-ところでマカ達|なにやってたの？=By the way, what were you kids up to, Maka?
+ところでマカ達|なにやってたの？=By the way, what were you kids up to?
 !FILE:EV0120_146.bscr
 マカ達も|デスルームへ行くんだよ♪=Maka, you two head to the Death Room as well, okay♪?
 マカ　デスルームだってよ=The Death Room, Maka. Come on.
@@ -468,18 +468,18 @@
 え～～と|どういうことなんだ！？=Ummm, what do you mean exactly?
 死神様　説明がはしょりすぎてて|全然わかりません　何で|禁止になったのですか？=Lord Death, you've left out too many details, so I don't really understand. Why are they being prohibited?
 近所の皆様から|苦情が入っちゃってね♪=We've been receiving complaints from one of the local neighborhoods♪
-最近の風潮からすると|そういうのって無視|できないのよね～ん♪=We'll just say they've gotten wind of what's going on and can no longer ignore it♪#There is a pun in this line with the word 風潮. Broken into separate parts it means wind + current, but together they can mean trend/ tendency. He's saying "Due to recent trends..." but the joke is that the smell of the dissections is travelling on the wind.
+最近の風潮からすると|そういうのって無視|できないのよね～ん♪=Let's just say they caught a whiff of what's going on and can no longer ignore it♪#There is a pun in this line with the word 風潮. Broken into separate parts it means wind + current, but together they can mean trend/ tendency. He's saying "Due to recent trends..." but the joke is that the smell of the dissections is travelling on the wind.
 どんな苦情だったんだよ？=What sort of complaints?
-聞かなくてもわかるでしょ・・・=I imagine you could figure that out on your own...
+聞かなくてもわかるでしょ・・・=I imagine you can figure that out on your own...
 いつも君達が|体験してることなんだから♪=You experience it first-hand all the time♪
 とにかく　とにかく|そんな　カ　ン　ジ！=Anyway, I'm sure you'll understand if you... sniff around for clues!
-シュタイン君には|私のほうから|言っておいたからね～ん♪=I have spoken with Stein, and he will do as I have instructed♪
+シュタイン君には|私のほうから|言っておいたからね～ん♪=I have spoken with Stein, and he's going to do as instructed♪
 やったな！|解剖の授業がなくなったぜ！=Sweet! No more dissection classes!
 本当によかったわ・・・=I'm so glad everything worked out...
 !FILE:EV0120_155.bscr
 というわけで解剖の授業は|全面的に禁止だよ～～ん♪=And thus, dissection classes will be prohibited indefinitely♪
 !FILE:EV0120_156.bscr
-シュタイン君には|私のほうから|言っておいたからね～ん♪=I have spoken with Stein, and he will do as I have instructed♪
+シュタイン君には|私のほうから|言っておいたからね～ん♪=I have spoken with Stein, and he's going to do as instructed♪
 やったな！|解剖の授業がなくなったぜ！=Sweet! No more dissection classes!
 本当によかったわ・・・=I'm so glad everything worked out...
 !FILE:EV0120_157.bscr
@@ -497,9 +497,9 @@
 ・・・・・・・・・=.........
 今　君達が頭で想像したよりも|もっとすごいことをしちゃいます=Anything you could possibly imagine in those little heads of yours will pale in comparison to what I have planned.
 ソウル　やっぱり|あの人メチャクチャだ・・・・・・=Soul, I think he means it.
-クールな俺も命は惜しい|今後　博士のものには|ぜってェ手を出さねェ！=Even a cool guy like me values his own life. From now on, I'm not laying a finger on any of the professor's things!
+クールな俺も命は惜しい|今後　博士のものには|ぜってェ手を出さねェ！=Even a cool guy like me values his life. From now on, I'm not laying a finger on any of the professor's things!#shortened to fit in 1 textbox
 !FILE:EV0121_002.bscr#アイテムハンター = Item Hunter chapter Part 33
-どうしたマカ？|ずいぶん顔色が|悪いみたいだけど・・・=Are you all right, Maka? You're really pale.
+どうしたマカ？|ずいぶん顔色が|悪いみたいだけど・・・=Are you alright, Maka?|You're really pale.
 うん　昨日遅くまで|調べものをしていたから・・・=I'm all right. I was up late last night looking into something...
 よくわからないけど|私でよかったら　いつでも|相談に乗るぜ！=I'm not sure what you're talking about, but if you ever need someone to talk to, I give good advice!
 ありがとう　でも|ものすごく個人的なことなの・・・=Thanks, but it's pretty personal...
@@ -639,14 +639,14 @@
 さっき保健室に行ったんだけど|メデューサ先生|とても元気がなかったのよ・・・=I was just in the infirmary, and Dr. Medusa seemed pretty upset...
 メデューサ先生|どうしたんだ？=What's wrong with Dr. Medusa?
 それが・・・理由を聞いても|教えてくれないのよ・・・=Well... I asked what was wrong, but she wouldn't tell me.
-何かあったのかしら・・・|ちょっと心配よね・・・=I wonder what happened. I'm a little worried.
+何かあったのかしら・・・|ちょっと心配よね・・・=I wonder what happened.|I'm a little worried.
 !FILE:EV0122_006.bscr
 さっき保健室に行ったんだけど|メデューサ先生|とても元気がなかったのよ・・・=I was just in the infirmary, and Dr. Medusa seemed pretty upset...
 メデューサ先生|どうしたんだ？=What's wrong with Dr. Medusa?
 それが・・・理由を聞いても|教えてくれないのよ・・・=Well... I asked what was wrong, but she wouldn't tell me.
 !FILE:EV0122_010.bscr
 ・・・・・・・・・=.........
-こんにちは　先生=Hello, doctor.
+こんにちは　先生=Hello, Doctor.
 あ　ごめんなさい|考えごとをしていたから・・・=Ah, excuse me. I was a million miles away...
 ・・・・・・・・・=.........
 マカちゃん　もしよかったら|先生の相談にのってもらえる？=Maka, if you don't mind, I could use some advice.
@@ -655,7 +655,7 @@
 ・・・・・・・・・=.........
 ごめんなさい|やっぱり　やめとくわ・・・=I'm sorry. This was a bad idea.
 先生・・・|私じゃ頼りないですか？=Doctor... Don't you trust me?
-ちがうの　そういうんじゃないの|ただ　やっぱり子供に|聞かせる話じゃないわ・・・=I do. That's not it at all. It's just... I can't bring you children into this.
+ちがうの　そういうんじゃないの|ただ　やっぱり子供に|聞かせる話じゃないわ・・・=I do. That's not it at all. It's just...|I can't bring you children into this.
 先生　何があったんスか？=Doctor, what's going on?
 気にしないで・・・何でもないのよ|今の話は忘れてちょうだい・・・=Don't you worry now... I'm fine. Just forget all about this little conversation of ours.
 メデューサ先生・・・=Dr. Medusa...
@@ -663,17 +663,17 @@
 !FILE:EV0122_015.bscr
 ・・・・・・・・・=.........
 !FILE:EV0122_016.bscr
-さぁ　もう行きなさい|私は仕事が残ってるから・・・=Now I'll need you to leave. I still have a lot of work to do.
+さぁ　もう行きなさい|私は仕事が残ってるから・・・=I need you to leave. I still have a lot of work to do.
 !FILE:EV0122_017.bscr
-メデューサ先生|どうしちまったんだ？=Something's definitely wrong with Dr. Medusa.
+メデューサ先生|どうしちまったんだ？=Something's definitely wrong with|Dr. Medusa.
 うん　明らかに|いつもと感じが|ちがっていたね・・・=Yeah. She wasn't her normal self at all.
 マカに何か相談を|しかけたけど・・・=And she started to ask you for advice, but...
 そうなの　だから|すごく気になるのよ・・・|どうしよう　ソウル・・・=Yeah. That's why I'm so concerned... What should we do, Soul?
 先生達なら　何か事情を|知ってるかもしれないな・・・=The other teachers might know something.
 そうね　先生達に|話を聞いてみることにしましょう=That's true. I guess we'll try asking the teachers about it.
 !FILE:EV0122_022.bscr
-やあ！マカちゃんにソウル君！|元気？調子はどうよ？=Yooo! Maka and Soul! Sup? How ya doin'?
-メデューサ先生の|元気がないんですけど|何かごぞんじですか？=Something is bothering Dr. Medusa. Do you know anything about it?
+やあ！マカちゃんにソウル君！|元気？調子はどうよ？=Yooo! Maka and Soul! Sup?|How ya doin'?
+メデューサ先生の|元気がないんですけど|何かごぞんじですか？=Something is bothering Dr. Medusa.|Do you know anything about it?
 ・・・・・・・・・=.........
 死神様　どうして|だまってるんだよ？=I know you heard us, so why won't you answer?
 死神様！|どうしたんですか？=Lord Death! What's going on?
@@ -685,9 +685,9 @@
 あっ　他から連絡が|入っちゃったみたいだね♪=Ah, it looks like I have another call coming in♪
 もうしわけないけど|このへんで失礼するよ～ん！=My sincerest apologies, but I really have to take this!
 !FILE:EV0122_032.bscr
-メデューサ先生の|元気がないんですけど|何かごぞんじですか？=Something is bothering Dr. Medusa. Do you know anything about it?
+メデューサ先生の|元気がないんですけど|何かごぞんじですか？=Something is bothering Dr. Medusa.|Do you know anything about it?
 ・・・・・・・・・=.........
-シド先生　どうして|だまってるんですか？=Sid, say something.
+シド先生　どうして|だまってるんですか？=Mr. Sid, why won’t you talk to us?
 この問題が表ざたになると|傷つく人がいる|だから言うことはできない=Somebody's going to get hurt if this issue becomes public knowledge, so my lips are sealed.
 傷つく人って|誰ですか？=Who would get hurt?
 残念だが　それも言うことはできない=I'm sorry, but I can't tell you that either.
@@ -702,15 +702,15 @@
 !FILE:EV0122_037.bscr
 どうしたんだ|後は博士の所に行くだけだぜ=What's going on?|The professor's the only one left to try.
 わかっちゃったかもしれない|メデューサ先生に元気がない理由・・・=I think I finally figured out what's bothering Dr. Medusa.
-わかったのか|何が原因なんだ　教えてくれよ=You figured it out? Tell me then! What is it?
+わかったのか|何が原因なんだ　教えてくれよ=You figured it out?|Tell me then! What is it?
 私の口からは|いいたくない・・・=I'd rather not be the one to say it.
 おいおい　今度は|マカがだんまりかよ=Woah, woah! Now you're the one taking a vow of silence?
 !FILE:EV0122_042.bscr
-メデューサ先生に|元気がねェんだけどさ|博士　その理由知ってる？=Professor, something's bothering Dr. Medusa. You know what it could be?
+メデューサ先生に|元気がねェんだけどさ|博士　その理由知ってる？=Professor, something's bothering Dr. Medusa. Any idea what it could be?
 先輩がちょっかい|出してるからです=Spirit has been making passes at her.
 あっさり原因が|つかめたぜ　しかも・・・=That's all it took to get the truth?
 説得力充分で|最悪の真相だわ・・・=That was persuasive enough, I guess. And it's the worst possible truth.
-やっぱり　そうだったのね・・・|イヤな予感はしてたのよ・・・=I figured as much. I had a bad feeling it would be.
+やっぱり　そうだったのね・・・|イヤな予感はしてたのよ・・・=I figured as much. I had a bad feeling about it.
 だから先生達　私には|言えなかったんだ・・・=That's why nobody could tell me.
 事が明るみに出ると|傷つく人って|マカのことだったんだな・・・=And the person that would get hurt when things were brought to light was Maka...
 事情を知らなかったのは|君達二人だけです=You two were the only ones still in the dark on this.
@@ -3726,8 +3726,8 @@
 !FILE:EV0904_000.bscr
 操作チームを選択してください%_dc[255,255,255]=Please select the team you wish to control.
 !FILE:EV0905_000.bscr
-　　暇そうな君達へ=Time to kill?
-授業が始まらない時には|学生課で暇つぶしをして|ください|　　　　シュタインより=Why not spend some of it at the student affairs office?|Stein
+　　暇そうな君達へ=　　　Time to kill?
+授業が始まらない時には|学生課で暇つぶしをして|ください|　　　　シュタインより=Why not spend some|of it at the student|affairs office?|　　　　　　　--Stein
 !FILE:EV0905_010.bscr
 　おばちゃん旅に出るよ=Auntie's went out.
 でも安心しな　いつでも|あんた達を見守ってるよ|後ろからね！|　　　　　おばちゃんより=But no need to worry. She's always watching over you from behind!|Auntie
@@ -4063,7 +4063,7 @@
 絶対にそうだと|思うんだけどな=But I swear I really am sure.
 !FILE:EV0930_000.bscr
 何か後味の悪ィ|手伝いだなぁ・・・=Accepting this request leaves a bad taste in my mouth...
-余計なことは考えないで|目の前の戦いに集中して！=Forget about all that right now. Just focus on the fight ahead!
+余計なことは考えないで|目の前の戦いに集中して！=Forget about all that right now.|Just focus on the fight ahead!
 !FILE:EV0930_001.bscr
 モヤモヤしてたからな|ストレス解消といこうぜ！=Things have been pretty stressful lately, so let's blow off some steam!
 わかったわ|思いっきり行くよ！=Yeah. Let's do this!
@@ -5735,7 +5735,7 @@
 さてと　これから|何しようか？=All right. What should I do now?
 !FILE:EV0960_036.bscr
 なんか|やる気がでねェなぁ・・・=I'm really not feeling it...
-!FILE:EV0964_000.bscr
+!FILE:EV0964_000.bscr#seen
 マカ　死神様を|呼び出そうぜ！=Maka, call up Lord Death!
 わかったわ・・・=Yeah...
 あれがあって・・・|これがあって・・・後は・・・=Whenever you want to knock on death's door...
@@ -5848,12 +5848,12 @@
 もしかして　魔の領域に|迷いこんだのかもな！=Maybe everyone got lost in the demon realm!
 それにしても|本がたくさんありやがるぜ・・・=There are just so many books...
 こんなに集めてどうすんだろうな|全部読んだヤツがいるのかよ！=What's even the point of gathering them all up in the same place? It's not like one person could read them all!
-誰もいないから|この際言っとくけどよ=Since we're alone right now, I'm gonna take this chance to tell you something...
+誰もいないから|この際言っとくけどよ=Since we're alone right now, I'm|gonna take this chance to tell|you something...
 お前　ガンバリすぎんなよな|そうなるとロクな結果にならねェんだからよ=You're trying too hard. You're not going to get the results you want if you keep this up.
 そういえば|お前サーモン食べれるようになったっけ？=By the way, when did you start being able to eat salmon?#seen
 たしか苦手だったよな|好き嫌いはよくねェぜ！=I didn't think you liked it. Or do you just not have any preferences at all!?
-誰もいないから|この際言っとくけどよ=Since we're alone right now, I'm gonna take this chance to tell you something...
-お前　もう少しだけデスサイズに|優しくしてやれよ|見ていてあわれだぜ・・・=You think you could be just a little nicer to Spirit? It's honestly a little hard to watch...
+誰もいないから|この際言っとくけどよ=Since we're alone right now, I'm|gonna take this chance to tell|you something...
+お前　もう少しだけデスサイズに|優しくしてやれよ|見ていてあわれだぜ・・・=You think you could be just a bit nicer to your dad? It's honestly a little hard to watch...
 ブラック☆スターのヤツ|今ごろ何やってんのかな？=I wonder what Black☆Star is up to right now.#seen
 ヤツの声が聞こえないってことは|この辺にはいないってこと|なんだろうけどよ=If you can't hear him, you know it means he's nowhere nearby.
 しかし　椿もよく|ブラック☆スターと|チームを組むことができるぜ=Somehow Tsubaki has managed to create a solid team with Black☆Star.
@@ -5862,8 +5862,8 @@
 なんかもう死武専の王様|みたいな顔をしてるから|たまにそのことを忘れるぜ=He's always walking around like he owns the place, so I almost forgot.
 しかしキッドのチームもいびつだな|あん中じゃリズが常識人に|思えてくるほどだからよ=Kid's team is a little skewed, isn't it? Enough to make Liz look normal...#seen
 リズだって|充分すぎるほど変なヤツなんだけどな=And she's not exactly the most normal person herself.
-なぁ　マカ|パティについて何か思うことはあるか？=Hey, Maka. What do you think about Patty?
-いや　何もなかったら|今の発言は忘れてくれ=No, it's nothing like that. Just forget I said anything.
+なぁ　マカ|パティについて何か思うことはあるか？=Hey, Maka. What do you think about Patty?#seen
+いや　何もなかったら|今の発言は忘れてくれ=No, it's nothing. Just forget I said anything.
 !FILE:EV0968_031.bscr
 いつまでこんな所で|ボンヤリしてるつもりなんだよ！=How long do you plan on hanging out in a place like this!?
 俺達には|やらなきゃいけないことが|あるんじゃなかったのか？=Didn't we have something we needed to take care of?
@@ -6019,7 +6019,7 @@
 それではみなさん|くれぐれも気をつけて・・・=Now then, please watch out, everyone...
 万が一やられる時には|解剖できる部分が残っている|程度にやられてください=If anything happens to you and you die, at least make sure that there's something left to dissect in the end. 
 !FILE:EV0988_206.bscr
-よし　それでは|お前達に全てをまかせた|後はよろしく頼む！=Alright, it's all up to you guys. Good luck out there!
+よし　それでは|お前達に全てをまかせた|後はよろしく頼む！=Alright, it's all up to you guys.|Good luck out there!
 ブッチャケいえばお前達には期待している|俺は何でもブッチャケる|そんな男だった・・・=If I'm being honest, I have high hopes for you. And I'm always being honest. That's the kind of man I was...
 !FILE:EV0988_207.bscr
 おお　やってくれるのか|こいつはありがたい=Oh, you'll really do it? I really appreciate it.
@@ -17339,7 +17339,7 @@
 !FILE:EV2951_002.bscr
 キャハハ♪キッド君やっちまぉー！=Kyahaha♪ You've got this, Kid!
 !FILE:EV2951_003.bscr
-なんだ？コイツら？=What are these things?
+なんだ？コイツら？=What? These guys again?#Needs further testing
 !FILE:EV2951_004.bscr
 キッド君！何か出たよぉ！=Kid, there's something there!
 !FILE:EV2951_010.bscr
@@ -18310,7 +18310,7 @@
 !FILE:EV9962_073.bscr
 ・・・・・・・・・=.........
 !FILE:EV9962_080.bscr
-気分が悪くなったら|いつでも保健室に来てちょうだい♪=If you're ever feeling unwell, you can always come visit me in the infirmary♪
+気分が悪くなったら|いつでも保健室に来てちょうだい♪=If you're ever feeling unwell, you can stop by here any time♪
 !FILE:EV9962_081.bscr
 保健医も忙しいのよ・・・|さっさと行ってちょうだい=The school nurse is busy sometimes too... So please leave.
 !FILE:EV9962_082.bscr
@@ -18504,11 +18504,11 @@
 己の小物ぶりを痛感することに|なっちまうからな！|ひやっはははははは☆=I always keep a close on eye on my understudies! Hiyahahahahahaha☆
 全てを見下ろせる|高いステージに登りてェんだけどよ=I wanted to get on a stage so tall I could look out over the whole city, but...
 なんてキメていいか思いつかねェから|保留中ってとこだな☆=I don't think the world is ready for that yet, so I've put that plan on hold☆
-俺様は赤ん坊の時から|死武専で暮らしているようなもんだ|まぁ　家みたいなもんよ=I've lived here at the DWMA since I was a baby. It's kind of a home for me.
+俺様は赤ん坊の時から|死武専で暮らしているようなもんだ|まぁ　家みたいなもんよ=I've lived here at the DWMA since I was a baby. It's like home to me.#seen
 いわば選ばれた存在ってヤツだ|みんなとはスタートからして|違うってことになるかな☆=In a way, my life was chosen for me. I guess we don't all start our journeys from the same place☆
 俺様くらいのスターになると|ユーザーの声が聞こえてくる・・・=Once you become a star as big as me, you start hearing your fans crying for you everywhere...
-うわ　こりゃハズレのイベントだ|早く終わらせちまおうってな☆=Woah! A raffle! Let's hurry up before it's over☆
-悪ィ！|スターな俺様のスケジュールは秒刻みなんだ=Sorry, but every second of a star's schedule is accounted for.
+うわ　こりゃハズレのイベントだ|早く終わらせちまおうってな☆=Woah! It sounds like they're throwing an event! Let's hurry up before it's over☆#ハズレ would be a non-winning ticket in a lottery. It's also used to mean a wrong/bad guess generally, but I can only make a bad guess about what it's supposed to be here ^^' 
+悪ィ！|スターな俺様のスケジュールは秒刻みなんだ=Sorry, but every second of a star's schedule is accounted for.#seen
 かまってあげてェのはやまやまなんだけどよ|今はカンベンしてくれや！=I wish I could stop and talk, but I just don't have the time. I'm sure you understand!
 小物らしく　小物稼ぎを|する時じゃねェのか？=Isn't it time for the small people to be doing small people things?
 !FILE:EV9967_011.bscr
@@ -18543,15 +18543,15 @@
 今　やることがあんだろう！|なんか色々まちがえてねぇか！？=Don't you have something to do right now!? Is something wrong?
 !FILE:EV9967_040.bscr
 ブラック☆スターを|見ませんでしたか？=Have you seen Black☆Star?
-また勝手にどこか行っちゃったんで|さがしているところなんです・・・=He went somewhere without telling me again, so I'm looking for him...
+また勝手にどこか行っちゃったんで|さがしているところなんです・・・=He went somewhere without telling me again, so I've been looking for him...#seen
 それにしても死武専って|本当に大きな施設ですよね♪=The DWMA really is a huge institution, isn't it♪?
 恥ずかしい話だけど|今でも私　たまに迷子に|なっちゃうんです・・・=It's a little embarrassing to admit, but I still get lost sometimes...
 たまに一人でいると|静か過ぎて困ってしまう時があるんです=Sometimes, when I'm alone, it gets really quiet and I start to panic.
 それだけ普段が|騒がしいってことなんですけど・・・=I guess that's just because of how noisy it usually is...
 突然話を振られても|何を話していいのか困ってしまいます・・・=I wasn't expecting to talk about that, so I'm not really sure what to say...
 今度　会う時までの|宿題にさせてください=I'll think about it and get back to you next time.
-最近　気づいたんですが|みんなブラック☆スターのステージ|本気でひいてるのね・・・=I just noticed it recently, but everyone's been playing along with Black☆Star's stage thing...
-私　結構楽しみにしてるんだけど・・・|もしかしてズレちゃってます？=And I think it's fun and all, but... I wonder if we might be taking it too far...
+最近　気づいたんですが|みんなブラック☆スターのステージ|本気でひいてるのね・・・=I just noticed it recently, but everyone's been playing along with Black☆Star's stage thing...#seen
+私　結構楽しみにしてるんだけど・・・|もしかしてズレちゃってます？=And I think it's fun and all, but...|I wonder if we might be taking it too far...
 生意気に聞こえるかも|しれないけど　あなた達には|他にやるべき事があるはずです=It might not be my place to say, but I'm pretty sure you have something you're supposed to be doing.
 私は色んな武器になることができるけど|モードけむり玉は|最近ご無沙汰なんですよ・・・=I'm able to transform into various different weapons, but I feel like my smoke bomb form has been neglected lately...
 ブラック☆スターったら|その存在を忘れちゃったのかしら・・・=Knowing Black☆Star, he probably forgot that that form even exists...
@@ -18561,10 +18561,10 @@
 !FILE:EV9967_041.bscr
 生意気に聞こえるかも|しれないけど　あなた達には|他にやるべきことがあるはずです=It might not be my place to say, but I'm pretty sure you have something you're supposed to be doing.
 !FILE:EV9967_050.bscr
-期待はしてなかったけど|死武専の男子って歳相応に|ガキっぽいヤツばっかりだな=I wasn't expecting much, but all the guys at the DWMA aren't men. They're just a bunch of boys.#seen
+期待はしてなかったけど|死武専の男子って歳相応に|ガキっぽいヤツばっかりだな=I wasn't expecting much, but all the guys at the DWMA aren't men.|They're just a bunch of boys.#seen
 ステキな出会いを求めていた|お姉ちゃんとしては|ちょっとザンネンですよ・・・=It's a little bit of a let-down for a girl looking for a good time...
-学校に来るのは|死武専がはじめてなんだけど|思ったより楽しくねェな=The DWMA is my first time coming to school, but it's not as fun as I expected.
-あの勉強ってヤツは|どうにかなんねェのかな？=I wonder if there's something to that study thing that everyone's always talking about...
+学校に来るのは|死武専がはじめてなんだけど|思ったより楽しくねェな=Being at the DWMA is my first time going to school, but it's not as fun as I expected.
+あの勉強ってヤツは|どうにかなんねェのかな？=I wonder if there's something to that "studying" thing that everyone's always going on about...
 しかしキッドの病気は|なんとかならねェものかね？=Sometimes I just don't know about all of Kid's issues...
 本人は　ある意味幸せ|なんだろうけど・・・周りの私達は|結構　大変なんだぜ！=He doesn't really seem unhappy, but... it's kind of difficult for the ones around him!
 キッドはベタボメだけど|死武専のデザインって|もう少しなんとかなんないかね？=Kid's always ranting and raving about the DWMA's design, but I don't see it.
@@ -18579,13 +18579,13 @@
 !FILE:EV9967_051.bscr
 ハッキリ言わせてもらうけど|やることの優先順位を|間違えてないか？=Maybe I'm overstepping my bounds, but don't you think you might not have your priorities in order?
 !FILE:EV9967_060.bscr
-キッド君を見てて|思うんだけど|死神って丈夫だね♪=When I look at Kid, I realize just how strong a grim reaper is♪
+キッド君を見てて|思うんだけど|死神って丈夫だね♪=When I look at Kid, I realize just how strong a grim reaper is♪#seen
 何べん倒れても|不死鳥のように蘇ってくるよ！|きゃはははは♪=No matter how many times he faints, he always comes back like a phoenix! Kyahahaha♪
 お姉ちゃんて|案外子供だよね♪=Sis is surprisingly childish, huh♪?
 いいかげん|妹離れしてもらえないかな？=How long would she make it without her little sister?
 ストリートも死武専も|私はどっちも好きだよ～♪=I like the DWMA, but I like the streets too♪
 正直どっちも|あんまりかわんないよ♪=Honestly, I don't really like one more than the other♪
-ほぇ～♪あんな所に|変なカエルがいるよ！=Woah♪ There's a weird frog over there!
+ほぇ～♪あんな所に|変なカエルがいるよ！=Woah♪ There's a weird frog over there!#seen
 うわ　こっち見んな！|きゃはははは♪=Wah! It's looking right at us! Kyahahaha♪
 あれ|遠くのほうで|ワンちゃんの声がしない？=Listen. That sounds like a dog barking in the distance.
 ・・・おかしいな|私の空耳だったのかな？=... Weird. I must have been imagining it...
@@ -18594,8 +18594,8 @@
 ねェ　お姉ちゃん♪=Isn't that right, sis♪?
 パティ　なかなか|いい調子だぞ！=Looking great, Patty!
 結構　決まってるでしょ！=As I always am!
-博士から食べ物|もらっちった♪=The professor gave me some food♪
-多少　危険でも|私は食べるほうを|優先しちゃうよ♪=It was probably poisoned or something, but I never turn down a snack♪
+博士から食べ物|もらっちった♪=The professor gave me some food♪#seen
+多少　危険でも|私は食べるほうを|優先しちゃうよ♪=It was probably poisoned or something, but I never turn down|a snack♪
 !FILE:EV9967_061.bscr
 ほぇ　何やってんの？|やらなきゃいけないことが|なかったっけ？=Huh? What are you doing here? Didn't you have something you had to do?
 !FILE:EV9967_070.bscr
@@ -18608,7 +18608,7 @@
 こういうのは公私混同なんだけど|私は心配なんだよ～ん♪=I might be mixing official business with personal matters, but I worry sometimes♪
 常に死武専の生徒としての|誇りを持って行動してちょうだい♪=Please remember that, as students of the DWMA, your every action affects the public opinion of this school♪
 誰が見ているかわからないからね・・・|たとえば　おばちゃんとかさ・・・=And you never know who might be watching you... Like Auntie, for example...
-どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to be accompanied by at least one other team♪
+どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to be go with at least one other team♪#seen
 魔剣に魔眼|その他　もろもろ・・・|まだまだ危険はいっぱいだよ～ん♪=The Demon Sword and the Demon Eye and who knows what else... The world is full of danger♪
 私の仮面って　まだ|おっかないかな？=Is my mask still scary?#seen
 もう少しだけなら♪|かわいらしくしてもいいんだけどね・・・=I suppose I could make it a little cuter♪
@@ -18620,18 +18620,18 @@
 !FILE:EV9967_080.bscr
 趣味で　漢方薬を作っているの|もしよかったら試してもらえないかしら？=I'm making herbal medicine as a hobby. Could you help me with testing it, please?
 大丈夫よ|危険なものじゃないわ♪=Don't worry, it's nothing dangerous♪
-わかっていると思うけど|保健室は病人やけが人の|ための部屋なのよ=I'm sure you already know this, but the infirmary is a place for the sick and injured.
+わかっていると思うけど|保健室は病人やけが人の|ための部屋なのよ=I'm sure you already know this, but the infirmary is a place for the sick and injured.#seen
 来てくれるのはうれしいけど|その辺をちゃんと考えてね♪=I enjoy visitors, but try to keep that in mind, okay♪?
 はじめは死武専の構造に手間取ったけど|この頃はずいぶんなれたのよ=It was difficult to navigate the DWMA at first, but I've gotten used to it.
 もう目をつぶっても歩けるわ|何があっても大丈夫よ♪=I could find my way around with my eyes closed now♪
 最近はすごく物騒になったのよ・・・=I've been a little on edge lately...
-保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the infirmary.
-全部同じに見えるけど|白衣って意外と奥が深いのよ♪=They all look the same at first glance, but laboratory coats can be surprisingly varied♪
+保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the infirmary.#seen
+全部同じに見えるけど|白衣って意外と奥が深いのよ♪=They all look the same at first glance, but laboratory coats can be surprisingly varied♪#seen
 今日の白衣は|ちょっと小悪魔風にしてみたけど|どうかしら？=As for the coat I'm wearing today, I was going for a temptress look.|How'd I do?
-死神様って|どうして死武専付近にしか|現れないのかしら？=I wonder why I only ever see Lord Death around the DWMA.
-もし　事情を知るようなことがあったら|私に教えてちょうだい♪=I'm dying to know, so if you come across any clues, don't forget to fill me in, okay♪?
+死神様って|どうして死武専付近にしか|現れないのかしら？=I wonder why I only ever see Lord Death around the DWMA.#seen
+もし　事情を知るようなことがあったら|私に教えてちょうだい♪=I'm dying to know, so if you come across any clues, don't forget to|fill me in, okay♪?
 私の顔って|結構きついって言われてるの・・・|まるでヘビみたいって・・・=I've heard my face can be rather sharp... Almost snake-like...
-口に出されると|結構ショックだから|心の中で思うだけにしてね♪=It's a little shocking to say out loud like that, but just think about it♪
+口に出されると|結構ショックだから|心の中で思うだけにしてね♪=It's a bit shocking when it's said like that, so it's better to just keep to yourself♪
 こんな時に保健室なんて|怖気づいたのかしら？=Were you so frightened you had to come to the infirmary?
 !FILE:EV9967_081.bscr
 こんな時に保健室なんて|怖気づいたのかしら？=Were you so frightened you had to come to the infirmary?
@@ -18675,8 +18675,8 @@
 あっ　すみません|今はクローズ|されているのでしたね・・・=Ah! My apologies. It's closed for the time being...
 ソウルの胸の傷は|大丈夫なのでしょうか？=And how is that chest wound of yours, Soul?
 俺も問題はないと思うのですが|執刀医としては少し気になるのです=I don't believe you have anything to worry about, but as a surgeon, I can't help but to be a little concerned.
-そういえばメデューサ先生の|様子で変わったことはありませんか？=By the way, have you happened to notice anything odd about Dr. Medusa?
-着任されて日が浅いから|心配なんですよ・・・色々とね・・・=I'm curious as she hasn't been here long... It could be anything...
+そういえばメデューサ先生の|様子で変わったことはありませんか？=By the way, have you happened|to notice anything odd about Dr. Medusa?#seen
+着任されて日が浅いから|心配なんですよ・・・色々とね・・・=I'm curious as she hasn't been with us for long... It could be anything...
 最近　健康に気を遣っているの|ですが　かえって身体の調子が|悪くなったような気がします=I've been more proactive with my health recently, but I feel like my condition has only worsened.
 色々と調整しているのですが|どうもシックリきませんね・・・=I've made countless adjustments, but nothing seem quite right...
 やられて帰ってくるのは|別にかまわないですが・・・=Don't be too concerned with being killed and brought back...
@@ -18687,7 +18687,7 @@
 !FILE:EV9967_110.bscr
 俺の指導は確かに厳しい！|だが　それも全て|お前達を思ってのことなのだ！=My guidance is certainly strict! But it's all done for your own good!#seen
 俺は昔から熱血教師だった・・・=I've always been an enthusiastic teacher...
-確かに二組以上のチームで|出かけるというルールは|わずらわしいかもしれない・・・=I understand how frustrating it must be to be unable to leave without at least two teams due to the new rule...
+確かに二組以上のチームで|出かけるというルールは|わずらわしいかもしれない・・・=I understand how frustrating it must be to be unable to leave without at least two teams due to the new rule...#seen
 だが　魔剣や魔眼の危機が|去ったわけではないのだ|そこをよく聞き分けてくれ=But the Demon Sword and Demon Eye have not yet been dealt with, so please be reasonable and follow the rule.
 このごろのお前達を|見ていると　昔の俺を思い出す|昔の俺は・・・=Seeing you kids these days... It reminds me of me from the old days...
 結構　シブめの|いい男だった・・・=I was a man of a certain refined quality...
@@ -18867,7 +18867,7 @@
 用事が済んだなら|また来なさい=Come back once your task is complete.
 !FILE:EV9981_411.bscr
 どこか悪い所でも|あるのかしら？=Did you hurt yourselves or something?
-気分が悪くなったら|いつでも保健室に来てちょうだい♪=If you're ever in a bad mood, you can always come visit me in the infirmary♪
+気分が悪くなったら|いつでも保健室に来てちょうだい♪=If you're ever feeling unwell, you can stop by here any time♪
 !FILE:EV9981_420.bscr
 これにするの？=This one?
 あなた達には|簡単かもしれないわね=This should be simple for you guys.
@@ -18900,16 +18900,16 @@
 う～ん　おしいな|あとちょっとなんだけどな|まあ　次もがんばってみな=Well, that was a little disappointing. But you passed, so just try a little harder next time.
 なんとか　やり遂げたみたいだな|だが　まだまだ根性が|足りないぞ=One way or another, you didn't give up before the end. But you're still lacking in determination.
 おっ　レベルが上がったようだな|やったな！　お前達=Oh! Looks like you've gone up a level! Good work, you guys!
-!FILE:EV9983_100.bscr
+!FILE:EV9983_100.bscr#Stein
 おつかれさまです♪|君達の成績は　こんな感じですよ=Well done♪ Your grades are as follows...
 これは　驚いた・・・|君達に|いっそう興味がわきましたよ=This is surprising... and this makes me even more interested in you.
 とても良い成績ですね|この調子で　次もがんばってみなさい=These are some really good grades. Keep up the good work, children.
 ふむ　合格点ってところですね|スジはいいので　がんばれば|もっと良くなりますよ=Hm. You passed. You've got talent. Work hard and you'll become much stronger.
 う～ん|合格点　一歩手前って感じですね|もう　少し気を引き締めるように=Hmm. Looks like you passed. But just barely. Try to strengthen your resolve a little.
 これは悪いですね|パワーアップするお勧めの人体実験が|あるんですが　受けてみますか？=That was pretty bad. Perhaps you'd be interested in taking part in the clinical testing for a new power-increasing drug I'm developing?
-おや？　レベルが上がったみたいですね|よくやりましたね　君達=Huh? It looks like your level has increased. Well done, you guys.
-!FILE:EV9983_110.bscr
-最後までやり遂げたようだな|これが　お前達の成績だ=Good job seeing the mission to the end. Here are your results.
+おや？　レベルが上がったみたいですね|よくやりましたね　君達=Huh? It looks like your level has increased. Well done.
+!FILE:EV9983_110.bscr#Sid
+最後までやり遂げたようだな|これが　お前達の成績だ=Good job seeing the mission through to the end. Here are your results.
 すごいじゃないかお前達！|これなら　将来|三つ星職人になれるかもな！=Amazing work, you guys! Keep this up and you'll definitely be ranked three-stars in the future.
 よくやったなお前達|ここまでできるのは|すごいことだぞ=Bravo. That was some great work you did.
 よくがんばったなお前達|この調子で　次もがんばれよ=You guys really gave it your all. Keep it up for next time too.
@@ -18921,7 +18921,7 @@
 凄いね　あんた達|おばちゃん　びっくりだよ|これなら安心して見守れるね=Amazing. You really surprised Auntie. I can rest easy knowing you kids can look over me.
 なかなかの成績だね　あんた達|この調子で　がんばるんだよ=That's pretty good. You kids keep up the good work.
 まあまあだね|でも　あんた達なら|もっといい成績を出せると思うよ=Not bad. But I'm sure you kids can produce even better results.
-あともうちょっとがんばるんだね|あんた達|おばちゃん　応援してるからね=Don't let it discourage you. Auntie is still cheering you kids on, you know.
+あともうちょっとがんばるんだね|あんた達|おばちゃん　応援してるからね=Don't let it discourage you. Auntie is still cheering you on, you know.
 あんた達　どこか調子でも悪いのかい？|おばちゃん　後ろから見てて|ヒヤヒヤしたよ=Is there something wrong? Auntie was watching from behind, and I was getting pretty nervous.
 あんた達　やったね！|レベルが上がったみたいだよ=You kids did it! It seems like you've gone up a level.
 !FILE:EV9990_000.bscr
@@ -19136,7 +19136,7 @@
 課外授業=Extracurricular classes
 明日の解剖授業=Tomorrow's Dissection Class#too long
 アイテムハンター=Item Hunter
-保健室のユウウツ=Dispensing Depression#I used the title as a play on dispensary, but if we don't end up using that as the name for the 保健室, I also propose Clinical Depression.
+保健室のユウウツ=Dispensing Depression#I used the title as a play on dispensary, but if we don't end up using that as the name for the 保健室, I also propose Clinical Depression. (currently too long)
 吸魂水特訓ステージ=Soul Sapping Water Special Training Stage
 彼がいない状況下=In his absence
 ダミースターで・・・=Dummy☆Star...
