@@ -1,8 +1,12 @@
 extract*
 repack*
 out_*
+info*
 *_output.txt
 *.iso
-*.csv
+msbe_output_rearranged.csv
+msbe_events.csv
+msbe_system.csv
+movie.csv
 *.po
 patch
