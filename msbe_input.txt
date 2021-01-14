@@ -4193,10 +4193,10 @@
 何か気になることでも|思い出したんじゃねェか？=Kid probably thought of something that he had to take care of.
 ふう|まぁ　いいか=*Sigh* I guess it's fine.
 !FILE:EV0932_032.bscr
-そういえば|オックス君達は|どこにいるのかな？=By the way, where's Ox and Harvar?
+そういえば|オックス君達は|どこにいるのかな？=By the way, where are Ox and Harvar?
 まぁ　大丈夫だろ|アイツらも子供じゃねェんだからよ！=Hey, it'll be fine. They're not children, you know!
 よし！|行くよ　ソウル！=Okay! Let's go, Soul!
-そういえば|オックス君達は|どこにいるのかな？=By the way, where's Ox and Harvar?
+そういえば|オックス君達は|どこにいるのかな？=By the way, where are Ox and Harvar?
 あれ？お前そんなに心配するほど|オックス君と仲よかったっけ？=Huh? You and Ox must be pretty close for you to be that worried about him.
 ふう|まぁ　いいか=*Sigh* I guess it's fine.
 !FILE:EV0932_040.bscr
@@ -11653,7 +11653,7 @@
 より好みしてても仕方ねェな・・・|とっとと誘って出かけようぜ！=Even if it's not my favorite, it can't be helped... let's just invite them and go! 
 !FILE:EV1981_700.bscr
 こんにちは=Hello.
-ひゃっはー！　俺様参上！=Hiyahaa! Black☆Star has arrived!
+ひゃっはー！　俺様参上！=Yahoo! Black☆Star has arrived!
 ここが特別指導室か|思ってたより普通の部屋だな・・・=I thought this place was supposed to be for special tutoring, but it just looks like a normal room...
 よく来ましたね　君達=Good of you to come, children.
 博士！|特別な俺様のために用意された|特別な訓練ってやつを受けに来たぜ=Professor, I've come to participate in the special training session that you prepared for me.
@@ -18676,7 +18676,7 @@
 ソウルの胸の傷は|大丈夫なのでしょうか？=And how is that chest wound of yours, Soul?
 俺も問題はないと思うのですが|執刀医としては少し気になるのです=I don't believe you have anything to worry about, but as a surgeon, I can't help but to be a little concerned.
 そういえばメデューサ先生の|様子で変わったことはありませんか？=By the way, have you happened|to notice anything odd about Dr. Medusa?#seen – unrelated to Dispensing Depression
-着任されて日が浅いから|心配なんですよ・・・色々とね・・・=She hasn't been with us for long so I'm curious... About a lot of things...
+着任されて日が浅いから|心配なんですよ・・・色々とね・・・=She hasn't been with us for long, so I'm curious... about a lot of things...
 最近　健康に気を遣っているの|ですが　かえって身体の調子が|悪くなったような気がします=I've been more proactive with my health recently, but I feel like my condition has only worsened.
 色々と調整しているのですが|どうもシックリきませんね・・・=I've made countless adjustments, but nothing seem quite right...
 やられて帰ってくるのは|別にかまわないですが・・・=Don't be too concerned with being killed and brought back...
