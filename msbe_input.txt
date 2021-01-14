@@ -69,7 +69,7 @@
 !FILE:EV0100_100.bscr
 ハラへったぁ～|どこでランチにする？=I'm starving! What's for lunch?
 !FILE:EV0100_200.bscr#afternoon class mission
-はい♪　では|午後は『魂の共鳴』の訓練をします|プリントを見てください=Okay♪ This afternoon we will be working on Soul Resonance. Please take a look at the handouts in front of you.
+はい♪　では|午後は『魂の共鳴』の訓練をします|プリントを見てください=Okay♪ This afternoon we will be working on Soul Resonance. Please take a look at your handouts.
 !FILE:EV0100_201.bscr
 さぁ　誰からでもいいぞ|繰り返し練習して腕をみがいてください=Everyone is going to try it a few times. So do I have any volunteers to go first?
 !FILE:EV0100_202.bscr
@@ -222,7 +222,7 @@
 にゃはは～♪=Nyahahaa♪
 どうしたのよ一体？=What the heck are you doing?
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
-あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time, I figured I'd come and play at the DWMA♪
+あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
 そうか　よかったな・・・=Oh. That's great...
 にゃはは～♪=Nyahahaa♪
 それじゃあ|また　あいましょう♪=See ya later♪
@@ -3733,7 +3733,7 @@
 でも安心しな　いつでも|あんた達を見守ってるよ|後ろからね！|　　　　　おばちゃんより=But no need to worry. She's always watching over you from behind!|Auntie
 !FILE:EV0905_020.bscr
 　　受付停止中=Reception Desk Closed
-申し訳ないけど|ちょっと急用が入ってね|また　今度来るんだね|　　　　　おばちゃんより=My apologies,|something urgent came up.|I'll be back soon.|                Auntie
+申し訳ないけど|ちょっと急用が入ってね|また　今度来るんだね|　　　　　おばちゃんより=My apologies, something urgent came up.|I'll be back soon.|　　　　　　　--Auntie
 !FILE:EV0905_030.bscr
 　がんばり屋な君達へ=For the workaholics
 用意しておいた訓練が|なくなっちゃいました|今日の訓練は終了です|　　　　シュタインより=There are no remaining|training sessions|planned for today.|　　　　　　　　--Stein
@@ -4239,7 +4239,7 @@
 !FILE:EV0933_011.bscr
 よーし！目標達成！！|案外おもしろかったね♪=Yes! Another successful mission!! I didn't expect to have so much fun♪
 そうか？|俺はちょっと疲れたぜ=Really? I'm actually a little tired.
-今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh? I thought it was supposed to be harder than that.
+今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh?|I thought it was supposed to be harder than that.
 それだけ俺達が強くなってるって|ことじゃねぇか？=Doesn't that just mean we've gotten stronger?
 早く帰ってシャワー浴びたい・・・=I can't wait to get home and take a nice, hot shower...
 よっしゃ！終わったぜ～♪=Sweet! It's finished♪
@@ -4251,7 +4251,7 @@
 そうか|よかったな　マカ♪=Yeah. Good work, Maka♪
 よーし！目標達成！！|案外おもしろかったね♪=Yes! Another successful mission!! I didn't expect to have so much fun♪
 そうか|よかったな　マカ♪=Yeah. Good work, Maka♪
-今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh? I thought it was supposed to be harder than that.
+今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh?|I thought it was supposed to be harder than that.
 そうか？|俺はちょっと疲れたぜ=Really? I'm actually a little tired.
 今回は思ったより楽だったね=That was easier than expected.
 それだけ俺達が強くなってるって|ことじゃねぇか？=Doesn't that just mean we've gotten stronger?
@@ -4261,7 +4261,7 @@
 ま　俺達に掛かれば|あの程度は朝飯前だな=Yeah, something like that's a cinch for us.
 よーし！目標達成！！|案外おもしろかったね♪=Yes! Another successful mission!! I didn't expect to have so much fun♪
 ま　俺達に掛かれば|あの程度は朝飯前だな=Yeah, something like that's a cinch for us.
-今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh? I thought it was supposed to be harder than that.
+今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh?|I thought it was supposed to be harder than that.
 いーじゃねぇかよ！|さくっと終わるに越したことはねェだろ？=That's a good thing! Better to finish quickly, isn't it?
 今回は思ったより楽だったね=That was easier than expected.
 そうか？|俺はちょっと疲れたぜ=Really? I'm actually a little tired.
@@ -4913,7 +4913,7 @@
 !FILE:EV0935_041.bscr
 よーし！目標達成！！|案外おもしろかったね♪=Yes! Another successful mission!! I didn't expect to have so much fun♪
 そうか？|俺はちょっと疲れたぜ=Really? I'm actually a little tired.
-今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh? I thought it was supposed to be harder than that.
+今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh?|I thought it was supposed to be harder than that.
 それだけ俺達が強くなってるって|ことじゃねぇか？=Doesn't that just mean we've gotten stronger?
 早く帰ってシャワー浴びたい・・・=I can't wait to get home and take a nice, hot shower...
 よっしゃ！終わったぜ～♪=Sweet! It's finished♪
@@ -4925,7 +4925,7 @@
 そうか|よかったな　マカ♪=Yeah. Good work, Maka♪
 よーし！目標達成！！|案外おもしろかったね♪=Yes! Another successful mission!! I didn't expect to have so much fun♪
 そうか|よかったな　マカ♪=Yeah. Good work, Maka♪
-今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh? I thought it was supposed to be harder than that.
+今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh?|I thought it was supposed to be harder than that.
 そうか？|俺はちょっと疲れたぜ=Really? I'm actually a little tired.
 今回は思ったより楽だったね=That was easier than expected.
 それだけ俺達が強くなってるって|ことじゃねぇか？=Doesn't that just mean we've gotten stronger?
@@ -4935,7 +4935,7 @@
 ま　俺達に掛かれば|あの程度は朝飯前だな=Yeah, something like that's a cinch for us.
 よーし！目標達成！！|案外おもしろかったね♪=Yes! Another successful mission!! I didn't expect to have so much fun♪
 ま　俺達に掛かれば|あの程度は朝飯前だな=Yeah, something like that's a cinch for us.
-今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh? I thought it was supposed to be harder than that.
+今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh?|I thought it was supposed to be harder than that.
 いーじゃねぇかよ！|さくっと終わるに越したことはねェだろ？=That's a good thing! Better to finish quickly, isn't it?
 今回は思ったより楽だったね=That was easier than expected.
 そうか？|俺はちょっと疲れたぜ=Really? I'm actually a little tired.
@@ -5663,7 +5663,7 @@
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 まぁ　あんまり|肩に力を入れんなよ=Just don't get too excited, all right?
 !FILE:EV0955_010.bscr
-どうしようかな？=What should we do now?
+どうしようかな？=What should we do?
 ちゃんと考えて行動すんだぞ|お前　意外とそういうとこ|バカなんだからな！=Think first and act second. You should be smart enough to figure that out!
 !FILE:EV0955_020.bscr
 ソウル！=Soul!
@@ -6151,7 +6151,7 @@
 にゃはは～♪=Nyahahaa♪
 ふっ・・・スターの輝きに誘われて|死武専にまであらわれやがったな！=Heh... Drawn all the way to the DWMA by the starlight were we?
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
-あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time, I figured I'd come and play at the DWMA♪
+あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
 そうなんですか=I see...
 にゃはは～♪=Nyahahaa♪
 それじゃあ|また　あいましょう♪=See ya later♪
@@ -11394,10 +11394,10 @@
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 !FILE:EV1956_010.bscr
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-これからも頑張りましょうね！=Let's do our best from now on!
+これからも頑張りましょうね！=Let's keep giving it our all!
 !FILE:EV1956_019.bscr
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-これからも頑張りましょうね！=Let's do our best from now on!
+これからも頑張りましょうね！=Let's keep giving it our all!
 !FILE:EV1956_020.bscr
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
@@ -11418,10 +11418,10 @@
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 !FILE:EV1956_050.bscr
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally uuunbeatable!!
-これからも頑張りましょうね！=Let's do our best from now on!
+これからも頑張りましょうね！=Let's keep giving it our all!
 !FILE:EV1956_059.bscr
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally uuunbeatable!!
-これからも頑張りましょうね！=Let's do our best from now on!
+これからも頑張りましょうね！=Let's keep giving it our all!
 !FILE:EV1960_010.bscr
 さてと　何すっかな？=Well, what do we do now?
 !FILE:EV1960_011.bscr
@@ -11830,9 +11830,9 @@
 !FILE:EV2103_010.bscr
 ほぇ～=Whoooa.
 にゃはは～♪=Nyahahaa♪
-どうしたんだよ一体？=What the heck are you doing here?
+どうしたんだよ一体？=What in the world are you doing here?
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
-あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time, I figured I'd come and play at the DWMA♪
+あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
 うむ　問題ない=Right. That's fine.
 にゃはは～♪=Nyahahaa♪
 それじゃあ|また　あいましょう♪=See ya later♪
@@ -18046,59 +18046,59 @@
 !FILE:EV9907_060.bscr
 職人としての技術を覚えましたか？|では実際に戦ってみましょう=Did you memorize all the meister techniques? Let's test your skills|with a real battle.
 !FILE:EV9907_500.bscr
-皆さん|準備はいいですか？=Is everyone ready?
+皆さん|準備はいいですか？=Are you all ready?
 おう！=Yeah!
-さあ|魂の共鳴の仕方を覚えましょう=Now. Let's go over how to use Soul Resonance.
-魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack will increase the Resonance Gauge.
-共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and the meister's attack power will increase. Not attacking will cause the Resonance Gauge to deplete.
-では|練習相手を呼び出します=Okay, let's give you a training partner.
+さあ|魂の共鳴の仕方を覚えましょう=Now, let's go over how to use Soul Resonance.
+魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack|will increase the Resonance Gauge.
+共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and your attack power will increase.#must be kept short. This scene has no voice acting, so I moved the next sentence down.
+では|練習相手を呼び出します=Not attacking will cause the Resonance Gauge to deplete.|Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_501.bscr
-皆さん|準備はいいですか？=Is everyone ready?
+皆さん|準備はいいですか？=Are you all ready?
 はい！=Roger!
-さあ|魂の共鳴の仕方を覚えましょう=Now. Let's go over how to use Soul Resonance.
-魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack will increase the Resonance Gauge.
-共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and the meister's attack power will increase. Not attacking will cause the Resonance Gauge to deplete.
-では|練習相手を呼び出します=Okay, let's give you a training partner.
+さあ|魂の共鳴の仕方を覚えましょう=Now, let's go over how to use Soul Resonance.
+魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack|will increase the Resonance Gauge.
+共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and your attack power will increase.#must be kept short.
+では|練習相手を呼び出します=Not attacking will cause the Resonance Gauge to deplete.|Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_502.bscr
-皆さん|準備はいいですか？=Is everyone ready?
+皆さん|準備はいいですか？=Are you all ready?
 ほ～～い♪=Okey-dokey♪
-さあ|魂の共鳴の仕方を覚えましょう=Now. Let's go over how to use Soul Resonance.
-魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack will increase the Resonance Gauge.
-共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and the meister's attack power will increase. Not attacking will cause the Resonance Gauge to deplete.
-では|練習相手を呼び出します=Okay, let's give you a training partner.
+さあ|魂の共鳴の仕方を覚えましょう=Now, let's go over how to use Soul Resonance.
+魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack|will increase the Resonance Gauge.
+共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and your attack power will increase.#must be kept short. This scene has no voice acting, so I moved the next sentence down.
+では|練習相手を呼び出します=Not attacking will cause the Resonance Gauge to deplete.|Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_510.bscr
 次は職人固有の必殺技についてです|必殺技を使うには条件があります=Next, we'll discuss meister-specific Finishing Strikes. There are certain requirements to use a Finishing Strike.
-画面の左上を見てください|魂の共鳴度が上がるとソウルメーターが|表示されます=If you look at the top-left corner of the screen while the Soul Resonance Gauge is full, you will see the Soul Meter.
+画面の左上を見てください|魂の共鳴度が上がるとソウルメーターが|表示されます=If you look at the top-left of the screen while the Soul Resonance Gauge is full, you will see the Soul Meter.
 ソウルメーターの魂１個につき必殺技を１回|出すことができます=You can use a Finishing Strike once for each soul on the Soul Meter.
-必殺技を出すと魂の共鳴度が下がり|ソウルメーターは減っていきます=Each time you use a Finishing Strike, the Soul Resonance Gauge will deplete, and the Soul Meter will decrease.
+必殺技を出すと魂の共鳴度が下がり|ソウルメーターは減っていきます=Each time you use a Finishing Strike, the Resonance Gauge will deplete,|and the Soul Meter will decrease.
 覚えた必殺技によっては　魂を２個もしくは|３個　必要とするものもあります|覚えておいてください=Try to keep in mind that some Finishing Strikes will require two or even three souls to use.
-では実際にソウルメーターを出して|みましょう|満足したら「1ボタン」を押してください=Go ahead and take some time to familiarize yourself with the Soul Meter. Once you've had enough, press Button 1.
+では実際にソウルメーターを出して|みましょう|満足したら「1ボタン」を押してください=Go ahead and familiarize yourself with the Soul Meter. Once you've had enough, press Button 1.
 !FILE:EV9907_520.bscr
 では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Finishing Strike.
 行くぜ！　マカ！=Let's go! Maka!
 必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
-使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the Finishing Strike you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wii Remote in accordance with the instructions on screen with your partner in order to use the Finishing Strike.
+使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wii Remote in accordance with the arrows shown on screen in order to use the Finishing Strike.
 では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
 !FILE:EV9907_521.bscr
 では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Finishing Strike.
 いよいよね|ブラック☆スター！=No doubt about it, Black☆Star!
 必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
-使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the Finishing Strike you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wii Remote in accordance with the instructions on screen with your partner in order to use the Finishing Strike.
+使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wii Remote in accordance with the arrows shown on screen in order to use the Finishing Strike.
 では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
 !FILE:EV9907_522.bscr
 では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Finishing Strike.
 やるぞ　キッド！=Let's do it, Kid!
 必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
-使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the Finishing Strike you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wii Remote in accordance with the instructions on screen with your partner in order to use the Finishing Strike.
+使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wii Remote in accordance with the arrows shown on screen in order to use the Finishing Strike.
 では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
 !FILE:EV9907_530.bscr
-魂の共鳴と必殺技の使い方を覚えましたか？|では、実際に戦ってみましょう=If you think you've learned how to use Soul Resonance and Finishing Strikes, let's see you put them to use in a real fight.
+魂の共鳴と必殺技の使い方を覚えましたか？|では、実際に戦ってみましょう=If you think you know how to use Soul Resonance and Finishing Strikes, let's see you put them to use in a real fight.
 !FILE:EV9907_999.bscr
 本当にやめていいですか？=Are you ready to move on?#I assume this is a line that only shows in the tutorial. I thought stop felt too much like 'give up', when it's really a continue prompt, but will need further reviewing to make sure it doesn't show anywhere else.
 !FILE:EV9961_000.bscr
@@ -18500,8 +18500,8 @@
 !FILE:EV9967_001.bscr
 こんな所で|遊んでいちゃダメじゃない！=It's against the rules to be playing around in here!
 !FILE:EV9967_010.bscr
-俺様を追いかけるのはいいけど|同じステージに立たないほうが|いいと思うぜ！=It's okay to shadow me, but it would be a terrible idea to try to stand in my place on stage!
-己の小物ぶりを痛感することに|なっちまうからな！|ひやっはははははは☆=I always keep a close on eye on my understudies! Hiyahahahahahaha☆
+俺様を追いかけるのはいいけど|同じステージに立たないほうが|いいと思うぜ！=It's okay to shadow me, but it would be a terrible idea to try to stand in my place on stage!#seen
+己の小物ぶりを痛感することに|なっちまうからな！|ひやっはははははは☆=I always keep a close on eye on my understudies! Hiyahahahahahaha☆#Maybe Yahahaha would fit with the other yahoo's?
 全てを見下ろせる|高いステージに登りてェんだけどよ=I wanted to get on a stage so tall I could look out over the whole city, but...
 なんてキメていいか思いつかねェから|保留中ってとこだな☆=I don't think the world is ready for that yet, so I've put that plan on hold☆#Is this a pun on キメる, like, getting high?
 俺様は赤ん坊の時から|死武専で暮らしているようなもんだ|まぁ　家みたいなもんよ=I've lived here at the DWMA since I was a baby. It's like home to me.#seen
@@ -18590,10 +18590,10 @@
 あれ|遠くのほうで|ワンちゃんの声がしない？=Listen. That sounds like a dog barking in the distance.
 ・・・おかしいな|私の空耳だったのかな？=... Weird. I must have been imagining it...
 ほぇ　何やってんの？|やらなきゃいけない事がなかったっけ？=Huh? What are you doing here? Didn't you have something you had to do?
-久しぶりにお姉ちゃんと|テッポーの練習を|していたところなんだよ！=I haven't practiced with a gun in a long time!
+久しぶりにお姉ちゃんと|テッポーの練習を|していたところなんだよ！=I haven't practiced with a gun in a long time!#seen
 ねェ　お姉ちゃん♪=Isn't that right, sis♪?
 パティ　なかなか|いい調子だぞ！=Looking great, Patty!
-結構　決まってるでしょ！=As I always am!
+結構　決まってるでしょ！=Of course!
 博士から食べ物|もらっちった♪=The professor gave me some food♪#seen
 多少　危険でも|私は食べるほうを|優先しちゃうよ♪=It was probably poisoned or something, but I never turn down|a snack♪
 !FILE:EV9967_061.bscr
@@ -18714,7 +18714,7 @@
 おや|こんな所にいてもいいのですか？=Um, are we allowed to be here?
 !FILE:EV9967_200.bscr
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
-あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time, I figured I'd come and play at the DWMA♪
+あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
 誤解のないように言っとくわね♪=I'm telling you so you don't get confused♪
 ブレアは魔女じゃなくて|魔力が強い|ただのかわいいネコなんだからね♪=Blair isn't a witch. She's just an ordinary cat that happens to be super cute and have strong magical powers♪
 ネコの姿のほうが|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
@@ -18732,7 +18732,7 @@
 うれしいにゃ♪|大事な用を放っぽらかしてまで|ブレアと話しにきてくれたのね♪=I'm flattered♪ You wanted to talk to Blair so bad you even shirked all those big important things you have to do♪
 !FILE:EV9967_224.bscr
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
-あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time, I figured I'd come and play at the DWMA♪
+あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
 誤解のないように言っとくわね♪=I'm telling you so you don't get confused♪
 ブレアは魔女じゃなくて|魔力が強い|ただのかわいいネコなんだからね♪=Blair isn't a witch. She's just an ordinary cat that happens to be super cute and have strong magical powers♪
 ネコの姿の方が|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
@@ -18773,7 +18773,7 @@
 !FILE:EV9981_040.bscr
 がんばるんだよ　あんた達|おばちゃん　応援してるよ|後ろからね=Do your best, kids. Auntie is supporting you from the rear!
 腕試しとはいえ　油断するんじゃないよ|おばちゃん　しっかり見てるからね=This might just be a way to test your skills but you shouldn't get careless. I'll be watching you closely.
-決まったようだね|きっちり　魂を鍛えておいで|おばちゃん　応援してるからね=Good choice. Punish that soul, and Auntie will be cheering you on!
+決まったようだね|きっちり　魂を鍛えておいで|おばちゃん　応援してるからね=Good choice. Steel that soul, and Auntie will be cheering you on!
 それにするんだね|な～に　あんた達なら|きっとやれるよ　がんばりな！=So that's what you're going to do. Well, if it's you kids, you can do it.|Good luck!
 !FILE:EV9981_050.bscr
 大丈夫かい　あんた達|次はがんばるんだよ|おばちゃん　応援するからね=Not too hurt, I hope. Auntie will be rooting for you, so you kids will get it next time for sure.
@@ -19534,23 +19534,23 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=The Dissection class specimen has escaped. Capture it at once!
 疑似生物おかウニ%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Artificial Land Urchin%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
-デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[199,133,84] %_dc[196,0,0]Death Noirs%_dc[196,0,0]!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[196,0,0]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]|whose soul has turned into a Kishin egg!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_teマッドドッグを退治せよ！=%_teEliminate the Mad Dogs!
-遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=There's been a flood of noise complaints about distant howling! Track down and defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
+遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Track down and defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
 戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Let's learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
-職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance as a team and kill all the enemies!
+職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the case of mass disappearances!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Investigate the numerous disappearances that have been occurring throughout the world and discover the cause!
 大量失踪事件の|犯人を倒せ！=Defeat the culprit of the mass disappearances!
@@ -19561,10 +19561,10 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ツボ%_dc[199,133,84]の落ちてる場所は|だいたいわかった！　早く|手に入れて特訓再開だぁ！=I'm pretty sure I know where the %_dc[0,196,0]Jar %_dc[199,133,84]is! Let's get it quick and restart the special training!
 ツボ%_dc[199,133,84]を手に入れろ！=Get the %_dc[0,196,0]Jar!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
-デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[199,133,84] %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]|whose soul has turned into a Kishin egg!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
@@ -19577,7 +19577,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
 戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Let's learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
-職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance as a team and kill all the enemies!
+職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the case of mass disappearances!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Investigate the numerous disappearances that have been occurring throughout the world and discover the cause!
 大量失踪事件の|犯人を倒せ！=Defeat the culprit of the mass disappearances!
@@ -19585,17 +19585,17 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight! Dodge the enemy attacks and defeat the training dummies!
 職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]|whose soul has turned into a Kishin egg!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
-デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[199,133,84] %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs%_dc[199,133,84]!
 %_teノラ人形どもを追え！=%_tePursue the stray dummies!
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に敵を|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5%_dc[199,133,84] %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
-デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 5%_dc[199,133,84] %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 5 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=My supply of %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]that I use to repair the school's equipment is running low. Help me out and get me some!
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
@@ -19604,7 +19604,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_te共鳴の心得=%_teResonance Guide
 戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Let's learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
-職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance as a team and kill all the enemies!
+職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the case of mass disappearances!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Investigate the numerous disappearances that have been occurring throughout the world and discover the cause!
 大量失踪事件の|犯人を倒せ！=Defeat the culprit of the mass disappearances!
@@ -19660,7 +19660,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|        By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_teマッドドッグを退治せよ！=%_teEliminate the Mad Dogs!
-遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=There's been a flood of noise complaints about distant howling! Track down and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
+遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Track down and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Dogs[199,133,84]!
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=These pitiful dolls get thrown out all over. Help me gather them up and give them a proper burial.
@@ -19697,7 +19697,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 制限時間内に|敵を%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] training dummies that have escaped from the DWMA! 
-デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 15%_dc[199,133,84] %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
+デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teRetrieve the Hazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]that have been designated as hazardous!
