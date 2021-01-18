@@ -118,7 +118,7 @@
 !FILE:EV0100_401.bscr
 うっすうーっす♪|今度はしっかりね～♪=Yeah, yeah, yeah♪ Great work♪
 !FILE:EV0100_500.bscr
-うっすうーっす♪|マカちゃん　ソウル君　ご苦労さ～ん♪|で　どう調査の成果は？=Howdy, hi♪ Working hard I see, Maka, Soul♪ So the investigation... How'd it go?
+うっすうーっす♪|マカちゃん　ソウル君　ご苦労さ～ん♪|で　どう調査の成果は？=Howdy, hi♪ Working hard I see, Maka, Soul♪ So the investigation...|How'd it go?
 それが|犯人らしいのは仕留めたんですが=Well, we brought down what seems to have been the culprit, but...
 そいつが集めたっていう|魂が見つからなくて=We weren't able to locate the souls he said he had gathered.
 ん？　魂が見つからない？|その犯人は　魂を食べていたわけじゃ|ないんですか？=Huh? Souls he had gathered? Are you implying that he didn't eat them?
@@ -131,17 +131,17 @@
 鬼神の卵と化した魂を持つ者が|魂を食わずに集めていた？=A kishin egg bearer that gathers souls but doesn't devour them?
 珍しいですね|そんなケースは聞いたことがない=That's rare. I've never heard of a case like this.
 何か妙だな=Something's fishy.
-邪魔をしてきた連中の正体も|気になりますね=I'm curious about the group that's really behind this.
+邪魔をしてきた連中の正体も|気になりますね=I'm curious about the identity of that other group who showed up.
 そうね～　も少し詳しく調査しちゃう|必要がありそうだよね♪=It looks like we'll have to investigate a little further, huh♪?
 !FILE:EV0101_400.bscr
 ひゃっはぁー！|今夜も俺オンステージだぜ=Yahoo! Back on stage again tonight!
-ソウルとマカは寝て待ってろ！|いくぜ　椿！=Soul! Maka! Just wait here and take it easy! Let's go, Tsubaki!
+ソウルとマカは寝て待ってろ！|いくぜ　椿！=Soul, Maka, just wait here and take it easy! Let's go, Tsubaki!
 ちょっ・・・=Wai...
 相変わらず|騒々しいわね=As impatient as ever.
 ほっとけ　それよりマカ|アレ・・・　あの建物　怪しくねーか=Forget him. Anyway, Maka... there's something ominous about that building, don't you think?
 うん　感じるわ|・・・中に無数の魂反応=Yeah. I'm sensing a lot of souls inside.
 でも変なの|一箇所にかたまってるのよ=But it's strange. It's like they're all bunched up in the same spot.
-あぁ？|まぁ　行けばわかるだろ=Really? Well, there's one way to find out.
+あぁ？|まぁ　行けばわかるだろ=Really? Well, there's only one way to find out.
 油断は禁物|行こう　ソウル！=It would be irresponsible not to go check it out. Let's go, Soul!
 おう！=I'm with you!
 ゴメンなさい=Sorry.
@@ -150,7 +150,7 @@
 なに？=What?
 キャッ！=Kya!
 な　なんだコイツらは？=W-Who are these guys?
-ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gigi! A meister and a magic weapon... Death sent his drones, huh?#I welcome any suggestions for the laughing sound effects.
+ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gigi! A meister and a magic weapon... Death sent his drones, huh?#I welcome any suggestions for the laughing sound effects. –I think it sounds a bit like 'Gehehe'
 あぁ？|だったらどうする=Yeah? And what if he did?
 ギギギ・・・|生かして帰さない！=Gigigi! Leave now and you'll live!
 けっ！　ザコどもが！|後悔するぜ！=Hmph! A couple of pests!|You'll regret this!
@@ -766,7 +766,7 @@
 魂を食べずに集める|鬼神の卵と化した魂を持つ者・・・か=A kishin egg bearer that collects souls... but doesn't eat them?
 そうかな？|なかには一人ぐらい|変わったヤツもいるだろ=Right? That guy must have been the only one like that.
 集めすぎると持てないぞぉ～|モテないゾ～は　ブサイクなゾ～=I bet he grabbed too many and couldn't hold on to them! Butterfingers!
-私は　襲ってきた　仮面の人達も|気になりますけど=I'm a little worried about those people we fought with the masks too.
+私は　襲ってきた　仮面の人達も|気になりますけど=I'm a little worried about those people with the masks that we fought too.
 はぁん　雑魚なんか何匹いようが|この俺様の敵じゃねぇ～ぜ！=Hunh? Those small fry? It doesn't matter how many there are. They're|no match for me!
 そう簡単にすめばいいが・・・な=I hope they're really as harmless as you say...
 消えちまった魂=Don't forget the souls disappeared too.
@@ -793,7 +793,7 @@
 それから　午後は課外授業です|遅れずに集合するよ～に=Also, there will be Extracurricular Classes this afternoon. Don't be late!
 これから　どうします？=What do you want to do now?
 !FILE:EV0200_100.bscr
-午後の課外授業なんだろ|ワクワクするね=I'm really curious about this afternoon's extracurricular class. I'm getting kind of excited.
+午後の課外授業なんだろ|ワクワクするね=I'm really curious about this afternoon's extracurricular class.|I'm getting kind of excited.
 なんだろうが|今日こそはクールにきめるぜ=Whatever it ends up being, it seems like it's gonna pretty cool today.
 !FILE:EV0200_200.bscr#afternoon class Nars mission
 おい　リズ|さっきの噂ってなんだよ？=Hey, Liz. What's this new rumor going around?
@@ -942,22 +942,22 @@
 !FILE:EV0220_006.bscr
 メデューサ先生が|呼んでいたよ～～♪=Dr. Medusa was calling for you♪
 !FILE:EV0220_007.bscr
-ねぇ　ソウル|魔剣から受けた胸の傷|本当は　治ってないんじゃないの？=Hey, Soul... The wound on your chest that you got from that Demon Sword, it hasn't really healed, has it?
+ねぇ　ソウル|魔剣から受けた胸の傷|本当は　治ってないんじゃないの？=Hey, Soul... The wound on your chest that you got from the Demon Sword, it hasn't really healed, has it?
 なんだよ　お前|検査に付いてくる気なのか？=What's gotten into you? Are you hoping I'll invite you to tag along or something?
 別に悪いことじゃないけど|俺のヌードは刺激が|強すぎるんじゃねェのか？=I totally get it, but don't you think you might be trying a little too hard to get a peek at my naked body?
 ちょっと　それって|どういう意味よ！=What's that supposed to mean!?
 冗談だって　冗談！|しばらくしたら検査も終わるからよ|それまで　ブラブラしてろよ！=Kidding! I'm just kidding! The check-up won't be over for a while, so you don't have to wait around for me.
 本当に大丈夫なのかしら・・・|胸の傷のことは　ソウルも|あんまり話してくれないのよね・・・=Is he really okay? Whenever I bring it up, he always seems to dodge the subject...
 決めた！ソウルの傷のことを|先生達に聞いてみよう！=I know! Why don't I try asking the teachers about it?
-先生達なら詳しいことを|知ってるはずよね♪=I'm sure they know something♪
+先生達なら詳しいことを|知ってるはずよね♪=I'm sure they'll know something♪
 !FILE:EV0220_012.bscr
-魔剣から受けた|ソウルの胸の傷って|本当に大丈夫なんですか？=The wound on Soul's chest from the demon sword... Is it really going to be okay?
-そんなに不安ならば|俺の健康法を教えてやろう！=If it worries you so much, why don't I show you my wellness routine!?
+魔剣から受けた|ソウルの胸の傷って|本当に大丈夫なんですか？=The wound on Soul's chest from the Demon Sword... Is it really going to be okay?
+そんなに不安ならば|俺の健康法を教えてやろう！=If it worries you so much, why don't I show you my wellness routine?
 ゾンビの健康法ですか・・・=A zombie wellness routine?
 俺も昔は貧弱な男だった|だがいまはその健康法のおかげで|こんなにたくましくなった！=A long time ago I was nothing but skin and bones, but now I'm as burly as an ox thanks to my wellness routine!
 そうですか|ソウルに伝えておきます=Right. I'll tell Soul about your offer...
 !FILE:EV0220_016.bscr
-そんなに不安ならば|俺の健康法を教えてやろう！=If it worries you so much, why don't I show you my wellness routine!?
+そんなに不安ならば|俺の健康法を教えてやろう！=If it worries you so much, why don't I show you my wellness routine?
 !FILE:EV0220_022.bscr
 博士　ソウルの胸の傷は|もう大丈夫なんですよね？=Professor, the wound on Soul's chest will be all right, won't it?
 あの傷を手術したのは俺です|俺が言うんだから間違いありません=I operated on that injury of his personally, which means you can rest assured that he'll be fine.
@@ -981,7 +981,7 @@
 マカの頭は|ソウルのことでいっぱいだってさ=But all she can think about is Soul!
 そしたら　どうしても|ソウルのことが話題に|なっちゃうよね=So no matter what I'll have to talk about him.
 そしたら　そしたら|俺　本当のことを|多分　言っちゃうよ！=And... And there's no way I'll be able to keep it a secret from my baby girl!
-魔剣の黒血がソウルに|混じっちゃったってさ=That Soul's body is mixing with the black blood from the demon sword.
+魔剣の黒血がソウルに|混じっちゃったってさ=That Soul's body is mixing with the black blood from the Demon Sword.
 だって　だって|そんなことくらいしかソウルに関して|マカと話題がないんだもん=Why? Why can't I think of anything else to say about Soul?
 !FILE:EV0220_035.bscr
 ・・・・・・・・・=.........
@@ -990,7 +990,7 @@
 マカの頭は|ソウルのことでいっぱいだってさ=But all she can think about is Soul!
 そしたら　どうしても|ソウルのことが話題に|なっちゃうよね=So no matter what I'll have to talk about him.
 そしたら　そしたら|俺　本当のことを|多分　言っちゃうよ！=And... And there's no way I'll be able to keep it a secret from my baby girl!
-魔剣の黒血がソウルに|混じっちゃったってさ=That Soul's body is mixing with the black blood from the demon sword.
+魔剣の黒血がソウルに|混じっちゃったってさ=That Soul's body is mixing with the black blood from the Demon Sword.
 だって　だって|そんなことくらいしかソウルに関して|マカと話題がないんだもん=Why? Why can't I think of anything else to say about Soul?
 !FILE:EV0220_042.bscr
 死神様　ソウルのことで|質問してもいいですか？=Lord Death, do you think I could ask you about everything that's going on with Soul?
@@ -1012,7 +1012,7 @@
 ただね問題ないのは|肉体的な部分だけかも|しれないの・・・=Although that may only be true of his physical condition...
 あれだけ大きな傷を負ったんですもの|精神的なダメージが|残っても不思議じゃないわ=It's not at all unheard of for there to be long-lasting psychological trauma after being so gravely injured.#精神的な can be translated several ways such as mental, spiritual, emotional, psychological.
 ソウル君の様子に何か|変わったことがあったら|すぐに教えてちょうだい=If you notice any changes in Soul's condition, please inform me right away.
-そう・・・ですか・・・わかりました|ところで　ソウルはどこに？=Oh... Okay... I will. By the way, do you know where he went?
+そう・・・ですか・・・わかりました|ところで　ソウルはどこに？=Oh... Okay... I will.|By the way, do you know where he went?
 あなたをさがしに|どこかへ行ったみたいね？=I assume he went somewhere looking for you.
 わかりました|ありがとうございます・・・=You're probably right. Thank you.
 !FILE:EV0220_066.bscr
@@ -1033,9 +1033,9 @@
 ったく　お前は|ホントに正直だぜ！=Geez, you've got a terrible poker face!
 前にも言ったと思うけど|俺は職人のために|覚悟はできている=I know I've said it before, but I'm prepared to do anything for my meister.
 お前が　そのことで|気に病む必要はねェぞ！=So you have nothing to fret over!
-そんな　私|ソウルのことが心配で・・・=It's not me that I'm worried about. It's you, Soul.
-おっと！この話題は|もう終わりにしようぜ|またケンカになっちまうぞ！=What!? Let's drop it already. We'll just get into another argument!
-すごく勝手ね・・・|ブラック☆スターみたい・・・|でも・・・わかったわ=You're so selfish... like Black☆Star... But... I understand.
+そんな　私|ソウルのことが心配で・・・=It's not me that I'm worried about.|It's you, Soul.
+おっと！この話題は|もう終わりにしようぜ|またケンカになっちまうぞ！=Aaah, let's drop it already. We'll just get into another argument!
+すごく勝手ね・・・|ブラック☆スターみたい・・・|でも・・・わかったわ=You're so selfish... like Black☆Star. But... I understand.
 !FILE:EV0220_075.bscr
 俺は大丈夫だからよ|心配すんなよ　マカ！=I'm fine, Maka! You don't have to worry about me.
 !FILE:EV0220_076.bscr
@@ -4275,7 +4275,7 @@
 じゃあ今回のはこれで終わりだな=Well, looks like that's another one down.
 もっと難しいと思ってたケド|ちょうどいい手応えの課題だったね=I was expecting more of a challenge, but this task wasn't so bad.
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
-目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really wanting to do even better.
+目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really hoping things would go smoother than that.
 そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
 もっと簡単だと思ってたケド|ちょうどいい手応えの課題だったね=I was worried it was going to be a little too easy, but this task was all right.
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
@@ -4287,7 +4287,7 @@
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
 もっと難しいと思ってたケド|ちょうどいい手応えの課題だったね=I was expecting more of a challenge, but this task wasn't so bad.
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
-目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really wanting to do even better.
+目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really hoping things would go smoother than that.
 まぁ　帰ってから|復習すればいいんじゃねぇか？=Well, why don't you go back over the assignment once we get back?
 もっと簡単だと思ってたケド|ちょうどいい手応えの課題だったね=I was worried it was going to be a little too easy, but this task was all right.
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
@@ -4297,7 +4297,7 @@
 そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
 もっともっと強くならないと・・・=I need to become even stronger...
 じゃあ今回のはこれで終わりだな=Well, looks like that's another one down.
-目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really wanting to do even better.
+目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really hoping things would go smoother than that.
 まっ　勝ったんだしいーんじゃねェか|次からちょっと気をつけようぜ！=Hey, we won, didn't we? We'll just have to be a little more careful from now on!
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
@@ -4366,7 +4366,7 @@
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 私に敵うとでも思っているのかぁ～？=You're no match for meee!
 お前達は何ものだぁ～？=Who are youuu?
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 私に敵うとでも思っているのかぁ～？=You're no match for meee!
 お前達は何ものだぁ～？=Who are youuu?
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
@@ -4426,7 +4426,7 @@
 まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 なんか強そうな奴だな・・・=This guy looks pretty tough...
-がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!! Soul, let's go!
+がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
 イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
 なんとかするよ！ソウル！=Let's do it, Soul!
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
@@ -4436,7 +4436,7 @@
 鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
@@ -4447,7 +4447,7 @@
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
@@ -4501,7 +4501,7 @@
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
 私の身体は　無敵なのだぁ～=My body is invincibleee!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
 私の身体は　無敵なのだぁ～=My body is invincibleee!
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
@@ -4549,7 +4549,7 @@
 なんか弱っちそうな奴だな・・・=This guy looks pretty weak...
 ソウル！|やっちゃうよ！=Let's do it, Soul!
 なんか強そうな奴だな・・・=This guy looks pretty tough...
-がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!! Soul, let's go!
+がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
 まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 さっさと片付けようぜ！=Let's take care of this quickly!
@@ -4565,7 +4565,7 @@
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 ＨＡ！ＨＡ！=Ha! Ha!
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
@@ -4601,7 +4601,7 @@
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 !FILE:EV0934_335.bscr
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 !FILE:EV0934_340.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
@@ -4625,7 +4625,7 @@
 まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 なんか強そうな奴だな・・・=This guy looks pretty tough...
-がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!! Soul, let's go!
+がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
 イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
 なんとかするよ！ソウル！=Let's do it, Soul!
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
@@ -4635,7 +4635,7 @@
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
@@ -4678,7 +4678,7 @@
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
@@ -4781,7 +4781,7 @@
 まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 なんか強そうな奴だな・・・=This guy looks pretty tough...
-がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!! Soul, let's go!
+がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
 イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
 なんとかするよ！ソウル！=Let's do it, Soul!
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
@@ -4961,7 +4961,7 @@
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
 今回はちょっと危なかったね・・・=That was pretty rough, don't you think?
 ちょこまかよく動く奴だったしな|思いのほかしぶとかったし=Well, the guy wouldn't quit moving around everywhere. It was hard enough just to get our hands on him.
-目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really wanting to do even better.
+目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really hoping things would go smoother than that.
 まぁ　帰ってから|復習すればいいんじゃねぇか？=Well, why don't you go back over the assignment once we get back?
 今回のは思ったより難しかったね・・・=That was more difficult than I thought it would be...
 そうだな|敵に変な奴もいたしな！=Yeah. That guy made for a weird opponent!
@@ -5367,7 +5367,7 @@
 あら　来たのは　あなた達なの・・・=Well, well. Look who's here...
 お前は・・・あの時の・・・=You... You're...
 どうした　マカ！|あの魔女を知ってるのか！？=What is it, Maka!? Don't you know this witch!?
-魔剣と戦った時　現れた魔女よ・・・|こいつがメデューサ先生を・・・=It's the witch from when we fought the demon sword... She must have taken Dr. Medusa...
+魔剣と戦った時　現れた魔女よ・・・|こいつがメデューサ先生を・・・=It's the witch from when we fought the Demon Sword... She must have taken Dr. Medusa...
 ちょうどいいわ|黒血がアナタ達をどれだけ|侵食したか確かめてあげる♪=It's so nice to see you again. Now let me see how much the black blood has taken over♪
 油断するなよ|・・・といっても　油断しなくても|どうにかなる相手じゃねェけどな=Stay on your guard... As is this is the kind of opponent we could take on without being on our guard.
 あはは・・・ありがとう|作戦なしで突っ込むよ！！=Ahaha... I don't have any strategy, but let's just rush in there!!
@@ -5738,7 +5738,7 @@
 なんか|やる気がでねェなぁ・・・=I'm really not feeling it...
 !FILE:EV0964_000.bscr#seen
 マカ　死神様を|呼び出そうぜ！=Maka, call up Lord Death!
-わかったわ・・・=Yeah...
+わかったわ・・・=Yeah.
 あれがあって・・・|これがあって・・・後は・・・=Whenever you want to knock on death's door...
 死神様の鏡番号|４２－４２－５６４=42 - 42 - 564.|Lord Death's mirror number.
 ハローハロー　死神様|鎌職人のマカです！=Calling Lord Death.|This is scythe-meister Maka!
@@ -5897,7 +5897,7 @@
 もっと　クールな|課題は　ねぇのかよ=You don't have anything cooler?
 今のところ　魔剣や魔眼は|姿をひそめてるけど|問題は解決してないから=The Demon Sword and the Demon Eye might be in hiding, but they're still out there, so this is how it has to be.#must be kept short
 あんまり　危険な所に　|生徒達を行かせる|わけにはいかないからね=I can't let you students run headfirst into a potentially dangerous situation.
-・・・言いたくないけど|あんた達が魔剣に|やられたせいでもあるんだよ=...I didn't want to mention it, but it's because of when the demon sword almost killed you.
+・・・言いたくないけど|あんた達が魔剣に|やられたせいでもあるんだよ=...I didn't want to mention it, but it's because of when the Demon Sword almost killed you.
 やられてねェよ|おばちゃん！！=It didn't almost kill me!!
 ソウル！=Soul!
 んだよ　マカ！=What, Maka!?
@@ -5921,7 +5921,7 @@
 !FILE:EV0981_500.bscr
 さてと　マカ　課外活動では|二組でないといけないんだが|誰を誘うつもりなんだ=Since we can't do any extracurricular activities without another group, who do you want to invite?
 誰を誘おうかしら|ちょっと考えさせて・・・=Who should we invite?|Let me have a think...
-確か　二組ルールが出来たのって|俺たちが魔剣に襲われたから|だったよな=The reason they made the team-up rule is because we got attacked by that demon sword, huh?
+確か　二組ルールが出来たのって|俺たちが魔剣に襲われたから|だったよな=The reason they made the team-up rule is because we got attacked by that Demon Sword, huh?
 そうね|魔剣のことはまだ解決してないんだから|気を付けないといけないね=Yeah. The situation with the Demon Sword hasn't been resolved yet, so|we need to be extra careful.
 だな・・・|ところで　誰を誘うか決まったか？=Totally... Anyway, have you decided who to invite yet?
 んげっ！|マジかよ～=Ngh! Seriously?
@@ -6088,11 +6088,11 @@
 鬼神の卵と化した魂を持つ者が|魂を食わずに集めていた？=A Kishin Egg that gathers souls but doesn't devour them?
 珍しいですね|そんなケースは聞いたことがない=That's rare. I've never heard of a case like this.
 何か妙だな=How very strange.
-邪魔をしてきた連中の正体も|気になりますね=I'm curious about the group that's really behind this.
+邪魔をしてきた連中の正体も|気になりますね=I'm curious about the identity of that other group who showed up.
 そうね～　も少し詳しく調査しちゃう|必要がありそうだよね♪=It looks like we'll have to look into it a little more closely, huh♪?
 !FILE:EV1101_400.bscr
 ひゃっはぁー！|今夜も俺オンステージだぜ=Yahoo! Tonight I am on stage!
-ソウルとマカは寝て待ってろ！|いくぜ　椿！=Soul! Maka! Just wait here and relax! Let's go, Tsubaki!
+ソウルとマカは寝て待ってろ！|いくぜ　椿！=Soul, Maka, just wait here and relax! Let's go, Tsubaki!
 ちょっ・・・=Wai...
 もう　ブラック☆スター|みんな呆れてたじゃない=Hey! Why'd you run off on your own?
 俺様のオーラに　ビビッてんのさ|それより椿　あの建物からビンビン感じるぜ|怪しいムードがよ=Everyone would just be intimidated by my aura. But more importantly, Tsubaki, I've got a really weird feeling about that building over there. Something seems strange about it.
@@ -6693,7 +6693,7 @@
 魂を食べずに集める|鬼神の卵と化した魂を持つ者・・・か=A kishin egg bearer that collects souls... but doesn't eat them?
 そうかな？|なかには一人ぐらい|変わったヤツもいるだろ=Right? That guy must have been the only one like that.
 集めすぎると持てないぞぉ～|モテないゾ～は　ブサイクなゾ～=I bet he grabbed too many and couldn't hold on to them! Butterfingers!
-私は　襲ってきた　仮面の人達も|気になりますけど=I'm a little worried about those people we fought with the masks too.
+私は　襲ってきた　仮面の人達も|気になりますけど=I'm a little worried about those people with the masks that we fought too.
 はぁん　雑魚なんか何匹いようが|この俺様の敵じゃねぇ～ぜ！=Hunh? Those small fry? It doesn't matter how many there are. They're no match for me!
 そう簡単にすめばいいが・・・な=I hope they're really as harmless as you say...
 消えちまった魂=Don't forget the souls disappeared too.
@@ -11734,12 +11734,12 @@
 うじゃうじゃいたヤツラも　ドロ～ン|みんな消えちまったよ=They were all there, and then "poof" they were gone.
 ふむ|それは妙だな=Hm. That's odd.
 ま　それならしょうがないね|三人とも今夜はゆっくり休んでちょうだい♪=Yep. Well, in that case, oh well♪ You three, please relax tonight, okay?
-わかった|父上=Understood, father.
+わかった|父上=Understood, Father.
 ふぁ～　ねむい=*Yawn* Sleepy...
 鬼神の卵と化した魂を持つ者が|魂を食わずに集めていた？=A Kishin Egg that gathers souls but doesn't devour them?
 珍しいですね|そんなケースは聞いたことがない=That's rare. I've never heard of a case like this.
 何か妙だな=How very strange.
-邪魔をしてきた連中の正体も|気になりますね=I'm curious about the group that's really behind this.
+邪魔をしてきた連中の正体も|気になりますね=I'm curious about the identity of that other group who showed up.
 そうね～　も少し詳しく調査しちゃう|必要がありそうだよね♪=It looks like we'll have to look into it a little more closely, huh♪?
 !FILE:EV2101_400.bscr
 はぁ　はぁ|いたいた！=*Pant* *Pant* We're here! We're here!
@@ -12466,7 +12466,7 @@
 魂を食べずに集める|鬼神の卵と化した魂を持つ者・・・か=A kishin egg bearer that collects souls... but doesn't eat them?
 そうかな？|なかには一人ぐらい|変わったヤツもいるだろ=Right? That guy must have been the only one like that.
 集めすぎると持てないぞぉ～|モテないゾ～は　ブサイクなゾ～=I bet he grabbed too many and couldn't hold on to them! Butterfingers!
-私は　襲ってきた　仮面の人達も|気になりますけど=I'm a little worried about those people we fought with the masks too.
+私は　襲ってきた　仮面の人達も|気になりますけど=I'm a little worried about those people with the masks that we fought too.
 はぁん　雑魚なんか何匹いようが|この俺様の敵じゃねぇ～ぜ！=Hunh? Those small fry? It doesn't matter how many there are. They're no match for me!
 そう簡単にすめばいいが・・・な=I hope they're really as harmless as you say...
 消えちまった魂=Don't forget the souls disappeared too.
@@ -14378,7 +14378,7 @@
 ひょっとして　あいつら|すげェ強いんじゃねェの？|きゃはははは♪=Luck is a skill too, you know? Kyahahaha♪
 !FILE:EV2422_036.bscr
 椿はソウルの傷のことで|何か知ってる事はないか？=Tsubaki, you don't happen to know anything about Soul's injury, do you?
-ソウル君の傷って|魔剣につけられたヤツのことですか？=Do you mean the injury from his fight with that Demon SWord?
+ソウル君の傷って|魔剣につけられたヤツのことですか？=Do you mean the injury from his fight with that Demon Sword?
 そうそう　その傷だよ♪=Yep. That's the one♪
 私は　その場所に|いたわけじゃないから|詳しいことはわからないんです・・・=I wasn't there when it happened, so I don't know all the details...
 !FILE:EV2422_042.bscr
@@ -18523,7 +18523,7 @@
 こういう所から|キッチリカッチリしなければ|いけないということが　わからんのか？=Do they not understand that everything must be absolutely perfect and symmetrical?
 俺はいっそ一人のほうが|すがすがしい！=It's kind of refreshing to be alone...#seen
 リズとパティどちらか一人だと|シンメトリーではなくなってしまうからな=If I were alone with only one of the sisters, it wouldn't be symmetrical at all.
-魔剣に魔眼・・・|どうも最近　死武専の|周りが騒がしいようだ=That Demon Eye and the Demon Sword... There've been a lot of rumblings around the DWMA recently...
+魔剣に魔眼・・・|どうも最近　死武専の|周りが騒がしいようだ=That Demon Eye and the Demon Sword... There's been a lot of ruckus around the DWMA recently...#seen
 お互いに　充分気をつけねばならんな=We need to all work together to keep everyone safe.
 今のお前達には|他にやるべき事があるだろう！|さっさと本分に戻れ！！=I know you guys have something else you're supposed to be doing right now, so go and get it done!!
 !FILE:EV9967_021.bscr
@@ -18545,7 +18545,7 @@
 !FILE:EV9967_040.bscr
 ブラック☆スターを|見ませんでしたか？=Have you seen Black☆Star?
 また勝手にどこか行っちゃったんで|さがしているところなんです・・・=He went somewhere without telling me again, so I've been looking for him...#seen
-それにしても死武専って|本当に大きな施設ですよね♪=The DWMA really is a huge institution, isn't it♪?
+それにしても死武専って|本当に大きな施設ですよね♪=The DWMA really is a huge institution, isn't it♪?#seen
 恥ずかしい話だけど|今でも私　たまに迷子に|なっちゃうんです・・・=It's a little embarrassing to admit, but I still get lost sometimes...
 たまに一人でいると|静か過ぎて困ってしまう時があるんです=Sometimes, when I'm alone and it gets really quiet, I start to panic.#seen
 それだけ普段が|騒がしいってことなんですけど・・・=I guess that's just because of how noisy it usually is...
@@ -18607,7 +18607,7 @@
 どうも私の説明はアッサリしすぎて|わかりにくいみたいだからさ♪=Apparently I ramble too much, so my explanations can be difficult to follow♪
 キッドはうまくやってるのかな？=And how's my Kid doing?#seen
 こういうのは公私混同なんだけど|私は心配なんだよ～ん♪=I might be mixing official business with personal matters, but I worry sometimes♪
-常に死武専の生徒としての|誇りを持って行動してちょうだい♪=Please remember that, as students of the DWMA, your every action affects the public opinion of this school♪
+常に死武専の生徒としての|誇りを持って行動してちょうだい♪=Please remember that as students of the DWMA, your every action affects the public opinion of this school♪#seen
 誰が見ているかわからないからね・・・|たとえば　おばちゃんとかさ・・・=And you never know who might be watching you... Like Auntie, for example...
 どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to be go with at least one other team♪#seen
 魔剣に魔眼|その他　もろもろ・・・|まだまだ危険はいっぱいだよ～ん♪=The Demon Sword and the Demon Eye and who knows what else... The world is full of danger♪
@@ -18669,8 +18669,8 @@
 !FILE:EV9967_100.bscr
 すみませんが|魂を確認させてもらいました=Sorry, but I allowed myself a peek at your souls.#seen
 今日はとてもよい|魂の輝きをしていますね=They have such a glow about them today.
-もしよかったら|俺の研究に付き合って|もらえませんか？=If you don't mind, I'd appreciate your help with a little experiment of mine.#seen
-俺はツギハギ研究所で|待っています　学校が|終わったらきてください=I'll be waiting at the Patchwork Lab. Please stop by once school is over.
+もしよかったら|俺の研究に付き合って|もらえませんか？=If you don't mind, I'd like your help with a little experiment of mine.#seen – edited to make it more apparent it's not actually a game event, but just Stein being creepy.
+俺はツギハギ研究所で|待っています　学校が|終わったらきてください=I'll be waiting at the Patchwork Lab. Why don't you stop by once school is over～?
 学生課には|おばちゃんがいます=Auntie is in the Student Affairs Office.
 掲示板から腕試しをする際には|おばちゃんが色々と|サポートしてくれるはずです=Auntie will be able to aid you if you ever want to take on any missions from the Mission Bulletin.
 あっ　すみません|今はクローズ|されているのでしたね・・・=Ah! My apologies. It's closed for the time being...
@@ -18707,7 +18707,7 @@
 申し訳ないのですが|私は忙しいのです=Not to be rude, but I'm very busy.
 次の試験で首位を奪還するため|勉学に励まなければならないのです=You'll need to really hit the books if you expect to get your top spot back on the next exam.
 屋内では私は|ただのガリ勉かもしれません・・・=Indoors I might be a bit of a bookworm...
-ただし　外での私は違います|いずれその姿を|ハッキリとお見せする機会があるでしょう=But I'm a different person in the field. One of these days I'll get the opportunity to show you what that side of me really looks like.
+ただし　外での私は違います|いずれその姿を|ハッキリとお見せする機会があるでしょう=But I'm a different person in the field. One of these days you'll get to see that side of me is really like.#must be kept short
 この髪型については|今は語らないでおきましょう=Don't ask me about my hairstyle right now.
 いつか|その理由を話す時がくるかもしれませんね=Maybe someday I'll be able to tell you the reason behind it...
 おや|こんな所にいてもいいのですか？=Um, are we allowed to be here?
@@ -19130,8 +19130,8 @@
 %_tr-1ランク=%_trRank -1
 %_trなし=%_trNone
 なし=None
-午前授業=Morning class
-午後授業=Afternoon class
+午前授業=Morning Class
+午後授業=Afternoon Class
 課外授業=Extracurricular classes#too long
 課外授業=Extracurricular classes
 課外授業=Extracurricular classes
@@ -19544,7 +19544,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_teマッドドッグを退治せよ！=%_teEliminate the Mad Dogs!
-遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Clear out %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!#better phrasing welcome, but ~6 more characters is the limit
+遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Wrangle %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!#better phrasing welcome, but ~6 more characters is the limit
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
@@ -19553,8 +19553,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Let's learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
-世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause of the disappearances that have been occurring worldwide!
-大量失踪事件の|犯人を倒せ！=Defeat the culprit|of the mass disappearances!
+世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause behind the recent mass disappearances!
+大量失踪事件の|犯人を倒せ！=Defeat the culprit|behind the mass disappearances!
 %_te死武専生の心得=%_teDWMA Student Guidelines
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight! Dodge the enemy attacks and defeat the training dummies!
 職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
@@ -19566,7 +19566,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
-切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
+切り裂きジャック%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
@@ -19581,7 +19581,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause of the disappearances that have been occurring worldwide!
-大量失踪事件の|犯人を倒せ！=Defeat the culprit|of the mass disappearances!
+大量失踪事件の|犯人を倒せ！=Defeat the culprit|behind the mass disappearances!
 %_te死武専生の心得=%_teDWMA Student Guidelines
 戦い方を覚えよう！|敵の攻撃を避けて|訓練用人形を倒せ！=Learn how to fight! Dodge the enemy attacks and defeat the training dummies!
 職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
@@ -19598,7 +19598,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 5 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
-校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=My supply of %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]that I use to repair the school's equipment is running low. Help me out and get me some!
+校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA's equipment.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
@@ -19608,21 +19608,21 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause of the disappearances that have been occurring worldwide!
-大量失踪事件の|犯人を倒せ！=Defeat the culprit|of the mass disappearances!
+大量失踪事件の|犯人を倒せ！=Defeat the culprit|behind the mass disappearances!
 %_teトライアル訓練の心得=%_teTrial Practice Guide
-制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　　By Stein
+制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_te指令『危険物の回収』=%_teOrders: Recover Hazardous Materials
 危険物指定の%_dc[0,196,0]太陽石%_dc[199,133,84]が|西地区に落下しました|捜索回収してください=A few %_dc[0,196,0]Sun Stones %_dc[199,133,84]have fallen in the western sector and have been designated as hazardous. Please locate and retrieve them.
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]that have been designated as hazardous!
 %_teサバイバル訓練=%_teSurvival Training
-休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
+休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous! Take it on if you dare!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te補修備品の調達=%_teEquipment Repairs
-校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=My supply of %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]that I use to repair the school's equipment is running low. Help me out and get me some!
+校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA's equipment.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge%_dc[199,133,84] during transport. Could you get it back for me?
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge|%_dc[199,133,84]during transport. Could you get it back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_te極悪ボウズを退治せよ！=%_teEliminate the wicked monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious Kishin Egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
@@ -19634,7 +19634,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain and expose the true identity of the rumored phantom that has been assaulting beautiful women every night!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat the evil-doer!
 %_teトライアル訓練の心得=%_teTrial Practice Guide
-制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|        By Stein
+制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_te薬の材料を調達だ！=%_teProcure the Medicinal Ingredients!
 椿のために薬の材料|%_dc[0,196,0]ダブルムーンの花%_dc[199,133,84]を|探し出せ！=Track down a %_dc[0,196,0]Gemooni Flower %_dc[199,133,84]that I can use to make remedy for Tsubaki!
@@ -19646,7 +19646,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious Kishin Egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge%_dc[199,133,84] during transport. Could you get it back for me?
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge|%_dc[199,133,84]during transport. Could you get it back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
@@ -19658,7 +19658,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain and expose the true identity of the rumored phantom that has been assaulting beautiful women every night!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat the evil-doer!
 %_teトライアル訓練の心得=%_teTrial Practice Guide
-制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|        By Stein
+制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_teマッドドッグを退治せよ！=%_teEliminate the Mad Dogs!
 遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Clear out %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
@@ -19670,13 +19670,13 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious Kishin Egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
-校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=My supply of %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]that I use to repair the school's equipment is running low. Help me out and get me some!
+校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the school's equipment.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge%_dc[199,133,84] during transport. Could you get it back for me?
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge|%_dc[199,133,84]during transport. Could you get it back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_te怪人事件を調査せよ！=%_teInvestigate the Phantom Case!
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain and expose the true identity of the rumored phantom that has been assaulting beautiful women every night!
@@ -19709,7 +19709,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! Anything below a B rank won't do!!
 敵を全て倒せ！=Defeat all enemies!
 %_te補修備品の調達=%_teEquipment Repairs
-校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=My supply of %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]that I use to repair the school's equipment is running low. Help me out and get me some!
+校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA's equipment.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
