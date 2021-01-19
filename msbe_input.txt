@@ -799,20 +799,21 @@
 おい　リズ|さっきの噂ってなんだよ？=Hey, Liz. What's this new rumor going around?
 噂？|何の噂だ　リズ？=A rumor? What rumor, Liz?
 あ？|あ～　朝のアレ？=What? Oooh! The thing from this morning?
+・・・聞いてビビるなよ=Don't freak out when you hear this.
 おっ　なんだ|おもしろそーじゃねぇか|俺様にも聞かせろ！=Huh? What are we talking about? Sounds interesting. I want to hear it too!
 どんな噂なの？=So what's this rumor about?
-ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town that attacks people night after night.
-たいしたことねーじゃん=I don't buy it.
+ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town and it attacks people night after night.
+たいしたことねーじゃん=I don't buy that.
 襲われるのは|美しい娘ばっかりだってさ=And it like, only attacks beautiful young women.
 い～やぁ～　コワい～！|一人で　あるけない～！=Hyaaaa! Scary! There's no way I'm walking alone tonight!
-きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked, huh sis?
+きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh sis?
 お前さ・・・=You... Never mind.
 あっ|その話　私も聞きました=I heard the same thing actually.
 何人かの職人が|その犯人を　追いかけたらしいんですが|いつも見失ってしまう　って=For some reason, they always lose sight of the culprit no matter how many meisters are pursuing it.
 ふ～ん=Hmm.
 静かにしろー|席に着けー=Quiet down and take your seats!
 あれ？|シュタイン博士じゃないんだ=Huh? No Professor Stein?
-よーし　では課外授業の説明を始めるぞ|最近　鬼神の卵と化した魂を持つ者どもの|行動がおかしい　という報告がある=Good. Alright, I'm going to explain the extracurricular class. There have been reports of unusual behavior by the kishin egg bearers recently.
+よーし　では課外授業の説明を始めるぞ|最近　鬼神の卵と化した魂を持つ者どもの|行動がおかしい　という報告がある=Alright, let's start. There have been reports of unusual behavior by the kishin egg bearers recently.#must be kept short
 やっぱり|ここんとこのことも関係あるのかな=I bet this has something do to with that rumor.
 だろうな=Probably.
 ヤツラは本来|単独行動を好むはずだが|どうやら協力し合っているフシがある=By nature, they tend to act alone, but they've begun to cooperate somehow.
@@ -821,17 +822,16 @@
 じゃあ|この事件の　調査は誰が・・・=So who will be investigating this case?
 これって　さっき話してた・・・=Isn't that the one from the rumor?
 ああ|っぽいな=Yeah. Think so.
-えっ！|・・・マジで=What!? ... Really?
+えっ！|・・・マジで=What!? ...Really?
 おい=Yeah.
 よし|そこのゴチャゴチャうるさい　お前達|行って調査してきてくれ=Thank you for volunteering for this investigation, you bunch of chatterboxes.
-！|えぇ～=! What!?
+！|えぇ～=What!?
 あぁ！|えぇ～=Wait! What?
 ！|でぇ～=! Hey!
-！|えぇ～=! What!?
+！|えぇ～=What!?
 ！|ぃやぁ～=! Nooo!
 ！|ひょ～♪=! Hahaha♪
-！|えぇ～=! What!?
-・・・聞いてビビるなよ=I was afraid he'd say that.
+！|えぇ～=What!?
 !FILE:EV0200_201.bscr
 遅いぞー|すぐ出発してくれ=You're late, so get out there already!
 !FILE:EV0200_202.bscr
@@ -1049,24 +1049,24 @@
 ヒックシ！ヒックシ！=Achoo! Achoo!
 カゼでもひいたのかよ|ブラック☆スター？=You catching a cold there, Black☆Star?
 ちげェよ　スターである俺様を|小物達が噂でもしてんだろ！=No way! This always happens when the extras gossip about the star of the show!
-お前達　俺様の噂をしなかったか？=It's not you two doing the gossip, is it?
+お前達　俺様の噂をしなかったか？=It's not you two doing the gossip,|is it?
 さぁ　記憶にねェなあ？=I don't remember doing any gossiping.
-そんなことしたかしら？=I did mention him. Could it really be because of that?
+そんなことしたかしら？=I wonder if I said anything?
 !FILE:EV0220_086.bscr
-お前達　俺様の噂をしなかったか？=It's not you two doing the gossip, is it?
+お前達　俺様の噂をしなかったか？=It's not you two doing the gossip,|is it?
 さぁ　記憶にねェなあ？=I don't remember doing any gossiping.
-そんなことしたかしら？=I did mention him. Could it really be because of that?
+そんなことしたかしら？=I wonder if I said anything?
 !FILE:EV0220_092.bscr
 先生　私達がお手伝い|できそうなこと何かありませんか？=Sid, do you have anything you could use our help with?
-すまないが|今は手ごろなのがない|またの機会にしてくれ！=I'm sorry, but I don't have anything for you right now. Give me another chance some other time!
+すまないが|今は手ごろなのがない|またの機会にしてくれ！=I'm sorry, but I don't have anything for you right now. Come back another time!
 そうですか・・・わかりました=That's fine. We'll try again some other time.
 なぁ　先生　俺の相棒に|変なことを吹き込むのは|やめてもらえねェかな！？=By the way, Sid. You think you could stop giving Maka all those weird ideas!?
 変なこと　さて・・・|マカにそんな事を|言った覚えはないぞ！=Weird ideas... I don't recall giving her any weird ideas!
-ところでソウル|いつがいいのだ|俺の健康法を知りたいだろう？=Oh! Before I forget, just let me know whenever you're ready to give it a try. You did want to hear about my wellness routine, right?
-はぁ　なんだそれ|初耳だぜ　先生！？=Huh? Your wellness routine? This is the first time I'm hearing about that!
+ところでソウル|いつがいいのだ|俺の健康法を知りたいだろう？=Oh! Before I forget, just let me know whenever you want me to go over my wellness routine with you.#must be kept short
+はぁ　なんだそれ|初耳だぜ　先生！？=Huh? Your wellness routine? This is the first I've heard of it!
 ははは・・・|色々あったのよ=Hehehe... There was that idea...
 !FILE:EV0220_096.bscr
-ところでソウル|いつがいいのだ|俺の健康法を知りたいだろう？=Oh! Before I forget, just let me know whenever you're ready to give it a try. You did want to hear about my wellness routine, right?
+ところでソウル|いつがいいのだ|俺の健康法を知りたいだろう？=Just let me know whenever you want me to go over my wellness routine with you.
 !FILE:EV0220_102.bscr
 デスサイズ！|俺の相棒に変なことを|吹き込んだのは　お前か！=Death Scythe! Are you the one who's been putting all those weird ideas in Maka's head!?
 ・・・・・・・・・=.........
@@ -1095,7 +1095,7 @@
 赤ちゃん|それは　チョットひどくない！？=I am NOT like a child!
 さて・・・マカにですか・・・|記憶にないのですが・・・=Maka, you say... I have no recollection of doing such things... Not with her...
 そんなことよりも|再手術の決心は|ついたのですか？=Now the real question at hand. Have you decided to go back under the knife?
-ちょっと待てよ！健康法を|教えてもらうことになってたり・・・|再手術されることになってたり・・・=Whoa, wait a sec! First it was Sid's wellness routine. And now we're talking about more surgery?
+ちょっと待てよ！健康法を|教えてもらうことになってたり・・・|再手術されることになってたり・・・=Whoa, wait a sec! First it was Sid's wellness routine, and now we're talking about more surgery?
 俺が検査を受けている間に|一体何があったんだよ！=What the hell were you up to while I was getting my check-up!?
 ははは・・・|色々あったのよ=Hehehe... There was that idea...
 ところで先生　私達が|お手伝いできそうなことって|何かありませんか？=By the way, professor, is there anything you could use our help with?
@@ -1108,10 +1108,10 @@
 お礼になってねェよ！|お前も何とかいってくれよ！=What are you talking about!? That's no way to thank someone!
 検査だけって|約束してくれますか=You promise it'll be a normal check-up and nothing else?
 ええ　約束します|可能な限りガマンします=Yes, I will show the utmost restraint. You have my word.
-わかりました博士|ソウルをお願いします！=Deal, professor. Soul, please!
+わかりました博士|ソウルをお願いします！=Deal, Professor. Soul, please!
 おい　俺抜きで|話を進めるなよ！=Hey, don't I get a say in this!?
 それに今日　メデューサ先生に|検査してもらったけど|問題ねェって言ってたぜ！=Besides, Dr. Medusa already examined me today, and she said there was nothing wrong!
-いえ　一人で診察するよりも|複数でするほうが|間違える可能性が低くなります=I understand, but we'll be less likely to miss something with a second set of eyes examining you.
+いえ　一人で診察するよりも|複数でするほうが|間違える可能性が低くなります=I understand, but we'll be less likely to miss anything if a second set of eyes examines you.
 これは　あなたのためでも|あるんですよ♪=I assure you this is for your own good♪
 言ってることは正しいんだろうけどな|なんで　そこで笑うんだよ|ぜんぜん信用できねェ=You're probably telling the truth, but how am I supposed to have faith in you with that creepy grin of yours?
 これから検査をはじめますので|退室してください=We're going to begin the examination, so please step out of the room, Maka.
@@ -1130,7 +1130,7 @@
 シュタインなら大丈夫だ|俺のような健康体にしてくれるだろう！=He's in good hands with Stein. He'll give him a nice, healthy body like mine!
 !FILE:EV0220_152.bscr
 マカだ～～♪|一人でどうしたの？=Makaaaa♪ What are you doing all alone?
-ソウルの検査を博士に|お願いしたのよ・・・大丈夫よね・・・=I asked the professor to give Soul a check-up. He'll be all right, right?
+ソウルの検査を博士に|お願いしたのよ・・・大丈夫よね・・・=I asked the professor to give Soul a check-up. He'll be all right, won't he?
 ・・・・・・・・・=.........
 ふえぇ|なんで　黙っちゃうのかな？=Ummm. Why'd you get all quiet?
 !FILE:EV0220_155.bscr
@@ -1150,12 +1150,12 @@
 やっぱり私　早まったわ・・・|博士にソウルを差し出すなんて|どうかしてたとしか思えない！=What was I thinking? I served him up on a silver operating table!
 助けに行かなきゃ　ソウルを！|待っててちょうだい！！=I have to go save him! Hold on just a little longer, Soul!!
 !FILE:EV0220_170.bscr
-ぼうォ！=Waooh!
+ぼうォ！=Whu--!?
 キャア！|ごめんなさいっ・・・=Aah! Sorry...!
-違う！違う！こんな恥じらいを|みせるために来たんじゃない=No! No! I didn't come just to get shy and embarrassed.
+違う！違う！こんな恥じらいを|みせるために来たんじゃない=No! No! I didn't come all this way just to get shy and embarrassed.
 ソウル　大丈夫なの！|博士に変なことされてない！？=Soul, are you all right!? Did the professor do anything weird!?
 俺を博士に引き渡した|極悪人がようやく登場か=So the vile fiend that handed me over to the professor has finally shown her face?
-検査の結果なら博士に聞いてくれよ|ため息ばっかで教えてくれねェんだ=If you're curious about the results, you'll have to ask the professor. He just sighed when I asked him.
+検査の結果なら博士に聞いてくれよ|ため息ばっかで教えてくれねェんだ=If you're curious about the results, you'll have to ask the professor.|He just sighed when I asked him.
 ん・・・=Hm...
 検査はどうだったんですか=Did you find anything?
 おもしろくありません|どこも悪いところは|ありませんでした・・・=Nothing interesting. There's nothing wrong with him at all...
@@ -1164,7 +1164,7 @@
 !FILE:EV0220_176.bscr
 おもしろくありません|どこも悪いところは|ありませんでした・・・=Nothing interesting. There's nothing wrong with him at all...
 !FILE:EV0220_177.bscr
-博士　ありがとうございます|よかったわねソウル！=Thank you, professor. Isn't this great, Soul?
+博士　ありがとうございます|よかったわねソウル！=Thank you, Professor.|Isn't this great, Soul?
 今回のことで売られていく|子馬の気持ちがわかったぜ・・・=Now I know how an old horse feels when it gets sold to the glue factory.
 ・・・・・・・・・=.........
 あの子達に|嘘をつくのは　これで|２回目ですか・・・=That's the second time I've lied to those children...
@@ -1321,24 +1321,24 @@
 おい　あんな所に|キッドがいるぞ！=Hey, that's Kid over there!
 え　ほんと？|どこに？=Huh? Really? Where?
 設計図なんか広げて|何やってんだ？=Is that a blueprint he's looking at? What's he doing?#Doesn't seem to be used in the game.
-ちょっとだけ気になるわね=I've got a bit of a bad feeling about it.
-おいおい|何やってんだ　アイツ！=Wait! What's he doing?
+ちょっとだけ気になるわね=I've got a bad feeling about this.
+おいおい|何やってんだ　アイツ！=Wait! What's he doing?#not used
 !FILE:EV0222_005.bscr
 そんなことより|この後　何するんだよ？=Anyway. What're we doing now?
-!FILE:EV0222_006.bscr#Need to test talking to Soul again after the previous dialogue.
-設計図なんか広げて|何やってんだ？=Is that a blueprint he's looking at? What's he doing?
-ちょっとだけ気になるわね=I've got a bit of a bad feeling about it.
+!FILE:EV0222_006.bscr
 おい　あんな所に|キッドがいるぞ！=Hey, that's Kid over there!
+ちょっとだけ気になるわね=I've got a bad feeling about this.
+設計図なんか広げて|何やってんだ？=Is that a blueprint he's looking at? What's he doing?
 !FILE:EV0222_012.bscr
-なんか最近|正面玄関前あたりが|荒れてねェか？=The area around the main entrance has been looking really run down lately, huh?
+なんか最近|正面玄関前あたりが|荒れてねェか？=The area around the main entrance|has been looking really run down lately, huh?
 どうせアンタが|壊してるんでしょ？=Maybe because you went through and wrecked the place?
 わざわざあんなチンケな所を|狙って壊すわけねェだろ！=There's no way I'd go out of my way to just to wreck such a boring spot!
 俺様みたいなスターに|そんな時間があるかよ！=Do you really think a star as big as me has the time for that!?
 いつも狙って壊してた|わけじゃなかったのかよ・・・=But you're constantly going there to wreck everything.
 それは意外だったわ|ブラック☆スター=You can't really blame us for thinking it was you, Black☆Star.
-でも　正面玄関前って|キレイになってたような気がした|けど誰かが直してくれたのかな？=Although, now that I think about it, the main entrance looked like it was pretty clean. Someone must have cleaned and repaired everything.
+でも　正面玄関前って|キレイになってたような気がした|けど誰かが直してくれたのかな？=But now that I think about it, the entrance actually looked pretty clean. Someone must have repaired it.
 !FILE:EV0222_016.bscr
-なんか最近|正面玄関前あたりが|荒れてねェか？=The area around the main entrance has been looking really run down lately, huh?
+なんか最近|正面玄関前あたりが|荒れてねェか？=The area around the main entrance|has been looking really run down lately, huh?
 !FILE:EV0222_020.bscr#The lines in this conversation aren't in the proper order. As well, lines 1346 - 1348 don't appear to be used at all.
 うむ　一休み|することにしよう=All right, break time.
 何してたんだ　キッド？=What are you doing, Kid?
@@ -5936,7 +5936,7 @@
 誰を誘おうかしら？=I wonder who we should invite?
 おい　マカ|ブラック☆スター達がいるぞ・・・=Hey, Maka, it's Black☆Star and Tsubaki...
 おい　マカ|キッド達がいるぞ・・・=Hey, Maka, it's Kid's team...
-うわっ！|・・・ひでぇ=Wah! ... Not cool.
+うわっ！|・・・ひでぇ=Wah! ...Not cool.
 決まりね|誘って一緒に行きましょう！=It's settled. We'll invite them to come along!
 !FILE:EV0981_700.bscr
 ようやく|この部屋に入れるようになったな|マカ=Well, we were finally able to get in this room, eh Maka?
@@ -5972,7 +5972,7 @@
 !FILE:EV0988_100.bscr
 お前達に手伝って|ほしい内容は　これだ=Here's what I would like your help with.
 !FILE:EV0988_101.bscr
-君達の実力ならば|苦戦することもないと思いますよ=I don't believe this should be a struggle for you if you use your full power.
+君達の実力ならば|苦戦することもないと思いますよ=I don't believe this should be a struggle for you if you use your|full power.
 !FILE:EV0988_102.bscr
 マカだったら|安心して頼めるね♪=I have full confidence entrust you with this, Maka♪
 !FILE:EV0988_103.bscr
@@ -6707,20 +6707,21 @@
 おい　リズ|さっきの噂ってなんだよ？=Hey, Liz. What's this new rumor going around?
 噂？|何の噂だ　リズ？=A rumor? What rumor, Liz?
 あ？|あ～　朝のアレ？=What? Oooh! The thing from this morning?
+・・・聞いてビビるなよ=Don't freak out when you hear this.
 おっ　なんだ|おもしろそーじゃねぇか|俺様にも聞かせろ！=Huh? What are we talking about? Sounds interesting. I want to hear it too!
 どんな噂なの？=So what's this rumor about?
-ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town that attacks people night after night.
-たいしたことねーじゃん=I don't buy it.
+ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town and it attacks people night after night.
+たいしたことねーじゃん=I don't buy that.
 襲われるのは|美しい娘ばっかりだってさ=And it like, only attacks beautiful young women.
 い～やぁ～　コワい～！|一人で　あるけない～！=Hyaaaa! Scary! There's no way I'm walking alone tonight!
-きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked, huh sis?
+きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh sis?
 お前さ・・・=You... Never mind.
 あっ|その話　私も聞きました=I heard the same thing actually.
 何人かの職人が|その犯人を　追いかけたらしいんですが|いつも見失ってしまう　って=For some reason, they always lose sight of the culprit no matter how many meisters are pursuing it.
 ふ～ん=Hmm.
 静かにしろー|席に着けー=Quiet down and take your seats!
 んあ？|博士じゃねぇのか？=Huh? You aren't the professor.
-よーし　では課外授業の説明を始めるぞ|最近　鬼神の卵と化した魂を持つ者どもの|行動がおかしい　という報告がある=Good. Alright, I'm going to explain the extracurricular class. There have been reports of unusual behavior by the kishin egg bearers recently.
+よーし　では課外授業の説明を始めるぞ|最近　鬼神の卵と化した魂を持つ者どもの|行動がおかしい　という報告がある=Alright, let's start. There have been reports of unusual behavior by the kishin egg bearers recently.#must be kept short
 やっぱり|ここのところの事件に関係が・・・=That rumor is probably related, but...
 腹でも　下したんじゃねぇか？=Kind of makes you sick to your stomach, right?
 ヤツラは本来|単独行動を好むはずだが|どうやら協力し合っているフシがある=By nature, they tend to act alone, but they've begun to cooperate somehow.
@@ -6729,17 +6730,16 @@
 じゃあ|この事件の　調査は誰が・・・=So who will be investigating this case?
 これって　さっき話してた・・・=Isn't that the one from the rumor?
 ああ|っぽいな=Yeah. Think so.
-えっ！|・・・マジで=What!? ... Really?
+えっ！|・・・マジで=What!? ...Really?
 おい=Yeah.
 よし|そこのゴチャゴチャうるさい　お前達|行って調査してきてくれ=Thank you for volunteering for this investigation, you bunch of chatterboxes.
-！|えぇ～=! What!?
+！|えぇ～=What!?
 あぁ！|えぇ～=Wait! What?
 ！|でぇ～=! Hey!
-！|えぇ～=! What!?
+！|えぇ～=What!?
 ！|ぃやぁ～=! Nooo!
 ！|ひょ～♪=! Hahaha♪
-！|えぇ～=! What!?
-・・・聞いてビビるなよ=I was afraid he'd say that.
+！|えぇ～=What!?
 !FILE:EV1200_500.bscr
 なるほど・・・　で|代表してお前達が　報告にきたんだな？=I see... Are you here to report on the mission?
 はい=Yes!
@@ -12481,20 +12481,21 @@
 おい　リズ|さっきの噂ってなんだよ？=Hey, Liz. What's this new rumor going around?
 噂？|何の噂だ　リズ？=A rumor? What rumor, Liz?
 あ？|あ～　朝のアレ？=What? Oooh! The thing from this morning?
+・・・聞いてビビるなよ=Don't freak out when you hear this.
 おっ　なんだ|おもしろそーじゃねぇか|俺様にも聞かせろ！=Huh? What are we talking about? Sounds interesting. I want to hear it too!
 どんな噂なの？=So what's this rumor about?
-ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town that attacks people night after night.
-たいしたことねーじゃん=I don't buy it.
+ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town and it attacks people night after night.
+たいしたことねーじゃん=I don't buy that.
 襲われるのは|美しい娘ばっかりだってさ=And it like, only attacks beautiful young women.
 い～やぁ～　コワい～！|一人で　あるけない～！=Hyaaaa! Scary! There's no way I'm walking alone tonight!
-きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked, huh sis?
+きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh sis?
 お前さ・・・=You... Never mind.
 あっ|その話　私も聞きました=I heard the same thing actually.
 何人かの職人が|その犯人を　追いかけたらしいんですが|いつも見失ってしまう　って=For some reason, they always lose sight of the culprit no matter how many meisters are pursuing it.
 ふ～ん=Hmm.
 静かにしろー|席に着けー=Quiet down and take your seats!
-ありりぃ？|シュタイン博士じゃないよぉ？=Wait a sec'. That's not Professor Stein, is it?
-よーし　では課外授業の説明を始めるぞ|最近　鬼神の卵と化した魂を持つ者どもの|行動がおかしい　という報告がある=Good. Alright, I'm going to explain the extracurricular class. There have been reports of unusual behavior by the kishin egg bearers recently.
+ありりぃ？|シュタイン博士じゃないよぉ？=Wait a sec', that's not Professor Stein?
+よーし　では課外授業の説明を始めるぞ|最近　鬼神の卵と化した魂を持つ者どもの|行動がおかしい　という報告がある=Alright, let's start. There have been reports of unusual behavior by the kishin egg bearers recently.#must be kept short
 やっぱり|ここんとこのことも関係してんのかな=Could that be related to the rumor?
 ああ|どうやら　ありそうだな=Yeah. It would seem so.
 ヤツラは本来|単独行動を好むはずだが|どうやら協力し合っているフシがある=By nature, they tend to act alone, but they've begun to cooperate somehow.
@@ -12503,17 +12504,16 @@
 じゃあ|この事件の　調査は誰が・・・=So who will be investigating this case?
 これって　さっき話してた・・・=Isn't that the one from the rumor?
 ああ|っぽいな=Yeah. Think so.
-えっ！|・・・マジで=What!? ... Really?
+えっ！|・・・マジで=What!? ...Really?
 おい=Yeah.
 よし|そこのゴチャゴチャうるさい　お前達|行って調査してきてくれ=Thank you for volunteering for this investigation, you bunch of chatterboxes.
-！|えぇ～=! What!?
+！|えぇ～=What!?
 あぁ！|えぇ～=Wait! What?
 ！|でぇ～=! Hey!
-！|えぇ～=! What!?
+！|えぇ～=What!?
 ！|ぃやぁ～=! Nooo!
 ！|ひょ～♪=! Hahaha♪
-！|えぇ～=! What!?
-・・・聞いてビビるなよ=I was afraid he'd say that.
+！|えぇ～=What!?
 !FILE:EV2200_500.bscr
 なるほど・・・　で|代表してお前達が　報告にきたんだな？=I see... Are you here to report on the mission?
 うん！=Yep!
@@ -18522,7 +18522,7 @@
 みなはなぜ|備品の乱れが気にならんのだ？=How can everyone act so nonchalant when something's out of order?
 こういう所から|キッチリカッチリしなければ|いけないということが　わからんのか？=Do they not understand that everything must be absolutely perfect and symmetrical?
 俺はいっそ一人のほうが|すがすがしい！=It's kind of refreshing to be alone...#seen
-リズとパティどちらか一人だと|シンメトリーではなくなってしまうからな=If I were alone with only one of the sisters, it wouldn't be symmetrical at all.
+リズとパティどちらか一人だと|シンメトリーではなくなってしまうからな=If I were alone with only one of the sisters, it wouldn't be symmetrical|at all.
 魔剣に魔眼・・・|どうも最近　死武専の|周りが騒がしいようだ=That Demon Eye and the Demon Sword... There's been a lot of ruckus around the DWMA recently...#seen
 お互いに　充分気をつけねばならんな=We need to all work together to keep everyone safe.
 今のお前達には|他にやるべき事があるだろう！|さっさと本分に戻れ！！=I know you guys have something else you're supposed to be doing right now, so go and get it done!!
@@ -18628,7 +18628,7 @@
 最近はすごく物騒になったのよ・・・=I've been a little on edge lately...#seen
 保健室の利用者が多いから|よくわかるわ=Which is normal with all the patients I've had in the infirmary.
 全部同じに見えるけど|白衣って意外と奥が深いのよ♪=They all look the same at first glance, but laboratory coats can be surprisingly varied♪#seen
-今日の白衣は|ちょっと小悪魔風にしてみたけど|どうかしら？=As for the coat I'm wearing today, I was going for a temptress look.|How'd I do?
+今日の白衣は|ちょっと小悪魔風にしてみたけど|どうかしら？=As for the coat I'm wearing today, I was going for an enchantress look.|How'd I do?
 死神様って|どうして死武専付近にしか|現れないのかしら？=I wonder why I only ever see Lord Death around the DWMA.#seen
 もし　事情を知るようなことがあったら|私に教えてちょうだい♪=I'm dying to know, so if you come across any clues, don't forget to|fill me in, okay♪?
 私の顔って|結構きついって言われてるの・・・|まるでヘビみたいって・・・=I've heard my face can be rather sharp... Almost snake-like...#seen
@@ -18671,8 +18671,8 @@
 今日はとてもよい|魂の輝きをしていますね=They have such a glow about them today.
 もしよかったら|俺の研究に付き合って|もらえませんか？=If you don't mind, I'd like your help with a little experiment of mine.#seen – edited to make it more apparent it's not actually a game event, but just Stein being creepy.
 俺はツギハギ研究所で|待っています　学校が|終わったらきてください=I'll be waiting at the Patchwork Lab. Why don't you stop by once school is over～?
-学生課には|おばちゃんがいます=Auntie is in the Student Affairs Office.
-掲示板から腕試しをする際には|おばちゃんが色々と|サポートしてくれるはずです=Auntie will be able to aid you if you ever want to take on any missions from the Mission Bulletin.
+学生課には|おばちゃんがいます=Auntie is in the Student Affairs Office.#seen
+掲示板から腕試しをする際には|おばちゃんが色々と|サポートしてくれるはずです=She'll be able to aid you if you ever want to take on any missions from the Mission Bulletin.
 あっ　すみません|今はクローズ|されているのでしたね・・・=Ah! My apologies. It's closed for the time being...
 ソウルの胸の傷は|大丈夫なのでしょうか？=And how is that chest wound of yours, Soul?
 俺も問題はないと思うのですが|執刀医としては少し気になるのです=I don't believe you have anything to worry about, but as a surgeon, I can't help but to be a little concerned.
@@ -18704,10 +18704,10 @@
 !FILE:EV9967_111.bscr
 こんな所で何をしているのだ！|今のお前達には|やるべきことが他にあるだろう！？=What are you doing around here!? I know you have something you're supposed to be doing right now!
 !FILE:EV9967_120.bscr
-申し訳ないのですが|私は忙しいのです=Not to be rude, but I'm very busy.
+申し訳ないのですが|私は忙しいのです=Not to be rude, but I'm very busy.#seen
 次の試験で首位を奪還するため|勉学に励まなければならないのです=You'll need to really hit the books if you expect to get your top spot back on the next exam.
 屋内では私は|ただのガリ勉かもしれません・・・=Indoors I might be a bit of a bookworm...
-ただし　外での私は違います|いずれその姿を|ハッキリとお見せする機会があるでしょう=But I'm a different person in the field. One of these days you'll get to see that side of me is really like.#must be kept short
+ただし　外での私は違います|いずれその姿を|ハッキリとお見せする機会があるでしょう=But I'm a different person in the field. One of these days you'll get to see what that side of me is really like.#must be kept short
 この髪型については|今は語らないでおきましょう=Don't ask me about my hairstyle right now.
 いつか|その理由を話す時がくるかもしれませんね=Maybe someday I'll be able to tell you the reason behind it...
 おや|こんな所にいてもいいのですか？=Um, are we allowed to be here?
@@ -19598,7 +19598,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 5 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
-校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA's equipment.
+校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
@@ -19612,14 +19612,14 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teトライアル訓練の心得=%_teTrial Practice Guide
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
-%_te指令『危険物の回収』=%_teOrders: Recover Hazardous Materials
-危険物指定の%_dc[0,196,0]太陽石%_dc[199,133,84]が|西地区に落下しました|捜索回収してください=A few %_dc[0,196,0]Sun Stones %_dc[199,133,84]have fallen in the western sector and have been designated as hazardous. Please locate and retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]that have been designated as hazardous!
+%_te指令『危険物の回収』=%_teHazardous Material
+危険物指定の%_dc[0,196,0]太陽石%_dc[199,133,84]が|西地区に落下しました|捜索回収してください=A few %_dc[0,196,0]Sun Stones %_dc[199,133,84]fell|in the western sector. Please retrieve them.
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous! Take it on if you dare!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te補修備品の調達=%_teEquipment Repairs
-校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA's equipment.
+校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge|%_dc[199,133,84]during transport. Could you get it back?
@@ -19630,8 +19630,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teデスドールを退治せよ！=%_teEliminate the Death Dolls!
 暴走した訓練用人形|%_dc[196,0,0]デスドール%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=The practice dummies are on a rampage! Defeat %_dc[0,0,196]10 %_dc[196,0,0]Death Dolls%_dc[199,133,84]!
 デスドール%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]10 %_dc[196,0,0]Death Dolls%_dc[199,133,84]!
-%_te怪人事件を調査せよ！=%_teInvestigate the Phantom Case!
-夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain and expose the true identity of the rumored phantom that has been assaulting beautiful women every night!
+%_te怪人事件を調査せよ！=%_teFind the Phantom!
+夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat the evil-doer!
 %_teトライアル訓練の心得=%_teTrial Practice Guide
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
@@ -19654,8 +19654,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te魔女の道具を探せ！=%_teSearch for the Witches' Apparatus
 怪しげな魔法のモトになる|という%_dc[0,196,0]水晶の欠片%_dc[199,133,84]を|回収してきてくれ！=Go and recover the suspicious %_dc[0,196,0]Crystal Shard %_dc[199,133,84]that acts as a catalyst for the witches' magic!
 水晶の欠片%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Crystal Shard%_dc[199,133,84]!
-%_te怪人事件を調査せよ！=%_teInvestigate the Phantom Case!
-夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain and expose the true identity of the rumored phantom that has been assaulting beautiful women every night!
+%_te怪人事件を調査せよ！=%_teFind the Phantom!
+夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat the evil-doer!
 %_teトライアル訓練の心得=%_teTrial Practice Guide
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
@@ -19670,7 +19670,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious Kishin Egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
-校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the school's equipment.
+校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
@@ -19678,8 +19678,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge|%_dc[199,133,84]during transport. Could you get it back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
-%_te怪人事件を調査せよ！=%_teInvestigate the Phantom Case!
-夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain and expose the true identity of the rumored phantom that has been assaulting beautiful women every night!
+%_te怪人事件を調査せよ！=%_teFind the Phantom!
+夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat the evil-doer!
 %_te抜き打ち実技試験！=%_tePop Quizz!
 自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! Anything below a B rank won't do!!
@@ -19699,9 +19699,9 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] training dummies that have escaped from the DWMA! 
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
-%_te危険物の回収=%_teRetrieve the Hazardous Materials
+%_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]that have been designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
 %_teシド先生からのSOS！=%_teSOS from Sid!
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
@@ -19709,7 +19709,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! Anything below a B rank won't do!!
 敵を全て倒せ！=Defeat all enemies!
 %_te補修備品の調達=%_teEquipment Repairs
-校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA's equipment.
+校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
@@ -19720,9 +19720,9 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] training dummies that have escaped from the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
-%_te危険物の回収=%_teRetrieve the Hazardous Materials
+%_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]that have been designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
 %_te連続殺人魔を退治せよ！=%_teEliminate the Bloodthirsty Killer!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ソンソンＪ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 ソンソンＪ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
@@ -19747,9 +19747,9 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専からノラ人形が|%_dc[0,0,196]４０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]40 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies within the time limit!
-%_te危険物の回収=%_teRetrieve the Hazardous Materials
+%_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]that have been designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
 %_teシド先生からのSOS！=%_teSOS from Sid!
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
@@ -19786,9 +19786,9 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
-%_te危険物の回収=%_teRetrieve the Hazardous Materials
+%_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]! Retrieve them posthaste!
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]that have been designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
 %_te迷惑ドッグを退治せよ！=%_teEliminate the Pesky Dogs!
 停電被害の報告殺到！|%_dc[196,0,0]マッドフント%_dc[199,133,84]%_dc[0,0,196]１５%_dc[199,133,84]匹を|すみやかに倒せ！=Numerous Reports of Power Outages! Hurry and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 制限時間内に|%_dc[196,0,0]マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds %_dc[199,133,84]within the time limit!
@@ -19816,9 +19816,9 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
-%_te危険物の回収=%_teRetrieve the Hazardous Materials
+%_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]! Retrieve them posthaste!
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]that have been designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
 猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
