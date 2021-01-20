@@ -802,11 +802,11 @@
 ・・・聞いてビビるなよ=Don't freak out when you hear this.
 おっ　なんだ|おもしろそーじゃねぇか|俺様にも聞かせろ！=Huh? What are we talking about? Sounds interesting. I want to hear it too!
 どんな噂なの？=So what's this rumor about?
-ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town and it attacks people night after night.
+ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town, and it attacks people night after night.
 たいしたことねーじゃん=I don't buy that.
 襲われるのは|美しい娘ばっかりだってさ=And it like, only attacks beautiful young women.
 い～やぁ～　コワい～！|一人で　あるけない～！=Hyaaaa! Scary! There's no way I'm walking alone tonight!
-きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh sis?
+きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh, sis?
 お前さ・・・=You... Never mind.
 あっ|その話　私も聞きました=I heard the same thing actually.
 何人かの職人が|その犯人を　追いかけたらしいんですが|いつも見失ってしまう　って=For some reason, they always lose sight of the culprit no matter how many meisters are pursuing it.
@@ -1175,11 +1175,11 @@
 どうしたブレア|俺に何か用なのか？=What's up, Blair? You need me for something?
 今は　マカに用事があるの|ソウル君はいらにゃいの=I don't need you. Actually, I was looking for Maka.
 マカが一番ほしいものを|おしえにゃさい！=Maka, I've got to know! What do you desire most?
-一番　欲しいものね|・・・思いつかないわ=What do I desire most...? Nothing comes to mind.
+一番　欲しいものね|・・・思いつかないわ=Something I desire most...?|Nothing comes to mind.
 あのね　前は|お金をくれたんだけど=Come on. He was giving me money before, but...
 ブーたん　それで|変なものを買ったから|今度はくれにゃいの=Now he's holding out on Blair 'cause I bought something a little weird.
 だからマカが|教えてくれにゃいと|困っちゃうの♪=So you have to tell me, or it'll be the cat in the doghouse♪
-デスサイズに|頼まれたのか・・・=Did Spirit put you up to this?
+デスサイズに|頼まれたのか・・・=Did Death Scythe put you up to this?
 ばれちゃった・・・パパさん|ブーたんを怒るかにゃ？=I guess the meister's out of the bag... Papa Albarn is gonna be furious with me.#Not sure if this pun comes across when written.
 大丈夫よ|私がパパに言っておくから=Don't worry. I'll have a talk with Papa.
 !FILE:EV0221_006.bscr
@@ -1192,9 +1192,9 @@
 直接　デスサイズが聞きにきたら|どうするつもりだ？=If he came and asked you directly, what would you do?
 その日の気分にもよるけど|多分　無視しちゃうと思う=It would depend on my mood, but I think I'd probably ignore him.
 そうだ　あんたが|パパにガツンと言ってきてよ！=I have an idea. You can go and give Papa a good talking to!
-なんで　俺なんだよ|直接いかないのは|ズルイんじゃねぇのかよ！？=What? Why me? Weren't you just calling him a weasel for not going to you directly!?
+なんで　俺なんだよ|直接いかないのは|ズルイんじゃねぇのかよ！？=What? Why me? Weren't you just calling him a weasel for not going|to you directly!?
 それは　時と場合によると思うわ|お願いしたわよソウル=I'm pretty sure it depends on the situation. Thanks, Soul.
-ったく　しょうがねェなぁ・・・|うちのご主人様は・・・=How did I get dragged into this? Some friend she is.
+ったく　しょうがねェなぁ・・・|うちのご主人様は・・・=How did I get dragged into this?|Some friend she is.
 !FILE:EV0221_012.bscr
 お前の作戦は|マカにバレたぜ=Maka knows about your new strategy.
 やっぱりブレアちゃんに|頼んだのは失敗だったか・・・|マカ　怒ってたか？=I should have known asking Blair was a huge mistake. Is Maka angry?
@@ -1202,29 +1202,29 @@
 あぁ・・・俺はマカにプレゼントを|したいだけなのに・・・それすら|かなわないのか・・・=*Sigh* All I want is to give her a present. Is that really so bad?
 俺が協力してやるよ|今回のマカは|あんまりイコジすぎると思うからな=I think Maka's being a little too stubborn, so I'm gonna help you out this time.
 俺は今　はじめて|お前がいいヤツだと思っている=Deep down I always knew you were a good kid, Soul.
-じゃあ　それとなく|マカの欲しいものを聞き出して|お前に知らせるぜ！=Okay, I'll find a way to sneak the question in. And once I know what she wants, you'll know!
+じゃあ　それとなく|マカの欲しいものを聞き出して|お前に知らせるぜ！=Okay, I'll find a way to sneak the question in. And once I know what|she wants, you'll know!
 !FILE:EV0221_015.bscr
 頼んだぜ　ソウル！=Thanks a ton, Soul!
 !FILE:EV0221_016.bscr
 俺は今　はじめて|お前がいいヤツだと思っている=Deep down I always knew you were a good kid, Soul.
-じゃあ　それとなく|マカの欲しいものを聞き出して|お前に知らせるぜ！=Okay, I'll find a way to sneak the question in. And once I know what she wants, you'll know!
+じゃあ　それとなく|マカの欲しいものを聞き出して|お前に知らせるぜ！=Okay, I'll find a way to sneak the question in. And once I know what|she wants, you'll know!
 !FILE:EV0221_017.bscr
 パパにガツンと|言ってくれた？=Did you let him have it?
-お　おう　もちろんだぜ・・・って|お前つけてただろ？=Y-Yeah. Of course... I knew it. You were watching to make sure I did it.
+お　おう　もちろんだぜ・・・って|お前つけてただろ？=Y-Yeah. Of course...|Wait, I knew it. You were watching to make sure I did it, weren't you?
 あら　気のせいじゃない？=What? No, you're imagining things.
 そんなことよりも聞いていいかな？=Whatever. Can I ask you something?
 別にかまわねェよ|何を聞きてェんだ？=Sure. What did you want to know?
 ねぇ　ソウルは|何が一番欲しいのかな？=Well, what do you desire most, Soul?
-はぁ？なんだよ唐突に|なんでそんなこと聞くんだよ？=Huh? What are you asking me for all of a sudden?
+はぁ？なんだよ唐突に|なんでそんなこと聞くんだよ？=Huh? What are you asking me that for all of a sudden?
 さっきブレアに聞かれたんだけど|私　答えられなかった・・・=Well, Blair asked me the same question, but I didn't have an answer...
 本当に一番欲しいものが|わからないのよ・・・=I honestly don't know what I want most.
-そんなに深刻に考えねェで|みんなに聞いてみりゃ|いいじゃねェか？=Don't give it too much thought. Although it couldn't hurt to try asking the others.
+そんなに深刻に考えねェで|みんなに聞いてみりゃ|いいじゃねェか？=Don't give it too much thought. Although, it couldn't hurt to try asking the others.
 そしたら　そのうち|お前の本当に欲しいものが|わかってくるかもよ=Then before long, maybe you'll know what it is that you really want too.
-もっとも　ブラック☆スターとキッドには|聞くだけ無駄だと思うけどな・・・=I assume it would be a total waste of time asking Kid or Black☆Star.
+もっとも　ブラック☆スターとキッドには|聞くだけ無駄だと思うけどな・・・=I assume it would be a total waste of time asking Kid or Black☆Star though.
 そうね　その二人以外の|みんなに聞いてみましょう！=Probably. We'll just ask everybody but those two!
-ナイスだぜ俺！|めちゃくちゃ自然にマカが一番欲しいものを|知ることができそうだぜ！=Nice one, Soul! Looks like it won't be so hard to figure out what she wants after all!
+ナイスだぜ俺！|めちゃくちゃ自然にマカが一番欲しいものを|知ることができそうだぜ！=Nice one, me! Looks like it won't be so hard to figure out what she wants after all!
 !FILE:EV0221_022.bscr
-なぁ　ちょっと聞くけど|お前の一番　欲しいものってなんだ？=Hey, this might seem weird, but what do you want most?
+なぁ　ちょっと聞くけど|お前の一番　欲しいものってなんだ？=Hey, this might be a weird question, but what do you wish for the most?
 ボーイフレンドが欲しい！=I want a boyfriend!
 えっと　じゃあ|他には何かあるのかな？=Right. Um. Is there maybe something else?
 ない！|紹介してくれるのか？=Nope! Are you going to introduce me to someone?
@@ -1233,7 +1233,7 @@
 !FILE:EV0221_026.bscr
 期待させておいて|何にもなしってヒドくねェか？=Don't get my hopes up if you're just going to let me down.
 !FILE:EV0221_032.bscr
-なぁ　ちょっと聞くけど|お前の一番　欲しいものってなんだ？=Hey, this might seem weird, but what do you want most?
+なぁ　ちょっと聞くけど|お前の一番　欲しいものってなんだ？=Hey, this might be a weird question, but what do you wish for the most?
 お兄ちゃん！=A big brother!
 リズがいるじゃない|お姉ちゃんじゃダメなの？=What about Liz? Is a big sister not enough?
 お姉ちゃんは|飽きちゃったの=I'm bored of having a big sister.
@@ -1258,14 +1258,14 @@
 !FILE:EV0221_047.bscr
 やぼ用を思い出したから|別行動をとらせてもらうぜ=I just remembered this thing I've got to take care of, so I've gotta go, okay?
 いいわよ別に|用が終わったら合流してね=That's fine. We'll meet up once you're done.
-大切な人がくれるプレゼントが|一番　欲しかったものになる・・・|デスサイズには絶望的だろ・・・=So what she wants most is to get a gift from someone she really cares about... Things are looking grim for Death Scythe.
+大切な人がくれるプレゼントが|一番　欲しかったものになる・・・|デスサイズには絶望的だろ・・・=So what she wants most is to get a|gift from someone she really cares about...|Things are looking grim for Death Scythe.
 ああ　気が重いけど|伝えにいくしかないのか・・・=Argh. He's gonna be crushed, but I have to tell him.
 !FILE:EV0221_051.bscr
 待ちくたびれたぜ！=I can't wait any longer!
 !FILE:EV0221_052.bscr
-さあ　マカが|一番欲しいものを教えてくれ！=Please, I need to know what Maka most desires in this world!
+さあ　マカが|一番欲しいものを教えてくれ！=Please, I need to know what Maka|most desires in this world!
 大切な人がくれるプレゼントが|一番　欲しかったものになる・・・|そう思っているようだ・・・=To get a present from someone she truly cares about... That's what she says she wants most.
-デスサイズ　後は察してくれ・・・|俺は　これ以上言えない・・・=That's all I know, Death Scythe. You'll have to figure out the rest on your own.
+デスサイズ　後は察してくれ・・・|俺は　これ以上言えない・・・=That's all I can tell you, Death Scythe. You'll have to figure out the rest on your own.
 わかったぜ　ソウル♪=I got it, Soul♪
 わかってくれたか|デスサイズ・・・=You sure? All right.
 俺はやるぜ・・・俺はやるぜ=I'll do it... Yeah, I'll do it!
@@ -1282,7 +1282,7 @@
 !FILE:EV0221_062.bscr
 それより|どうしたんだ|部屋の中で上着なんか着て？=Never mind me. Why do you have your coat on inside?
 課外授業に備えて|準備をしてたんだけど|この服には穴があいてたの=I was getting ready for an extracurricular class and everything, but my clothes have holes in them.
-さすがに恥ずかしくて|もう着れないわ・・・=I would die of embarrassment if someone saw me wearing clothes with holes.
+さすがに恥ずかしくて|もう着れないわ・・・=I would die of embarrassment if someone saw me wearing clothes|with holes.
 もう一着のほうを|メインにするしかないわね・・・=I'll have to make do like this for now.
 服なんかにゃ興味ねェと|思ってたけど・・・|マカも　女の子だな！=I didn't realize you cared so much about clothes and stuff, but... you really are a girl, aren't you, Maka!?
 ソウルが私のことを|どう思ってるのかよくわかったわ=If you didn't think I was a girl, what did you think I was?
@@ -1291,19 +1291,19 @@
 ソウルが私のことを|どう思ってるのかよくわかったわ=If you didn't think I was a girl, what did you think I was?
 !FILE:EV0221_067.bscr
 どこへ行こうと|しているのかな　マカ？=Where are you running off to, Maka?
-げっ　デスサイズ・・・=Ngh. Death Scythe...
-何の用なのパパ|忙しいから早くしてちょうだい=What do you want, Papa? I'm busy, so make it quick.
+げっ　デスサイズ・・・=Urk! Death Scythe...
+何の用なのパパ|忙しいから早くしてちょうだい=What do you want, Papa?|I'm busy, so make it quick.
 はい　マカ　コレ|パパからのプレゼント！=Okay. Here, Maka. A present from papa!
 デスサイズにしては|シックな選択だな・・・って=That's a pretty stylish choice... for Death Scythe.
 やべェ　こいつ勘違いしてる|俺の説明が遠まわしすぎたか・・・|もっとハッキリ言っときゃよかった・・・=Crap. He wasn't following at all. I must have been too subtle. I should have just come right out and said it.
 お前のプレゼントは|マカ　受けとんねェよって・・・=Maka's never going to accept your gift.
 さぁ　マカ受け取って|大切なパパからのプレゼントを・・・=What do you say, Maka? Please accept this present from your precious papa.
 これを着て|パパと一緒に踊ろう♪=Put it on and come dancing with me♪
-せめて大人な|対応をしてくれ　マカ・・・=At least react like an adult, Maka.
-いやよ　パパなんか大っ嫌い！|ダンスだって他の女の人と|踊ればいいじゃない！=No way. I hate you papa! Why don't you just dance with some other woman!?
+せめて大人な|対応をしてくれ　マカ・・・=At least react like an adult, Maka!
+いやよ　パパなんか大っ嫌い！|ダンスだって他の女の人と|踊ればいいじゃない！=No way. I hate you Papa! Why don't you just dance with some other woman!?
 ああ・・・=Urggh...
 ・・・・・・・・・=.........
-おい　マカ　もっと言い方を・・・=Yo, Maka, don't you think you should...
+おい　マカ　もっと言い方を・・・=Yo, Maka, don't you think you should--
 でも　このドレス|ううん　この服は・・・=Although, this dress... And my clothes...
 課外授業で着ていく|服が破けちゃったから|もらってあげる！=Since the clothes I wear during the extracurricular classes are getting worn out, I'll take it!
 はい？=You will?
@@ -1314,7 +1314,7 @@
 どうなってんだ|コリャ　一体・・・=What was that all about?
 でも　よかったじゃねェか|マカにプレゼントを受けとってもらえてよ！=Whatever. I guess it worked out, huh? Maka actually accepted your gift!
 ・・・・・・・・・=.........
-なんで黙ってんだよ|コラって・・・|こいつ　気絶してる・・・=Why aren't you saying anthing? Anyone home? He's totally stunned.
+なんで黙ってんだよ|コラって・・・|こいつ　気絶してる・・・=Why aren't you saying anything? Anyone home? He's totally stunned.
 でも　幸せそうな顔だな=He seems happy, though.
 ・・・・・・・・・=.........
 !FILE:EV0222_000.bscr#直せ死武専 = The DWMA Renovation part 35
@@ -1339,17 +1339,17 @@
 でも　正面玄関前って|キレイになってたような気がした|けど誰かが直してくれたのかな？=But now that I think about it, the entrance actually looked pretty clean. Someone must have repaired it.
 !FILE:EV0222_016.bscr
 なんか最近|正面玄関前あたりが|荒れてねェか？=The area around the main entrance|has been looking really run down lately, huh?
-!FILE:EV0222_020.bscr#The lines in this conversation aren't in the proper order. As well, lines 1346 - 1348 don't appear to be used at all.
+!FILE:EV0222_020.bscr
 うむ　一休み|することにしよう=All right, break time.
 何してたんだ　キッド？=What are you doing, Kid?
 どうも　この辺りが|荒れていたのでな・・・|修理をしていたところだ=Well, this area was in total shambles, so I've been doing renovations.
-ねェ　なんで設計図なんか|広げてたの？=Hey, what's with the blueprints or whatever that is?
-修理といえば　設計図から|キッチリやるのが当然だ！=Obviously the renovations have to follow the blueprints exactly!
-あはは　そうだね・・・=Ahaha... That's true, I guess...
+そうなんだ・・・=That makes sense.
 でも　もう終わりだろ？=But you're already done?
 まだ　終わってない|設計図に比べると|ミリ単位でゆがみがある=No, not yet. While comparing it to the blueprints, I realized that something is a whole milliunit off.
 あはは　大変だね・・・=Ahaha. Yeah, that won't do...
-そうなんだ・・・=That makes sense.
+ねェ　なんで設計図なんか|広げてたの？=Hey, what's with the blueprints or whatever that is?#not used
+修理といえば　設計図から|キッチリやるのが当然だ！=Obviously the renovations have to follow the blueprints exactly!
+あはは　そうだね・・・=Ahaha... That's true, I guess...
 !FILE:EV0222_025.bscr
 そろそろ作業に戻るから|あっちへ行ってはくれまいか？=I've got to get back to work, so if you guys wouldn't mind leaving the area...
 !FILE:EV0222_026.bscr
@@ -1362,7 +1362,7 @@
 キッドのヤツ発作が|起きてんじゃねェのか？=I think he's about to lose it.
 ははは　行きましょうか|ソウル・・・=Hahaha. Should we leave then, Soul?
 !FILE:EV0222_035.bscr
-たしかにやべェな　ありゃ・・・=He's looking really rough.
+たしかにやべェな　ありゃ・・・=Yeah, it's not safe to stay here...
 !FILE:EV0222_036.bscr
 キッドのヤツ発作が|起きてんじゃねェのか？=I think he's about to lose it.
 ははは　行きましょうか|ソウル・・・=Hahaha. Should we leave then, Soul?
@@ -1409,17 +1409,17 @@
 そうね|そうしてみようか=Yeah, let's try that.
 !FILE:EV0222_072.bscr
 死神様　キッドのヤツ|あんまりにも働きすぎじゃねェか？=Lord Death, we think Kid's overworking himself.
-アイツ　一人で死武専の壊れた所を|全部なおしちゃってるぜ|・・・趣味なのかもしれねェけどよ=That guy's going around fixing every little thing in the DWMA. It's like it's a hobby or something.
+アイツ　一人で死武専の壊れた所を|全部なおしちゃってるぜ|・・・趣味なのかもしれねェけどよ=That guy's going around fixing every little thing in the DWMA. I guess it's his hobby or something, but...
 う～ん・・・誰かほかに|手伝ってくれる人がいると|いいんだけどね・・・=Hmm... It would be nice if there were someone else who could help him, but...
-パパはどうでしょうか？|いっつもブラブラしてヒマそうだし=What about papa? He's always wandering around doing nothing at all.
+パパはどうでしょうか？|いっつもブラブラしてヒマそうだし=What about Papa? He's always wandering around doing nothing at all.
 無理だろ　デスサイズは|死神様の武器だぜ=That won't work. Death Scythe is Lord Death's weapon.
 有事に備えて|控えてなきゃいけねェからな=He needs to be ready in case there's an emergency.
 そうよね・・・無理よね・・・=Oh, yeah... I didn't think about that...
-別にいいよ～ん♪|オッケー！オッケー！=Actually, I don't mind♪ Okay! Okay!
+別にいいよ～ん♪|オッケー！オッケー！=Actually, I don't mind♪|Okay! Okay!
 早速　デスサイズ君に|働いてもらうことにするよ♪=I'll get Spirit to work right away♪
 いやぁ♪マカちゃん|ナイスアイディア！|グー！グー！=Yeah, Maka♪ Great idea! RIGHT ON!
 いいんだ　それで・・・=That works too, I suppose...
-パパって　いらないのかな・・・=So much for papa being needed...
+パパって　いらないのかな・・・=So much for Papa being needed...
 !FILE:EV0222_076.bscr
 早速　デスサイズ君に|働いてもらうことにするよ♪=I'll get Spirit to work right away♪
 いやぁ♪マカちゃん|ナイスアイディア！|グー！グー！=Yeah, Maka♪ Great idea! RIGHT ON!
@@ -1447,16 +1447,16 @@
 見てわからんか|修理をしている！=What do you think? I'm renovating!
 なんでお前がまだ|修理してるんだ？=What are you still renovating for?
 俺の代わりに|誰かが死武専内を|修理してくれてるのだが・・・=Someone came to take care of the DWMA's renovations in my place, but...
-雑すぎてとてもまかせておけん|しかもそいつは死武専の|グランドデザインを理解しておらん=I can't trust such a mess to just anyone. Besides, they wouldn't understand the complexity and nuance of the DWMA's design.
+雑すぎてとてもまかせておけん|しかもそいつは死武専の|グランドデザインを理解しておらん=I can't trust this job to just anyone. Besides, I doubt they'd understand the complexity of the DWMA's design.#must be kept short
 そんなヤツに死武専の修理を|まかせるわけにはいかないだろう|やはり俺がやるしかない！=Clearly I couldn't let them renovate the DWMA however they saw fit. As usual, I'm the only one that can do it!
 !FILE:EV0222_096.bscr
 俺の代わりに|誰かが死武専内を|修理してくれてるのだが・・・=Someone came to take care of the DWMA's renovations in my place, but...
-雑すぎてとてもまかせておけん|しかもそいつは死武専の|グランドデザインを理解しておらん=I can't trust such a mess to just anyone. Besides, they wouldn't understand the complexity and nuance of the DWMA's design.
+雑すぎてとてもまかせておけん|しかもそいつは死武専の|グランドデザインを理解しておらん=I can't trust this job to just anyone. Besides, I doubt they'd understand the complexity of the DWMA's design.
 そんなヤツに死武専の修理を|まかせるわけにはいかないだろう|やはり俺がやるしかない！=Clearly I couldn't let them renovate the DWMA however they saw fit. As usual, I'm the only one that can do it!
 !FILE:EV0222_097.bscr
 マカ　どうすんだ？|また修理をはじめちゃったぜ！=Maka, what do we do? He's started renovating again!
-私に聞かれても|わかんないよ=Don't ask me. I don't know.
-そうだな|とりあえず放っておこう・・・|これは　もう趣味の世界だ・・・=Yeah. Let's just forget about it for now. He's having the time of his life anyway.
+私に聞かれても|わかんないよ=Don't ask me. I don't know!
+そうだな|とりあえず放っておこう・・・|これは　もう趣味の世界だ・・・=Yeah. Let's just forget about it for now. He's having the time of his life, anyway.
 !FILE:EV0300_000.bscr#start of day 3
 すっかり話題のマトになってるね=It's like the talk of the town now.
 そりゃ　そーだろ=Yeah, totally.
@@ -1578,37 +1578,37 @@
 あぁ|でもやるしかない！=Maybe not, but we still have to take him out!
 グゥオォ！=Guuooh!
 !FILE:EV0320_002.bscr#ブレア騒動 = The Blair Brouhaha part 36
-そうだ　お前達|ブレアに会ったら伝えてくれ・・・=Hey, if you see Blair, you think you guys could pass on a message to her...?
+そうだ　お前達|ブレアに会ったら伝えてくれ・・・=Hey, if you see Blair, you think you guys could pass on a message to her?
 ブレア　死武専に来てたんだな・・・=I guess Blair did come to the DWMA...
 いいわよブラック☆スター|何を伝えればいいの？=We'd be happy to help, Black☆Star. What's the message?
 やはりスターである俺は|一人の女にしばられるわけにはいかない=As such a big star, I obviously can't be tied down to a single girl.
 だが　お前の望みである|活きのいい魚は必ず持ってこよう・・・=But she can still count on me to bring her that big, juicy fish she wants...
 ちょっと待ってよ|一体何の話をしているの|ブラック☆スター？=Time out! Black☆Star, are you saying what I think you're saying?
-それを聞くのは|野暮ってヤツだぜ・・・=How dumb do you have to be to ask a question like that...?
-あんたブレアの|色香に迷ったわね・・・=So Blair got her claws into you, huh...?
+それを聞くのは|野暮ってヤツだぜ・・・=How dumb do you have to be to ask a question like that?
+あんたブレアの|色香に迷ったわね・・・=So Blair got her claws into you, huh?
 とにかくブラック☆スター|魚なんて持ってこなくてもいいからね！=Honestly, Black☆Star, you don't have to bring her any fish or anything!
 マカにそれを言う権利はない！|これは俺とブレアの問題だ！=I didn't ask you for your opinion, Maka! This is between me and Blair!
 ブラック☆スター・・・=Black☆Star...
 だめだ|すっかりブレアにまいっちまってる・・・=That's not good. He's totally fallen for her...
 !FILE:EV0320_006.bscr
-そうだ　お前達|ブレアに会ったら伝えてくれ・・・=Hey, if you see Blair, you think you guys could pass on a message to her...?
+そうだ　お前達|ブレアに会ったら伝えてくれ・・・=Hey, if you see Blair, you think you guys could pass on a message to her?
 やはりスターである俺は|一人の女にしばられるわけにはいかない=As such a big star, I obviously can't be tied down to a single girl.
 だが　お前の望みである|活きのいい魚は必ず持ってこよう・・・=But she can still count on me to bring her that big, juicy fish she wants...
 !FILE:EV0320_007.bscr
-ブレアの性格を考えると|被害者はブラック☆スターだけとは|とても思えない・・・=Knowing Blair, I doubt Black☆Star is her only victim...
-おそらく他にも|やつの色香に迷った連中が・・・=Who knows how many others have fallen under her spell...
-それは危険ね・・・|急いでブレアをさがしましょう！=This is bad... We need to get to Blair before it gets out of hand!
+ブレアの性格を考えると|被害者はブラック☆スターだけとは|とても思えない・・・=Knowing Blair, I doubt Black☆Star is her only victim.
+おそらく他にも|やつの色香に迷った連中が・・・=Who knows how many others have fallen under her spell.
+それは危険ね・・・|急いでブレアをさがしましょう！=This is bad. We need to get to Blair before it gets out of hand!
 !FILE:EV0320_012.bscr
 ブレアを見なかった|キッド君？=Have you seen Blair around anywhere, Kid?
-ちょうどいい　お前達|ブレアに会ったら伝えてくれ・・・=What a coincidence! If you guys see Blair, could you pass on a message for me...?
-えっ・・・|何を伝えればいいのかしら・・・=Huh...? What kind of message...?
+ちょうどいい　お前達|ブレアに会ったら伝えてくれ・・・=What a coincidence! If you guys see Blair, could you pass on a message for me?
+えっ・・・|何を伝えればいいのかしら・・・=Huh? What kind of message?
 俺達はまだ若い|もう少し大人になってから|改めて　その話をしよう　と=Just tell her that we're still so young, so there's no reason to rush. But I'd like to have the conversation again once we're a little older.
-ブレアと何を話したの|キッド君・・・=What was your conversation with Blair about...?
+ブレアと何を話したの|キッド君・・・=What was your conversation with Blair about exactly?
 それはお前達に|言う必要はないだろう！=Nothing interesting! You don't want to hear about that!
-だめだ　マカ|すっかりブレアに|まいっちまってる・・・=This is no good. He's fallen for her too...
+だめだ　マカ|すっかりブレアに|まいっちまってる・・・=This is no good. He's fallen for her too.
 キッド君|こういうのに耐性がなさそうだから=I guess even Kid couldn't resist.
 !FILE:EV0320_016.bscr
-ちょうどいい　お前達|ブレアに会ったら伝えてくれ・・・=What a coincidence! If you guys see Blair, could you pass on a message for me...?
+ちょうどいい　お前達|ブレアに会ったら伝えてくれ・・・=What a coincidence! If you guys see Blair, could you pass on a message for me?
 俺達はまだ若い|もう少し大人になってから|改めて　その話をしよう　と=Just tell her that we're still so young, so there's no reason to rush. But I'd like to have the conversation again once we're a little older.
 !FILE:EV0320_022.bscr
 ブレアを見なかった|オックス君？=Ox, have you seen Blair?
@@ -1633,30 +1633,30 @@
 落ちつけよ|そんなことしちゃ|ブレアだってかわいそうだろ！=Calm down, Maka! There's no need for that. I feel kind of bad for Blair!
 そう　そう　ブレアは|退屈でかわいそうなの♪=Yeah, exactly. I'm just so bored trapped in the apartment all the time♪
 じゃあどうすればいいのかしら？=What should we do then?
-あなたに一回だけチャンスを|あげるわ・・・それで私を納得|させられなければ・・・=I'll give you just one chance... But if you screw up just one time...
+あなたに一回だけチャンスを|あげるわ・・・それで私を納得|させられなければ・・・=I'll give you one chance... But if you screw up just one time...
 ねぇ　ねぇ　ソウル君|やっぱりマカの武器なんかやめて|ブレアと一緒に遊ばない？=I know, Soul. How about you quit being Maka's weapon or whatever and come play with me?
-火に油を注ぐような|まねはやめてくれ・・・=Please stop adding more fuel to the fire...
-ソウル　早くしなさい・・・=Soul, do something already...
+火に油を注ぐような|まねはやめてくれ・・・=Please stop adding more fuel to the fire.
+ソウル　早くしなさい・・・=Soul, do something already.
 ね　ネコになって|もらうのはどうでしょうか？=Hey, why don't you turn back into a cat?
-さすがにみんなも|ネコの色香には|まどわないと思うし・・・ダメ？=Everyone should be able to resist her charm as a cat... right?
-いいわ　それで許してあげる|さっさとネコになりなさい=Yeah, I'll allow that. Please turn back into a cat immediately.
+さすがにみんなも|ネコの色香には|まどわないと思うし・・・ダメ？=Everyone should be able to resist her charm as a cat... How about that?
+いいわ　それで許してあげる|さっさとネコになりなさい=Yeah, I'll allow it. Please turn back into a cat immediately.
 いやよ　今日はこっちのほうが|いいの♪=I don't think I will. I feel like staying like this today♪
-ソウル|早くブレアをネコにしなさい！=Soul, hurry up and make hurn turn back into a cat!
-頼むからネコになってくれ|お願いだから　ブレア・・・=Please, Blair?Could you please just turn back into a cat...?
-ソウル君が　そういうなら|いいよ・・・=I'll do it for you since you asked so nicely, Soul...
+ソウル|早くブレアをネコにしなさい！=Soul, hurry up and make her turn back into a cat!
+頼むからネコになってくれ|お願いだから　ブレア・・・=Please, Blair? Could you please just turn back into a cat?
+ソウル君が　そういうなら|いいよ・・・=I'll do it for you since you asked so nicely, Soul.
 にゃはは♪ブレアは|ネコでも可愛いでしょ♪=Nyahaha♪ Even as a cat, I'm still super cute, huh♪?
-ホント　このネコ|誰かもらってくれねェかな=Honestly, could somebody just get this cat out of my hair?
+ホント　このネコ|誰かもらってくれねェかな=Honestly, could somebody just get take this cat off my hands?
 !FILE:EV0320_035.bscr
-さてと　にゃにして遊ぶ？=So do you wanna play meow?
+さてと　にゃにして遊ぶ？=So do you wanna play with me?
 !FILE:EV0320_036.bscr
 にゃはは♪ブレアは|ネコでも可愛いでしょ♪=Nyahaha♪ Even as a cat, I'm still super cute, huh♪?
 !FILE:EV0320_037.bscr
 じゃあブレア|もう少し死武専の中を|探検してくるね♪=Well, I'm gonna keep exploring the DWMA for a while♪
 待ちなさいブレア！=Blair, wait!
-行っちゃったわね・・・=She's gone...
+行っちゃったわね・・・=She's gone.
 ネコのままなら|そんなに変なことは|できないと思うけど・・・=I don't think she'll be able to do anything weird like that as a cat, but...
 どうします　マカさん|ブレアをさがしましょうか？=What should we do, Maka? Should we go find her?
-もういいわ　それよりも私|思いっきり身体を動かしたい|気分になってきたわ・・・=Forget about her. I just really feel like moving around right now...
+もういいわ　それよりも私|思いっきり身体を動かしたい|気分になってきたわ・・・=Forget about her. I just really feel like moving around right now.
 先生達に|お手伝いできることがないか|聞いてみましょう！=Let's see if the teacher's could use our help with anything!
 今日は血の雨が|降りそうだぜ・・・=And the forecast predicts it'll rain blood today...
 !FILE:EV0320_042.bscr
@@ -1668,7 +1668,7 @@
 実は先生　ブレアが・・・=The truth is that Blair...
 余計なことは|言わないでちょうだい！=Please, let's just keep this between us!
 すみません・・・=My bad...
-何かあったのかお前達・・・|いや聞くまい・・・俺は個人的なことには|踏み込まない　そんな男だった・・・=Did something happen...? Actually, I don't want to know... I don't mean to barge into personal matters. That's the kind of man I was...
+何かあったのかお前達・・・|いや聞くまい・・・俺は個人的なことには|踏み込まない　そんな男だった・・・=Did something happen? Actually, I don't want to know. I don't mean to barge into personal matters. That's the kind of man I was.
 !FILE:EV0320_046.bscr
 すまない|今は特に手伝ってもらうようなことはない=Sorry. I don't really have anything that requires any assistance right now.
 !FILE:EV0320_052.bscr
@@ -1677,30 +1677,30 @@
 それよりも　これから|戦闘訓練をしてあげましょうか？=Why don't I give you two a little combat practice instead?
 今の君には|非常に好ましいものを感じます=I could really use some new test subjects right now.
 すみませんが|今の私は闘志に溢れています|博士にも負ける気がしません=Sorry, professor, but I'm really in the mood to fight, so I don't plan on losing to you.
-お　落ち着いてくれよ|どうしてそういうことになるんだよ・・・=C-Calm down a little, Maka. Why are you being all serious...?
-ほら・・・いつものあれだ・・・博士|一流のジョークだよジョーク！=Look. He's just acting weird like usual... It was just some weird joke! Right, professor?
-いいえ　俺は本気ですよ=Not at all. I was being serious.
+お　落ち着いてくれよ|どうしてそういうことになるんだよ・・・=C-Calm down a little, Maka. Why are you being all serious?
+ほら・・・いつものあれだ・・・博士|一流のジョークだよジョーク！=Look. He's just acting weird like usual... It was just some weird joke, right, Professor?
+いいえ　俺は本気ですよ=Not at all. I was entirely serious.
 !FILE:EV0320_056.bscr
 すみません|今はあいにく手伝って|欲しいことがないのですよ=I'm afraid not. I, unfortunately, don't need any help at this moment.
 !FILE:EV0320_062.bscr
 何かお手伝いできるようなことって|ありませんか？=Is there anything we could help you out with?
-う～ん・・・あることは|あるんだけどね♪|君達には　ちょっと厳しいかな・・・=Hmm... I might have a little something something♪ But it might be a little intense for you guys...
+う～ん・・・あることは|あるんだけどね♪|君達には　ちょっと厳しいかな・・・=Hmm... I might have a little something something♪ But it might be kind of intense for you...
 どういうことだよ　死神様？=Why do you say that?
 ほら　君達の|攻撃方法じゃあ|相性が悪いんだよ～♪=Well, your attack method won't quite cut it♪
-ハッキリ言っちゃって|君達には足りないものが|あるんだよ～ん♪それに・・・=Let me be clear, you two are missing a little something♪ Besides...
-それに　何ですか|死神様？=Besides what, Lord Death?
-今日のマカちゃん|精神的に不安定な気がするね|こういう時には振れないよ～ん♪=I feel like you're not exactly emotionally stable right now, Maka. And when we get like that...♪
-わかりました死神様・・・=I understand...
-うんうん　聞き分けるのも|時には大切だよ～ん♪|まずは頭を冷やしてみようね！=Yep, yep. Even if you understand, these things take time♪ First, why don't you go and cool off a bit!?
+ハッキリ言っちゃって|君達には足りないものが|あるんだよ～ん♪それに・・・=Let me be clear. You two are missing a little something♪ Besides...
+それに　何ですか|死神様？=Besides what?
+今日のマカちゃん|精神的に不安定な気がするね|こういう時には振れないよ～ん♪=I feel like you're not exactly emotionally stable right now, Maka. And when you get like that...♪
+わかりました死神様・・・=I understand.
+うんうん　聞き分けるのも|時には大切だよ～ん♪|まずは頭を冷やしてみようね！=Yep, yep. I'm glad you understand, but these things take time♪ Why don't you go and cool off a bit!?
 !FILE:EV0320_066.bscr
-うんうん　聞き分けるのも|時には大切だよ～ん♪|まずは頭を冷やしてみようね！=Yep, yep. Even if you understand, these things take time♪ First, why don't you go and cool off a bit!?
+うんうん　聞き分けるのも|時には大切だよ～ん♪|まずは頭を冷やしてみようね！=Yep, yep. I'm glad you understand, but these things take time♪ Why don't you go and cool off a bit!?
 !FILE:EV0320_067.bscr
 ・・・・・・・・・=.........
 そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
-落ち込んでないわ　考えてたのよ・・・|私達に足りないものって何なのかな・・・=I'm not worried. I was just thinking... What could we be missing...?
+落ち込んでないわ　考えてたのよ・・・|私達に足りないものって何なのかな・・・=I'm not worried. I was just thinking... What could we be missing?
 なぁ　ブレアに|手伝ってもらうのは　どうかな？=Well, why don't we try asking Blair for some help?
 アイツって　結構な|攻撃バリエーションを|もってたじゃねェか=She knows plenty of attack variations and stuff.
-あれを持ってりゃ|ついてくるだろうけど|一応　お願いしておこうぜ！=Start with that and she'll probably agree to help. Let's try asking her!
+あれを持ってりゃ|ついてくるだろうけど|一応　お願いしておこうぜ！=Start with the compliment and she'll probably agree to help. Let's try asking her!
 ・・・・・・・・・=.........
 たしかにそれしか方法が|なさそうね・・・=I guess we don't really have any other choice...
 悔しいけど　お願いしましょう！|さぁ　ソウル　ブレアをさがすわよ！=I'm annoyed with her, but let's give it a shot! All right, Soul, let's look for Blair!
@@ -1708,8 +1708,8 @@
 ブレアを見なかったか|リズ？=Liz, have you seen Blair?
 ブレアって　お前の家にいる|ねーちゃんだろ？|見なかったぜ？=Blair's the girl that stays at your place, right? I haven't seen her.
 違うの　今は|ネコの姿をしてると思うわ=No. She should be in her cat form right now.
-ネコ？　そうだアイツ|魔力の強いネコだったっけ？=Cat form? That's right, she was a powerful magical cat.
-そうだリズ|ネコを見なかったか？=Exactly. So have you seen a cat, Liz?
+ネコ？　そうだアイツ|魔力の強いネコだったっけ？=Cat form? That's right, she was a powerful, magical cat.
+そうだリズ|ネコを見なかったか？=Exactly. So have you seen a cat?
 ネコだったら　さっきまで|その辺をウロウロしてたと|思ったけど・・・もういないな=If it's a cat you're looking for, I just saw one wandering around here somewhere, I think, but... I don't see it anymore.
 他の場所を|さがしてみましょう　ソウル！=Let's try looking somewhere else, Soul!
 !FILE:EV0320_076.bscr
@@ -1728,8 +1728,8 @@
 ブレア？誰かしらそれは？=Blair? And who would that be?
 魔女だぜ　先生！=It's a witch!
 えっ　魔女！=What? A witch!?
-違うでしょ　ソウル|ブレアは単に魔力が強い|ネコでしょ！=No, she isn't, Soul. Blair is a powerful magical cat but not a witch!
-そうだった|うっかりしてたぜ・・・=Oh, yeah. That's what I meant...
+違うでしょ　ソウル|ブレアは単に魔力が強い|ネコでしょ！=No, she isn't, Soul. Blair is a powerful, magical cat but not a witch!
+そうだった|うっかりしてたぜ・・・=Oh, yeah. That's what I meant.
 ああ　驚いた魔女なんて・・・|先生　気が小さいから　すごく|驚いちゃったわ=Phew... I can be a little faint of heart, so you really startled me with all that talk of witches.
 !FILE:EV0320_096.bscr
 ああ　驚いた魔女なんて・・・|先生　気が小さいから　すごく|驚いちゃったわ=Phew... I can be a little faint of heart, so you really startled me with all that talk of witches.
@@ -1737,34 +1737,34 @@
 こんな所にいたのか　さがしたぜ！=There you are, Blair. We found you!
 あんたに|手伝ってほしいことがあるの|一緒に来てちょうだい=We have something we'd like your help with, so could you come with us?
 ・・・・・・・・・=.........
-どうして返事をしないの|・・・怒ったのブレア？=Why won't you answer...? Are you angry with me?
-にゃは♪ブーたんね|もうイヤににゃっちゃった♪=Nyaha♪ Blair's patience is on its nyanth life♪
+どうして返事をしないの|・・・怒ったのブレア？=Why won't you answer? Are you angry with me?
+にゃは♪ブーたんね|もうイヤににゃっちゃった♪=Nyaha♪ Blair's patience is on its ninth life♪
 マカは怒りんぼだし♪|ソウル君は最近|ぜんぜんクールじゃにゃいし♪=Maka, you're such a hothead♪ And even Soul has been totally uncool lately♪
-ブレア|お前　何を言ってるんだ？=What are you talking about, Blair?
+ブレア|お前　何を言ってるんだ？=What's that supposed to mean?
 !FILE:EV0320_105.bscr
 ・・・・・・・・・=.........
 !FILE:EV0320_106.bscr
-にゃは♪ブーたんね|もうイヤににゃっちゃった♪=Nyaha♪ Blair's patience is on its nyanth life♪
+にゃは♪ブーたんね|もうイヤににゃっちゃった♪=Nyaha♪ Blair's patience is on its ninth life♪
 マカは怒りんぼだし♪|ソウル君は最近|ぜんぜんクールじゃにゃいし♪=Maka, you're such a hothead♪ And even Soul has been totally uncool lately♪
 !FILE:EV0320_107.bscr
 じゃあ　もう|ブレア行くね♪|バイバイ　ソウル君　マカ♪=Well, it's time for me to pounce♪ Bye-bye, you two♪
-行っちゃったね・・・=She left just like that...
+行っちゃったね・・・=She left again.
 こういう状況じゃ|ブレアのサポートは|期待できないだろうな・・・=It doesn't look like we can count on Blair for any support here...
-君達　ここに|いたのですか・・・すぐに|デスルームへ行ってください=So this is where you two were hiding... You're needed in the Death Room at once.
+君達　ここに|いたのですか・・・すぐに|デスルームへ行ってください=So this is where you two were hiding. You're needed in the Death Room at once.
 何かあったんですか博士？=Did something happen?
 その前に聞いておきますが|ブレアは　君達のネコですか？=First, let me ask you this... Is Blair your cat?
 そうだったんだけどな=Sort of, yeah, but...
-逃げちゃったんです・・・=She ran away...
+逃げちゃったんです・・・=She ran away.
 そうですか　事情は|よくわかりませんが=Interesting. Well, I don't know anything about that, but...
-とにかくデスルームへ|向かってください！=At any rate, please head to the Death Room right away!
+とにかくデスルームへ|向かってください！=Never mind. Please head to the Death Room right away!
 !FILE:EV0320_111.bscr
 二人にやってほしいことがある・・・=There's something I need you two to do for me...
 !FILE:EV0320_112.bscr
-なんで死神様じゃなくて|お前なんだよ！|お呼びじゃねェんだよ！=Why is it you and not Lord Death!? You don't call us!
+なんで死神様じゃなくて|お前なんだよ！|お呼びじゃねェんだよ！=Why is it you and not Lord Death!? You don't get to call us!
 死神様は　今人前に|出られる状態ではないのだ・・・=Lord Death isn't in a situation to make an appearance at this time...
-えっ　死神様に|何かあったの？=What? Did something happen to Lord Death?
+えっ　死神様に|何かあったの？=What? Did something happen to him?
 ブレアちゃんが|デスルームの鏡を壊してしまったんだ=Blair was in the Death Room, and somehow the mirror wound up broken.
-ビックリさせんなよ・・・|紛らわしい言い方しやがって・・・=Are you surprised? You make it sound like you can't believe it...
+ビックリさせんなよ・・・|紛らわしい言い方しやがって・・・=Are you surprised? You make it sound like you can't believe it.
 あはは　迷惑なネコね=Ahaha... That darn cat!
 とにかくブレアちゃんを|捕まえてきてくれ！=Anyway, I need you to catch Blair!
 今回のことについて|死神様も一言いいたい|みたいだしな=I'm pretty sure Lord Death wants to have a word with her about this situation.
@@ -1772,13 +1772,13 @@
 俺だって　ぜひそうして|ブレアちゃんの悩みとかを聞いてあげたい=I'd love to go and listen to all of Blair's troubles and be a shoulder for her to cry on.
 だが　皆が止めるんだ|お前が行くと骨抜きに|されるだけだって・・・=But no one would allow me to do so. I know all too well that you'll fall to her charm as well, but even so...
 だから　お前達に|お願いしてるんだよ！=Will you two please go in my place?
-パパ　恥ずかしい|そんなことを真剣な顔で|言わないでちょうだい・・・=You're so embarrassing, papa! Please don't say things like that with such a serious tone...
+パパ　恥ずかしい|そんなことを真剣な顔で|言わないでちょうだい・・・=You're so embarrassing, Papa! Please don't say things like that with such a serious tone.
 どうするマカ？|決定権は職人にあるから|お前にまかせたぜ！=So what's it gonna be, Maka? You're the meister, so it's your decision!
 !FILE:EV0320_115.bscr
 パパはいつでも|マカのことを思ってるんだよ～=Papa is always thinking about his precious girl.
 !FILE:EV0320_120.bscr
 迎えにきたよ|マカ♪=Here I am, Maka♪
-さすがマカ|さあ　コッチおいで|パパがギュッてしてあげる=Get on over here, Maka. Come on. Come over here and give your papa a big hug!
+さすがマカ|さあ　コッチおいで|パパがギュッてしてあげる=Get on over here. Come on. Come over here and give your papa a big hug!
 新しい鏡は準備できたのか？|もう死神様に会えるんだろうな？=The new mirror has been installed, right? Shouldn't we go talk with Lord Death?
 ああ　いちいちうるせェな|そうだよ　そのとおりだよ！=Will you just shut it? You always have to butt in!
 ブレア　死神様が|あんたに一言あるんだって|デスルームに行きましょう=Blair, Lord Death would like to have a word with you, so let's go to the Death Room.
@@ -1789,9 +1789,9 @@
 でも　ブーたん|おどろいちゃった♪=You really surprised me, though, Soul♪
 ソウル君って|クールにゃだけじゃにゃくて|意外に強引にゃのね♪=I knew you were cool, but I didn't know how rough you could be♪
 あ　ああ・・・|俺はクールなだけな男じゃねェぜ！=W-Well... There's more to me than just being cool!
-みにゃおしたよ♪=I see that meow♪
+みにゃおしたよ♪=I see that now♪
 お　おう・・・|ようやく気づいてくれたか=Y-Yeah... At least you've finally noticed.
-何ネコにデレデレしてんのよ|まったくしょうがないわね！=What are you blushing for? It's a cat. Whatever!
+何ネコにデレデレしてんのよ|まったくしょうがないわね！=What are you blushing for? It's a cat. Let's just go already!
 !FILE:EV0320_126.bscr
 怒られはしないだろうけど|ワビはちゃんと入れないと=He's probably not angry, but it wouldn't hurt for you to apologize.
 !FILE:EV0320_132.bscr
@@ -1803,27 +1803,27 @@
 はい　一言　終わり♪=Yep, that's it. That's what I wanted to say♪
 もう　終わりにゃ？=Really? That's it?
 ありがとうございます|死神様=Thank you, Lord Death.
-本当に一言だったな・・・=When he said he wanted to have a word, I didn't think he literally meant one word...
+本当に一言だったな・・・=When he said he wanted to have a word, I didn't think he literally meant one word.
 !FILE:EV0320_136.bscr
 これからは|注意してね♪=Careful♪
 !FILE:EV0320_137.bscr
 叱られなくて|よかったなブレア！=You got off easy this time, Blair!
 ホントよ　これからは|注意してよね　まったく=For real. Please be more careful from now on. Honestly...
 にゃははは♪|ブーたん　もうしにゃいよ♪=Nyahaha♪ I won't do it again. I promise♪
-あ　そろそろバイトの支度|しにゃきゃいけにゃいから|バイバイだよ♪=Ah, I need to start getting ready for work meow, so bye-bye♪
+あ　そろそろバイトの支度|しにゃきゃいけにゃいから|バイバイだよ♪=Ah, I need to start getting ready for work now, so bye-bye♪
 じゃあね　お家で|また会おうね♪=I'll see you at home later♪
 やれやれ|ブレアは当分|俺達のアパートに居つきそうだな・・・=Well, I guess Blair's gonna be staying for a while yet...
 せっかくトラブルメーカーが|いなくなってせいせいしたと|思ったのに　残念だわ=I was starting to get excited thinking about that troublemaker not being around anymore, but oh well.
 その割には　何か|嬉しそうだぜ　マカ！=You say that, but I see that smile on your face, Maka!
 !FILE:EV0321_002.bscr#パティの秘密 = Patty's Secret part 37
-こんにちは|何をしてるの？=Hi. Whacha doin'?
+こんにちは|何をしてるの？=Hi. Whatcha doin'?
 空を見てたんだよ♪=Staring at the sky♪
 おもしろいの？=See anything interesting?
 そんなわけ　ね～だろ！|きゃはははは♪=Of course not, silly! Kyahahaha♪
 そうよね　パティ♪=Right. Of course not.
 ・・・・・・・・・=.........
 !FILE:EV0321_006.bscr
-こんにちは|何をしてるの？=Hi. Whacha doin'?
+こんにちは|何をしてるの？=Hi. Whatcha doin'?
 空を見てたんだよ♪=Staring at the sky♪
 !FILE:EV0321_007.bscr
 お前　パティについて|何か感じねェか？=Hey, does anything seem off to you about Patty?
@@ -1835,16 +1835,16 @@
 お前は現場を見てないから|そういうことがいえるんだよ！=You only say that because you couldn't see her from where you were sitting!
 それにキリンを作ったから|どうだっていうのよ？|手先が器用でいいじゃない=And who cares if she made a giraffe? It just means she's talented.
 それだけじゃねェぞ|アイツは・・・=But that's not all. She also...
-もういい|チョット一人で調べてェことができた|抜けさせてもらうぜ！=Whatever. I'll look into it on my own. See you later!
-ふ～ん　あっそ|好きにしなさい・・・=Hmm? Fine. Do whatever you want...
+もういい|チョット一人で調べてェことができた|抜けさせてもらうぜ！=Forget it. I'll look into it on my own. See you later!
+ふ～ん　あっそ|好きにしなさい・・・=Hmm? Fine. Do whatever you want.
 なんで　みんな|パティの異常さに気がつかねェんだ？=Why doesn't anybody notice how strange Patty is?
-シラサギの中にカラスが|まじってるくらい　おかしいのに|気にも止めねェ・・・=She's so weird she draws zebras without their stripes. And yet nobody even bats an eye...#Here Soul is saying Patty combines herons/egrets and crows as an example of her strangeness. I couldn't find any cultural significance behind these two birds specifically that would make the combination strange. I'm inclined to believe it's simply because one is white and the other is black. That being said, herons/egrets are generally seen positively and crows can sometimes be seen negatively, especially in modern times due to the problems they cause in larger cities throughout Japan. There are also crow tengu within the Japanese folklore, which may add to them being seen in a more negative light, but they are also traditionally a symbol of divine intervention, rebirth, etc.
+シラサギの中にカラスが|まじってるくらい　おかしいのに|気にも止めねェ・・・=She's so weird. She draws zebras without their stripes, and nobody even bats an eye.#Here Soul is saying Patty combines herons/egrets and crows as an example of her strangeness. I couldn't find any cultural significance behind these two birds specifically that would make the combination strange. I'm inclined to believe it's simply because one is white and the other is black. That being said, herons/egrets are generally seen positively and crows can sometimes be seen negatively, especially in modern times due to the problems they cause in larger cities throughout Japan. There are also crow tengu within the Japanese folklore, which may add to them being seen in a more negative light, but they are also traditionally a symbol of divine intervention, rebirth, etc.
 たしかに死武専は異常な所だけどよ・・・=The DWMA is definitely a weird place, but...
-パティのそれは|そういうものとは|根本的に違うんだよな・・・=Patty takes it to a whole other level entirely...
-とにかく考えててもしょうがねェ・・・|パティの身辺を洗うことにしよう・・・=Well, just thinking about it isn't going to get me anywhere... Let's see if there isn't any dirt I can dig up on Patty...
+パティのそれは|そういうものとは|根本的に違うんだよな・・・=Patty takes it to a whole other level entirely.
+とにかく考えててもしょうがねェ・・・|パティの身辺を洗うことにしよう・・・=Well, just thinking about it isn't going to get me anywhere. Let's see if there isn't any dirt I can dig up on Patty.
 !FILE:EV0321_012.bscr
-こういうノイズがあるから|わかりにくくなるんだよな・・・=With all this noise it'll be pretty difficult to hear, huh...?
-ノイズ・・・何の話だ？=Noise...? What noise?
+こういうノイズがあるから|わかりにくくなるんだよな・・・=With all this noise it'll be pretty difficult to hear, huh?
+ノイズ・・・何の話だ？=Noise? What noise?
 しかも異常なのは外見だけで|中身は意外とマトモなんだよな|あいつとは真逆だぜ・・・=He has a strange outer appearance, but that's it. On the inside he's surprisingly normal. They're total opposites...
 あまり先生を惑わすな|何を言ってるかサッパリだぞ？=You're losing me. I have no idea what you're talking about.
 なんでもねェよ|あんまり気にしねェでくれ！=It's nothing. Just ignore me!
@@ -1863,7 +1863,7 @@
 唐突に聞くけど|お前　第六感が鋭いほうか？=This is going to sound weird, but would you say you had a sharp sixth sense?
 えっと・・・ブラック☆スターと|一緒で・・・結構ニブチンですよ|ふふふ・・・=Well, as much time as I spend with Black☆Star, I'd say it's pretty dull. Hehehe...
 でも　どうして|そんなことを聞くの？=But what are you asking me about that for?
-なんでもない気にしないでくれ|それともう一つ・・・|パティのことをどう思う・・・=It's nothing. Don't worry about it. I have another question though... What do you think of Patty...?
+なんでもない気にしないでくれ|それともう一つ・・・|パティのことをどう思う・・・=It's nothing. Don't worry about it. I have another question though... What do you think of Patty?
 ちょっとかわってるけど|いい子だと思いますよ=She can be a little eccentric at times, but I think she's a good kid.
 そうか　ありがとう椿・・・=You too. Thanks, Tsubaki...
 どうしたんですか　ソウル君？|質問の意図がさっぱりわからない・・・=What's this about, Soul? I'm not really sure what kind of answers you're looking for...
@@ -1881,22 +1881,22 @@
 うむ・・・いつか誰かが|その質問をしてくると思ったが・・・|それが　お前だったか・・・=Hm... I knew someday somebody would come asking... I guess that somebody was you...
 やっぱりパティには|何かあるんだな！|話してくれよキッド！=So there is something with Patty! Come on, Kid! Tell me!
 だが　しかし|ここでは話すことはできん|特別指導室に来れるか？=I will. But we can't talk here. Can you come to the Special Guidance Room?
-でも　あそこは|先生がいねェと|入室できないんじゃ・・・=But I though we couldn't go in there without a teacher...
+でも　あそこは|先生がいねェと|入室できないんじゃ・・・=But I thought we weren't allowed in there without a teacher.
 うむ　問題ない！|俺は死神の息子だ！|カギを借りてこよう！！=Yeah, no problem! I'm Lord Death's son! I'll just borrow the key!!
-こういうことは|したくなかったのだが・・・|事情が事情だ仕方あるまい・・・=I didn't really want to do this, but... with things as they are, it's inevitable...
+こういうことは|したくなかったのだが・・・|事情が事情だ仕方あるまい・・・=I didn't really want to do this, but... with things as they are, it's inevitable.
 いよいよ　ミステリーの|核心部分に近づいてきたぜ！=Finally! I'll unravel this mystery one knot at a time!
 !FILE:EV0321_056.bscr
-こういうことは|したくなかったのだが・・・|事情が事情だ仕方あるまい・・・=I didn't really want to do this, but... with things as they are, it's inevitable...
+こういうことは|したくなかったのだが・・・|事情が事情だ仕方あるまい・・・=I didn't really want to do this, but... with things as they are, it's inevitable.
 !FILE:EV0321_057.bscr
 先に行ってカギを開けておくから|後から来てくれ=I'll have to go on ahead to get the key and unlock the door, so wait a few minutes before you come.
-もう　そろそろいいだろう|特別指導室に行くことにしよう=He should be ready by now. I should start heading to the Special Guidance Room.
-いよいよ　パティの秘密が|明かされる時がきたな・・・=This is it. The jig is up, Patty. Your secret's out...
+もう　そろそろいいだろう|特別指導室に行くことにしよう=He should be ready by now. I should make my way to the Special Guidance Room.
+いよいよ　パティの秘密が|明かされる時がきたな・・・=This is it. The jig is up, Patty. Your secret's out.
 !FILE:EV0321_060.bscr
-よし　開いてる|キッドがカギを開けてくれたようだな・・・=It's open. Cool. Looks like Kid came through with the key...
+よし　開いてる|キッドがカギを開けてくれたようだな・・・=It's open. Cool. Looks like Kid came through with the key.
 ・・・・・・・・・・・・・・・ぁ・・・=...............Aah...
 お～い　キッド！！=Yo, Kid!!
 ・・・・・・・・・・・・ぁぁあ・・・=............AaaAh...
-おかしいな返事がない・・・=That's odd. He's not answering...
+おかしいな返事がない・・・=That's odd. He's not answering.
 ・・・・・・・・・・・・あぁぁあ・・・=............AAaaAh...
 それにしても|薄気味悪ィ音がすんな？|隙間風でも入ってきてんのかよ？=That being said, there's some spooky sounds in here. There must be a draft or something.
 ・・・・・・・・・ぁあぁぁあ・・・=.........AaAaaAh...
@@ -1912,9 +1912,9 @@
 ぁあぁああああぁあ・・・=AaAaAAAAaAh...
 !FILE:EV0321_070.bscr
 先生　キッドは|どうなんだよ！=Doctor, what's wrong with Kid!?
-いつものとおり|精神的なショックのためだけど・・・=It seems he's had little psychological shock, much like usual, only...
+いつものとおり|精神的なショックのためだけど・・・=It seems he's had a little psychological shock, much like usual, only...
 今回はちょっと|ショックの度合いが大きいわね・・・=Only this time that little shock was much more severe...
-そうですか・・・=That makes sense...
+そうですか・・・=That makes sense.
 彼がどうして|こうなったのか・・・|あなたに心当たりはない？=But what could have brought this about...? Do you have any idea?
 先生・・・|それが俺にもさっぱり・・・=Doctor, I... I'm really not sure...
 !FILE:EV0321_075.bscr
@@ -1923,15 +1923,15 @@
 彼がどうして|こうなったのか・・・|あなたに心当たりはない？=But what could have brought this about...? Do you have any idea?
 先生・・・|それが俺にもさっぱり・・・=Doctor, I... I'm really not sure...
 !FILE:EV0321_077.bscr
-あら　ソウル？|調べものは終わったの？=Huh? Soul? Are you done with your little investigation thing?
+あら　ソウル？|調べものは終わったの？=Huh? Soul, are you done with your little investigation thing?
 終わったというか|まぁ　終わったんだろうな・・・=Am I done? Yeah, I guess it's over now...
-ふ～ん・・・|ところで何で保健室に|いたのかしら？=Hmm...? By the way, what are you doing in the infirmary?
-キッドを運んだんだ|アイツ　またおかしくなってさ・・・=I carried Kid here. He went all haywire again...
+ふ～ん・・・|ところで何で保健室に|いたのかしら？=Okay... By the way, what are you doing in the infirmary?
+キッドを運んだんだ|アイツ　またおかしくなってさ・・・=I carried Kid here. He went all haywire again.
 大変じゃない　それ|リズとパティに知らせなきゃ！=Oh, no! We have to let Liz and Patty know!
-リズとパティな・・・=Liz and Patty, huh...?
+リズとパティな・・・=Liz and Patty, huh?
 !FILE:EV0321_082.bscr
 大変よ　キッド君が|またおかしくなっちゃったみたい=Bad news! It looks like Kid went totally haywire again!
-なんだよ　またかよ|それでキッドはどこにいるんだ？=Seriously? Again? Well, where is he right now?
+なんだよ　またかよ|それでキッドはどこにいるんだ？=Seriously? Again? Well, where is he now?
 ソウルが保健室に|運んだのよ　そうなのよね？=Soul carried him to the infirmary. Right, Soul?
 あ　ああ・・・=Y-Yeah...
 手間かけさせちゃって|悪ィな　ソウル！=Sorry for making you do all that, Soul!
@@ -1940,15 +1940,15 @@
 !FILE:EV0321_092.bscr
 大変よ　キッド君が|またおかしくなっちゃったみたい=Bad news! It looks like Kid went totally haywire again!
 またかよ～♪きゃはははは！=Not again♪ Kyahahaha!
-そんで　キッド君は|今どこなの～♪|・・・ソウル君=In that case, where's Kid now♪? ... Soul?
+そんで　キッド君は|今どこなの～♪|・・・ソウル君=In that case, where's Kid now♪? Soul?
 は　はい|保健室です・・・=Y-Yeah. In the infirmary...#In lines 1944, 1946, and 1952 Soul uses the です form when answering Patty. The form is slightly more polite than he would normal use when speaking with her. It helps to convey that he knows he's guilty and that he's a little scared of Patty. I considered adding "ma'am", but it felt a little too strong. Another consideration would be replacing "Yeah" for "Yes". I'm not sure what else could be done or if it's even necessary really.
-ふ～ん　どこで|おかしくなったのかな？|・・・ソウル君=Hmm? And where'd he start going haywire exactly? ... Soul?
+ふ～ん　どこで|おかしくなったのかな？|・・・ソウル君=Hmm? And where'd he start going haywire exactly? Soul?
 は　はい|特別指導室です・・・=Y-Yeah. In the Special Guidance Room...
 なんで　アンタ達|そんな所にいたのよ？=What were you two doing in there?
 色々あんだよ　男同士！=Just guy stuff!
-ふ～ん　じゃあなんで|キッド君はおかしく|なったのかな？・・・ソウル君=Hmm? So what made Kid go haywire then? ... Soul?
+ふ～ん　じゃあなんで|キッド君はおかしく|なったのかな？・・・ソウル君=Hmm? So what made Kid go haywire then? Soul?
 それは・・・=Well, you see...
-なんでかな？|・・・ソウル君！=What could it have been? ... Soul!?
+なんでかな？|・・・ソウル君！=What could it have been? Soul!?
 それは　よく|わかんないです　はい・・・=Well, I don't really know. Yeah, that's it...
 そういうことにしといたほうが|いいと思うよ・・・ソウル君！=I'd say you should try to keep that in mind next time... Soul!
 何よ　ソウル！|肝心な所で|頼りにならないわね！=Seriously, Soul! How can you be so unreliable in such a crucial moment!?
@@ -1964,16 +1964,16 @@
 おいおい|何やってんだ　アイツ！=Hold on! What's his problem this time?
 大変　どうしよう=Oh, no. What do we do?
 どうすんだ　コレ？=Why do we have to do anything?
-ほっといちゃダメかな・・・=Well, we can't just leave him, can we...?
+ほっといちゃダメかな・・・=Well, we can't just leave him, can we?
 むっ　キッド・・・|これをやったのは　お前達か？=Hm? Kid... Did you two do this?
 教職員の立会いなしで|戦ってはいかんという|校則があるのを知らんのか！？=Have you forgotten school regulations? There's to be no fighting without a member of the teaching staff present as an observer!
 違います　先生|キッド君が勝手に|倒れちゃったんです！=It's not what you think, Sid. Kid just passed out all on his own!
-俺は疑うことを知らない|そんな男だった・・・|だが　それも過去の話だ・・・=I believe everyone. That's the kind of man I was... But that was the past...
+俺は疑うことを知らない|そんな男だった・・・|だが　それも過去の話だ・・・=I believe everyone. That's the kind of man I was... But that was the past.
 とにかく教室まで来てもらおう！|話はそこでゆっくりと聞く！=In any case, come with me to the classroom! I'll listen to your story there!
 私達を疑っているんですか？=Do you really not believe us?
 どうしたら　そういう|発想ができんだよ！=What would possibly make you think we did this!?
 !FILE:EV0322_005.bscr
-ええい　これ以上言い訳を|するつもりなら|親を呼び出すぞ！=Hey, anymore excuses out of you and I'll be calling your parents!
+ええい　これ以上言い訳を|するつもりなら|親を呼び出すぞ！=Hey, any more excuses out of you and I'll be calling your parents!
 !FILE:EV0322_006.bscr
 私達を疑っているんですか？=Do you really not believe us?
 どうしたら　そういう|発想ができんだよ！=What would possibly make you think we did this!?
@@ -1985,7 +1985,7 @@
 待ってたよ　マカ！=I've been waiting for you, Maka!
 いやだ　何で|パパがここにいるのよ！=Seriously? What's my papa doing here!?
 だって　シドの野郎が|親を呼び出すっていったんだろ？=I mean, our buddy, Sid, told you he was going to call your parents, didn't he?
-だからパパ来ちゃった・・・=So papa's here...
+だからパパ来ちゃった・・・=So Papa's here...
 あれは単なる脅しじゃねェか？|本当に呼び出すつもりは|ないと思うけどな・・・=I thought that was just a threat. I didn't think he was actually planning on calling...
 おっと|ジャマしないでくれるかな？=Hold it! Do you mind not interfering?
 こっから先は親子以外|立ち入り禁止だぜ！=This is an A and B conversation between parent and child, so go ahead and see your way out!
@@ -1996,13 +1996,13 @@
 !FILE:EV0322_017.bscr
 立ち入り禁止なのはパパのほうよ|ソウル行きましょう！=Papa, you're the C in this conversation. Let's go Soul!
 あ　ああ|じゃあ　そういうことだから=Uh. Sure. Let's go then, I guess.
-はははははは|バイバイ　マカ・・・=Hahahahaha. Bye-bye, Maka...
+はははははは|バイバイ　マカ・・・=Hahahahaha. Bye-bye, Maka.
 パパ　ちょっと|張り切り過ぎちゃったかな・・・=Papa might have overplayed his hand on that one...
 !FILE:EV0322_022.bscr
 ああ　お前達か　すまなかったな|どうやら俺の誤解らしい=I'm glad to see you two. I'm sorry about earlier. It looks like it was just a misunderstanding.
-だから　誤解だって|言ってたじゃねェか！=Didn't we tell you that it was just a misunderstanding!?
+だから　誤解だって|言ってたじゃねェか！=Didn't we tell you that!?
 それよりも　キッド君は|大丈夫なんですか？=By the way, how's Kid doing?
-ああ　肉体的なダメージは|ほとんどない　倒れた理由は|どうやら精神的なものらしい・・・=Oh. It looks like there's nothing wrong with him physically. But it seems like he fainted because of some mental reason...
+ああ　肉体的なダメージは|ほとんどない　倒れた理由は|どうやら精神的なものらしい・・・=Oh. It looks like there's nothing wrong with him physically. But it seems like he fainted because of some mental reason.
 どうもアイツは|神経質すぎるようだ・・・=That kid is too sensitive...#神経質 could be translated as sensitive or nervous. In the following line Sid uses the same word to describe the way he was in the past, so I wasn't sure which one would be the more appropriate translation for this context.
 俺も神経質な　そんな男だった|だが　それも昔の話か・・・=I was sensitive too. That's the kind of man I was. But that was a long time ago...
 キッドは保健室にいる|気になるなら　見舞って|やってくれ=Kid's in the infirmary right now. So if you're worried about him, why not go and give him a visit?
@@ -2010,18 +2010,18 @@
 俺も神経質な　そんな男だった|だが　それも昔の話か・・・=I was sensitive too. That's the kind of man I was. But that was a long time ago...
 キッドは保健室にいる|気になるなら　見舞って|やってくれ=Kid's in the infirmary right now. So if you're worried about him, why not go and give him a visit?
 !FILE:EV0322_030.bscr
-すまん　どうやら迷惑を|かけてしまったようだな・・・=I heard I caused you two a little trouble apparently, so sorry for that...
+すまん　どうやら迷惑を|かけてしまったようだな・・・=I heard I caused you two a little trouble apparently, so sorry for that.
 それよりも　キッド君は|何で倒れちゃったの？=Never mind that, Kid. What made you faint like that?
 うむ　実は・・・=Yeah. Actually...
-いや　やっぱいいよ|大体見当がつくから・・・=Nah, you don't need to explain anything. I think we've pretty much got the gist...
-そうか　残念だ|お前達なら理解してくれると|思ったんだが・・・=Oh, okay. I figured you two would understand...
+いや　やっぱいいよ|大体見当がつくから・・・=Nah, you don't need to explain anything. I think we've pretty much got the gist.
+そうか　残念だ|お前達なら理解してくれると|思ったんだが・・・=Oh, okay. I figured you two would understand.
 そうだ　一つ|頼まれてくれないか？=Anyway. Can I ask you guys for a small favor?
 リズとパティに|俺が保健室にいると伝えてくれ=Could you let Liz and Patty know I'm in the infirmary?
 俺の姿が急に見えなく|なったから　きっと心配|しているだろう=I'm sure they've been worried sick ever since I disappeared.
 あいつらが心配してるかどうかは|わかんねェぜ=I don't know if they'd really be worried or not.
-もう　ソウルったら・・・|いいわよキッド君|二人に知らせておくわね！=That's not nice, Soul... You can count on us, Kid. We'll let them know!
+もう　ソウルったら・・・|いいわよキッド君|二人に知らせておくわね！=That's not nice, Soul. You can count on us, Kid. We'll let them know!
 !FILE:EV0322_036.bscr
-すまん　どうやら迷惑を|かけてしまったようだな・・・=I heard I caused you two a little trouble apparently, so sorry for that...
+すまん　どうやら迷惑を|かけてしまったようだな・・・=I heard I caused you two a little trouble apparently, so sorry for that.
 !FILE:EV0322_042.bscr
 キッドから伝言だぜ！=We've got a message for you from Kid!
 今　保健室で休んでいるって|また　キッド君　倒れちゃったのよ=Kid fainted again, so he's resting in the infirmary right now.
@@ -2040,21 +2040,21 @@
 ほぇ？どうして|ぜんぜん平気だよ♪=Huh? Why? It never bothers me♪
 パティはえらいわね=You're amazing, Patty.
 一緒にいるだけでほめられるんなら|これから　もっとキッド君と|一緒にいることにするよ！=If I'm going to get complimented just for hanging out with Kid, I'm gonna start hanging out with him even more!
-それってキッドにとっては|迷惑なんじゃねェのか？=Wouldn't that just annoy Kid though?
+それってキッドにとっては|迷惑なんじゃねェのか？=Wouldn't that just annoy Kid, though?
 !FILE:EV0322_056.bscr
 あり？キッド君|また迷惑かけちゃった？=Really? Was Kid being all fussy again?
 !FILE:EV0322_067.bscr
 ちょうどよかった|マカに話があります=Exactly the person I wanted to see. Maka, I need to speak with you.
-どうしたんだよ博士？=What is it, professor?
+どうしたんだよ博士？=What is it, Professor?
 順番的にもそろそろ|マカの三者面談を行いたいのですが・・・|親御さんの時間はとれそうですか？=As you well know, Maka, we must complete your parent-teacher meeting before long... Would it be possible to take a little of your parent's time?
-すみません|最近は忙しいみたいで|ちょっと無理そうなんです=Sorry, professor. He's been really busy lately, so it's been difficult to find the time.
+すみません|最近は忙しいみたいで|ちょっと無理そうなんです=Sorry, Professor. He's been really busy lately, so it's been difficult to find the time.
 そうですか・・・|それでは日時の調整を行いたいので=I see... Well, I'd like to coordinate a time and date...
-その旨を記載したプリントを|親御さんに渡してください=So if you could please give this form with the meeting details on to your father...
+その旨を記載したプリントを|親御さんに渡してください=So if you could please pass this form with the meeting details on to your father...
 プリントなんて|もってねェじゃねェか？=Do you even have the form?
 今は手元にありません|すみませんが|後で俺のところまできてください=I don't have it on me at this time, no. My apologies. Please come to my office for it later.
-わかりました博士=Will do, professor.
-忙しいって・・・|デスサイズは暇そうじゃねェか？=Real busy, huh...? Seemed like Spirit had plenty of free time to me.
-それが　いやだから|全力でとぼけているんじゃない！|からかうのはやめてちょうだい=I really don't want to do it, and I'm doing everything I can to get out of it! So quit it with the dumb jokes.
+わかりました博士=Will do, Professor.
+忙しいって・・・|デスサイズは暇そうじゃねェか？=Real busy, huh? Seemed like Spirit had plenty of free time to me.
+それが　いやだから|全力でとぼけているんじゃない！|からかうのはやめてちょうだい=I really don't want to do it, and I'm doing everything I can to get out of it! So quit with the dumb jokes.
 !FILE:EV0322_070.bscr
 ソウル　隠れて|パパがこっちにくるわ！=Soul, hide! Papa's heading this way!
 おい　マカ|引っ張んなよ！=Hey, don't pull!
@@ -2072,8 +2072,8 @@
 先輩にプリントを|食べられてしまいました=Spirit sort of ate the form.
 えっ|どうして|そんなことになったんですか博士？=What? Why would he do something like that?
 はじめから話しますと|先輩が突如として押しかけてきたのです=I had barely finished speaking with you two when he came barreling up to me.
-マカの三者面談についての話を|どこからか聞きつけてきたみたいですね・・・=I guess he overheard us talking about the parent-teacher conference somehow...
-すげぇ　地獄耳だな・・・|デスサイズは何を言ってたんだ？=What kind of super hearing does he have...? So what did he say?
+マカの三者面談についての話を|どこからか聞きつけてきたみたいですね・・・=I guess he overheard us talking about the parent-teacher conference somehow.
+すげぇ　地獄耳だな・・・|デスサイズは何を言ってたんだ？=What kind of super hearing does he have? So what did he say?
 ええ　マカのことを|ほめちぎっていましたよ=Well, he was singing high praises of Maka.
 そんな娘の親である|俺もすごいとか言ってましたね=If I had such a daughter as he described, I would do the same.
 パパ・・・|私　恥ずかしい・・・=Papa... I'm so ashamed...
@@ -2083,7 +2083,7 @@
 浮かれさせるだけさせといて|落としたってわけか・・・|博士　わざとやったろ？=It sounds to me like you let it slip to get a rise out of him... Did you do it on purpose, professor?
 いいえ　違いますよ♪|守秘義務を守った俺を|どうかほめてください！=No, of course not♪ I feel like I even deserve some thanks for keeping confidentiality!
 それにしても　これまでないくらい|見事な取り乱し方でした|さすがにまずいかもしれませんね・・・=Nonetheless, I don't know that I've ever seen him so angry. He might be in a bad way...
-パパ　自業自得だけど|ちょっとだけ　かわいそう・・・=Papa's getting what he deserves, but I do sort of feel bad for him...
+パパ　自業自得だけど|ちょっとだけ　かわいそう・・・=Papa's getting what he deserves, but I do sort of feel bad for him.
 !FILE:EV0322_086.bscr
 それにしても　これまでないくらい|見事な取り乱し方でした|さすがにまずいかもしれませんね・・・=Nonetheless, I don't know that I've ever seen him so angry. He might be in a bad way...
 !FILE:EV0322_087.bscr
@@ -2092,28 +2092,28 @@
 かわいそうとか|言ってたじゃねェか？=Weren't you just saying that he looked pitiful?
 私はいやよ・・・そうだ|椿ちゃんに頼もう！=Well, I can't do it... I know. I'll ask Tsubaki!
 なんで椿なんだ？=Why Tsubaki?
-ダミースターで|私に化けてもらって|パパをなぐさめてもらうのよ！=She can transform into me with Dummy☆Star and comfort papa for me!
+ダミースターで|私に化けてもらって|パパをなぐさめてもらうのよ！=She can transform into me with Dummy☆Star and comfort Papa for me!
 決ーめた！|椿ちゃんをさがしましょう！=I've made up my mind! Let's find Tsubaki!
 そんなにイヤなら|心配しなきゃいいのに・・・=Seems like a lot of trouble to go through for something you're not worried about...
 !FILE:EV0322_092.bscr
 椿ちゃんお願い|ダミースターで私になって|パパをなぐさめてちょうだい=I need a favor, Tsubaki. Do you think you could transform into me with Dummy☆Star and go comfort my papa? Please?
 ごめんなさいマカちゃん|それだけはできないわ=Sorry, Maka, but I couldn't possibly.
-そんなことしたら|私　おヨメに行けなくなってしまう・・・=If I did that, I could never become someone's bride...
+そんなことしたら|私　おヨメに行けなくなってしまう・・・=If I did that, I could never become someone's bride.
 椿の頭の中で|デスサイズは|どんなイメージなんだ？=What kind of person does she think he is exactly?
 !FILE:EV0322_096.bscr
 椿ちゃんお願い|ダミースターで私になって|パパをなぐさめてちょうだい=I need a favor, Tsubaki. Do you think you could transform into me with Dummy☆Star and go comfort my papa? Please?
 ごめんなさいマカちゃん|それだけはできないわ=Sorry, Maka, but I couldn't possibly.
 !FILE:EV0322_097.bscr
-仕方ないよね・・・|私がなぐさめるしかないよね・・・=I guess I have no choice... I have to cheer papa up...
-ようやく決心が|ついたみたいだな？=Looks like your finally facing the facts.
+仕方ないよね・・・|私がなぐさめるしかないよね・・・=I guess I have no choice... I have to cheer Papa up.
+ようやく決心が|ついたみたいだな？=Looks like you're finally facing the facts.
 でも　恥ずかしいから|ここで待っててちょうだい=But it's embarrassing, so you have to stay here.
 へいへい|わかりました！=Yeah, yeah. I know!
 !FILE:EV0322_100.bscr
 ・・・・・・・・・=.........
-パパ　元気だしてちょうだい|博士のあれはいつもの意地悪よ=Please cheer up, papa. You know how sadistic the professor can be.
-俺のことは放っといてくれ|もう親子じゃないんだ=Just leave me be. You're not papa's little girl anymore. Isn't that right?
-悲しいけれど　俺とマカは|社会的にはそうなんだ・・・=As sad as it makes me to say it, publicly, we're not really a family. Isn't that right...?
-わかったら一人にしてくれ|俺はもうしばらく泣きたい・・・=Now, if you don't mind, I'd like to be alone to cry for a while...
+パパ　元気だしてちょうだい|博士のあれはいつもの意地悪よ=Please cheer up, Papa. You know how sadistic the professor can be.
+俺のことは放っといてくれ|もう親子じゃないんだ=Just leave me be. You're not Papa's little girl anymore. Isn't that right?
+悲しいけれど　俺とマカは|社会的にはそうなんだ・・・=As sad as it makes me to say it, publicly, we're not really a family.
+わかったら一人にしてくれ|俺はもうしばらく泣きたい・・・=Now, if you don't mind, I'd like to be alone to cry for a while.
 パパ・・・=Papa...
 ・・・・・・・・・=.........
 そんなことないわ|どんなことになっても|パパはパパよ！=You're wrong. No matter what happens, you'll always be my papa!
@@ -2121,20 +2121,20 @@
 親権とか社会的とか|なんなのそれは！？=Who cares what we are publicly!?
 そういうのをいくら積み重ねても|私とパパが親子である事実は|消せないわ　違うのパパ？=The truth is that you are my papa, and I'm your little girl. And nothing can ever change that. Right?
 マカ　ぜんぜん違わないよ=Right, Maka. That will never change.
-だったら　そんなに落ち込まないで|お願いだから　パパ・・・=Then please don't get so depressed. Okay, papa...?
+だったら　そんなに落ち込まないで|お願いだから　パパ・・・=Then please don't get so depressed. Okay, Papa?
 ・・・・・・・・・=.........
 こないだまで|赤ちゃんだと思っていたけど=All this time I've treated you like a baby, but...
 もう　パパを励ましてくれるほど|大きくなったんだね=You've grown up so much that now you're the one cheering me up.
 うれしいけれど|ちょっぴりさみしいよ・・・=I'm proud, but it does make me feel just a teeny bit lonely.
 ありがとう　マカ|世界一　愛してるよ！=Thank you, Maka. I love you more than anything!
 いやーーーー！！=Aaaaaaah!!
-恥ずかしい　よりにもよって|パパにむかって何てクサイことを・・・=You're so embarrassing! Of course, I say one affectionate thing to papa, and...
-言いなれてないせいか|一旦言い出すと止めどころが|わかんないのよね・・・=Maybe it's because I never say stuff like that... But I say one little thing, and now you don't know when to stop...
-マカ　パパはうれしいよ・・・=Maka, I'm so happy...
+恥ずかしい　よりにもよって|パパにむかって何てクサイことを・・・=You're so embarrassing! Of course, I say one affectionate thing, and...
+言いなれてないせいか|一旦言い出すと止めどころが|わかんないのよね・・・=Maybe it's because I never say stuff like that... But I say one little thing, and now you don't know when to stop.
+マカ　パパはうれしいよ・・・=Maka, I'm so happy.
 !FILE:EV0322_105.bscr
 ・・・・・・・・・=.........
 !FILE:EV0322_106.bscr
-マカ　パパはうれしいよ・・・=Maka, I'm so happy...
+マカ　パパはうれしいよ・・・=Maka, I'm so happy.
 !FILE:EV0322_107.bscr
 どうだった　久しぶりの|親子水入らずは？=Been a while since your last father-daughter bonding moment. So how'd it go?
 大丈夫よ！ここしばらくの|記憶はなくなってると思うから！=Just splendid! I don't think he'll remember a thing!
@@ -3750,18 +3750,18 @@
 そう　もうイヤに|なっちゃったのね？=I see. So our agreement no longer pleases you?
 わかったわ・・・|アナタを解放してあげるわ・・・=Well, a deal's a deal... I will release you...
 ゲコリ　本当ね=Ribbit. Really?
-でも　アナタの中にいる|ヘビは返してもらうわよ|何匹残っていたかしら・・・=But you'll have to return the snakes you've been keeping inside you. I wonder just how many there are in there...
+でも　アナタの中にいる|ヘビは返してもらうわよ|何匹残っていたかしら・・・=But you'll have to return the snakes inside you. I wonder just how many there are in there...
 もしかしたらアナタの身体を|引き裂いちゃうかもしれないわね|そうなったら　ごめんなさい=I want you to know that, if this tears your body to ribbons, I'm truly very sorry.
 ちょっと待ってよ|何匹ヘビを入れたか覚えてないの！？=Wait. What do you mean you're not sure how many snakes you put in me!?
 忘れちゃったのよ|ずいぶん前のことだし・・・それにもう|いなくなってるかもしれないわよ=It must have slipped my mind. It was so long ago... Maybe they're all already gone.
 やめて・・・|お願いだから　やめてちょうだい！=Stop... I'm begging you! Please stop.
 一体私の中には|後何匹ヘビがいるのよ？=Just how many snakes are there inside of me?
-それをアナタに教える必要は|ないと思うけど　違うかしら？=I can't see any reason for me to tell. Am I wrong?
+それをアナタに教える必要は|ないと思うけど　違うかしら？=I can't see any reason why I should tell you. Am I wrong?
 ゲコ～・・・=Ribbit...
 そうだ　おもしろいゲームを|考えちゃった=Now, I've thought of this wonderful game.
 今度はなんなの！=What is it this time?
 今　ここでソウルプロテクトを|解除してみてくれない=I'd like you to try releasing your Soul Protect... here and now.
-こんな　恐ろしい所でプロテクトを解いたら|・・・許してちょうだい=But if I dispel my Soul Protect in a terrible place like this, I... Please don't make me do it.
+こんな　恐ろしい所でプロテクトを解いたら|・・・許してちょうだい=But if I dispel my Soul Protect in a terrible place like this, I...|Please don't make me do it.
 あら　前に私を殺そうとして|死武専に潜入してきた時には・・・=Oh? I distinctly remember someone infiltrating the DWMA to try and kill me, and...
 変身魔法があるから|逃げおおせるとか言ってたのは|誰だったかしら？=They said their escaping wouldn't be a problem thanks to their transformation magic. Now who was that?
 ゲコ～・・・=Ribbit...
@@ -3777,11 +3777,11 @@
 メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the infirmary...
 そう・・・私がいない間に|侵入されちゃったみたいね・・・|二人ともケガはない？=Really...? They must have broken in while I was out... Are you hurt at all?
 !FILE:EV0923_012.bscr
-博士・・・|保健室に魔女反応が・・・=Professor... A witch in the infirmary...
+博士・・・|保健室に魔女反応が・・・=Professor... There was a witch in the infirmary...
 ええ　もちろん|気づきましたよ・・・=Yes, I'm well aware. I noticed it as well...
-冷てェな博士！|来てくれたっていいじゃねェか？=Why are you so calm, professor!? Would it have hurt you to come help out?
-保健室ですから|多分　俺に対する|挑発だと思ったのです・・・=In the infirmary? I thought it might have been an attempt to arouse me...
-なんで保健室だと挑発なんだよ|意味がわかんねェよ！=What does the infirmary have to do with arousing you? You're not making any sense!
+冷てェな博士！|来てくれたっていいじゃねェか？=Why are you so calm, Professor!? Would it have hurt you to come help out?
+保健室ですから|多分　俺に対する|挑発だと思ったのです・・・=In the infirmary? I thought it might have been an attempt to provoke me...
+なんで保健室だと挑発なんだよ|意味がわかんねェよ！=What does the infirmary have to do with provoking you? You're not making any sense!
 いえ　すみません|何でもありませんから・・・=I'm sorry. Forget I said anything...
 とにかく二人にケガがなくて|何よりです・・・=What's most important is that you two weren't hurt...
 !FILE:EV0923_016.bscr
@@ -3791,14 +3791,14 @@
 何につかうんだよ=What do you need a frog for?
 個人的に必要なのです|基本に立ち返ろうと思って・・・=For personal reasons. I've been thinking of going back to the basics...
 最近　どうも俺自身の研究が|荒れているように思えるのです=I haven't quite been myself recently, and my research has suffered for it.
-研究はカエルにはじまり|カエルに終わる・・・初心を|取り戻そうと思います=Research begins with a frog, and so does it end with a frog... We can't lose sight of original intentions.
+研究はカエルにはじまり|カエルに終わる・・・初心を|取り戻そうと思います=Research begins with a frog, and so does it end with a frog... One mustn't forget their origins.
 どうすんだよ　マカ=What do think, Maka?
-あはは・・・もしカエルを見かけたら|捕まえておきますよ　博士！=Ahaha... If we find a frog, I guess we'll catch it for you, professor!
-カエルか・・・|ずいぶん安請け合いしたけど|大丈夫なのか？=A frog, huh? .... Are you sure it's okay to make a promise like that without thinking it through?
+あはは・・・もしカエルを見かけたら|捕まえておきますよ　博士！=Ahaha... If we find a frog, I guess we'll catch it for you, Professor!
+カエルか・・・|ずいぶん安請け合いしたけど|大丈夫なのか？=A frog, huh? ....Are you sure it's okay to make a promise like that without thinking it through?
 カエルなんて|その辺にいるでしょ|適当に捕まえておきましょうよ=There ought to be a frog around here somewhere. Let's just catch one for him.
 !FILE:EV0923_022.bscr
 どうしたんだよ　てめェら|何か　微妙なツラしてんな☆=What are you guys doing? You look like you're up to no good☆
-まいったぜ　博士に|カエルを持ってくるように|頼まれちまってよ！=This is so stupid. The professor asked us to get him a stupid frog!
+まいったぜ　博士に|カエルを持ってくるように|頼まれちまってよ！=This is so stupid. The professor asked us to get him a damn frog!
 初心に帰って|カエルの研究をするんだって・・・=Something about getting back to basics and frog research...
 ブラック☆スター　あんた|死武専でカエルなんて見たことある？=Black☆Star, have you ever seen any frogs at the DWMA?
 カエル？　お前達|どこに目ン玉つけてんだよ！|そこにいるじゃねェか☆=A frog? Did you guys go blind or something!? There's a frog right there☆
@@ -3806,16 +3806,16 @@
 時代は博士の味方なのか=The professor couldn't have chosen a better time to start looking for frogs, huh?
 ずいぶん珍しいカエルね・・・|あんなの見た事ないわ！=It's a really weird-looking frog, don't you think...? I've never seen one like that!
 ゲコリ！=Ribbit!
-あ～あ・・・逃げちまった・・・|マカの殺気に気づいたんじゃねェか？=Urrgh... It ran off... I bet it was able to sense Maka's bloodlust.
-失礼ね　ソウル！|・・・なんだか急に悔しくなってきた|あのカエルを絶対捕まえてやる！=Take it back, Soul! ... This is really starting to get on my nerves. That frog is mine!
-いつまでも小僧っ気が|抜けねェヤツラだぜ！|ひやっはははははは☆=She's got the spirit of young brat until the very end! Yahahahaha☆
+あ～あ・・・逃げちまった・・・|マカの殺気に気づいたんじゃねェか？=Urrgh, it ran off... I bet it was able to sense Maka's bloodlust.
+失礼ね　ソウル！|・・・なんだか急に悔しくなってきた|あのカエルを絶対捕まえてやる！=Take it back, Soul! ...This is really starting to get on my nerves.|That frog is mine!
+いつまでも小僧っ気が|抜けねェヤツラだぜ！|ひやっはははははは☆=She's got the temper of a two-year-old even now! Yahahahaha☆
 !FILE:EV0923_026.bscr
-いつまでも小僧っ気が|抜けねェヤツラだぜ！|ひやっはははははは☆=She's got the spirit of young brat until the very end! Yahahahaha☆
+いつまでも小僧っ気が|抜けねェヤツラだぜ！|ひやっはははははは☆=She's got the temper of a two-year-old even now! Yahahahaha☆
 !FILE:EV0923_032.bscr
 何をさがしているんですか|マカちゃん　ソウル君？=Soul, Maka, what are you looking for?
 この辺でカエルを|見なかったか？=You seen a frog anywhere around here?
 カエルって・・・|そこにいますよ・・・=A frog...? There's one over there...
-・・・ゲコリ=... Ribbit.
+・・・ゲコリ=...Ribbit.
 いたわよ　ソウル！|あそこよ　あそこ！|早く捕まえなさい！=There it is, Soul! There! Right there! Quick! Catch it!
 あんまりイジメると|雨がふるからやめたほうがいいですよ・・・=You two should stop. It'll rain if ever you torment a frog, you know...
 椿ちゃん|おばあちゃんみたいね・・・=Tsubaki, you sound like a superstitious old lady...
@@ -3845,9 +3845,9 @@
 あのカエル|しゃべんなかった？=Was that frog just talking?
 !FILE:EV0923_052.bscr
 こんな所で何をやってるのかな？=What are you doing here?
-実はデスサイズ|俺達は今　カエルをさがしているんだ！=Actually, Spirit, we're kind of looking for a frog right now.
+実はデスサイズ|俺達は今　カエルをさがしているんだ！=Actually, we're kind of looking for a frog right now.
 カエルだって？|お前　俺のかわいいマカに|何やらせてんだ！=A frog!? What are you making my adorable Maka do!?
-カエルの百匹や二百匹|マカの手を煩わせないで|お前が捕まえてこい！=I don't care if it's a hundred or even two hundred frogs, Maka isn't going to be touching anything slimy, so you go catch them yourself!
+カエルの百匹や二百匹|マカの手を煩わせないで|お前が捕まえてこい！=I don't care how many there are, Maka isn't going to be touching anything slimy, so go catch them yourself!
 ゲコリ|親バカにもほどがあるわ|たいしてかわいい子でもないのに・・・=Ribbit. He's as dumb as his daughter. She's not a cute kid at all...
 おい　今　何つった！？|聞き捨てならねェぞ！=Hey! What are you muttering about? Did you think I wouldn't hear you!?
 ふ～ん・・・|ソウルの本音がわかっちゃったかも・・・=Hmm... So that's what you really think, huh...?
@@ -3864,15 +3864,15 @@
 あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again... Must be because of all of Soul's whining and complaining...
 はぁ！？|人のせいにするんじゃねェよ！|お前がノロマなだけだろ！=Huh!? Don't go blaming other people! It's just because you're such a slowpoke!
 !FILE:EV0923_060.bscr
-もうさがす場所は|ここしか考えられねェな！=I think this is the only place we haven't searched yet!
+もうさがす場所は|ここしか考えられねェな！=I think this is the only place we haven't searched yet.
 待ってちょうだい|中から話し声がするわ・・・=Hold on. I hear voices inside...
 !FILE:EV0923_070.bscr
 お願いだから助けてちょうだい！|フリーと戦った恐ろしい子供に|追いかけられているの！=Please help me! I'm being chased by that scary kid that took on Free!
 アイツらの話し振りからすると|私を捕まえて研究する気満々なのよ～・・・=It sounds like they want to catch me so they can do some kind of weird experiments on me...
 あら　いいじゃない♪=Well, isn't that quite lucky♪?
-研究ついでに|お腹の中にいるヘビ達も|取りだしてもらえるかもしれないわよ♪=While they have you open on the operating table, you could probably have them take those snakes out for you♪
+研究ついでに|お腹の中にいるヘビ達も|取りだしてもらえるかもしれないわよ♪=While they have you open on the operating table, you could have them take those snakes out for you♪
 そんなこといわないで|お願いよ～・・・=Do you have to say things like that...?
-いいわ　逃がしてあげる♪|その代わり　またパシリを|頼まれてちょうだい♪=Don't worry. I'll help you escape♪ But in exchange you'll have to do a few things for me♪
+いいわ　逃がしてあげる♪|その代わり　またパシリを|頼まれてちょうだい♪=Don't worry. I'll help you escape♪|But in exchange, you'll have to do a few things for me♪
 ゲコ～・・・=Ribbit...
 あれ　おかしいな|確かに話し声が聞こえたと|思ったんだけどな・・・=Huh? That's odd. I was sure we heard voices coming from in here...
 カエルも|いないわね・・・=There's no frog either...
@@ -3885,22 +3885,22 @@
 そうね　ちょっとムキに|なりすぎたかも・・・=I see what you mean. Maybe we've gotten a little too carried away...
 えらいわよ二人とも|よく聞き分けてくれたわね♪|そうだ　これはご褒美よ=Thank you for being so reasonable. You're such remarkable children♪ Right. I think you've earned this.
 なんだコレは？|図鑑なのか？=What's this? An encyclopedia?
-そうよ　たしか|マンガのキャラが世界のカエルを|説明してくれているのよ♪=Exactly. If I remember correctly, it has a popular manga character who teaches you all about frogs from around the world♪
-・・・あ　説明してくれるキャラって|カリスマジャスティスだ・・・=... Hey, look at that. It's Charisma Justice...
-あなた達　カエルに|興味があるみたいだから|もらってちょうだい♪=It looks like you two have quite the interest in frogs, so go ahead and take it♪
+そうよ　たしか|マンガのキャラが世界のカエルを|説明してくれているのよ♪=Exactly. If I remember right, it has a popular manga character who teaches you about all kinds of frogs♪
+・・・あ　説明してくれるキャラって|カリスマジャスティスだ・・・=...Hey, look at that.|It's Charisma Justice...
+あなた達　カエルに|興味があるみたいだから|もらってちょうだい♪=It looks like you two have quite the interest in frogs, so go ahead and|take it♪
 別に好きってわけじゃ|ないんだけどな・・・=I wouldn't really say that I like them or anything...
 !FILE:EV0923_076.bscr
-あなた達　カエルに|興味があるみたいだから|もらってちょうだい♪=It looks like you two have quite the interest in frogs, so go ahead and take it♪
+あなた達　カエルに|興味があるみたいだから|もらってちょうだい♪=It looks like you two have quite the interest in frogs, so go ahead and|take it♪
 別に好きってわけじゃ|ないんだけどな・・・=I wouldn't really say that I like them or anything...
 !FILE:EV0923_077.bscr
 どうしたんだよ|シケた面しやがってよ！=What's wrong with you? You're looking grumpier than usual!
 メデューサ先生から|本を貰ったんだけどよ・・・=Well, Dr. Medusa sort of gave us this book, but...
-なんとも微妙なのよこれが・・・|カリスマジャスティス|関連なんだけどね・・・=It's got something to do with Charisma Justice and all, so... it's not really our thing...
+なんとも微妙なのよこれが・・・|カリスマジャスティス|関連なんだけどね・・・=It's got something to do with Charisma Justice and all, so it's not really my thing...
 カリスマジャスティス！|おい　その本　俺にくれよ|な　いいだろ！？=Charisma Justice! Hey, you can give it to me! How does that sound!?
 マカに聞いてみてくれ|聞くまでもないと思うけどよ・・・=Try asking Maka. Although I doubt you even need to...
-メデューサ先生に悪いと思うけど・・・|こういうのは一番喜んでくれる人が|もらうべきなのよね・・・=It was a gift from Dr. Medusa, but... this sort of thing should really go to the person who would most appreciate it...
+メデューサ先生に悪いと思うけど・・・|こういうのは一番喜んでくれる人が|もらうべきなのよね・・・=It was a gift from Dr. Medusa, but... it's better if it goes to someone who could really appreciate it...
 ひやっはぁ☆|スターへの貢ぎ物|たしかに受け取ったぜ！=Yahoo☆ A star can't really refuse tribute!
-ああ　俺達も嬉しいぜ・・・=Yeah, we're really happy too...
+ああ　俺達も嬉しいぜ・・・=Yeah, we're glad too...
 うん　あんたの喜びとは|別のベクトルでね・・・=Yep. And your excitement is just a bonus...
 ん　なんだ　マンガじゃねェのか|喜びも半分だぜ・・・=Hey! What gives? This isn't a manga. And the excitement is gone...
 ブラック☆スターに%_dc[0,196,0]カエル図鑑%_dc[255,255,255]を渡した=Gave the %_dc[0,196,0]Frog Encyclopedia %_dc[255,255,255]to Black☆Star.
@@ -4165,7 +4165,7 @@
 おいおい　ずいぶん弱気だな！|らしくねェんじゃねェか！？=Come on! Where's your self-confidence! You've got it all wrong!
 私だってそんな時くらいあるわよ！=Even I can't be super confident all the time!
 今回は|結構面倒なことになりそうな気がするの=I feel like this one's going to be really annoying.
-マジで？！|マカ様のその偉大なる勘が|外れることを俺は心から願うよ=Really? Oh, I do so hope the great Maka and her infallible hunches could be mistaken.
+マジで？！|マカ様のその偉大なる勘が|外れることを俺は心から願うよ=Really? Oh, I do so hope the great Maka and her infallible hunches might be mistaken.
 うっさいなあ　もう=Lay off!
 !FILE:EV0932_030.bscr
 そういえば|ブラック☆スター達は|どこにいるのかな？=By the way, where'd Black☆Star disappear to?
@@ -4351,40 +4351,40 @@
 さーてとっ！|たまには遊びながら帰ろっか？=You know what? It wouldn't hurt for us to enjoy ourselves a little before going back, would it?
 そうだ！|どうせならこの辺りを探検しながら|帰ろっか？=I know! While we're here, why don't we explore a little on the return trip?
 !FILE:EV0934_000.bscr
-なんだぁ～？|死神の手先かぁ～=Whaaat? Death's paaaawns?
+なんだぁ～？|死神の手先かぁ～=Whaaat? Death's pawns?
 ムハハハハ・・・|私には何も効かないのだぁ～！=Mwahahaha... I am impervious to your attacks!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
-私の身体は　無敵なのだぁ～=I am immortal!
-お前達は何ものだぁ～？=Who are youuu?
-何者も私を　止められないのだぁ～=No one can stop meee!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's pawns are useless to stop meee!
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
+私の身体は　無敵なのだぁ～=With God on my side, I am immortal!
+お前達は何ものだぁ～？=Who are you?
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
+死神の手先でも|私を止められないのだぁ～！=Even the rrreaper's pawns are useless to stop me!
 頑丈な私の身体！|ほれぼれするだろ～？=Impressed? My body is as strong as steel!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 !FILE:EV0934_030.bscr
-お前達は何ものだぁ～？=Who are youuu?
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
 !FILE:EV0934_031.bscr
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 !FILE:EV0934_032.bscr
@@ -4401,9 +4401,9 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 !FILE:EV0934_035.bscr
-お前達は何ものだぁ～？=Who are youuu?
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
 !FILE:EV0934_040.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
 いいからいくよ！　|ソウル！=We should be good to go! Come on, Soul!
@@ -4427,9 +4427,9 @@
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 なんか強そうな奴だな・・・=This guy looks pretty tough...
 がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
-イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
+イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your distance.
 なんとかするよ！ソウル！=Let's do it, Soul!
-うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
+うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck... I don't really want to have anything to do with this guy...
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_100.bscr
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
@@ -4469,16 +4469,16 @@
 鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
 !FILE:EV0934_132.bscr
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
 !FILE:EV0934_135.bscr
@@ -4486,16 +4486,16 @@
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
 !FILE:EV0934_200.bscr
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's useless! Utterly useless!! I am invincibleee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-絶望に打ちひしがれるのだぁ～！=Tremble in feeeear!
+絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
 死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha.... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
-ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat meee!
+ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Stop your useless struggling and hand over your souls!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
 !FILE:EV0934_230.bscr
 私の身体は　無敵なのだぁ～=My body is invincibleee!
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
@@ -4556,9 +4556,9 @@
 気を抜かないでよ！ソウル！=Stay on your guard, Soul!
 いくぞ！マカ！=Let's go, Maka!
 ちゃんと波長を合わせてよね！ソウル！=Keep your soul wavelength in sync with mine, Soul!
-イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
+イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your distance.
 なんとかするよ！ソウル！=Let's do it, Soul!
-うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
+うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck... I don't really want to have anything to do with this guy...
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_330.bscr
 ＨＡ！ＨＡ！=Ha! Ha!
@@ -4626,9 +4626,9 @@
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 なんか強そうな奴だな・・・=This guy looks pretty tough...
 がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
-イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
+イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your distance.
 なんとかするよ！ソウル！=Let's do it, Soul!
-うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
+うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck... I don't really want to have anything to do with this guy...
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_430.bscr
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
@@ -4782,9 +4782,9 @@
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 なんか強そうな奴だな・・・=This guy looks pretty tough...
 がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
-イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your difference.
+イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your distance.
 なんとかするよ！ソウル！=Let's do it, Soul!
-うへぇ・・・|あんまり相手にしたくねぇな・・・=Yeah... I don't really want to worry about this guy...
+うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck... I don't really want to have anything to do with this guy...
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_730.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
@@ -5410,9 +5410,9 @@
 でも　ブーたん|おどろいちゃった♪=You really surprised me, though, Soul♪
 ソウル君って|クールにゃだけじゃにゃくて|意外に強引にゃのね♪=I knew you were cool, but I didn't know how rough you could be♪
 あ　ああ・・・|俺はクールなだけな男じゃねェぜ！=W-Well... There's more to me than just being cool!
-みにゃおしたよ♪=I see that meow♪
+みにゃおしたよ♪=I see that now♪
 お　おう・・・|ようやく気づいてくれたか=Y-Yeah... At least you've finally noticed.
-何ネコにデレデレしてんのよ|まったくしょうがないわね！=What are you blushing for? It's a cat. Whatever!
+何ネコにデレデレしてんのよ|まったくしょうがないわね！=What are you blushing for? It's a cat. Let's just go already!
 !FILE:EV0950_000.bscr
 魂の共鳴ッ！！=Soul Resonance!!
 オオォォォ・・・=OOoooh!
@@ -5746,7 +5746,7 @@
 あなた達の活躍を|よく耳にするわよ♪=I've been hearing a lot of good things about you♪
 それほどでもねェよ|ちょっと大げさじゃねェか=We haven't done that much. I think you're exaggerating just a little.
 これを渡しておくから|もっとがんばってちょうだい♪=I'm going to give you this, so keep at it and do your best out there♪
-ありがとうございます|すごくうれしいです=Thank you so much! That makes me so happy!
+ありがとうございます|すごくうれしいです=Thank you so much! Hearing that has make me really happy!#Was thinking 'I love it!' as a natural response to getting a gift, but she gives you a tonic so maybe that's a bit OTT.
 これからも|期待しているわよ♪=I'm expecting a lot from you two♪
 !FILE:EV0966_006.bscr
 これからも|期待しているわよ♪=I'm expecting a lot from you two♪
@@ -5754,7 +5754,7 @@
 マカ|いいものあげようか？=Maka, I've got something nice for you.
 何　はやくしてよ=Make it quick. What is it?
 これだよ　これ|絶対　気に入ってもらえると|思うんだけど・・・=It's here. It's just a little something I thought you might like...
-あら　悪くない|・・・ありがとうパパ=Wow, it isn't terrible... Thanks, papa.
+あら　悪くない|・・・ありがとうパパ=Wow, it isn't terrible... Thanks, Papa.
 やったー！|マカに受け取ってもらえたぞ！=Yes!! Maka accepted my gift!
 !FILE:EV0966_016.bscr
 やったー！|マカに受け取ってもらえたぞ！=Yes!! Maka accepted my gift!
@@ -5810,7 +5810,7 @@
 マカ最近がんばってるみたいだね|パパは嬉しいよ♪=It looks like you've been working really hard recently, Maka. Papa is so proud♪
 何の用？|あんまり気安く話しかけてこないで=What do you want? I hate it when you act all fatherly like that.
 そんなこと言わないで|パパからのプレゼントを|受け取ってちょうだい・・・=That hurts, Maka. Here. Papa wanted to give you a little present...
-いいわパパ|でもこんなことはこれきりにして=Thanks, papa. But this is the last one. No more gifts.
+いいわパパ|でもこんなことはこれきりにして=Thanks, Papa. But this is the last one. No more gifts.
 ありがとうマカ|これからもがんばってね♪=Thanks, Maka. Keep up the good work, okay♪
 !FILE:EV0966_107.bscr
 忘れるところでした|これを渡すように死神様から|言付かっていたのです=I had forgotten. Lord Death asked me to give this to you.
@@ -6710,11 +6710,11 @@
 ・・・聞いてビビるなよ=Don't freak out when you hear this.
 おっ　なんだ|おもしろそーじゃねぇか|俺様にも聞かせろ！=Huh? What are we talking about? Sounds interesting. I want to hear it too!
 どんな噂なの？=So what's this rumor about?
-ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town and it attacks people night after night.
+ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town, and it attacks people night after night.
 たいしたことねーじゃん=I don't buy that.
 襲われるのは|美しい娘ばっかりだってさ=And it like, only attacks beautiful young women.
 い～やぁ～　コワい～！|一人で　あるけない～！=Hyaaaa! Scary! There's no way I'm walking alone tonight!
-きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh sis?
+きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh, sis?
 お前さ・・・=You... Never mind.
 あっ|その話　私も聞きました=I heard the same thing actually.
 何人かの職人が|その犯人を　追いかけたらしいんですが|いつも見失ってしまう　って=For some reason, they always lose sight of the culprit no matter how many meisters are pursuing it.
@@ -9789,40 +9789,40 @@
 そうだな・・・|この俺様が小物達に土産を持って|帰ってやるか！椿！=I have an idea! Why don't we get some souvenirs for all the little guys waiting for us back home?
 うむ|今日はゆっくり帰るとするか！=Hm. Let's take it easy on the way home today!
 !FILE:EV1934_000.bscr
-なんだぁ～？|死神の手先かぁ～=Whaaat? Death's paaaawns?
+なんだぁ～？|死神の手先かぁ～=Whaaat? Death's pawns?
 ムハハハハ・・・|私には何も効かないのだぁ～！=Mwahahaha... I am impervious to your attacks!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
-私の身体は　無敵なのだぁ～=I am immortal!
-お前達は何ものだぁ～？=Who are youuu?
-何者も私を　止められないのだぁ～=No one can stop meee!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's pawns are useless to stop meee!
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
+私の身体は　無敵なのだぁ～=With God on my side, I am immortal!
+お前達は何ものだぁ～？=Who are you?
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
+死神の手先でも|私を止められないのだぁ～！=Even the rrreaper's pawns are useless to stop me!
 頑丈な私の身体！|ほれぼれするだろ～？=Impressed? My body is as strong as steel!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 !FILE:EV1934_030.bscr
-お前達は何ものだぁ～？=Who are youuu?
+お前達は何ものだぁ～？=Who are you?
 俺様を知らないヤツが|まだいるとは　驚きだぜ！=I didn't think it was possible that there was still someone out there who doesn't know who I am!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing! 
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
 !FILE:EV1934_031.bscr
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 ビッグなスターの輝きに|目が眩むだろ！=You must be starstruck running into a star as big as me!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 ひゃっはぁ～！|暗殺されたいヤツはどいつだー？！=Yahoo! Are you the one that wants to be assassinated!?
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 スターである俺様が|いっちょカツを入れてやるか！|ひやっはははははは☆=I guess it's up to a star like me to give him a pep-talk! Yahahahahahaha☆
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 まったく　しょうがねェヤツだぜ！|ひやっはははははは☆=This guy is totally hopeless! Yahahahahahaha☆
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 !FILE:EV1934_032.bscr
@@ -9907,16 +9907,16 @@
 まったく　しょうがねェヤツだぜ！|ひやっはははははは☆=This guy is totally hopeless! Yahahahahahaha☆
 死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
 !FILE:EV1934_132.bscr
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者が|俺様より目立つんじゃねーぜ！=Nobody whose soul has become a kishin egg is going to take over my spotlight!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 小物稼ぎしやがって！|気にいらねェよ！小物が！！=I'm done with scoring weaklings! I don't like 'em, those weaklings!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 よわっちそうなヤツだな！|俺様の敵じゃねーぜ！=This guy looks like a weakling! Definitely not a threat to me!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 何いってんだ　お前ェ？=What did you say?
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
 !FILE:EV1934_135.bscr
@@ -9924,16 +9924,16 @@
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
 !FILE:EV1934_200.bscr
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's useless! Utterly useless!! I am invincibleee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-絶望に打ちひしがれるのだぁ～！=Tremble in feeeear!
+絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
 死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha.... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
-ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat meee!
+ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Stop your useless struggling and hand over your souls!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
 !FILE:EV1934_230.bscr
 私の身体は　無敵なのだぁ～=My body is invincibleee!
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
@@ -12484,11 +12484,11 @@
 ・・・聞いてビビるなよ=Don't freak out when you hear this.
 おっ　なんだ|おもしろそーじゃねぇか|俺様にも聞かせろ！=Huh? What are we talking about? Sounds interesting. I want to hear it too!
 どんな噂なの？=So what's this rumor about?
-ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town and it attacks people night after night.
+ある街で　夜な夜な人を襲う|怪人が　現れるって=Word is that a phantom has appeared in another town, and it attacks people night after night.
 たいしたことねーじゃん=I don't buy that.
 襲われるのは|美しい娘ばっかりだってさ=And it like, only attacks beautiful young women.
 い～やぁ～　コワい～！|一人で　あるけない～！=Hyaaaa! Scary! There's no way I'm walking alone tonight!
-きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh sis?
+きゃははは　お姉ちゃん|ホントは　マジビビリじゃないの～？=Kyahahaha! You're really spooked,|huh, sis?
 お前さ・・・=You... Never mind.
 あっ|その話　私も聞きました=I heard the same thing actually.
 何人かの職人が|その犯人を　追いかけたらしいんですが|いつも見失ってしまう　って=For some reason, they always lose sight of the culprit no matter how many meisters are pursuing it.
@@ -13111,7 +13111,7 @@
 とにかくシドを|見かけたら教えてください=If you find Sid, please be sure to come let me know.
 !FILE:EV2222_067.bscr
 それにしても|マカとシド先生は|どこにいっちまったんだ？=Even so, where did Maka and Sid disappear to?
-変だね　お姉ちゃん？=Weird, huh Sis?
+変だね　お姉ちゃん？=Weird, huh, sis?
 お前達　マカとシド先生が|なぜ姿を消したか・・・|本当にわからんのか？=You two really have no idea why there's suddenly no sign of either of them?
 どういう意味かな|キッド君？=What are you implying, Kid?
 お前ェが言ってることが|ぜんぜんわかんねェよ！=I don't understand what you're getting at one bit!
@@ -14119,7 +14119,7 @@
 うん　聞いた話だと|魂にそっくりな形をした物らしいわ・・・=Yeah. According to him, it looks exactly like a soul...
 しかも　それを使うと|武器の能力を上昇させる|効果があるかもしれないって・・・=And he said that using it might result in a weapon realizing their full potential...
 じゃあ　それを使えば|私の能力もあがるんだな！=So if I use this thing, I could be stronger!
-急に食いついてきたね|お姉ちゃん♪=You're in hook, line, and sinker, huh sis♪
+急に食いついてきたね|お姉ちゃん♪=You're in hook, line, and sinker, huh, sis♪
 ぅ　うん|でも可能性は低いって|博士は言ってたけど・・・=Y-Yeah. But the professor also said that it's a slim chance...
 手伝ったら|それを少しは|もらえるんだろうな！？=And if we help, he'll give us a little of it, right!?
 ぅ　うん|博士はいいって|言ってたけど・・・=Y-Yeah. The professor said that would be fine, but...
@@ -14409,7 +14409,7 @@
 しかし　ソウルの胸の傷って|なんかあんのかね・・・傷自体は|治ったっていう話だけどさ・・・=But we still don't know what's going on with Soul's wound... Everybody keeps saying the wound itself has already healed, but like...
 みんな　あの傷のことになると|どうも様子がおかしいんだよな・・・=Whenever we bring up that scar, everybody starts acting all weird...
 なぁ|もうお姉ちゃん　ソウルに|それとなく聞いてみようと思うんだ=Hey, what if sis tries to ask Soul about it indirectly?
-お姉ちゃん|めんどくさくなってきてるね♪=This is really starting to bug you, huh sis♪?
+お姉ちゃん|めんどくさくなってきてるね♪=This is really starting to bug you, huh, sis♪?
 !FILE:EV2422_062.bscr
 よ　よう　ソウルさん|調子は　どうですか？=Y-Yo, Soul. How are you doing?
 お前ら|人のパートナーを|あんまり　いじめんじゃねェぞ！=Stop going around upsetting people's partners!
@@ -14855,7 +14855,7 @@
 ところで死神様は|どんな服を着てくるんだ？=By the way, Lord Death, what will you be wearing to the party?
 私？一応礼服を着ていくよ|まぁ　見た目は今とあんまり|変わらないだろうけどね♪=Me? I'll be wearing formal attire more or less. In fact, my outfit won't be too different from what I'm wearing now♪
 !FILE:EV2521_027.bscr
-これで一安心だね|お姉ちゃん♪=That's a relief, huh sis♪?
+これで一安心だね|お姉ちゃん♪=That's a relief, huh, sis♪?
 ああ　キッドと|他人の振りをしないでも|よさそうだな=Yeah. I guess it's fine if Kid doesn't pretend to be someone he isn't.
 ・・・・・・・・・=.........
 どうしたんだ？=You all right?
@@ -14892,7 +14892,7 @@
 キッドの死神装束|もしくはブレアを|見かけなかったか？=Have you seen Kid's reaper robes? Or maybe Blair even?
 キッドの死神装束は見なかったけど|マカんとこのネコなら見たぜ！=I haven't seen Kid's reaper robes, but if your talking about Maka's cat, I saw her!
 あいつ|気持ちよさそうに|寝ていやがったな・・・=She was sleeping. Looked pretty comfy too...
-ブレアのほうか・・・|ハズレだね　お姉ちゃん♪=Well that's a miss on Blair, huh Sis♪?
+ブレアのほうか・・・|ハズレだね　お姉ちゃん♪=Well that's a miss on Blair, huh, sis♪?
 !FILE:EV2521_056.bscr
 キッドの死神装束|もしくはブレアを|見かけなかったか？=Have you seen Kid's reaper robes? Or maybe Blair even?
 キッドの死神装束は見なかったけど|マカんとこのネコなら見たぜ！=I haven't seen Kid's reaper robes, but if your talking about Maka's cat, I saw her!
@@ -15644,40 +15644,40 @@
 うむ|たまにはこの辺りを探検しながら|地形を把握して帰るか！=Hm. It couldn't hurt to explore a little every once in a while, would it?
 よし！|せっかくここまで来たのだ|シンメトリーな土産物でもさがして帰るか=Hey, we came all this way, so why don't we pick up a few souvenirs before we go home!?
 !FILE:EV2934_000.bscr
-なんだぁ～？|死神の手先かぁ～=Whaaat? Death's paaaawns?
+なんだぁ～？|死神の手先かぁ～=Whaaat? Death's pawns?
 ムハハハハ・・・|私には何も効かないのだぁ～！=Mwahahaha... I am impervious to your attacks!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
-私の身体は　無敵なのだぁ～=I am immortal!
-お前達は何ものだぁ～？=Who are youuu?
-何者も私を　止められないのだぁ～=No one can stop meee!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's pawns are useless to stop meee!
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
+私の身体は　無敵なのだぁ～=With God on my side, I am immortal!
+お前達は何ものだぁ～？=Who are you?
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!#Is this too much? xD
+死神の手先でも|私を止められないのだぁ～！=Even the rrreaper's pawns are useless to stop me!
 頑丈な私の身体！|ほれぼれするだろ～？=Impressed? My body is as strong as steel!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 !FILE:EV2934_030.bscr
-お前達は何ものだぁ～？=Who are youuu?
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
-お前達は何ものだぁ～？=Who are youuu?
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
 !FILE:EV2934_031.bscr
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 !FILE:EV2934_032.bscr
@@ -15688,13 +15688,13 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 !FILE:EV2934_035.bscr
-何者も私を　止められないのだぁ～=No one can stop meee!
+何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 !FILE:EV2934_040.bscr
@@ -15733,7 +15733,7 @@
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2934_130.bscr
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
@@ -15762,33 +15762,33 @@
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
 !FILE:EV2934_132.bscr
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
 !FILE:EV2934_135.bscr
-なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with meee?
+なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
 !FILE:EV2934_200.bscr
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's useless! Utterly useless!! I am invincibleee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-絶望に打ちひしがれるのだぁ～！=Tremble in feeeear!
+絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
 死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha.... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
-ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat meee!
+ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Stop your useless struggling and hand over your souls!
-私に敵うとでも思っているのかぁ～？=You're no match for meee!
+私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
 !FILE:EV2934_230.bscr
 私の身体は　無敵なのだぁ～=My body is invincibleee!
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
@@ -15823,9 +15823,9 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ムハハハハ・・・|私には何も効かないのだぁ～！=Mwahahaha... Your attacks are useless against meee!
-ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat meee!
+ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 !FILE:EV2934_235.bscr
@@ -15887,7 +15887,7 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 チカラァァァ！|タマシイイィィィ！！=Powerrrr! Soullllls!!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 チカラァァァ！|タマシイイィィィ！！=Powerrrr! Soullllls!!
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
@@ -15957,7 +15957,7 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 ケケケケケ・・・=Kekekekeke...
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 ケケケケケ・・・=Kekekekeke...
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
@@ -16000,7 +16000,7 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
@@ -16043,7 +16043,7 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
@@ -16113,14 +16113,14 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 !FILE:EV2934_735.bscr
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 !FILE:EV2934_830.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
@@ -16156,7 +16156,7 @@
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 やりたい放題サイコーだぜぇ～♪=I will do as I desire♪
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 やりたい放題サイコーだぜぇ～♪=I will do as I desire♪
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
@@ -16407,7 +16407,7 @@
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2936_110.bscr
 鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
@@ -16418,7 +16418,7 @@
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2936_120.bscr
 鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
@@ -16429,7 +16429,7 @@
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2936_200.bscr
 タマシ・・イ・・・|ウバウッ！！=I'll snatch... your... soul!!
@@ -16725,7 +16725,7 @@
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2938_110.bscr
 鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
@@ -16736,7 +16736,7 @@
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2938_120.bscr
 鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
@@ -16747,7 +16747,7 @@
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Find you! This day will be your last!
+見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2938_200.bscr
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=What's that!? I'll turn you inside out! Oraaaaaaagh!
@@ -18502,13 +18502,13 @@
 こんな所で|遊んでいちゃダメじゃない！=It's against the rules to be playing around in here!
 !FILE:EV9967_010.bscr
 俺様を追いかけるのはいいけど|同じステージに立たないほうが|いいと思うぜ！=It's okay to shadow me, but it would be a terrible idea to try to stand in my place on stage!#seen
-己の小物ぶりを痛感することに|なっちまうからな！|ひやっはははははは☆=I always keep a close on eye on my understudies! Yahahahahahaha☆#Maybe Yahahaha would fit with the other yahoo's?
-全てを見下ろせる|高いステージに登りてェんだけどよ=I wanted to get on a stage so tall I could look out over the whole city, but...
+己の小物ぶりを痛感することに|なっちまうからな！|ひやっはははははは☆=I always keep a close on eye on my understudies! Yahahahahahaha☆
+全てを見下ろせる|高いステージに登りてェんだけどよ=I wanted to get on a stage so tall I could look out over the whole city, but...#seen
 なんてキメていいか思いつかねェから|保留中ってとこだな☆=I don't think the world is ready for that yet, so I've put that plan on hold☆#Is this a pun on キメる, like, getting high?
 俺様は赤ん坊の時から|死武専で暮らしているようなもんだ|まぁ　家みたいなもんよ=I've lived here at the DWMA since I was a baby. It's like home to me.#seen
 いわば選ばれた存在ってヤツだ|みんなとはスタートからして|違うってことになるかな☆=In a way, my life was chosen for me. I guess we don't all start our journeys from the same place☆
-俺様くらいのスターになると|ユーザーの声が聞こえてくる・・・=Once you become a star as big as me, you start hearing your fans crying for you everywhere...
-うわ　こりゃハズレのイベントだ|早く終わらせちまおうってな☆=Woah! It sounds like they're throwing an event! Let's hurry up before it's over☆#ハズレ would be a non-winning ticket in a lottery. It's also used to mean a wrong/bad guess generally, but I can only make a bad guess about what it's supposed to be here ^^' 
+俺様くらいのスターになると|ユーザーの声が聞こえてくる・・・=Once you become a star as big as me, you start hearing your fans crying for you everywhere...#seen
+うわ　こりゃハズレのイベントだ|早く終わらせちまおうってな☆=Woah! It sounds like they're throwing an event! Let's hurry up before it's over☆
 悪ィ！|スターな俺様のスケジュールは秒刻みなんだ=Sorry, but every second of a star's schedule is accounted for.#seen
 かまってあげてェのはやまやまなんだけどよ|今はカンベンしてくれや！=I wish I could stop and talk, but I just don't have the time. I'm sure you understand!
 小物らしく　小物稼ぎを|する時じゃねェのか？=Isn't it time for the small people to be doing small people things?
@@ -18582,7 +18582,7 @@
 !FILE:EV9967_060.bscr
 キッド君を見てて|思うんだけど|死神って丈夫だね♪=When I look at Kid, I realize just how strong a grim reaper is♪#seen
 何べん倒れても|不死鳥のように蘇ってくるよ！|きゃはははは♪=No matter how many times he faints, he always comes back like a phoenix! Kyahahaha♪
-お姉ちゃんて|案外子供だよね♪=Sis is surprisingly childish, huh♪?
+お姉ちゃんて|案外子供だよね♪=Sis is surprisingly childish, huh♪?#seen
 いいかげん|妹離れしてもらえないかな？=How long would she make it without her little sister?
 ストリートも死武専も|私はどっちも好きだよ～♪=I like the DWMA, but I like the streets too♪#seen
 正直どっちも|あんまりかわんないよ♪=Honestly, I don't really like one more than the other♪
@@ -18652,19 +18652,19 @@
 パパはマカと|マカのママのことを|世界で一番愛しているからね！=Maka, there's nothing papa loves more in this world than you and your mother!
 最近　物騒みたいだから|マカも気をつけてね・・・=Things have been a little crazy lately, so take extra care, okay?#seen
 そうだ　パパも一緒に|お外についていってあげようか？|親子でペアってのもいいよね♪=I have an idea! How about papa goes too? What pair would be better than a father and his daughter♪?
-ねぇ　マカ　もしよかったら|パパの家に泊まりに来ない？|・・・なんなら一緒に暮らそう=Hey, Maka, why don't you come spend the night at papa's house? It'll be like we're living together.
+ねぇ　マカ　もしよかったら|パパの家に泊まりに来ない？|・・・なんなら一緒に暮らそう=Hey, Maka, why don't you come spend the night at papa's house? It'll be like we're living together.#seen
 あ　もういいよマカ|表情で全部わかっちゃった・・・=Ah, never mind, Maka. Your expression tells me everything I need to know...
 マカには　こんな所で|グズグズしているヒマはない！|やるべき事があるはずだよ！=What are you doing just hanging out around here? I know there's something you're supposed to be doing!
 !FILE:EV9967_091.bscr
 お前には他に|やるべきことがあるだろう！？=Don't you have something to take care of!?
 マカには　こんな所で|グズグズしているヒマはない！|やるべきことがあるはずだよ！=What are you doing just hanging out around here? I know there's something you're supposed to be doing!
-!FILE:EV9967_095.bscr
+!FILE:EV9967_095.bscr#debug text?
 ムービー挿入予定シーン=Movie insertion - Planned scene#These two lines don't belong here. 
 現状　素材が未到着なので|仮でこのメッセージを流します=This is a temporary message as the material is currently unavailable.
-最近　物騒みたいだから|マカも気をつけてね・・・=Things have been a little crazy lately, so take extra care of Maka, okay?
+最近　物騒みたいだから|マカも気をつけてね・・・=Things have been a little crazy lately, so take extra, okay?
 そうだ　パパも一緒に|お外についていってあげようか？|親子でペアってのもいいよね♪=I have an idea! How about papa goes too? What pair would be better than a father and his daughter♪?
-ねぇ　マカ　もしよかったら|パパの家に泊まりに来ない？|・・・なんなら一緒に暮らそう=Hey, Maka, why don't you come spend the night at papa's house? ... It'll be like we're living together.
-あ　もういいよマカ|表情で全部わかっちゃった・・・=Ah, never mind, Maka. Your expression told me everything I need to know...
+ねぇ　マカ　もしよかったら|パパの家に泊まりに来ない？|・・・なんなら一緒に暮らそう=Hey, Maka, why don't you come spend the night at papa's house? It'll be like we're living together.
+あ　もういいよマカ|表情で全部わかっちゃった・・・=Ah, never mind, Maka. Your expression tells me everything I need to know...
 マカには　こんな所で|グズグズしているヒマはない！|やるべき事があるはずだよ！=What are you doing just hanging out around here? I know there's something you're supposed to be doing!
 !FILE:EV9967_100.bscr
 すみませんが|魂を確認させてもらいました=Sorry, but I allowed myself a peek at your souls.#seen
@@ -18692,9 +18692,9 @@
 だが　魔剣や魔眼の危機が|去ったわけではないのだ|そこをよく聞き分けてくれ=But the Demon Sword and Demon Eye have not yet been dealt with, so please be reasonable and follow the rule.
 このごろのお前達を|見ていると　昔の俺を思い出す|昔の俺は・・・=Seeing you kids these days... It reminds me of me from the old days...#seen
 結構　シブめの|いい男だった・・・=I was a man of a certain refined quality...
-もし　取り返しがつかないほど|やられてしまっても　大丈夫だ！=If ever you're wounded beyond repair, don't let it get you down!
+もし　取り返しがつかないほど|やられてしまっても　大丈夫だ！=If ever you're wounded beyond repair, don't let it get you down!#seen
 シュタインが　俺のような|立派なゾンビにしてくれるだろう！=I know Stein would be ecstatic to bring you back as a handsome zombie like he did with me!
-俺はゾンビになることを人に勧めない|そんな男であり続けるつもりだ=I'm going to continue to dissuade people from trying to become zombies.
+俺はゾンビになることを人に勧めない|そんな男であり続けるつもりだ=I'm going to continue to dissuade people from trying to become zombies.#seen
 皆が皆　ゾンビになってしまうと|個性がなくなってしまうからな=If absolutely everyone were turned, us zombies that already exist wouldn't be special anymore.
 死武専が入り組んだ造りをしているのは|生徒達を鍛えるためだ！=The DWMA was purposefully constructed in a way that would be conducive to the students' training!#seen
 まぁ　わかりにくいのも確かだ・・・|ここの卒業生でも|迷うことがあるくらいだからな・・・=Though, it might be a bit too complex... Even those of us who graduated from here still get lost sometimes...#must be kept short
@@ -18708,7 +18708,7 @@
 次の試験で首位を奪還するため|勉学に励まなければならないのです=You'll need to really hit the books if you expect to get your top spot back on the next exam.
 屋内では私は|ただのガリ勉かもしれません・・・=Indoors I might be a bit of a bookworm...
 ただし　外での私は違います|いずれその姿を|ハッキリとお見せする機会があるでしょう=But I'm a different person in the field. One of these days you'll get to see what that side of me is really like.#must be kept short
-この髪型については|今は語らないでおきましょう=Don't ask me about my hairstyle right now.
+この髪型については|今は語らないでおきましょう=Don't ask me about my hairstyle right now.#seen
 いつか|その理由を話す時がくるかもしれませんね=Maybe someday I'll be able to tell you the reason behind it...
 おや|こんな所にいてもいいのですか？=Um, are we allowed to be here?
 !FILE:EV9967_121.bscr
@@ -18919,7 +18919,7 @@
 お前達やったな！|レベルが上がったようだぞ=Look at that, you guys! It looks like you've gone up a level.
 !FILE:EV9983_390.bscr
 おばちゃんね　ずっと見てたよ|後ろからね　|今回のあんた達の成績はこんな感じだよ=Auntie has been watching you... Here's how you kids did on this one.
-凄いね　あんた達|おばちゃん　びっくりだよ|これなら安心して見守れるね=Amazing. You really surprised Auntie. I can rest easy knowing you kids can look over me.
+凄いね　あんた達|おばちゃん　びっくりだよ|これなら安心して見守れるね=Amazing. You really surprised Auntie. With this, I know I have nothing to worry about.
 なかなかの成績だね　あんた達|この調子で　がんばるんだよ=That's pretty good. You kids keep up the good work.
 まあまあだね|でも　あんた達なら|もっといい成績を出せると思うよ=Not bad. But I'm sure you kids can produce even better results.
 あともうちょっとがんばるんだね|あんた達|おばちゃん　応援してるからね=Don't let it discourage you. Auntie is still cheering you on, you know.
@@ -19144,7 +19144,7 @@
 そして心の友へ・・・=For a friend...
 間違い電話？=Phoney Calls?
 死神キッドの追試験=Kid's Make-Up Exam#I left out 死神 because I couldn't think of a way to make it sound natural without being really long.
-カエル大作戦=The Great Frog Hunt
+カエル大作戦=Frog Hunting
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
@@ -19156,14 +19156,14 @@
 課外授業=Extracurricular classes
 黒血　その後の二人=In Black Blood
 マカが欲しいもの=What a Girl Desires
-直せ死武専=The DWMA Renovation
+直せ死武専=DWMA Renovation
 椿は健康が心配=Tsubaki's Health Concerns
 私の睡眠ライフ=My Life of Sleep
 おばちゃんの秘密=Auntie's Secret
 こだわりの二丁拳銃=Neurosis Akimbo#Twin Pistol Neurosis would be another possibility.
 パティの死武専制覇=Patty, Conqueror of the DWMA
 姉妹の過去話=Stories of Sisterhood
-カエル大作戦=The Great Frog Hunt
+カエル大作戦=Frog Hunting
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
@@ -19182,7 +19182,7 @@
 死神のお茶会=Reaper Tea Party
 キング　オブ　不幸=King of Misfortune
 死神三者面談=Reaper-Teacher Meeting
-カエル大作戦=The Great Frog Hunt
+カエル大作戦=Frog Hunting
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
@@ -19201,7 +19201,7 @@
 最近のリズは・・・=Where Liz Belongs...
 保健室からの苦情=Dispensing Complaints
 ソウルの胸の傷=Soul's Scar
-カエル大作戦=The Great Frog Hunt
+カエル大作戦=Frog Hunting
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
@@ -19220,7 +19220,7 @@
 イメージチェンジ=The Makeover
 死神装束をなくした=The Missing Shinigami Robes
 姉妹の最終兵器=The Sisters' Ultimate Weapon
-カエル大作戦=The Great Frog Hunt
+カエル大作戦=Frog Hunting
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
@@ -19334,7 +19334,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死神キッドの追試験=Kid's Make-Up Exam
 黒血　その後の二人=In Black Blood
 マカが欲しいもの=What a Girl Desires
-直せ死武専=The DWMA Renovation
+直せ死武専=DWMA Renovation
 椿は健康が心配=Tsubaki's Health Concerns
 私の睡眠ライフ=My Life of Sleep
 おばちゃんの秘密=Auntie's Secret
@@ -19368,7 +19368,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 イメージチェンジ=The Makeover
 死神装束をなくした=The Missing Reaper Robes
 姉妹の最終兵器=The Sisters' Ultimate Weapon
-カエル大作戦=The Great Frog Hunt
+カエル大作戦=Frog Hunting
 メデューサ先生　マカ編=Dr. Medusa - Maka
 メデューサ先生　ブラック☆スター編=Dr. Medusa - Black☆Star
 メデューサ先生　キッド編=Dr. Medusa - Kid
@@ -19614,20 +19614,20 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_te指令『危険物の回収』=%_teHazardous Material
 危険物指定の%_dc[0,196,0]太陽石%_dc[199,133,84]が|西地区に落下しました|捜索回収してください=A few %_dc[0,196,0]Sun Stones %_dc[199,133,84]fell|in the western sector. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous! Take it on if you dare!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
-%_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge|%_dc[199,133,84]during transport. Could you get it back?
+%_te紛失物回収のお願い=%_teLost Item Retrieval
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
-%_te極悪ボウズを退治せよ！=%_teEliminate the wicked monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious Kishin Egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+%_te極悪ボウズを退治せよ！=%_teEliminate the monk!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious kishin egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
-%_teデスドールを退治せよ！=%_teEliminate the Death Dolls!
+%_teデスドールを退治せよ！=%_teEliminate the Dolls!
 暴走した訓練用人形|%_dc[196,0,0]デスドール%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=The practice dummies are on a rampage! Defeat %_dc[0,0,196]10 %_dc[196,0,0]Death Dolls%_dc[199,133,84]!
 デスドール%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]10 %_dc[196,0,0]Death Dolls%_dc[199,133,84]!
 %_te怪人事件を調査せよ！=%_teFind the Phantom!
@@ -19642,11 +19642,11 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
 気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Track down the irritated prankster bat%_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat%_dc[0,0,196]15%_dc[199,133,84] of them!
 バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Bad Eaters%_dc[199,133,84]!
-%_te極悪ボウズを退治せよ！=%_teEliminate the wicked monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious Kishin Egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+%_te極悪ボウズを退治せよ！=%_teEliminate the monk!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious kishin egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
-%_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge|%_dc[199,133,84]during transport. Could you get it back?
+%_te紛失物回収のお願い=%_teLost Item Retrieval
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
@@ -19666,8 +19666,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=These pitiful dolls get thrown out all over. Help me gather them up and give them a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
-%_te極悪ボウズを退治せよ！=%_teEliminate the wicked monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious Kishin Egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+%_te極悪ボウズを退治せよ！=%_teEliminate the monk!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious kishin egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
@@ -19675,8 +19675,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
-%_te紛失物回収のお願い=%_teLost Item Retrieval Request
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=I dropped a %_dc[0,196,0]Skull Badge|%_dc[199,133,84]during transport. Could you get it back?
+%_te紛失物回収のお願い=%_teLost Item Retrieval
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_te怪人事件を調査せよ！=%_teFind the Phantom!
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
@@ -19701,7 +19701,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
 %_teシド先生からのSOS！=%_teSOS from Sid!
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
@@ -19722,7 +19722,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
 %_te連続殺人魔を退治せよ！=%_teEliminate the Bloodthirsty Killer!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ソンソンＪ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 ソンソンＪ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
@@ -19749,7 +19749,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 制限時間内に|敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies within the time limit!
 %_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
 %_teシド先生からのSOS！=%_teSOS from Sid!
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
@@ -19788,7 +19788,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]! Retrieve them posthaste!
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
 %_te迷惑ドッグを退治せよ！=%_teEliminate the Pesky Dogs!
 停電被害の報告殺到！|%_dc[196,0,0]マッドフント%_dc[199,133,84]%_dc[0,0,196]１５%_dc[199,133,84]匹を|すみやかに倒せ！=Numerous Reports of Power Outages! Hurry and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 制限時間内に|%_dc[196,0,0]マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds %_dc[199,133,84]within the time limit!
@@ -19818,7 +19818,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]! Retrieve them posthaste!
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Sun Stones %_dc[199,133,84]designated as hazardous!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
 猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
@@ -19828,7 +19828,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te特別実戦模擬訓練！=%_teSpecial Combat Simulation Training!
 備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84], and improve your skills!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
-%_te極悪怪僧を退治せよ！=%_teEliminate the Wicked Monk!
+%_te極悪怪僧を退治せよ！=%_teEliminate the Monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84] whose soul has become a kishin egg!
 怪僧アジャーリ%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84]!
 %_te魔女の道具を探せ！=%_teSearch for the Witches' Apparatus
@@ -19936,7 +19936,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
-%_te極悪怪僧を退治せよ！=%_teEliminate the Wicked Monk!
+%_te極悪怪僧を退治せよ！=%_teEliminate the Monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Ajhari, the Wicked Monk %_dc[199,133,84]whose soul has become a kishin egg!
 怪僧アジャーリ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84]!
 %_te死武専生なら　なっ！=%_teFor DWMA Students!
