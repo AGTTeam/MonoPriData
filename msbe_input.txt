@@ -835,7 +835,7 @@
 !FILE:EV0200_201.bscr
 遅いぞー|すぐ出発してくれ=You're late, so get out there already!
 !FILE:EV0200_202.bscr
-よし　頼んだぞ|しっかり　調査してきてくれ=Right. As asked, go investigate further and report back here.
+よし　頼んだぞ|しっかり　調査してきてくれ=Right. As requested, go investigate further and report back here.
 !FILE:EV0200_203.bscr
 ん　どうした　トイレか？|早く戻ってくるんだぞ=Huh? What is it? You need a bathroom break already? Hurry up and get back here.
 !FILE:EV0200_204.bscr
@@ -849,19 +849,19 @@
 はい=Yes.
 ふむ|集めた魂を詰め込んだ繭・・・か=Hm... They collected the souls in... a cocoon?
 ああ|あの黒いのがいなけりゃゲットできたけど=Yeah. And we would have had it if it weren't for that creature that was sneaking around in the shadows.
-もうちょっとだったのにクヤシ～！=We were so close! Argh! It's so frustrating!
+もうちょっとだったのにクヤシ～！=We were so close! Argh!|It's so frustrating!
 アイツ　なんかこう・・・|ニオイしなかった？|獣っぽいさ=And he had this sort of... smell, you know? Like a beast.
 え～　そうかな？|気がつかなかったけど=Oh, really? I didn't notice.
 ふむ|よし　もういいぞ帰って休め|明日　遅刻するなよ=Hm. Okay, thanks. Go home and get some rest. And don't be late tomorrow.
 は～い=Okaaay.
-ぐっ|・・・武器使いが荒いぜぇ=Ngh... You're really rough with your weapon.
+ぐっ|・・・武器使いが荒いぜぇ=Ngh... With the way Maka fights, I sure need the rest.
 獣の匂い・・・|あの一族が黒幕？|まさかな・・・調べてみるか=A beast smell... Surely they're not the ones behind this... I better look into it to be on the safe side.
 !FILE:EV0200_501.bscr
 って感じが|シドからの報告ですね=That's what it seems like, judging by Sid's report.
 光る繭・・・|そこで生まれ変わる魂？|・・・その眠りから生まれてくるモノ・・・=A glowing cocoon... Souls reborn from their sleep...
-んで　俺の大切なマカを馬鹿にして|まんまと繭を持ち逃げした獣野郎・・・|許せん！=That filthy mutt stole that cocoon from my precious little Maka and ran off leaving her to look like a fool! When I find him I'll...!
+んで　俺の大切なマカを馬鹿にして|まんまと繭を持ち逃げした獣野郎・・・|許せん！=That mutt stole that cocoon from my precious Maka and ran off leaving her to look like a fool! Unforgivable!
 スピリット先輩=Spirit.
-ん？　・・・う～ん|なんかイヤな予感がすんなぁ・・・|結構当たんだよね　俺のコレ=Yeah ... Hmm, something about this doesn't sit quite right with me... Something big is happening. I'm sure of it.
+ん？　・・・う～ん|なんかイヤな予感がすんなぁ・・・|結構当たんだよね　俺のコレ=Yeah ...Hmm, something about this doesn't sit right with me... Something big is happening. I'm sure of it.
 何者でしょう？=Who could it be?
 シドが|心あたりありそうな感じだったけどな=It seemed like Sid might have a hunch.
 まっまっ♪|シド先生が調査に行って|くれちゃってるからさ=Yep♪ Sid has gone to do a little more investigating.
@@ -871,24 +871,24 @@
 うん|行こっ　ソウル=Yeah. Let's get going, Soul!
 !FILE:EV0201_400.bscr
 ギギギ・・・=Gigigi!
-あ！|コイツらは こないだの！=Hmph! These guys again!
-ギギギ！|・・・またお前らか=Gigigi!|... You again!
+あ！|コイツらは こないだの！=Hm, those guys from the other day?
+ギギギ！|・・・またお前らか=Gigigi!|...You again!?
 そりゃ　こっちの台詞だ！=That's my line!
 ソウル！=Soul!
 わかってるって！=I know. I know.
 !FILE:EV0201_401.bscr
 きゃぁぁぁぁぁ！=Aaaaaah!
-！！|悲鳴だ！=!! Someone's in danger!
+！！|悲鳴だ！=Someone's in trouble!
 うん！=Yeah!
 ソウル　あっちよ！=Soul, that way!
 !FILE:EV0201_402.bscr
-美しい月  美しい魂|美しいものだけが|この私にふさわしい=A face of porcelain skin...|An innocent soul, pure of sin...|'Tis only the beautiful that I cherish within.#The original Japanese rhymes in an AABA form, so I tried to maintain the poetic feel and also translate it as a quatrain that follows the same rhyme scheme. The next couple lines had to be slightly altered to make logical sense.
+美しい月  美しい魂|美しいものだけが|この私にふさわしい=A face of porcelain skin...|An innocent soul, pure of sin...|'Tis only the beautiful that I cherish within.#The original Japanese rhymes in an AABA form, so I tried to maintain the poetic feel and also translate it as a quatrain that follows the same rhyme scheme. The next couple lines had to be slightly altered to make logical sense. –The final line is one word too long. Can it be cut or would it be better to remove the line breaks?
 あなたが犯人ね！=You're the criminal we're looking for!
 その呼び方は私にふさわしくない|ふふふ　はははは！=I find the way in which you address me to be entirely inadequate. Hmhmhm. Hahahaha!
 待て！=Wait!
 !FILE:EV0201_403.bscr
 奴はどこいった！=Where'd he run off to!?
-ここに入ったわ=He went in here.
+ここに入ったわ=He went in there.
 ひゅ～♪|クールな建物だ=Wow♪ That's a cool building.
 !FILE:EV0201_404.bscr
 ここが奴の住処か？=This where he's camping out?
@@ -899,7 +899,7 @@
 そのとおり=Indeed.
 美しい魂だけが眠る繭・・・|お前達にこの美しさがわかるか=A cocoon for only beautiful souls to sleep... Do you understand the beauty before your eyes?
 わかってたまるもんですか！=Do you understand what you've been collecting!?
-ふふふ　それは気の毒に|繭に眠りし美しい魂が目を覚ましたとき|それは輝く光となって私のものとなるのだ=Hmhmhm. When those pitiful, beautiful souls sleeping in that cocoon awaken, they'll become a shining light, and that light will be mine.
+ふふふ　それは気の毒に|繭に眠りし美しい魂が目を覚ましたとき|それは輝く光となって私のものとなるのだ=Hmhmhm. When those pitiful souls in the cocoon awaken, they'll become a shining light, and that light will be mine.#must be kept short
 ほざけ　化け物！|今　お前の魂は俺のものにしてやるよ！=That's enough babbling, phantom! Your soul is mine!
 ソウル！=Soul!
 ああ！|行くぜ！=Right! Let's do it!
@@ -909,11 +909,11 @@
 ちょ　ちょろいもんだね|はぁ=Th-That was too easy...
 そうだな・・・|さぁ　あの繭を回収しないとな=Totally... Now, we need to get that cocoon.
 ぐるるるる・・・=Grrrr...
-なに？|・・・ソウルお腹すいたの？=What was that? ... Are you hungry, Soul?
+なに？|・・・ソウルお腹すいたの？=What was that?|...Are you hungry, Soul?
 だから|俺じゃないって！=As if! That wasn't me!
 な　なんだ？=Wh-What?
-コレはもらっていくぜ|ぐるるっ！=I'm here for this. Grrr!
-あっ　待て！|・・・もうっ　またなの！=Ah! Wait! ... Aww, not again!
+コレはもらっていくぜ|ぐるるっ！=I'll be taking this. Grrr!
+あっ　待て！|・・・もうっ　またなの！=Ah! Wait--!|...Aww, not again!
 あいつは・・・何モンだ？=What... was that thing?
 !FILE:EV0201_450.bscr
 ソウル！=Soul!
@@ -1467,22 +1467,22 @@
 お前|光る繭はかんけーねーって|思ってるだろ？=Why are you so interested in the glowing cocoon all of a sudden?
 これ以上|俺に光るモノは必要ない！=There's no need for another shining object besides me!
 やっぱりな=Should have known...
-で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the person in the shadows.
+で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the cocoon thief.
 そうかもしれないな=It's possible.
 う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... There was something... different about his soul though.
 まぁ|まだわからないな　それは=Well, I don't know anything about that, but...
 にしても|これだけ話題になっちゃ|なんかあるかもね=Even though everyone is talking about it, we still have no idea who they are.
 はい　みんな静かに|授業を始めます♪=Alright everyone. Quiet down so we can begin class♪
 !FILE:EV0300_001.bscr
-はい　今日は予定を変更して|試験をやります♪=Okay. Today's program has been changed, and we're going to have a test♪
+はい　今日は予定を変更して|試験をやります♪=Okay. Today's program has been changed, and we're going to have|a test♪
 んげっ！|マジかよ～=Ngh! Seriously?
 ひゃっはー！|俺様には試験など必要なーい！=Yahoo! No reason to even test me!
 あー　静かにしろー|俺の話を聞けー！='Ey! Quiet down and listen up!
 あれ？|マカのアホ親父じゃん？=Huh? Maka's idiot dad?
 試験官はデスサイズ先生です♪=Mr. Death Scythe will be proctoring the exam♪
 パパがぁ？=Papa is?
-マカちゃ・・・=Hey, Mak...
-合格したやつは　午後に|死神様の手伝いをしてもらうぞー|今からプリントを配る　よく読め！=Those that pass will be helping Lord Death this afternoon. Now read the instructions carefully as I pass out the test!
+マカちゃ・・・=Hey, Mak--
+合格したやつは　午後に|死神様の手伝いをしてもらうぞー|今からプリントを配る　よく読め！=Those that pass will be helping Lord Death this afternoon. I'm going to pass out the tests so read carefully!
 うぉっほん|さあ！　選抜試験をやるぞー！=Ahem... Right! You will be taking a selection examination!
 !FILE:EV0300_010.bscr
 今からプリントを配る|よく読め！=I'm going to start passing around the handouts. Read them carefully!
@@ -4111,7 +4111,7 @@
 !FILE:EV0932_011.bscr
 準備はいい？|もうはじめようと思うんだけど？=You ready? I think we should get started.
 おっ！ようやくか！|俺のほうはいつでもいいぜ！=Yeah! Finally! I'm always good to go!
-もう　準備はできたみたいね|じゃあはじめるよ=Looks like everythings's ready.|Let's get started then!
+もう　準備はできたみたいね|じゃあはじめるよ=Looks like everything's ready.|Let's get started then!
 待ちくたびれたぜ　マカ|さっさとやっちまおうぜ=I was getting tired of waiting.|Let's do this, Maka!
 見た感じ敵なんかいないみたいだけど・・・|そんなはずないよね・・・=I don't see any sign of enemies, but... looks can be deceiving...
 どうでもいいよ|さっさと先に進もうぜ=Doesn't matter to me. Let's just get this over with.
@@ -4306,19 +4306,19 @@
 !FILE:EV0933_013.bscr
 今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
 ああ|あんまりムチャしないでくれよ=Yeah. Things were getting pretty dicey.
-目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete... Phew! I'm exhausted!!
+目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 今回はちょっと危なかったな=That was starting to get a little dicey.
 ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
 はぁ・・・はぁ・・・=*Pant*... *Pant*...
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
-目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete... Phew! I'm exhausted!!
+目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 お疲れサン|まっ　がんばったじゃねェか=You did great. Not that I expected any less from you.
 はぁ・・・はぁ・・・=*Pant*... *Pant*...
 今回はちょっと危なかったな=That was starting to get a little dicey.
 今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
 ああ　クールじゃなかったな=Yeah. That wasn't cool at all.
-目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete... Phew! I'm exhausted!!
+目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 ったく|マカは人使いが荒ェよ！=Geez! You're such a slave-driver!
 ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
 ああ|あんまりムチャしないでくれよ=Yeah. Things were getting pretty dicey.
@@ -4326,7 +4326,7 @@
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
 ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
 今回はちょっと危なかったな=That was starting to get a little dicey.
-目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete... Phew! I'm exhausted!!
+目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
 今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
 お疲れサン|まっ　がんばったじゃねェか=You did great. Not that I expected any less from you.
@@ -4340,7 +4340,7 @@
 お星様がみえる～=I'm seeing stars...
 お前さ・・・=You...
 !FILE:EV0933_020.bscr
-あ！・・・あれ？|そういえばここドコ？もしかして迷った？|はぅ・・・どう帰ればいいんだろう・・・=Ah! ... Huh? Where am I? Am I lost? Hm... How do I get back...?
+あ！・・・あれ？|そういえばここドコ？もしかして迷った？|はぅ・・・どう帰ればいいんだろう・・・=...Huh? I don't recognize this place. Are we lost? Hm... How are we going to get back...?
 と・も・か・く！|さっさと帰って休も～=What-everrr! I'm going back and resting immediately.
 目標も達成したことだし|たまにはゆっくり歩いて帰ろっか？=Our tasks are all finished, so I say we take our time on the walk back.
 さてと・・・|学校に帰るぞ～！=Now then... Time to get back to school!
@@ -4490,7 +4490,7 @@
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
 死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha.... I cannot be killed! Not by anyone!!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
 ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
@@ -4980,19 +4980,19 @@
 !FILE:EV0935_043.bscr
 今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
 ああ|あんまりムチャしないでくれよ=Yeah. Things were getting pretty dicey.
-目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete... Phew! I'm exhausted!!
+目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 今回はちょっと危なかったな=That was starting to get a little dicey.
 ハァ・・・ハァ・・・|これで・・・目標達成ね・・・=*Pant*... *Pant*... Team Maka one... Bad guys none...
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
 はぁ・・・はぁ・・・=*Pant*... *Pant*...
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
-目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete... Phew! I'm exhausted!!
+目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 お疲れサン|まっ　がんばったじゃねェか=You did great. Not that I expected any less from you.
 はぁ・・・はぁ・・・=*Pant*... *Pant*...
 今回はちょっと危なかったな=That was starting to get a little dicey.
 今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
 ああ　クールじゃなかったな=Yeah. That wasn't cool at all.
-目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete... Phew! I'm exhausted!!
+目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 ったく|マカは人使いが荒ェよ！=Geez! You're such a slave-driver!
 ハァ・・・ハァ・・・　|これで・・・目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
 ああ|あんまりムチャしないでくれよ=Yeah. Things were getting pretty dicey.
@@ -5000,7 +5000,7 @@
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
 ハァ・・・ハァ・・・　|これで・・・目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
 今回はちょっと危なかったな=That was starting to get a little dicey.
-目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete... Phew! I'm exhausted!!
+目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
 ええ　大丈夫|ちょっと疲れただけだから・・・=Yeah. I'm fine. Just a little tired...
@@ -5014,7 +5014,7 @@
 お星様がみえる～=I'm seeing stars...
 お前さ・・・=You...
 !FILE:EV0935_050.bscr
-あ！・・・あれ？|そういえばここドコ？もしかして迷った？|はぅ・・・どう帰ればいいんだろう・・・=Ah! ... Huh? Where am I? Am I lost? Hm... How do I get back...?
+あ！・・・あれ？|そういえばここドコ？もしかして迷った？|はぅ・・・どう帰ればいいんだろう・・・=...Huh? I don't recognize this place. Are we lost? Hm... How are we going to get back...?
 と・も・か・く！|さっさと帰って休も～=What-everrr! I'm going back to rest immediately.
 目標も達成したことだし|たまにはゆっくり歩いて帰ろっか？=Our tasks are all finished, so I say we take our time on the walk back.
 さてと・・・|学校に帰るぞ～！=Now then... Time to get back to school!
@@ -5419,7 +5419,7 @@
 魂の共鳴ッ！！=Soul Resonance!!
 オオォォォ・・・=OOoooh!
 !FILE:EV0951_000.bscr
-なんだ？　コイツら！=What? These guys again?#Needs further testing
+なんだ？　コイツら！=What's with these things?
 !FILE:EV0951_001.bscr
 クールに決めるぜ！=Stay cool!
 !FILE:EV0951_002.bscr
@@ -5746,7 +5746,7 @@
 あなた達の活躍を|よく耳にするわよ♪=I've been hearing a lot of good things about you♪
 それほどでもねェよ|ちょっと大げさじゃねェか=We haven't done that much. I think you're exaggerating just a little.
 これを渡しておくから|もっとがんばってちょうだい♪=I'm going to give you this, so keep at it and do your best out there♪
-ありがとうございます|すごくうれしいです=Thank you so much! Hearing that has make me really happy!#Was thinking 'I love it!' as a natural response to getting a gift, but she gives you a tonic so maybe that's a bit OTT.
+ありがとうございます|すごくうれしいです=Thank you so much! This'll come in really handy.
 これからも|期待しているわよ♪=I'm expecting a lot from you two♪
 !FILE:EV0966_006.bscr
 これからも|期待しているわよ♪=I'm expecting a lot from you two♪
@@ -6204,7 +6204,7 @@
 どうやら逃げてしまったようだ・・・=It appears to have escaped...
 なくしたのね=You lost it, right?
 !FILE:EV1120_025.bscr
-さてと・・・|どうしたもんかな・・・=Now then... What should I do..?
+さてと・・・|どうしたもんかな・・・=Now then... What should I do...?
 !FILE:EV1120_026.bscr
 ツボのヤツ　ビッグな|俺様の特訓に付き合うプレッシャーに|耐え切れなくなったのだろう・・・=That damn jar... looks like it wasn't able to withstand the pressure of being used to train a man as big as myself...
 どうやら逃げてしまったようだ・・・=It appears to have escaped...
@@ -6212,7 +6212,7 @@
 !FILE:EV1120_027.bscr
 去るものは追わないのが|俺様ルールとはいえ・・・=It's true that it's one of my rules not to chase after things that are lost...
 このままでは|特訓ステージが開幕できない・・・|ツボをさがすぞ=But at this rate I won't be able to demonstrate my special training...|We have to find this jar.
-やっぱり　さがすのね=We're really doing this, huh..?
+やっぱり　さがすのね=We're really doing this, huh...?
 !FILE:EV1120_030.bscr
 人が倒れたわ|保健室に運んでちょうだい！=Someone just fainted. Please help me carry them to the infirmary!
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
@@ -6247,7 +6247,7 @@
 すみません　シド先生|あとで必ず　あやまらせますから・・・=I'm so sorry, Mr. Sid. I'll make him apologize, I promise...
 気にするな椿|俺は一回目は許す|そんな男だった・・・=Do not worry, Tsubaki. I always forgive the first time. That's the kind of man I was...
 !FILE:EV1120_057.bscr
-あんた達　ツボをなくしたね・・・=So, you two lost the jar, huh..?
+あんた達　ツボをなくしたね・・・=So, you two lost the jar, huh...?
 おばちゃん|なんで知ってんだよ！=Auntie, how did you know!?
 ツボがどこにあるか|わかりますか？=Do you know where the jar is?
 そこまではわかんないよ|でも　死武専の中にあるのは|間違いないね！=I don't know where exactly it is, but it must be somewhere in the DWMA!
@@ -6381,7 +6381,7 @@
 椿から聞いたよ|お前　吸魂水を飲んだんだって？=Tsubaki told me. You were going to drink the Soul Sapping Water?
 ああ　軽く気絶しそうに|なったけど耐えたな・・・=Yeah. For a second I thought I might faint, but I endured...
 気絶してたわよ=You passed out.
-これにこりたら|もう無茶はやめるんだな|ブラック☆スター！=You've learned your lesson.|So no more of this nonsense. Right, Black☆Star?
+これにこりたら|もう無茶はやめるんだな|ブラック☆スター！=You've learned your lesson.|So no more of this nonsense.|Right, Black☆Star?
 何いってんだよ|だからお前は小物なんだ！=What are you saying? That's why you're small!
 俺は神を超越する男だぜ！|まだまだやるに決まってんだろ！=I am the man who will surpass God!|Of course I'll keep training!
 椿　いいのか？=Are you going to be alright, Tsubaki?
@@ -6391,7 +6391,7 @@
 !FILE:EV1120_105.bscr
 さてと　どうするかな？=Well, what now?
 !FILE:EV1120_106.bscr
-これにこりたら|もう無茶はやめるんだな|ブラック☆スター！=You've learned your lesson.|So no more of this nonsense. Right, Black☆Star?
+これにこりたら|もう無茶はやめるんだな|ブラック☆スター！=You've learned your lesson.|So no more of this nonsense.|Right, Black☆Star?
 何いってんだよ|だからお前は小物なんだ！=What are you saying? That's why you're small!
 俺は神を超越する男だぜ！|まだまだやるに決まってんだろ！=I am the man who will surpass God!|Of course I'll keep training!
 !FILE:EV1121_002.bscr#彼がいない状況下 = In His Absence part 3
@@ -6531,7 +6531,7 @@
 いつの話をむしかえすんだよ|ほんとしつこいしインケンだよ　お前・・・=You keep bringin' up old topics. Why do you have to be so obstinate and underhanded, geez...
 やってらんねェよ|お前とは！=I can't keep doing this with you!
 ふんだ　ソウルなんて|こっちから願い下げよ！=Hmph. Not like I want to deal with you either, Soul!
-ソウルなんか・・・ソウルなんか・・・|ソウルなんか・・・ソウルなんか・・・=Soul, you... you.... you..!
+ソウルなんか・・・ソウルなんか・・・|ソウルなんか・・・ソウルなんか・・・=Soul, you... you... you...!
 やっぱり|私　インケンなのかなぁ=Man, maybe I really am underhanded.
 険悪な雰囲気だったわね=Things are looking pretty tense.
 ちっ　おもしろくネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, that's no fun! I thought it was gonna get more heated than that☆
@@ -6563,11 +6563,11 @@
 !FILE:EV1122_020.bscr
 あそこにいるのは|ソウル君じゃないかしら？=Isn't that Soul over there?
 ほんとだ・・・ん！？|あいつなんか様子が|おかしいな・・・=That's right... huh!? He's acting kinda strange...
-ソウル君|すごく　怒ってたね・・・=Soul really got mad, didn't he..?
+ソウル君|すごく　怒ってたね・・・=Soul really got mad, didn't he...?
 どいつもこいつも|ホントにうざってェなァ！=Geez, everyone's being so annoying!
 そうは言っても　こういうことは|簡単にはいかないのよ・・・=Still, things like this aren't simple...
 !FILE:EV1122_025.bscr
-ソウル君|すごく　怒ってたね・・・=Soul really got mad, didn't he..?
+ソウル君|すごく　怒ってたね・・・=Soul really got mad, didn't he...?
 !FILE:EV1122_026.bscr
 どいつもこいつも|ホントにうざってェなァ！=Geez, everyone's being so annoying!
 そうは言っても　こういうことは|簡単にはいかないのよ・・・=Still, things like this aren't simple...
@@ -6804,11 +6804,11 @@
 はぁ　はぁ|手ごたえのねぇ　ヤローだったぜ=*Pant*|That guy wasn't so tough.
 そ　そうね|早く　あの繭を回収しましょ=Y-Yeah. Quick, let's grab that cocoon.
 ぐるるるる・・・=Grrrr...
-なに今の？|・・・ブラック☆スター　お腹すいたの？=What's was that? ... Are you hungry, Black☆Star?
+なに今の？|・・・ブラック☆スター　お腹すいたの？=What's was that?|...Are you hungry, Black☆Star?
 ハラは減ったけど|俺様じゃね～ぞ？=I'm starving, but that wasn't me.
 なんだ　テメェは？=What the hell are you doing?
-コレはもらっていくぜ|ぐるるっ！=I'm here for this. Grrr!
-あっ！|この　待ちやがれ！|・・・クソッ　またかよ！=Ah! He...! Get back here! .... Damn, not again!
+コレはもらっていくぜ|ぐるるっ！=I'll be taking this. Grrr!
+あっ！|この　待ちやがれ！|・・・クソッ　またかよ！=Ah! He...! Get back here! ...Damn, not again!
 今のは・・・　一体・・・=What... was that...?
 くっそー！|帰ったら腹筋１００００回して|リベンジしてやる！=Damn it! When I get back, it's gonna be 10,000 sit-ups!
 死神様に報告しなきゃ・・・|帰りましょ　ブラック☆スター=We need to report back to Lord Death... Let's go back, Black☆Star.
@@ -7378,7 +7378,7 @@
 ・・・・・・・・・=.........
 ちょっと　脅かしすぎたかね|・・・そうだサービスしておこう=Did I scare you too much... That's right, let me help you out.
 あんた達　もってるだろう|おばちゃんの写真=You kids have it, right? My picture, that is...
-なんでわかんだよ・・・=How did you know..?
+なんでわかんだよ・・・=How did you know...?
 早く出しな！=Take it out, quickly!
 は　はい　これです=A-alright, there you go.
 ちょっと待ってな|おばちゃんも乙女だからね・・・=Wait for a bit. I'm a maiden too, after all.
@@ -7397,7 +7397,7 @@
 お前|光る繭はかんけーねーって|思ってるだろ？=Why are you so interested in the glowing cocoon all of a sudden?
 これ以上|俺に光るモノは必要ない！=There's no need for another shining object besides me!
 やっぱりな=Should have known...
-で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the person in the shadows.
+で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the cocoon thief.
 そうかもしれないな=It's possible.
 う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... There was something... different about his soul though.
 まぁ|まだわからないな　それは=Well, I don't know anything about that, but...
@@ -8383,7 +8383,7 @@
 感知能力の高いマカちゃんが|言うんだから　笑えないわよ=You're talking about Maka. She has a really heightened perception of these sorts of things, so don't laugh.
 どこから|そのオーラが送られてくるかわかります？=Do you know where the aura was being sent from?
 死武専内から|送られてくるのはわかるんだけど・・・|それ以上はわからないの・・・=I know it was coming from somewhere inside the DWMA, but I couldn't narrow it down any more than that...
-そうなんですか・・・=Is that so..?
+そうなんですか・・・=Is that so...?
 ソウルがお前についてろって言ったからよ！|俺達がそばにいてやるぜ！=Soul told us to look after you! We're gonna take good care of you, Maka!
 ありがとう　ブラック☆スター|でも　私なら大丈夫だから|もう行っていいわよ=Thanks, Black☆Star. But I'm fine now, so you guys don't have to stick around.
 !FILE:EV1421_016.bscr
@@ -9928,7 +9928,7 @@
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
 死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha.... I cannot be killed! Not by anyone!!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
 ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
@@ -13193,7 +13193,7 @@
 お前|光る繭はかんけーねーって|思ってるだろ？=Why are you so interested in the glowing cocoon all of a sudden?
 これ以上|俺に光るモノは必要ない！=There's no need for another shining object besides me!
 やっぱりな=Should have known...
-で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the person in the shadows.
+で　でも|あの仮面の人達も　その黒い人の|仲間でしょうか=B-But there's those guys with the masks too. They're probably working with the cocoon thief.
 そうかもしれないな=It's possible.
 う～ん|でも魂の感じだと・・・|なんか違う気もするし=Hmm... There was something... different about his soul though.
 まぁ|まだわからないな　それは=Well, I don't know anything about that, but...
@@ -15783,7 +15783,7 @@
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
 死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha.... I cannot be killed! Not by anyone!!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
 ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
@@ -18913,7 +18913,7 @@
 最後までやり遂げたようだな|これが　お前達の成績だ=Good job seeing the mission through to the end. Here are your results.
 すごいじゃないかお前達！|これなら　将来|三つ星職人になれるかもな！=Amazing work, you guys! Keep this up and you'll definitely be ranked three- stars in the future.#added space for improved wordwrap
 よくやったなお前達|ここまでできるのは|すごいことだぞ=Bravo. That was some great work you did.
-よくがんばったなお前達|この調子で　次もがんばれよ=You guys really gave it your all. Keep it up for next time too.
+よくがんばったなお前達|この調子で　次もがんばれよ=You guys really gave it your all.|Keep it up for next time too.
 ちょっと　微妙な成績だな|お前達ならもっと良くなるはずだ|もう少し鍛えてみたらどうだ？=That was a little shaky. I know you guys are capable of more. How about a few more drills?
 いい成績とは言えないが|よく最後までやり遂げたな|そこは評価するぞ=I can't say you did well, but you kept trying to the very end. I can appreciate that.
 お前達やったな！|レベルが上がったようだぞ=Look at that, you guys! It looks like you've gone up a level.
@@ -19017,7 +19017,7 @@
 セーブしておりませんが|次に進んでもよろしいですか？=Game has not been saved.|Continue playing anyway?
 データがありません=No data.
 %_d[0]日目=Day %_d[0]
-%_d[0]%_d[1]/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]=%_d[2]%_d[3]/%_d[4]%_d[5]/%_d[0]%_d[1] %_d[6]%_d[7]:%_d[8]%_d[9]
+%_d[0]%_d[1]/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]= %_d[2]%_d[3]/%_d[4]%_d[5]/%_d[0]%_d[1] %_d[6]%_d[7]:%_d[8]%_d[9]
 %_te課外授業=%_teExtra Lessons
 %_te課外授業　昼=%_teDWMA: Noon
 %_te課外授業　夕方=%_teDWMA: Evening
@@ -19434,7 +19434,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ２日目　繭　マカ編|怪人事件の噂=Day 2 - Cocoon - Maka - Phantom Rumors
 ２日目　繭　マカ編|怪人事件の調査=Day 2 - Cocoon - Maka - Investigate the Phantom Case
 ２日目　繭　マカ編|調査報告=Day 2 - Cocoon - Maka - Investigation Report
-２日目　繭　ブラック☆スター編|怪人事件の噂=Day 2 - Cocoon - Black☆Star - Phantom Rumors
+２日目　繭　ブラック☆スター編|怪人事件の噂=Day 2 - Cocoon - Black☆Star -|Phantom Rumors
 ２日目　繭　ブラック☆スター編|怪人事件の調査=Day 2 - Cocoon - Black☆Star - Investigate the Phantom Case
 ２日目　繭　ブラック☆スター編|調査報告=Day 2 - Cocoon - Black☆Star - Investigation Report
 ２日目　繭　キッド編|怪人事件の噂=Day 2 - Cocoon - Kid - Phantom Rumors
@@ -19632,7 +19632,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 デスドール%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]10 %_dc[196,0,0]Death Dolls%_dc[199,133,84]!
 %_te怪人事件を調査せよ！=%_teFind the Phantom!
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
-怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat the evil-doer!
+怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat them!
 %_teトライアル訓練の心得=%_teTrial Practice Guide
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
@@ -19656,7 +19656,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 水晶の欠片%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Crystal Shard%_dc[199,133,84]!
 %_te怪人事件を調査せよ！=%_teFind the Phantom!
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
-怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat the evil-doer!
+怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat them!
 %_teトライアル訓練の心得=%_teTrial Practice Guide
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
@@ -19680,7 +19680,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_te怪人事件を調査せよ！=%_teFind the Phantom!
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
-怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat the evil-doer!
+怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat them!
 %_te抜き打ち実技試験！=%_tePop Quizz!
 自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! Anything below a B rank won't do!!
 敵を全て倒せ！=Defeat all enemies!

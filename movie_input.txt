@@ -80,11 +80,11 @@
 576:602:はぁ～=*Sigh*
 603:664:まるで　ピクニックみたいね=Is this some kind of picnic or what?
 671:750:これは　授業の一つだ|きっちりやるぞ=This is for class, so let's do it right.
-754:824:めんどくさいから|ちゃっちゃと片付けようぜ=This is a drag. Let's just get it over with quickly.
-825:913:ちゃちゃちゃ　ちゃちゃちゃ|ちゃっちゃっちゃっちゃ　ちゃちゃちゃ♪=Quick, quack... Quick, quick, quack... Quick, quackly♪
-914:975:はぁ・・・|全然クールじゃねーな・・・=*Sigh* ... This is so uncool...
-984:1083:・・・でも　ただ　探し回るだけで|犯人が　見つかりますか？=... Will we really find the culprit just walking around randomly?
-1090:1181:逃げ足が速いって　話だったな|犯人のヤロー=That bastard. They said he always runs off and vanishes, right?
+754:824:めんどくさいから|ちゃっちゃと片付けようぜ=What a drag.|Let's just get this over with quickly.
+825:913:ちゃちゃちゃ　ちゃちゃちゃ|ちゃっちゃっちゃっちゃ　ちゃちゃちゃ♪=Quick, quack... Quick, quick, quack...|Quick, quackly♪
+914:975:はぁ・・・|全然クールじゃねーな・・・=*Sigh* ...This is so uncool...
+984:1083:・・・でも　ただ　探し回るだけで|犯人が　見つかりますか？=...Will we really find the culprit just by|walking around randomly?
+1090:1181:逃げ足が速いって　話だったな|犯人のヤロー=That bastard. They said he always runs off|and vanishes, right?
 1184:1236:そっか　そうだね=Yeah, that's right.
 1237:1297:ふむ|手分けをするか=Hmph... Maybe we should split up then.
 1299:1337:それが賢いな=That's a good idea.
@@ -93,10 +93,10 @@
 1424:1448:あっ　はい！=R-Right!
 1501:1564:さて|んじゃ　俺らはこっちかな=Alright. We'll go this way.
 1570:1616:うん|行こっ　ソウル=Yeah.|Let's get going, Soul!
-1619:1725:怪人さぁん|美人は　ココですよぉ～=Mr. Phaaantom... The beauties are over heeere...
+1619:1725:怪人さぁん|美人は　ココですよぉ～=Mr. Phaaantom...|The beauties are over heeere...
 1726:1833:うふふふ|お姉ちゃん　腰引けてるよ～=Hahaha. Your knees are all wobbly, sis.
 1834:1867:はぁ～=*Sigh*
-1876:1905:よし　行くぞ=Alright, let's go.
+1876:1905:よし　行くぞ=All right, let's go.
 1906:1962:あ・・・　ああっ|ちょっと・・・　待ってよ～=H-Hey... W-Wait up!
 1963:2007:ＧＯ！　ＧＯ！=Go! Go!
 !FILE:movie0003.bin
