@@ -2357,7 +2357,7 @@
 見なかったけど・・・|またケンカですか・・・|早く　仲直りしないと・・・=I did, but... Did you two get into a fight again? You two should really reconcile your differences...
 なんか逃げ腰だな・・・|冷たくないか　椿・・・=Are you cold or something, Tsubaki? You're trembling.
 私　人がケンカしてるところって|見てることさえ苦手なんです・・・=I hate it when people argue. It makes me feel so uncomfortable just seeing it.
-それなのに　魔眼と戦った時|マカちゃんとソウル君の間に|入らなきゃいけなくなって・・・=I remember when I had to get between you and Maka during the fight against the Demon Eye...
+それなのに　魔眼と戦った時|マカちゃんとソウル君の間に|入らなきゃいけなくなって・・・=I remember when I had to get between you and Maka during the fight against the Magic Eye...
 もう　あんな思いはしたくないなー|というのが正直なところです|あれはトラウマなのよ=It was traumatizing for me, and I just honestly don't want to be put in a position like that again.
 そうだったのか椿|すまないことをした・・・=I didn't realize... Tsubaki, I'm really sorry for that.
 !FILE:EV0420_016.bscr
@@ -3106,7 +3106,7 @@
 ありがとう・・・|でも　ごめんなさい|一人で　考えさせてちょうだい・・・=Thanks... But I think I just want to be alone for a while if you don't mind...
 誰にも負けない勇気|結構　本気だったんだけど|やっぱりサムかったか・・・=Really brave!? It's true, but that a was pathetic attempt at cheering her up...
 マカのヤツ　一人で考えたいとか|言ってたけど・・・=I know she said she just wants to be alone right now, but...
-あいつがそうすると|ロクな結果になんねェんだよな|魔眼との戦いの時みたいにさ=It probably won't end well if I don't go talk to her. This is just like when we fought that Demon Eye.
+あいつがそうすると|ロクな結果になんねェんだよな|魔眼との戦いの時みたいにさ=It probably won't end well if I don't go talk to her. This is just like when we fought that Magic Eye.
 しょうがねェから|さがしにいくとするか・・・=Whatever. I just need to find her.
 !FILE:EV0520_052.bscr
 ちょっと聞きたいんだけどよ|マカを見なかったか？=Sorry to bother you. Have you seen Maka?
@@ -5895,7 +5895,7 @@
 来たね　あんた達|おばちゃん|ちゃんと見てたよ=You've finally come to see me, hm?|Auntie's been watching you closely.
 なぁ　おばちゃん|しょぼい課題しか掲示板に|張り出されてねェな=Hey, Auntie. Why's there nothing but lame assignments posted on the mission board?
 もっと　クールな|課題は　ねぇのかよ=You don't have anything cooler?
-今のところ　魔剣や魔眼は|姿をひそめてるけど|問題は解決してないから=The Demon Sword and the Demon Eye might be in hiding, but they're still out there, so this is how it has to be.#must be kept short
+今のところ　魔剣や魔眼は|姿をひそめてるけど|問題は解決してないから=The Demon Sword and the Magic Eye might be in hiding, but they're still out there, so this is how it has to be.#must be kept short
 あんまり　危険な所に　|生徒達を行かせる|わけにはいかないからね=I can't let you students run headfirst into a potentially dangerous situation.
 ・・・言いたくないけど|あんた達が魔剣に|やられたせいでもあるんだよ=...I didn't want to mention it, but it's because of when the Demon Sword almost killed you.
 やられてねェよ|おばちゃん！！=It didn't almost kill me!!
@@ -6822,15 +6822,15 @@
 マカはここにはいない|代わりにスターである|俺様では不足か？=Maka's gone, and she's been replaced with a star. Am I not enough for you?
 ああ　不足だ|残念ながら|お前は保健室に呼ばれてねェ=Yeah, too much. Unfortunately, you weren't the one called to the infirmary.
 マカちゃん|どこか悪いのかしら？=Is Maka hurt?
-詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=We don't know for sure yet... But after our battle with that Demon Eye, it seemed like there was something wrong...
+詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=We don't know for sure yet... But after our battle with that Magic Eye, it seemed like there was something wrong...
 あれから何回か|検査のために保健室に通ってるぜ=I lost count of all the times she's gone back to the infirmary for check-ups since then.
-魔眼との戦いは|厳しいものだったから・・・|マカちゃん大丈夫かしら？=The battle with the Demon Eye was difficult... I hope Maka will be all right.
+魔眼との戦いは|厳しいものだったから・・・|マカちゃん大丈夫かしら？=The battle with the Magic Eye was difficult... I hope Maka will be all right.
 そうか？あんまり|覚えてねェな？=Really? I barely even remember that fight.
 開始早々|ガス欠になって倒れていれば|覚えてないでしょうね・・・=It's normal that you don't remember anything. You ran out of gas and passed out as soon as it started...
 とにかく|あいつに会ったら|検査に行くよう伝えてくれ=Anyway, if you see her, tell her to go to the infirmary.
 !FILE:EV1220_006.bscr
 マカちゃん|どこか悪いのかしら？=Is Maka hurt?
-詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=We don't know for sure yet... But after our battle with that Demon Eye, it seemed like there was something wrong...
+詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=We don't know for sure yet... But after our battle with that Magic Eye, it seemed like there was something wrong...
 あれから何回か|検査のために保健室に通ってるぜ=I lost count of all the times she's gone back to the infirmary for check-ups since then.
 !FILE:EV1220_007.bscr
 マカちゃんに|伝言を伝えに行きましょう|ブラック☆スター=Let's go pass on the message to Maka, Black☆Star.
@@ -6855,7 +6855,7 @@
 メデューサ先生が呼んでいましたよ|マカちゃん=Dr. Medusa wanted to see you, Maka.
 いけないスッカリ忘れてたわ|そうそう　検査の時間だったわね・・・=Oh, no! I totally forgot. I had an appointment for a check-up...
 ありがとう　二人とも|わざわざ知らせに来てくれたのね=Thanks, both of you, for coming to remind me.
-なぁ　お前　どっか悪ィのか？|魔眼戦の後になんかあったんだろ？|椿が心配してたぜ！=Hey. What's wrong with you anyway? Is it because of the fight with the Demon Eye. Tsubaki's been worried about you!
+なぁ　お前　どっか悪ィのか？|魔眼戦の後になんかあったんだろ？|椿が心配してたぜ！=Hey. What's wrong with you anyway? Is it because of the fight with the Magic Eye. Tsubaki's been worried about you!
 あんたは心配してくれたの|ブラック☆スター？=And you weren't worried about me, Black☆Star?
 俺様はそんなチマチマしたことは|心配していない！|心配するのは世界の平和だけだ☆=I can't worry about such small things! The only thing I'm worried about is world peace!☆
 ブラック☆スターには|直接言いたくないから|あっち行ってて=I don't want to tell you directly, Black☆Star, so you go stand over there.
@@ -6865,7 +6865,7 @@
 うん|私はブラック☆スターに|直接言いたくないだけだから=Yeah. I just don't want to talk directly to Black☆Star, that's all.
 そういうわけだから|ブラック☆スター・・・=In that case... Black☆Star...
 ちっ　わかったよ|じゃあ　後でな☆=Tsk, I get it! Later☆
-ふぅ・・・それでマカちゃん|魔眼戦のあとに何があったんです・・・=Phew... So Maka, did something happen after the fight with the Demon Eye...?
+ふぅ・・・それでマカちゃん|魔眼戦のあとに何があったんです・・・=Phew... So Maka, did something happen after the fight with the Magic Eye...?
 私・・・|血を吐いてしまったの・・・=I... spit up some blood...
 えっ　血を？=Huh? Blood?
 ただの血だったら|戦闘中　よくあることじゃない|でも　私が吐いた血は黒かった・・・=It's normal to spit up blood after a battle, right? But this time the blood was black...
@@ -6880,7 +6880,7 @@
 !FILE:EV1220_037.bscr
 それじゃあ私|保健室にいって|検査を受けてくるね！=Okay then. I'm going to go the infirmary for my check-up now!
 どうだった　椿？|アイツ・・・どこが悪いんだよ？=Well, Tsubaki? What's... wrong with her?
-ええ・・・マカちゃん|魔眼との戦いの後|黒い血を吐いたんだって・・・=Well... After the fight with the Demon Eye, Maka spit up some black blood...
+ええ・・・マカちゃん|魔眼との戦いの後|黒い血を吐いたんだって・・・=Well... After the fight with the Magic Eye, Maka spit up some black blood...
 やっぱりアイツ|地球外生命体だったか！|前々から怪しいとは思ってたけどな=I knew it! She's an alien! I was sure since the beginning that there was something weird about her.
 もう　ブラック☆スター！=That's not nice, Black☆Star!
 悪ィ！悪ィ！|そんじゃあソウルにマカが|検査に行ったことを伝えてやるか！=Yeah, yeah! Should we tell Soul that we passed his message on to Maka?
@@ -6918,7 +6918,7 @@
 !FILE:EV1220_067.bscr
 そろそろマカの検査も|終わったころじゃねェか？=Maka's check-up should be finishing up pretty soon, huh?
 気になるの|ブラック☆スター？=Are you concerned, Black☆Star?
-しょうがねェだろ|魔眼の件については|俺様にも落ち度がないとはいえない=It's natural. I can't say that I'm not at all to blame for the whole Demon Eye thing.
+しょうがねェだろ|魔眼の件については|俺様にも落ち度がないとはいえない=It's natural. I can't say that I'm not at all to blame for the whole Magic Eye thing.
 そのことで小物が|ポックリいったら|寝ざめが悪ィしよ・・・=Besides, if a small thing died like that, I'd have a guilty conscience...
 本当はやさしいのよね|ブラック☆スター・・・=You really do care, don't you, Black☆Star...?
 !FILE:EV1220_070.bscr
@@ -11613,7 +11613,7 @@
 ひゃっはー！　おばちゃん！|ビッグな俺様にふさわしい|課題はどれだ！？=Woohoo! Auntie! What do you suppose would be a proper task|for a big star like me?!
 相変わらずだね|ブラック☆スター=You never change, do you, Black☆Star?
 先に言っとくけど|あんまり　危険な所には|行かせないよ=Don't forget that I won't let you go to any particularly dangerous places.
-どこに　魔剣や魔眼が|ひそんでるか|わからないからね=You can never be sure where the Demon Sword or the Demon Eye might be lurking!
+どこに　魔剣や魔眼が|ひそんでるか|わからないからね=You can never be sure where the Demon Sword or the Magic Eye might be lurking!
 それにね・・・|この前　予約したの|まだだろう？=Besides... are you even done with that assignment from a while ago?
 ちゃんと終わらせるんだよ|おばちゃん　しっかり見てるからね=Make sure to finish it. I'll be keeping an eye on you.
 ああ！|俺様が最高のステージを見せてやるぜ！=You've got it! I'll show you my best performance!
@@ -14372,9 +14372,9 @@
 そうだよな　私達だって|そうなんだよな・・・=I figured as much. It's the same for us...
 だけど　何かが|起こったことだけはわかります・・・=But I have noticed this one thing...
 あの後　マカちゃんとソウル君|ちょっと　おかしくなって・・・=Since that night, things have been kind of weird between Soul and Maka...
-魔眼との戦いの最中にも|ケンカしてたんです・・・=They were even arguing right in the middle of the fight with the Demon Eye...
+魔眼との戦いの最中にも|ケンカしてたんです・・・=They were even arguing right in the middle of the fight with the Magic Eye...
 戦いの最中にケンカして|それでも勝ったのか？=They were arguing during the fight and still managed to win?
-えぇ・・・魔眼のドジさに|助けられたという所もあるんですけど・・・=Yeah... With a little help from the Demon Eye's clumsiness of course...
+えぇ・・・魔眼のドジさに|助けられたという所もあるんですけど・・・=Yeah... With a little help from the Magic Eye's clumsiness of course...
 ひょっとして　あいつら|すげェ強いんじゃねェの？|きゃはははは♪=Luck is a skill too, you know? Kyahahaha♪
 !FILE:EV2422_036.bscr
 椿はソウルの傷のことで|何か知ってる事はないか？=Tsubaki, you don't happen to know anything about Soul's injury, do you?
@@ -17901,7 +17901,7 @@
 たわけ・・・|簡単すぎたら|意味がないだろうが=Idiot... There's no point if it's too easy.
 そのとおりだよ|でもね・・・=That's true, but...
 あんまり　危険な所に|行かせるわけにはいかないよ=I can't just let you run off headfirst into danger, now can I?
-どこに　魔剣や魔眼が|ひそんでるか|わからないからね=You can never be sure where the Demon Sword or the Demon Eye might be lurking.
+どこに　魔剣や魔眼が|ひそんでるか|わからないからね=You can never be sure where the Demon Sword or the Magic Eye might be lurking.
 死神様のご子息でも|特別扱いはしないよ|おばちゃんは=You may be the venerable son of Lord Death, but don't think that means you'll be receiving special treatment from Auntie.
 ケチだぞ～　おばちゃん=You're such a meany, Auntie.
 いえ|是非そうしてください=No. I would expect no different.
@@ -18610,7 +18610,7 @@
 常に死武専の生徒としての|誇りを持って行動してちょうだい♪=Please remember that as students of the DWMA, your every action affects the public opinion of this school♪#seen
 誰が見ているかわからないからね・・・|たとえば　おばちゃんとかさ・・・=And you never know who might be watching you... Like Auntie, for example...
 どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to be go with at least one other team♪#seen
-魔剣に魔眼|その他　もろもろ・・・|まだまだ危険はいっぱいだよ～ん♪=The Demon Sword and the Demon Eye and who knows what else... The world is full of danger♪
+魔剣に魔眼|その他　もろもろ・・・|まだまだ危険はいっぱいだよ～ん♪=The Demon Sword and the Magi Eye and who knows what else... The world is full of danger♪
 私の仮面って　まだ|おっかないかな？=Is my mask still scary?#seen
 もう少しだけなら♪|かわいらしくしてもいいんだけどね・・・=I suppose I could make it a little cuter♪
 いっとくけど　私は|鏡の中にはいないからね？|鏡はただの通信機だよ♪=Perhaps you already know this, but I'm not really in the mirror. The mirror is just a means of communication♪#seen
@@ -18689,7 +18689,7 @@
 俺の指導は確かに厳しい！|だが　それも全て|お前達を思ってのことなのだ！=My guidance is certainly strict! But it's all done for your own good!#seen
 俺は昔から熱血教師だった・・・=I've always been an enthusiastic teacher...
 確かに二組以上のチームで|出かけるというルールは|わずらわしいかもしれない・・・=I understand how frustrating it must be to be unable to leave without at least two teams due to the new rule...#seen
-だが　魔剣や魔眼の危機が|去ったわけではないのだ|そこをよく聞き分けてくれ=But the Demon Sword and Demon Eye have not yet been dealt with, so please be reasonable and follow the rule.
+だが　魔剣や魔眼の危機が|去ったわけではないのだ|そこをよく聞き分けてくれ=But the Demon Sword and Magic Eye have not yet been dealt with, so please be reasonable and follow the rule.
 このごろのお前達を|見ていると　昔の俺を思い出す|昔の俺は・・・=Seeing you kids these days... It reminds me of me from the old days...#seen
 結構　シブめの|いい男だった・・・=I was a man of a certain refined quality...
 もし　取り返しがつかないほど|やられてしまっても　大丈夫だ！=If ever you're wounded beyond repair, don't let it get you down!#seen
