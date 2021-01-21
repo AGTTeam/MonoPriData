@@ -1,5 +1,3 @@
-Current progress: Haribeau's proofreading of msbe_input from start to !FILE:EV0300_000.bscr
-
 These notes should serve to help in the proofreading/ playtesting phase of this project. There are a number of things which must be agreed on, tested, and implemented within the text in order to maintain consistency. As well, there are a few things that I may have considered later in the translation process, which might be somewhat problematic from a perspective of cultural sensitivity and inclusivity. I intend to address these issues myself, but it is possible that I may miss some instance of them, so I would just like the proofreaders to keep them in mind.
 
 
@@ -50,6 +48,7 @@ The word kishin should only be capitalized when referring to Asura, which I don'
 
 
 Parameres - their laugh is ギギ (gigi) in Japanese, I originally translated it as 'kyakya', but I'm now considering Chkchk to try to imitate a sort of cicada sound, I welcome any ideas and suggestions as I'm really not sure about it
+I believe their name is a portmanteau of paraponera (a genus of ants) and pismire (an ancient word for ants). I'm thinking Paramire(s) might be a better translation.
 
 
 Sid - can be referred to as Mr. Sid
@@ -77,6 +76,17 @@ Shinigami - should be translated as reapers, not shinigami; I'm still not sure a
 
 
 Alone - after the first encounter with the werewolf, Alone, the characters are unsure of his identity and refer to him as 黒いの or 黒い奴, again, I translated this a few different ways, I think ‘shadowy creature’ may be the ideal translation, it’s imperative that it isn’t translated literally as ‘black guy’ for obvious reasons
+
+Bosses and their references:
+Jack the Ripper: historical figure of the same name
+Sonson-J: Jason Voorhees from Friday the 13th
+Rasputin: historical figure of the same name
+THE CAN: Leatherface from The Texas Chainsaw Massacre
+Oogeyman: The Boogie Man, I used references from Oogie Boogie from the Nightmare Before Christmas
+Johnny Rubber: the character model is copied from Jack and D, but the name may be a reference to Rubber Johnny; I referenced Big Brain from the remake of The Hills Have Eyes who was himself inspired by Rubber Johnny
+D-FlayFlay: Freddy Krueger from The Nightmare on Elm Street
+Ajhari: an acharya which is a Bhuddist monk or high priest
+Voodoo: from the real world voodooism
 
 
 locations - location names need to be decided and tested before being changed accordingly throughout the text for consistency; I have gone with infirmary for the 保健室 (hokenshitsu) as it is shorter than nurse's office but more colloquial than dispensary
