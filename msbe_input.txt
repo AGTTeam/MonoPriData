@@ -1482,7 +1482,7 @@
 試験官はデスサイズ先生です♪=Mr. Death Scythe will be proctoring the exam♪
 パパがぁ？=Papa is?
 マカちゃ・・・=Hey, Mak--
-合格したやつは　午後に|死神様の手伝いをしてもらうぞー|今からプリントを配る　よく読め！=Those that pass will be helping Lord Death this afternoon. I'm going to pass out the tests so read carefully!
+合格したやつは　午後に|死神様の手伝いをしてもらうぞー|今からプリントを配る　よく読め！=Those that pass will be helping Lord Death this afternoon. I'm going to pass out the tests now, so read carefully!
 うぉっほん|さあ！　選抜試験をやるぞー！=Ahem... Right! You will be taking a selection examination!
 !FILE:EV0300_010.bscr
 今からプリントを配る|よく読め！=I'm going to start passing around the handouts. Read them carefully!
@@ -1497,7 +1497,7 @@
 !FILE:EV0300_014.bscr
 なに？　試験を受けたくないのか？|じゃあ　俺がお前らの知らない領域を|こってりと教えてやろうか？=You don't want to take the test or what? Well, let me just tell you. You don't know as much as you think.
 !FILE:EV0300_015.bscr
-あ～　なにやってんだぁ|根性だしていけぇ～！=Hey, what are you doing!? Just grit your teeth and go!!
+あ～　なにやってんだぁ|根性だしていけぇ～！=Hey, what are you doing!? Pull yourself together and get back in there!!
 !FILE:EV0300_016.bscr
 よ～し　試験はおしまいだ|合格したものは　午後に|デスルームに集合しろ=Alright! The test is over. For those that passed, meet in the Death Room this afternoon.
 さぁ～て|どーすんだ？=Sooo? What now?
@@ -1600,21 +1600,21 @@
 それは危険ね・・・|急いでブレアをさがしましょう！=This is bad. We need to get to Blair before it gets out of hand!
 !FILE:EV0320_012.bscr
 ブレアを見なかった|キッド君？=Have you seen Blair around anywhere, Kid?
-ちょうどいい　お前達|ブレアに会ったら伝えてくれ・・・=What a coincidence! If you guys see Blair, could you pass on a message for me?
+ちょうどいい　お前達|ブレアに会ったら伝えてくれ・・・=What a coincidence! If you guys see Blair, could you pass on a message|for me?
 えっ・・・|何を伝えればいいのかしら・・・=Huh? What kind of message?
-俺達はまだ若い|もう少し大人になってから|改めて　その話をしよう　と=Just tell her that we're still so young, so there's no reason to rush. But I'd like to have the conversation again once we're a little older.
+俺達はまだ若い|もう少し大人になってから|改めて　その話をしよう　と=Just tell her that we're still so young, but I'd like to have the conversation again once we're a little older.#must be kept short
 ブレアと何を話したの|キッド君・・・=What was your conversation with Blair about exactly?
 それはお前達に|言う必要はないだろう！=Nothing interesting! You don't want to hear about that!
 だめだ　マカ|すっかりブレアに|まいっちまってる・・・=This is no good. He's fallen for her too.
 キッド君|こういうのに耐性がなさそうだから=I guess even Kid couldn't resist.
 !FILE:EV0320_016.bscr
-ちょうどいい　お前達|ブレアに会ったら伝えてくれ・・・=What a coincidence! If you guys see Blair, could you pass on a message for me?
-俺達はまだ若い|もう少し大人になってから|改めて　その話をしよう　と=Just tell her that we're still so young, so there's no reason to rush. But I'd like to have the conversation again once we're a little older.
+ちょうどいい　お前達|ブレアに会ったら伝えてくれ・・・=What a coincidence! If you guys see Blair, could you pass on a message|for me?
+俺達はまだ若い|もう少し大人になってから|改めて　その話をしよう　と=Just tell her that we're still so young, but I'd like to have the conversation again once we're a little older.
 !FILE:EV0320_022.bscr
 ブレアを見なかった|オックス君？=Ox, have you seen Blair?
 ブレア　ああ|先ほどすれ違いましたよ？=Blair? Oh, we just passed each other a little bit ago.
 何か変なこと|されなかったかよ？=Did she try saying or doing anything weird to you?
-いいえ？|すれ違っただけですが？=No? We walked by each other. That's all.
+いいえ？|すれ違っただけですが？=No? We walked by each other.|That's all.
 ブレアも　一応|見境なしっていうわけじゃないんだな・・・=Even Blair couldn't care any less about him...
 もう　ソウルったら|オックス君に失礼よ！=That's not nice, Soul! You should apologize.
 !FILE:EV0320_026.bscr
@@ -1622,9 +1622,9 @@
 ブレア　ああ|先ほどすれ違いましたよ？=Blair? Oh, we just passed each other a little bit ago.
 !FILE:EV0320_030.bscr
 こんな所にいたの！=There you are!
-にゃは♪|やっとソウル君に会えた！|さがしたんだよ♪=Nyaha♪ I finally found you, Soul! I've been looking for you♪
+にゃは♪|やっとソウル君に会えた！|さがしたんだよ♪=Nyaha♪ I finally found you, Soul!|I've been looking for you♪
 お　おう　大変だったな・・・=Oh. S-Sorry about that...
-ちょっと　私抜きで|話を進めないでよ！=Hold on! You're not just going to ignore me and continue your conversation!
+ちょっと　私抜きで|話を進めないでよ！=Hold on! Don't just ignore me and continue your conversation!
 ねぇーねぇー|ソウル君　何でマカ|怒ってるの？=Hey, Soul. What's Maka's problem? Why's she so angry?
 あんたがみんなを|色香でまどわすからよ！=Because you've been going around seducing everyone!
 そんなことばっかりしてるなら|アパートに戻ってもらうわよ！=If that's all you're doing, just go back to the apartment!
@@ -1654,10 +1654,10 @@
 じゃあブレア|もう少し死武専の中を|探検してくるね♪=Well, I'm gonna keep exploring the DWMA for a while♪
 待ちなさいブレア！=Blair, wait!
 行っちゃったわね・・・=She's gone.
-ネコのままなら|そんなに変なことは|できないと思うけど・・・=I don't think she'll be able to do anything weird like that as a cat, but...
-どうします　マカさん|ブレアをさがしましょうか？=What should we do, Maka? Should we go find her?
-もういいわ　それよりも私|思いっきり身体を動かしたい|気分になってきたわ・・・=Forget about her. I just really feel like moving around right now.
-先生達に|お手伝いできることがないか|聞いてみましょう！=Let's see if the teacher's could use our help with anything!
+ネコのままなら|そんなに変なことは|できないと思うけど・・・=I don't think she'll be able to do anything weird as a cat, but...
+どうします　マカさん|ブレアをさがしましょうか？=What should we do, Maka?|Should we go find her?
+もういいわ　それよりも私|思いっきり身体を動かしたい|気分になってきたわ・・・=Forget about her. I just really feel like stretching my legs right now.
+先生達に|お手伝いできることがないか|聞いてみましょう！=Let's see if the teachers could use our help with anything!
 今日は血の雨が|降りそうだぜ・・・=And the forecast predicts it'll rain blood today...
 !FILE:EV0320_042.bscr
 何かお手伝いできるようなことって|ありませんか？=Is there anything we could help you out with?
@@ -1668,7 +1668,7 @@
 実は先生　ブレアが・・・=The truth is that Blair...
 余計なことは|言わないでちょうだい！=Please, let's just keep this between us!
 すみません・・・=My bad...
-何かあったのかお前達・・・|いや聞くまい・・・俺は個人的なことには|踏み込まない　そんな男だった・・・=Did something happen? Actually, I don't want to know. I don't mean to barge into personal matters. That's the kind of man I was.
+何かあったのかお前達・・・|いや聞くまい・・・俺は個人的なことには|踏み込まない　そんな男だった・・・=Did something happen? No, don't tell me. I don't mean to barge into personal matters. That's the kind of man I was.#must be kept short
 !FILE:EV0320_046.bscr
 すまない|今は特に手伝ってもらうようなことはない=Sorry. I don't really have anything that requires any assistance right now.
 !FILE:EV0320_052.bscr
@@ -1676,12 +1676,12 @@
 すみません|今はあいにく手伝って|欲しいことがないのですよ=I'm afraid not. I, unfortunately, don't need any help at this moment.
 それよりも　これから|戦闘訓練をしてあげましょうか？=Why don't I give you two a little combat practice instead?
 今の君には|非常に好ましいものを感じます=I could really use some new test subjects right now.
-すみませんが|今の私は闘志に溢れています|博士にも負ける気がしません=Sorry, professor, but I'm really in the mood to fight, so I don't plan on losing to you.
+すみませんが|今の私は闘志に溢れています|博士にも負ける気がしません=Sorry, Professor, I'm really in the mood to fight but I don't fancy losing to you.
 お　落ち着いてくれよ|どうしてそういうことになるんだよ・・・=C-Calm down a little, Maka. Why are you being all serious?
 ほら・・・いつものあれだ・・・博士|一流のジョークだよジョーク！=Look. He's just acting weird like usual... It was just some weird joke, right, Professor?
 いいえ　俺は本気ですよ=Not at all. I was entirely serious.
 !FILE:EV0320_056.bscr
-すみません|今はあいにく手伝って|欲しいことがないのですよ=I'm afraid not. I, unfortunately, don't need any help at this moment.
+すみません|今はあいにく手伝って|欲しいことがないのですよ=I, unfortunately, don't need any help at this moment.
 !FILE:EV0320_062.bscr
 何かお手伝いできるようなことって|ありませんか？=Is there anything we could help you out with?
 う～ん・・・あることは|あるんだけどね♪|君達には　ちょっと厳しいかな・・・=Hmm... I might have a little something something♪ But it might be kind of intense for you...
@@ -18566,7 +18566,7 @@
 ステキな出会いを求めていた|お姉ちゃんとしては|ちょっとザンネンですよ・・・=It's a little bit of a let-down for a girl looking for a good time...#seen
 学校に来るのは|死武専がはじめてなんだけど|思ったより楽しくねェな=Being at the DWMA is my first time going to school, but it's not as fun as|I expected.
 あの勉強ってヤツは|どうにかなんねェのかな？=I wonder if there's something to that "studying" thing that everyone's always going on about...
-しかしキッドの病気は|なんとかならねェものかね？=Isn't there anything we can do to help Kid with his issues?#seen
+しかしキッドの病気は|なんとかならねェものかね？=Isn't there anything we can do to help Kid with his problem?#seen
 本人は　ある意味幸せ|なんだろうけど・・・周りの私達は|結構　大変なんだぜ！=He doesn't really seem unhappy, but... it's hard for the ones around him!
 キッドはベタボメだけど|死武専のデザインって|もう少しなんとかなんないかね？=Kid's always ranting and raving about the DWMA's design, but I don't see it.
 もっと　こう|乙女な私に　訴えてくる|ようなデザインにさ！=I wish it were designed to appeal more to a young woman like myself!
@@ -18898,7 +18898,7 @@
 お前ら　すごいじゃないか|これは　俺も|うかうかしてられないな・・・=Impressive work. You even caught my attention...
 お前ら　やるじゃないか|根性も充分だった！|次も期待しているぞ=Well done. That was some serious determination! I'll expect nothing less from you next time.
 なかなかいい根性だったぞ|この調子で　次も根性入れていけよ|もっといい成績になるぞ=You looked fairly confident out there. Don't let your confidence waver and your results will continue to improve.
-う～ん　おしいな|あとちょっとなんだけどな|まあ　次もがんばってみな=Well, that was a little disappointing. But you passed, so just try a little harder next time.
+う～ん　おしいな|あとちょっとなんだけどな|まあ　次もがんばってみな=Well, that was a little disappointing. But you survived, so just try a little harder next time.
 なんとか　やり遂げたみたいだな|だが　まだまだ根性が|足りないぞ=One way or another, you didn't give up before the end. But you're still lacking in determination.
 おっ　レベルが上がったようだな|やったな！　お前達=Oh! Looks like you've gone up a level! Good work, you guys!
 !FILE:EV9983_100.bscr#Stein
@@ -19017,7 +19017,7 @@
 セーブしておりませんが|次に進んでもよろしいですか？=Game has not been saved.|Continue playing anyway?
 データがありません=No data.
 %_d[0]日目=Day %_d[0]
-%_d[0]%_d[1]/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]= %_d[2]%_d[3]/%_d[4]%_d[5]/%_d[0]%_d[1] %_d[6]%_d[7]:%_d[8]%_d[9]
+%_d[0]%_d[1]/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]=   %_d[2]%_d[3]/%_d[4]%_d[5]/%_d[0]%_d[1] %_d[6]%_d[7]:%_d[8]%_d[9]
 %_te課外授業=%_teExtra Lessons
 %_te課外授業　昼=%_teDWMA: Noon
 %_te課外授業　夕方=%_teDWMA: Evening
@@ -19135,9 +19135,9 @@
 課外授業=Extracurricular classes#too long
 課外授業=Extracurricular classes
 課外授業=Extracurricular classes
-明日の解剖授業=Tomorrow's Dissection Class#too long
-アイテムハンター=Item Hunter
-保健室のユウウツ=Dispensing Depression#I used the title as a play on dispensary, but if we don't end up using that as the name for the 保健室, I also propose Clinical Depression. (currently too long)
+明日の解剖授業=Dissection Plans
+イテムハンター=Item Hunter
+保健室のユウウツ=Clinical Depression
 吸魂水特訓ステージ=Soul Sapping Water Special Training Stage
 彼がいない状況下=In his absence
 ダミースターで・・・=Dummy☆Star...
@@ -19149,7 +19149,7 @@
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 なし=None
-午前授業=Morning class
+午前授業=Morning Class
 なし=None
 課外授業=Extracurricular classes
 課外授業=Extracurricular classes
@@ -19168,7 +19168,7 @@
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 なし=None
-午前授業=Morning class
+午前授業=Morning Class
 なし=None
 緊急連絡=Crisis Call#Emergency Contact might be better. I just can't help myself with the alliteration sometimes.
 緊急連絡=Crisis Call
@@ -19187,7 +19187,7 @@
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 なし=None
-午前授業=Morning class
+午前授業=Morning Class
 なし=None
 事件発生=The Incidental Plot Hole
 事件発生=The Incidental Plot Hole
@@ -19206,7 +19206,7 @@
 メデューサ先生=Dr. Medusa
 メデューサ先生=Dr. Medusa
 なし=None
-午前授業=Morning class
+午前授業=Morning Class
 なし=None
 反撃開始=Initiate Counteroffensive#I chose this wording to make it sound more militaristic, but it can easily be changed if it's too long.
 反撃開始=Initiate Counteroffensive
@@ -19534,7 +19534,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teシュタイン博士のお手伝い=%_teAssisting Stein
 死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=The Dissection class specimen has escaped. Capture it at once!
 疑似生物おかウニ%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Artificial Land Urchin%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[196,0,0]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
@@ -19546,7 +19546,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teマッドドッグを退治せよ！=%_teEliminate the Mad Dogs!
 遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Wrangle %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!#better phrasing welcome, but ~6 more characters is the limit
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
@@ -19561,7 +19561,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te吸魂水のツボはどこだ！=%_teFinding a Jar
 ツボ%_dc[199,133,84]の落ちてる場所は|だいたいわかった！　早く|手に入れて特訓再開だぁ！=%_dc[199,133,84]I think this is where the %_dc[0,196,0]Jar %_dc[199,133,84]was. Bring it here if you want the water.#I know this doesn't match the original, but it didn't sound right for the quest to be from Black Star's PoV. 'Want to train' also fits, but I couldn't find a good way to make 'restart training' work unfortunately.
 ツボ%_dc[199,133,84]を手に入れろ！=%_dc[199,133,84]Get the %_dc[0,196,0]Jar%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
@@ -19573,7 +19573,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
 気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Track down the irritated prankster bat%_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat%_dc[0,0,196]10%_dc[199,133,84] of them!
 バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Defeat%_dc[0,0,196] 10%_dc[196,0,0] Bad Eaters%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
@@ -19588,7 +19588,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs%_dc[199,133,84]!
 %_teノラ人形どもを追え！=%_tePursue the stray dummies!
@@ -19648,7 +19648,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te紛失物回収のお願い=%_teLost Item Retrieval
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies!
 %_te魔女の道具を探せ！=%_teSearch for the Witches' Apparatus
@@ -19664,7 +19664,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Clear out %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Dogs[199,133,84]!
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
-あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=These pitiful dolls get thrown out all over. Help me gather them up and give them a proper burial.
+あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
 %_te極悪ボウズを退治せよ！=%_teEliminate the monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious kishin egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
@@ -19672,7 +19672,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
@@ -19682,18 +19682,18 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat them!
 %_te抜き打ち実技試験！=%_tePop Quizz!
-自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! Anything below a B rank won't do!!
+自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a C or above to pass!
 敵を全て倒せ！=Defeat all enemies!
 %_teブレアを探し出せ！=%_teTrack Down Blair!
 デスルームの鏡を壊した|ブレアちゃんを捕まえて|きてくれ！=Blair shattered the mirror in the Death Room! Catch her and bring her back here!
 猫魔女ブレア%_dc[199,133,84]を探し出し|捕まえろ！=%_dc[199,133,84]Track down and catch %_dc[0,196,0]Blair the cat witch%_dc[199,133,84]!#Not sure of the color of 猫魔女ブレア in the original. I made it green, but it might be red like an enemy.
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
-あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=These pitiful dolls get thrown out all over. Help me gather them up and give them a proper burial.
+あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
-%_te連続殺人魔を退治せよ！=%_teEliminate the Bloodthirsty Killer!
+%_te連続殺人魔を退治せよ！=%_teStop the Bloodlust!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ソンソンＪ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 ソンソンＪ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
@@ -19706,7 +19706,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
 %_te抜き打ち実技試験！=%_tePop Quizz!
-自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! Anything below a B rank won't do!!
+自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a C or above to pass!
 敵を全て倒せ！=Defeat all enemies!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
@@ -19715,7 +19715,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
-あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=These pitiful dolls get thrown out all over. Help me gather them up and give them a proper burial.
+あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] training dummies that have escaped from the DWMA!
@@ -19723,14 +19723,14 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
-%_te連続殺人魔を退治せよ！=%_teEliminate the Bloodthirsty Killer!
+%_te連続殺人魔を退治せよ！=%_teStop the Bloodlust!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ソンソンＪ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 ソンソンＪ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 %_teシド先生からのSOS！=%_teSOS from Sid!
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
 %_te抜き打ち実技試験！=%_tePop Quizz!
-自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! Anything below a B rank won't do!!
+自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a C or above to pass!
 敵を全て倒せ！=Defeat all enemies!
 %_te不愉快な人形の回収=%_teRetrieve the Insufferable Doll
 見てるだけで腹が立つ|%_dc[0,196,0]エクスカリバー人形%_dc[199,133,84]を早く|回収してくれ！=Promptly retrieve the %_dc[0,196,0]Excalibur Doll %_dc[199,133,84]that gets on your nerves just looking at!
@@ -19739,12 +19739,12 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[0,0,196]１０%_dc[199,133,84]匹を|すみやかに倒せ！=Quickly defeat %_dc[0,0,196]10 %_dc[199,133,84]of the irritated prankster bats, %_dc[196,0,0]Bad Eaters%_dc[199,133,84]!
 制限時間内に|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]10 %_dc[196,0,0]Bad Eaters %_dc[199,133,84]within the time limit!
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
-あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=These pitiful dolls get thrown out all over. Help me gather them up and give them a proper burial.
+あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
-%_te連続殺人魔を退治せよ！=%_teEliminate the Bloodthirsty Killer!
+%_te連続殺人魔を退治せよ！=%_teStop the Bloodlust!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ソンソンＪ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 ソンソンＪ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専からノラ人形が|%_dc[0,0,196]４０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]40 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies within the time limit!
 %_te危険物の回収=%_teHazardous Materials
@@ -19765,7 +19765,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te死武専生なら　なっ！=%_teFor DWMA Students!
 死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my prized soul studies book have gone missing. Please recover them for me.
 魂学書の破れたページ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]ページ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Torn Pages of a Soul Studies Book%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
@@ -19783,7 +19783,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_teアメリカつばきを探せ！=%Search for an American Camellia!
 博士が探しているという|%_dc[0,196,0]アメリカつばき%_dc[199,133,84]を見つけて|わけてもらおう！=Find the |%_dc[0,196,0]American Camellias %_dc[199,133,84]for the professor!
 アメリカつばき%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find an %_dc[0,196,0]American Camellia%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te危険物の回収=%_teHazardous Materials
@@ -19834,7 +19834,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te魔女の道具を探せ！=%_teSearch for the Witches' Apparatus
 怪しげな魔法のモトになる|という%_dc[0,196,0]水晶の欠片%_dc[199,133,84]を|回収してきてくれ！=Go and recover the suspicious %_dc[0,196,0]Crystal Shard %_dc[199,133,84]that acts as a catalyst for the witches' magic!
 水晶の欠片%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Crystal Shard%_dc[199,133,84]!
-%_teノラ人形どもを退治せよ！=%_teDestroy the dummies!
+%_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
