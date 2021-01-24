@@ -3028,11 +3028,11 @@
 ブラック☆スターは|特訓中なんです=Black☆Star's busy with some special training right now.
 ふ～ん・・・|あいつ本当に|特訓が好きなのね=Hmm? He really loves his special training, doesn't he?
 最近はスゴク熱が入ってきて|見てるコッチが疲れるほどなの=He's been going at it so non-stop lately that I'm exhausted just watching him.
-だから　こうして|逃げてきちゃったんだけど・・・=I finally had to take a break from him...
-お前も結構なマイペースだな・・・|アイツと一緒にやれてるわけが|なんとなくわかるぜ・・・=You're actually really independent, aren't you? I think I finally get how you're able to deal with him all the time...
-ブラック☆スター・・・|やることはやってるんだ・・・=When Black☆Star decides he's going to do something... He really doesn't stop until he's done it...
+だから　こうして|逃げてきちゃったんだけど・・・=I finally had to take a break from him.
+お前も結構なマイペースだな・・・|アイツと一緒にやれてるわけが|なんとなくわかるぜ・・・=You're actually really independent, aren't you? I think I finally get how you're able to deal with him all the time.
+ブラック☆スター・・・|やることはやってるんだ・・・=When Black☆Star decides he's going to do something, he really doesn't stop until he's done it.
 !FILE:EV0520_006.bscr
-ふ～ん・・・|あいつ本当に|特訓が好きなのね=Hmm...? He really loves his special training, doesn't he?
+ふ～ん・・・|あいつ本当に|特訓が好きなのね=Hmm? He really loves his special training, doesn't he?
 最近はスゴク熱が入ってきて|見てるコッチが疲れるほどなの=He's been going at it so non-stop lately that I'm exhausted just watching him.
 !FILE:EV0520_010.bscr
 むっほぅうう！！=Mmuhhwwoooou!!
@@ -3043,17 +3043,17 @@
 これを手に入れてからは|やっぱ　全然違うぜ！=This thing is a total game changer!
 とにかく　今は特訓がおもしろくて|仕方がねェ！！=Besides, this special training is really fun, so no reason to stop now!!
 このままだと俺様が|神を超越する日も|そんなに遠くねェな☆=If I keep at it, the day that I surpass the gods can't be too far away☆
-小物達と俺様の差は|ますます開く一方だぜ！|ひやっはははははは☆=The gap between me and all you little people just keeps getting bigger and bigger! Yahahahahahaha☆
-そうかもしれないわね・・・=That's probably true, huh...?
+小物達と俺様の差は|ますます開く一方だぜ！|ひやっはははははは☆=The gap between me and all you small fry just keeps getting bigger and bigger! Yahahahahahaha☆
+そうかもしれないわね・・・=That's probably true, huh?
 おいおいマカ|あんまりマジでとるなよ？=Woah, woah, Maka! You can't be taking him seriously.
 !FILE:EV0520_016.bscr
 このままだと俺様が|神を超越する日も|そんなに遠くねェな☆=If I keep at it, the day that I surpass the gods can't be too far away☆
-小物達と俺様の差は|ますます開く一方だぜ！|ひやっはははははは☆=The gap between me and all you little people just keeps getting bigger and bigger! Yahahahahahaha☆
+小物達と俺様の差は|ますます開く一方だぜ！|ひやっはははははは☆=The gap between me and all you small fry just keeps getting bigger and bigger! Yahahahahahaha☆
 !FILE:EV0520_017.bscr
 どうしたんだよ|そんなに深刻な顔して？=You okay? You seem a little out of it.
 あ　何でもない|早く移動しよう=Yeah, it's nothing. Let's get out of here.
 !FILE:EV0520_021.bscr
-ああ　お前らいいところに・・・|リズとパティを見なかったか？=Hey, I'm glad to see you... Have you seen Liz and Patty?
+ああ　お前らいいところに・・・|リズとパティを見なかったか？=Hey, I'm glad to see you. Have you seen Liz and Patty?
 !FILE:EV0520_022.bscr
 いや　見なかったぜ|どうしたんだよ？=We haven't, no. Everything all right?
 ココだけの話にしてほしいのだが・・・|父上から指令があったのだ=Please keep this between us, but... I've received orders from father.
@@ -3067,12 +3067,12 @@
 今すぐに発たねばならんのに|あいつら一体　どこへ行ったのだ！？=We really must depart soon, but I have no idea where they've gone!
 !FILE:EV0520_027.bscr
 ヤツもご苦労だな|しょうがねェんだろうけどよ=He's really busy too, huh? Well, sucks to be him.
-キッド君も　やること|やってるのよね・・・=Kid never stops until his work is finished, huh...
+キッド君も　やること|やってるのよね・・・=Kid never stops until his work is finished, huh?
 どうしたんだよ|そんなに深刻になる所じゃねェぞ=What's wrong? You're acting unusually serious.
 ううん　なんでもないの|さぁ　行こう！=Nothing. I'm fine. Anyway, let's go!
 !FILE:EV0520_032.bscr
 キッドがさがしてたぜ|死神様からの指令だってよ！=Kid was looking for you. Something about orders from Lord Death!
-マジかよ！|すぐ行かねェと　ヤベェな・・・|知らせてくれてサンキュー=Really!? I better hurry then... Thanks for the heads up!
+マジかよ！|すぐ行かねェと　ヤベェな・・・|知らせてくれてサンキュー=Really!? I better hurry then. Thanks for the heads up!
 ねぇ|こんなに働いて大変じゃないの？=Hey... Do you not get tired of working so hard all the time?
 しょうがねェよ|キッドは死神だからさ=Not a whole lot I can do about it. Kid's a reaper, you know?
 他の生徒よりも|やんなきゃいけないことが|たくさんあるってことさ！=He has a lot of extra responsibilities compared to the other students!
@@ -3087,7 +3087,7 @@
 ほ～～い♪=Okey-dokey♪
 ねぇ|こんなに働いて大変じゃないの？=Hey... Do you not get frustrated having to work so hard all the time?
 ほぇ？別に何ともないよ？=Huh? Not especially.
-そっか　パティ|キッド君のことちゃんと理解してるのね・・・=I see. You're really sympathetic of Kid's situation, aren't you, Patty?
+そっか　パティ|キッド君のことちゃんと理解してるのね・・・=I see. You're really understanding of Kid's situation, aren't you, Patty?
 !FILE:EV0520_046.bscr
 ねぇ|こんなに働いて大変じゃないの？=Hey... Do you not get tired of working so hard all the time?
 ほぇ？別に何ともないよ？=Huh? Not especially.
@@ -3096,15 +3096,15 @@
 はぁ　唐突に|どうしたんだよ？=What? What's wrong with you all of a sudden?
 私はブラック☆スターみたいに|強さだけを追い求められるほど|純粋じゃないし・・・=I mean... I'm not focused enough to only pursue strength like Black☆Star...
 かといって　キッド君みたいに|生まれもっての才能があって・・・=And on the other hand, I was born with the raw talent of some like Kid, but...
-その才能にみあった義務を|果たしているわけでもないし・・・=I don't even fulfill enough of my obligations to live up to that talent...
-ただの普通の|死武専の一生徒よね・・・=I'm just one of the DWMA's normal students, aren't I...?
+その才能にみあった義務を|果たしているわけでもないし・・・=I don't even fulfill enough of my obligations to live up to that talent.
+ただの普通の|死武専の一生徒よね・・・=I'm just one of the DWMA's normal students, aren't I?
 それは　ヤツらのことを|美化しすぎてねェか？=Don't you think you might be romanticizing their better qualities a bit?
 ただの格闘小僧とボンボンに|俺は思えるぜ！=I just see a spoiled rich kid and a brat who's always trying to pick a fight!
 それにお前には|ほら・・・誰にも負けない|勇気があるじゃな・・・ぃ！？=Besides, you're like... really brave...
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
-ありがとう・・・|でも　ごめんなさい|一人で　考えさせてちょうだい・・・=Thanks... But I think I just want to be alone for a while if you don't mind...
-誰にも負けない勇気|結構　本気だったんだけど|やっぱりサムかったか・・・=Really brave!? It's true, but that a was pathetic attempt at cheering her up...
+ありがとう・・・|でも　ごめんなさい|一人で　考えさせてちょうだい・・・=Thanks... But I think I just want to be alone for a while if you don't mind.
+誰にも負けない勇気|結構　本気だったんだけど|やっぱりサムかったか・・・=Really brave!? It's true, but that a was pathetic attempt at cheering her up.
 マカのヤツ　一人で考えたいとか|言ってたけど・・・=I know she said she just wants to be alone right now, but...
 あいつがそうすると|ロクな結果になんねェんだよな|魔眼との戦いの時みたいにさ=It probably won't end well if I don't go talk to her. This is just like when we fought that Magic Eye.
 しょうがねェから|さがしにいくとするか・・・=Whatever. I just need to find her.
@@ -3131,13 +3131,13 @@
 マカに何か|あったのですか？=Did something happen to Maka?
 博士の所には|やってきたんだな？|アイツの様子はどうだったんだよ？=So Maka came and talked to you? How was she doing?
 なぜかわかりませんが|思いつめた表情をしていました・・・=I can't posit as to why, but she was tormenting herself about something...
-そして　俺に戦闘訓練を|せがむのです・・・思いきり|厳しいものでもかまわないと・・・=Then she pestered me to give her some sparring practice... She told me to use my full strength even...
-アイツ　やっぱり|暴走しはじめてやがんな・・・=She's gotten totally out of control...
+そして　俺に戦闘訓練を|せがむのです・・・思いきり|厳しいものでもかまわないと・・・=Then she pestered me to give her some sparring practice. She told me to use my full strength even.
+アイツ　やっぱり|暴走しはじめてやがんな・・・=She's gotten totally out of control.
 相手になっても|よかったのですが・・・=I would have been happy to spar with her, but...
 マカの精神状態を考えると|非常に危険だと思いましたので|今回は　お断りしました=It seemed unnecessarily dangerous for her in her current emotional state, so I refused her this time.
-サンキュー博士！|クールな判断だぜ！=Thanks, professor! That was some cool judgement!
+サンキュー博士！|クールな判断だぜ！=Thanks, Professor! That was some cool judgement!
 マカの場合だと|もう少し育ててからのほうが|おいしくいただけるかと・・・=I figured she would be far tastier once she's done a little more developing...
-博士　礼の言葉は|撤回させてもらうぜ・・・=Professor... Yeah, I'm gonna have to retract my thanks...
+博士　礼の言葉は|撤回させてもらうぜ・・・=Professor... Yeah, I'm gonna have to retract my thanks.
 !FILE:EV0520_076.bscr
 マカの場合だと|もう少し育ててからのほうが|おいしくいただけるかと・・・=I figured she would be far tastier once she's done a little more developing...
 !FILE:EV0520_082.bscr
@@ -3152,7 +3152,7 @@
 ソウル君のほうから|それとなく言ってもらえないかな？=Wouldn't it be better coming from you? You could make her change her mind, right?
 やっぱり　あの件は無理♪|なしになったよ～ん　てさ・・・ダメ？=You could say something like... Doing that would be soooo uncool♪... No?
 !FILE:EV0520_087.bscr
-マカのヤツ　案の定|暴走してやがった・・・=Maka's gone completely off the rails, as usual...
+マカのヤツ　案の定|暴走してやがった・・・=Maka's gone completely off the rails, as usual.
 早くヤツを止めねェと|大変なことになっちまうぜ！=I need to stop her quick before things get out of hand!
 !FILE:EV0520_092.bscr
 お前達|ちゃんとコミュニケーションを|とれているのか？=Are you two not speaking right now?
@@ -3163,38 +3163,38 @@
 とにかく　もう一度|話し合ってこい=Anyway, I'd like the two of you to come talk to me again later.
 その上で|やるかやらないかを伝えてくれ！=Then you guys can let me know if you'll be doing the work of not!
 知らせてくれて|ありがとうな　先生！=Thanks for the heads up, Sid!
-何　いいさ　コレぐらい・・・|俺は思慮深い　そんな男だった・・・=What are you thanking me for... I'm discreet. That's the kind of man I was...
+何　いいさ　コレぐらい・・・|俺は思慮深い　そんな男だった・・・=What are you thanking me for? I'm discreet. That's the kind of man I was.
 !FILE:EV0520_096.bscr
 とにかく　もう一度|話し合ってこい=Anyway, I'd like the two of you to come talk to me again later.
 その上で|やるかやらないかを伝えてくれ！=Then you guys can let me know if you'll be doing the work of not!
 !FILE:EV0520_100.bscr
 あ　ソウル|ちょうどよかった・・・実は=Oh, Soul, great timing... So...
 シド先生の用事だろ|何で勝手に引き受けんだよ！=Sid's work? Don't you think you should have talked to me first!?
-シド先生に聞いたのね|ごめんなさい　ソウル|私　どうしてもやってみたくて・・・=I was going to talk to you later. Sorry about that. But why don't we just do it...?
+シド先生に聞いたのね|ごめんなさい　ソウル|私　どうしてもやってみたくて・・・=I was going to talk to you later. Sorry about that. But why don't we just do it?
 ったく　しょうがねェなぁ|今度からはちゃんと相談してくれよ！=Fine! Whatever... From now on, just talk to me first!
 エヘヘ　ごめんなさい・・・=Hehe... Sorry again...
 さてと一緒に行くチームを|さがしてくるとしようぜ！=Well, I guess we should start looking for another team to come with us.
 ちょっと待って　ソウル・・・|今回は　私達だけで|行っちゃダメかな？=Hold on, Soul... You think we could do this one solo?
 はぁ？|お前　自分が何を言い出してんのか|わかってるのか！？=Huh? Are you hearing the things that are coming out of your mouth!?
-うん　もちろん|私　どうしても自分の力を|試してみたい・・・=Of course! I just want to test my own abilities without someone there to save me if things go wrong...
+うん　もちろん|私　どうしても自分の力を|試してみたい・・・=Of course! I just want to test my own abilities without someone there to save me if things go wrong.
 ダメだ　ダメ！|お前　もう少し冷静になれよ！=No way! No! You need to cool off a little!
 ふ～ん・・・|もしかして怖いの？=Hmm... Maybe you're scared?
 いつもクールとか言ってるけど|ひょっとして口だけなのかしら？=You're always talking about how cool you are, but I guess it was all talk.
 怖くなんかねェよ|お前がおかしいって言ってんだよ！=I'm not scared. I'm saying you're acting crazy!
-とにかく|決定権は職人の私にある|ソウルは従ってちょうだい！=Whatever. I'm the meister, so I have the right to decide. And you have to listen to me!
+とにかく|決定権は職人の私にある|ソウルは従ってちょうだい！=Whatever. I'm the meister, so I get to decide. And you have to listen to me!
 ほら　やっぱりおかしい|普段のお前なら|ぜってェそんなこといわねェぜ=Yep, definitely crazy. You would never say something like that normally.
 私のどこが　おかしいのよ！|おかしいのはソウルのほうよ|なんで　そんなにやる気がないの？=I'm acting completely normal! The one acting all weird is you. Why are you being so lazy?
 これは　やる気とかの|問題じゃねェだろ！？=This has nothing to do with me being lazy!
 やる気の問題よ！=It does too, lazy!
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
-わかった|今回だけだ|今回だけは従ってやる・・・=Fine! Just this once. I will listen to you this one time...
-わかったんなら|つべこべ言わないで！|シド先生の所に行くわよ・・・=Good! Now quit your whining and let's go talk to Sid...
+わかった|今回だけだ|今回だけは従ってやる・・・=Fine! Just this once. I will listen to you this one time.
+わかったんなら|つべこべ言わないで！|シド先生の所に行くわよ・・・=Good! Now quit your whining and let's go talk to Sid.
 !FILE:EV0520_105.bscr
 ・・・・・・・・・=.........
 !FILE:EV0520_106.bscr
-わかった|今回だけだ|今回だけは従ってやる・・・=Fine! Just this once. I will listen to you this one time...
-わかったんなら|つべこべ言わないで！|シド先生の所に行くわよ・・・=Good! Now quit your whining and let's go talk to Sid...
+わかった|今回だけだ|今回だけは従ってやる・・・=Fine! Just this once. I will listen to you this one time.
+わかったんなら|つべこべ言わないで！|シド先生の所に行くわよ・・・=Good! Now quit your whining and let's go talk to Sid.
 !FILE:EV0520_107.bscr
 今回だけだからな|わかってんだろうな？=You do understand that I meant it when I said this would be the only time, right?
 男だったら一度決めたことに|グズグズ言わないでちょうだい|見苦しいわよ=Do all men complain this much when a woman decides on something? It's so disgraceful.
@@ -3203,19 +3203,19 @@
 ああ　さっさとしてくれよ=Yeah. Let's not beat around the bush.
 お願いします先生=I can't wait.
 なんだこのプレッシャーは=I'm starting to feel a lot of pressure.
-俺はプレッシャーに強い|そんな男だった・・・|だが　それも昔の話か・・・=I was good under pressure. That's the kind of man I was... But that a long time ago, I guess...
+俺はプレッシャーに強い|そんな男だった・・・|だが　それも昔の話か・・・=I was good under pressure. That's the kind of man I was... But that a long time ago, I guess.
 !FILE:EV0520_120.bscr
 ごくろうだったな　お前達|おかげで助かったぞ！=Good work, you two. You've been a great help!
 おう　楽勝だったぜ！|なぁ　マカ！=No problem! It was a cinch! Right, Maka?
 ええ　私　一人でも|よかったくらいだわ=Yeah. Easy enough to do alone.
-まだ　怒ってんのかよ？|ホントにしつけェな　お前・・・=Are you still mad at me? You've really got to let it go...
-それに怒るべきなのは話の流れ的に|俺のほうなんじゃねェのかよ・・・=Besides, I'm not even the one you should be mad at...
+まだ　怒ってんのかよ？|ホントにしつけェな　お前・・・=Are you still mad at me? You've really got to let it go.
+それに怒るべきなのは話の流れ的に|俺のほうなんじゃねェのかよ・・・=Besides, I'm not even the one you should be mad at.
 そうだ　お前達|死神様に呼び出されているぞ！=By the way, Lord Death wanted to see you two!
 死神様が俺達に？|一体　何の用なんだ？=Lord Death wants to see us? What for?
 詳しいことは教えてくれなかったが|お前達　何か悪いことでも|やったんじゃないのか？=He wouldn't give me any details, but you two didn't do anything bad, did you?
 そんなことしてません！=We did nothing wrong!
-そ　そうだぜ|何もしてないぜ=Y-Yeah. We didn't break any rules or anything...
-そうか　ならばいい|・・・俺は生徒の言うことを|信用する　そんな男だった・・・=All right. You should be fine then... I believe what my students tell me. That's the kind of man I was...
+そ　そうだぜ|何もしてないぜ=Y-Yeah. We didn't break any rules or anything.
+そうか　ならばいい|・・・俺は生徒の言うことを|信用する　そんな男だった・・・=All right. You should be fine then... I believe what my students tell me. That's the kind of man I was.
 !FILE:EV0520_126.bscr
 そうだ　お前達|死神様に呼び出されているぞ！=By the way, Lord Death wanted to see you two!
 !FILE:EV0520_127.bscr
@@ -3223,53 +3223,53 @@
 うるさいわよ　ソウル|アンタ　びびってるの？|バレるはずないじゃない！=Calm down, Soul. What are you so nervous about? There's no way they found out!
 !FILE:EV0520_132.bscr
 早速ですけど　お説教です♪|君達単独で出かけたでしょう？=I know it's sudden, but there's lecturing to be done♪ Did you two leave without another team accompanying you?
-な　何を言ってんのか|全然　わかんねェよ　死神様・・・=Wh-What? I have no idea what you're talking about, Lord Death...
+な　何を言ってんのか|全然　わかんねェよ　死神様・・・=Wh-What? I have no idea what you're talking about, Lord Death.
 とぼけても無駄だよ～ん♪|ちゃんとわかってるんだからさぁ！=It's no use playing dumb♪ I already know the answer!
 おばちゃんも|後ろから見ていたらしいしね♪=It seems Auntie was watching you from behind♪
-はい　単独行動をしました|ごめんなさい・・・=I admit it. We went out on our own. I'm sorry...
-もう　ソウル・・・|粘りなさいよ・・・=Soul... You can't just give up...
+はい　単独行動をしました|ごめんなさい・・・=I admit it. We went out on our own. I'm sorry.
+もう　ソウル・・・|粘りなさいよ・・・=Soul... You can't just give up.
 マカちゃんも|わかったかな？=Is there something you want to add, Maka?
 死神様　納得できません|キッド君だって一人で|出かけてるし・・・=Lord Death, it's not fair. Kid goes on missions without another team...
 ブラック☆スターだって|コソコソ出かけているのに・・・|どうして私達だけダメなんですか？=And Black☆Star sneaks out on his own... So why are we the only ones that get in trouble?
 本当はいけないんだけどね|あの子達はいいんだよ|実力があるからね♪=It might not be fair, but it's okay for those kids. They have what it takes, you know♪?
 厳しいことを言うとだね|マカちゃんは　そのレベルに|達してないんだよ！=I know it might be hard to hear, Maka, but you haven't reached their level yet!
 だ　か　ら|お説教なのよ|わかったかな～ん♪=And... that... is... the lecture. Have I made myself clear♪
-わかりました　死神様=Crystal...
+わかりました　死神様=Crystal.
 今度やったら|死神チョップだよ～ん♪=Next time there will be a Reaper Chop for each of you♪
 !FILE:EV0520_136.bscr
 今度やったら|死神チョップだよ～ん♪=Next time there will be a Reaper Chop for each of you♪
 !FILE:EV0520_137.bscr
-ふぅ|一時はどうなるかと思ったけどさ・・・|ゆるしてもらえてよかったな！=Phew... I was really worried there for a minute... He really let us off easy!
+ふぅ|一時はどうなるかと思ったけどさ・・・|ゆるしてもらえてよかったな！=Phew... I was really worried there for a minute. He really let us off easy!
 ぜんぜんよくないよ・・・|ごめん一人にして|もらえないかな・・・=Not that easy... Sorry, but I want to be alone...
-さすがにこれは|ほっとけねェし一人にできねェ・・・|マカをさがしてなぐさめなきゃな・・・=I definitely can't ignore this and leave her by herself... I have to find her and comfort her...
+さすがにこれは|ほっとけねェし一人にできねェ・・・|マカをさがしてなぐさめなきゃな・・・=I definitely can't ignore this and leave her by herself. I have to find her and comfort her.
 !FILE:EV0520_141.bscr
-すまなかった|ゆるしてくれ=I'm sorry. Please forgive me.
+すまなかった|ゆるしてくれ=I'm sorry. Please, forgive me.
 !FILE:EV0520_142.bscr
 何で　お前に|謝られなきゃ　いけねェんだ？=What are you apologizing for?
 お前達　単独行動を|したんだろ？=You and Maka left the school without another team, didn't you?
 それが　お前に|何の関係があるんだ？=How did you hear about that?
 デスサイズに言われたんだ|マカが単独行動をとるまで|追い詰められたのは・・・=I heard it from Spirit. He was saying I'm supposed to be your friend, so...
-友達である|お前にも責任があると・・・=It's my responsibility to chase after you if you ever do something like that...
+友達である|お前にも責任があると・・・=It's my responsibility to chase after you if you ever do something like that.
 デスサイズにそう言われれば|確かにそういう気がする・・・|本当にすまなかった=I hadn't thought about it until Spirit said so, but I feel like it must be true... So I'm really sorry.
-い　いや　やっぱり|謝る必要なんてねェよ・・・|気にすんなよ・・・=N-No. You really don't need to apologize... Just forget about it...
+い　いや　やっぱり|謝る必要なんてねェよ・・・|気にすんなよ・・・=N-No. You really don't need to apologize... Just forget about it.
 そうか　そう言ってくれると|こっちもありがたい=I see. Thanks for being so understanding.
 !FILE:EV0520_146.bscr
 デスサイズに言われたんだ|マカが単独行動をとるまで|追い詰められたのは・・・=I heard it from Spirit. He was saying I'm supposed to be your friend, so...
-友達である|お前にも責任があると・・・=It's my responsibility to chase after you if you ever do something like that...
+友達である|お前にも責任があると・・・=It's my responsibility to chase after you if you ever do something like that.
 デスサイズにそう言われれば|確かにそういう気がする・・・|本当にすまなかった=I hadn't thought about it until Spirit said so, but I feel like it must be true... So I'm really sorry.
 !FILE:EV0520_151.bscr
 悪ィな|かんべんしてくれや☆=I'm sorry. You'll forgive me, won't you☆?
 !FILE:EV0520_152.bscr
 お前とマカ　単独で|出かけたんだってな？=You and Maka went out on your own, right?
 そうだけど　それが|お前に関係あんのか？=Yeah, but how do you know about that?
-デスサイズに言われたんだ|なんでマカの単独行動を|止められなかったんだってな・・・=I heard it from Spirit. He was saying like why didn't you stop Maka from leaving without another team...
-確かにスターの俺様ならば|マカの暴走を止められただろう・・・=Of course, being the star I am, I could have stopped her little rampage...
+デスサイズに言われたんだ|なんでマカの単独行動を|止められなかったんだってな・・・=I heard it from Spirit. He was saying like why didn't you stop Maka from leaving without another team.
+確かにスターの俺様ならば|マカの暴走を止められただろう・・・=Of course, being the star I am, I could have stopped her little rampage.
 そういうことだから|悪ィな☆=And for not being there, I'm sorry☆
 い　いや　お前は全然悪くねェよ・・・=N-No. It wasn't at all your fault...
 そうか　俺もそう思ってたんだけど|やっぱりソウルもそう思うか！|ひやっはははははは☆=Oh, I know, but I wanted to know if you thought so! Yahahahahahaha☆
-とにかく　今度からは|ヤバげになったら俺様を呼べ！|小物のお前達を助けてやるぜ！！=Anyway, the next time you guys want to do something stupid, call me! I'm always ready to help you little people!!
+とにかく　今度からは|ヤバげになったら俺様を呼べ！|小物のお前達を助けてやるぜ！！=Anyway, the next time you guys want to do something stupid, call me! I'm always ready to help you weaklings!!
 !FILE:EV0520_156.bscr
-確かにスターの俺様ならば|マカの暴走を止められただろう・・・=Of course, being the star I am, I could have stopped her little rampage...
+確かにスターの俺様ならば|マカの暴走を止められただろう・・・=Of course, being the star I am, I could have stopped her little rampage.
 そういうことだから|悪ィな☆=And for not being there, I'm sorry☆
 !FILE:EV0520_162.bscr
 俺はガツンと言ってやったぜ！=I really gave them a good talking to!
@@ -3277,7 +3277,7 @@
 ブラック☆スターと|死神様の坊ちゃんにだよ！=Black☆Star and Lord Death's brat!
 マカが単独行動をしたのは|お前達にも原因があるってな！=They're the reason Maka left the school without another team!
 もちろん　お前もだ！|少しは反省しやがれ！！=As are you! I hope you regret what you've done!!
-日ごろ一番　マカを追いこんでるのは|お前じゃねェか・・・=What about you? Aren't you the one who's always following Maka around...?
+日ごろ一番　マカを追いこんでるのは|お前じゃねェか・・・=What about you? Aren't you the one who's always following Maka around?
 それに　このことを　マカが知ったら|すっげェ　怒るだろうな・・・=I imagine she'd be pretty pissed if she found out about that...
 !FILE:EV0520_166.bscr
 俺はガツンと言ってやったぜ！=I really gave them a good talking to!
@@ -3285,23 +3285,23 @@
 まだ落ち込んでるのかよ？=Have you calmed down yet?
 うん・・・=Yeah...
 死神様に言われたことなんか|気にすんなよ！=Don't worry about all that stuff Lord Death said!
-でも　死神様に言われたことは|事実だから・・・私は二人に及ばない|それは自分でもわかってるの・・・=But what he said was true...I'm no match for those two. There's no denying it...
+でも　死神様に言われたことは|事実だから・・・私は二人に及ばない|それは自分でもわかってるの・・・=But what he said was true. I'm no match for those two. There's no denying it.
 マカ・・・=Maka...
 ブラック☆スターとキッド君に|対抗意識を燃やして|シャカリキになったけど・・・=I was feeling really jealous of Kid and Black☆Star and got frantic, but...
 何だか空回りしてたみたい・・・|あ～あ・・・私ってバカみたいね=I was just going around in circles... *Sigh* You must think I'm a total loser.
-ソウル　ごめんね|なんだか迷惑をかけちゃったみたいね・・・=I'm really sorry, Soul. I probably caused you a lot of trouble today, huh...?
+ソウル　ごめんね|なんだか迷惑をかけちゃったみたいね・・・=I'm really sorry, Soul. I probably caused you a lot of trouble today, huh?
 もういいよ　マカ|俺は全然気にしてねェ=It's all good, Maka. Don't worry about it.
 それに　俺はお前が|あの二人に劣ってるとは思わねェ=You know... I don't think you're inferior to the others at all.
 お前には　誰にも負けねェ|勇気があるじゃねェか！？=You really are the bravest person I know!
 何よ　それ？|さっきも言ってたわね=Hey, isn't that what you said earlier?
 ああ　あれ本気だったんだ|冗談だと思ってたわ=Oh! You were being serious. I thought you were joking.
-怒るぜマカ！|俺は冗談でああいうことはいわねェ！=Thanks a lot, Maka! I wouldn't never joke about something like that!
+怒るぜマカ！|俺は冗談でああいうことはいわねェ！=Thanks a lot, Maka! I would never joke about something like that!
 !FILE:EV0520_175.bscr
 ありがとう　なんだか元気が|出てきたみたいよ！=Thank you. Somehow I feel great now!
 !FILE:EV0520_176.bscr
 ブラック☆スターとキッド君に|対抗意識を燃やして|シャカリキになったけど・・・=I was feeling really jealous of Kid and Black☆Star and got frantic, but...
 何だか空回りしてたみたい・・・|あ～あ・・・私ってバカみたいね=I was just going around in circles... *Sigh* You must think I'm a total loser.
-ソウル　ごめんね|なんだか迷惑をかけちゃったみたいね・・・=I'm really sorry, Soul. I probably caused you a lot of trouble today, huh...?
+ソウル　ごめんね|なんだか迷惑をかけちゃったみたいね・・・=I'm really sorry, Soul. I probably caused you a lot of trouble today, huh?
 !FILE:EV0521_002.bscr
 そうそうシド先生が|お前達をさがしてたぜ！=By the way, Sid was looking for you guys!
 先生が一体|俺達に何の用なんだ？=What does he need us for now?
