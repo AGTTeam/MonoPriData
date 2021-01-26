@@ -371,3 +371,6 @@
 1689:1820:|交差する想いが　目指してる=We strive toward our intersecting desires.
 1822:1957:|すれ違う生命の奥に=Inside our passing existences,
 1959:2150:|それぞれの夢　絡み合う　この場所で=Every dream becomes intertwined in this place.
+!FILE:movie1001.bin
+01=256:370:Testing
+02=372:502:Testing 2
