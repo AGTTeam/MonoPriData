@@ -1988,19 +1988,19 @@
 !FILE:EV0321_092.bscr
 大変よ　キッド君が|またおかしくなっちゃったみたい=Bad news! It looks like Kid went totally haywire again!
 またかよ～♪きゃはははは！=Not again♪ Kyahahaha!
-そんで　キッド君は|今どこなの～♪|・・・ソウル君=In that case, where's Kid now♪? Soul?
+そんで　キッド君は|今どこなの～♪|・・・ソウル君=In that case, where's Kid now♪?|...Soul?
 は　はい|保健室です・・・=Y-Yeah. In the infirmary...#In lines 1944, 1946, and 1952 Soul uses the です form when answering Patty. The form is slightly more polite than he would normal use when speaking with her. It helps to convey that he knows he's guilty and that he's a little scared of Patty. I considered adding "ma'am", but it felt a little too strong. Another consideration would be replacing "Yeah" for "Yes". I'm not sure what else could be done or if it's even necessary really.
 ふ～ん　どこで|おかしくなったのかな？|・・・ソウル君=Hmm? And where'd he start going haywire exactly? Soul?
 は　はい|特別指導室です・・・=Y-Yeah. In the Special Guidance Room...
 なんで　アンタ達|そんな所にいたのよ？=What were you two doing in there?
 色々あんだよ　男同士！=Just guy stuff!
-ふ～ん　じゃあなんで|キッド君はおかしく|なったのかな？・・・ソウル君=Hmm? So what made Kid go haywire then? Soul?
+ふ～ん　じゃあなんで|キッド君はおかしく|なったのかな？・・・ソウル君=Hmm? So what made Kid go haywire then? Soul...?
 それは・・・=Well, you see...
-なんでかな？|・・・ソウル君！=What could it have been? Soul!?
-それは　よく|わかんないです　はい・・・=Well, I don't really know. Yeah, that's it...
+なんでかな？|・・・ソウル君！=What could it have been?|Soul!?
+それは　よく|わかんないです　はい・・・=Well, I don't really know.|Yeah, that's it...
 そういうことにしといたほうが|いいと思うよ・・・ソウル君！=I'd say you should try to keep that in mind next time... Soul!
-何よ　ソウル！|肝心な所で|頼りにならないわね！=Seriously, Soul! How can you be so unreliable in such a crucial moment!?
 きゃはははは！=Kyahahaha!
+何よ　ソウル！|肝心な所で|頼りにならないわね！=Seriously, Soul! How can you be so unreliable in such a crucial moment!?
 !FILE:EV0321_096.bscr
 そういうことにしといたほうが|いいと思うよ・・・ソウル君！=I'd say you should try to keep that in mind next time... Soul!
 きゃはははは！=Kyahahaha!
@@ -2034,7 +2034,7 @@
 いやだ　何で|パパがここにいるのよ！=Seriously? What's my papa doing here!?
 だって　シドの野郎が|親を呼び出すっていったんだろ？=I mean, our buddy, Sid, told you he was going to call your parents, didn't he?
 だからパパ来ちゃった・・・=So Papa's here...
-あれは単なる脅しじゃねェか？|本当に呼び出すつもりは|ないと思うけどな・・・=I thought that was just a threat. I didn't think he was actually planning on calling...
+あれは単なる脅しじゃねェか？|本当に呼び出すつもりは|ないと思うけどな・・・=I thought that was just a threat.|I didn't think he was actually planning on calling...
 おっと|ジャマしないでくれるかな？=Hold it! Do you mind not interfering?
 こっから先は親子以外|立ち入り禁止だぜ！=This is an A and B conversation between parent and child, so go ahead and see your way out!
 !FILE:EV0322_015.bscr
@@ -2050,7 +2050,7 @@
 ああ　お前達か　すまなかったな|どうやら俺の誤解らしい=I'm glad to see you two. I'm sorry about earlier. It looks like it was just a misunderstanding.
 だから　誤解だって|言ってたじゃねェか！=Didn't we tell you that!?
 それよりも　キッド君は|大丈夫なんですか？=By the way, how's Kid doing?
-ああ　肉体的なダメージは|ほとんどない　倒れた理由は|どうやら精神的なものらしい・・・=Oh. It looks like there's nothing wrong with him physically. But it seems like he fainted because of some mental reason.
+ああ　肉体的なダメージは|ほとんどない　倒れた理由は|どうやら精神的なものらしい・・・=Oh. It looks like there's nothing wrong with him physically. But it seems he fainted because of some mental distress.
 どうもアイツは|神経質すぎるようだ・・・=That kid is too sensitive...#神経質 could be translated as sensitive or nervous. In the following line Sid uses the same word to describe the way he was in the past, so I wasn't sure which one would be the more appropriate translation for this context.
 俺も神経質な　そんな男だった|だが　それも昔の話か・・・=I was sensitive too. That's the kind of man I was. But that was a long time ago...
 キッドは保健室にいる|気になるなら　見舞って|やってくれ=Kid's in the infirmary right now. So if you're worried about him, why not go and give him a visit?
@@ -3869,7 +3869,7 @@
 !FILE:EV0923_032.bscr
 何をさがしているんですか|マカちゃん　ソウル君？=Soul, Maka, what are you looking for?
 この辺でカエルを|見なかったか？=You seen a frog anywhere around here?
-カエルって・・・|そこにいますよ・・・=A frog? There's one over there
+カエルって・・・|そこにいますよ・・・=A frog? There's one over there.
 ・・・ゲコリ=...Ribbit.
 いたわよ　ソウル！|あそこよ　あそこ！|早く捕まえなさい！=There it is, Soul! There! Right there! Quick! Catch it!
 あんまりイジメると|雨がふるからやめたほうがいいですよ・・・=You two should stop. It'll rain if ever you torment a frog, you know.
@@ -5898,7 +5898,7 @@
 わかってる|言ってみただけだよ|本気で期待しちゃいねェよ=I know. I was just throwing it out there as a possibility. I didn't really expect you to go for it.
 しかし　この時間帯に|人通りが途絶えるなんて珍しいな・・・=It's pretty unusual for there to be no one around at this time of day though, right?
 もしかして　魔の領域に|迷いこんだのかもな！=Maybe everyone got lost in the demon realm!
-それにしても|本がたくさんありやがるぜ・・・=There are just so many books...
+それにしても|本がたくさんありやがるぜ・・・=Man, that's a lotta books...#seen
 こんなに集めてどうすんだろうな|全部読んだヤツがいるのかよ！=What's even the point of gathering them all up in the same place? It's not like one person could read them all!
 誰もいないから|この際言っとくけどよ=Since we're alone right now, I'm|gonna take this chance to tell|you something...
 お前　ガンバリすぎんなよな|そうなるとロクな結果にならねェんだからよ=You're trying too hard. You're not going to get the results you want if you keep this up.
@@ -17857,7 +17857,7 @@
 恥ずかしい話だけど|今でも私　たまに迷子に|なっちゃうんです・・・=It's a little embarrassing to admit, but I still get lost sometimes...
 たまに一人でいると|静か過ぎて困ってしまう時があるんです=Sometimes, when I'm alone and it gets really quiet, I start to panic.#seen
 それだけ普段が|騒がしいってことなんですけど・・・=I guess that's just because of how noisy it usually is...
-突然話を振られても|何を話していいのか困ってしまいます・・・=If you just suddenly start chatting to me, I never really know what to say...
+突然話を振られても|何を話していいのか困ってしまいます・・・=If you just suddenly start chatting to me, I never really know what to say...#seen
 今度　会う時までの|宿題にさせてください=I'll think about it and get back to you next time.
 最近　気づいたんですが|みんなブラック☆スターのステージ|本気でひいてるのね・・・=I just noticed it recently, but everyone's been playing along with Black☆Star's stage thing...#seen
 私　結構楽しみにしてるんだけど・・・|もしかしてズレちゃってます？=And I think it's fun and all, but...|I wonder if we might be taking it too far...
@@ -18227,7 +18227,7 @@
 お前達やったな！|レベルが上がったようだぞ=Look at that, you guys! It looks like you've gone up a level.
 !FILE:EV9983_390.bscr
 おばちゃんね　ずっと見てたよ|後ろからね　|今回のあんた達の成績はこんな感じだよ=Auntie has been watching you... Here's how you kids did on this one.
-凄いね　あんた達|おばちゃん　びっくりだよ|これなら安心して見守れるね=Amazing. You really surprised Auntie. With this, I know I have nothing to worry about.
+凄いね　あんた達|おばちゃん　びっくりだよ|これなら安心して見守れるね=Amazing! You really surprised Auntie. With this, I know I have nothing to worry about.
 なかなかの成績だね　あんた達|この調子で　がんばるんだよ=That's pretty good. You kids keep up the good work.
 まあまあだね|でも　あんた達なら|もっといい成績を出せると思うよ=Not bad. But I'm sure you kids can produce even better results.
 あともうちょっとがんばるんだね|あんた達|おばちゃん　応援してるからね=Don't let it discourage you. Auntie is still cheering you on, you know.
@@ -18732,7 +18732,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] training dummies that have escaped from the DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
@@ -18753,8 +18753,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25%_dc[199,133,84] of the %_dc[196,0,0]Death Noir%_dc[199,133,84] training dummies that have escaped from the DWMA!
-デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
