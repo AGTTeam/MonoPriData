@@ -3803,12 +3803,12 @@
 決まってるじゃないの|私の中にいるヘビを|とってちょうだい！=As if you don't already know. Please! Take out the snakes you put inside me!
 充分働いたし|アナタを裏切らないって|わかったでしょ・・・=Haven't I done everything you asked of me? And all without betraying you...
 そう　もうイヤに|なっちゃったのね？=I see. So our agreement no longer pleases you?
-わかったわ・・・|アナタを解放してあげるわ・・・=Well, a deal's a deal... I will release you...
+わかったわ・・・|アナタを解放してあげるわ・・・=Well, a deal's a deal. I will release you.
 ゲコリ　本当ね=Ribbit. Really?
 でも　アナタの中にいる|ヘビは返してもらうわよ|何匹残っていたかしら・・・=But you'll have to return the snakes inside you. I wonder just how many there are in there...
 もしかしたらアナタの身体を|引き裂いちゃうかもしれないわね|そうなったら　ごめんなさい=I want you to know that, if this tears your body to ribbons, I'm truly very sorry.
 ちょっと待ってよ|何匹ヘビを入れたか覚えてないの！？=Wait. What do you mean you're not sure how many snakes you put in me!?
-忘れちゃったのよ|ずいぶん前のことだし・・・それにもう|いなくなってるかもしれないわよ=It must have slipped my mind. It was so long ago... Maybe they're all already gone.
+忘れちゃったのよ|ずいぶん前のことだし・・・それにもう|いなくなってるかもしれないわよ=It must have slipped my mind. It was so long ago. Maybe they're all already gone.
 やめて・・・|お願いだから　やめてちょうだい！=Stop... I'm begging you! Please stop.
 一体私の中には|後何匹ヘビがいるのよ？=Just how many snakes are there inside of me?
 それをアナタに教える必要は|ないと思うけど　違うかしら？=I can't see any reason why I should tell you. Am I wrong?
@@ -3818,35 +3818,35 @@
 今　ここでソウルプロテクトを|解除してみてくれない=I'd like you to try releasing your Soul Protect... here and now.
 こんな　恐ろしい所でプロテクトを解いたら|・・・許してちょうだい=But if I dispel my Soul Protect in a terrible place like this, I...|Please don't make me do it.
 あら　前に私を殺そうとして|死武専に潜入してきた時には・・・=Oh? I distinctly remember someone infiltrating the DWMA to try and kill me, and...
-変身魔法があるから|逃げおおせるとか言ってたのは|誰だったかしら？=They said their escaping wouldn't be a problem thanks to their transformation magic. Now who was that?
+変身魔法があるから|逃げおおせるとか言ってたのは|誰だったかしら？=They said their escape wouldn't be a problem thanks to their transformation magic. Now who was that?
 ゲコ～・・・=Ribbit...
-そんな・・・なぜいないの？|たしかに魔女の反応が・・・=What... there's no one here? I'm positive I sensed a witch's soul...
+そんな・・・なぜいないの？|たしかに魔女の反応が・・・=What... There's no one here? I'm positive I sensed a witch's soul.
 おい　マカ！|ここは保健室だぜ|でっけェ音を立てんじゃねェよ！=Hey, Maka! This is the infirmary, so keep it down!
 どうしたの二人とも=What's wrong, you two?
-悪ィな|マカのヤツが|急にハッチャケやがってよ・・・=Nothing. Maka's just doing whatever she feels like...
-メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the infirmary...
-そう・・・私がいない間に|侵入されちゃったみたいね・・・|二人ともケガはない？=Really...? They must have broken in while I was out... Are you hurt at all?
+悪ィな|マカのヤツが|急にハッチャケやがってよ・・・=Nothing. Maka's just poking her nose in other people's business.
+メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the infirmary.
+そう・・・私がいない間に|侵入されちゃったみたいね・・・|二人ともケガはない？=Really? They must have broken in while I was out. Are you hurt at all?
 大丈夫だぜ|俺達が来た時にはもう|誰もいなかったからよ！=We're fine. The place had already been vacated by the time we got here!
 それよりも|何のために死武専に侵入してきたのかしら？=More importantly, why did they break into the DWMA in the first place?
 !FILE:EV0923_006.bscr
-メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the infirmary...
-そう・・・私がいない間に|侵入されちゃったみたいね・・・|二人ともケガはない？=Really...? They must have broken in while I was out... Are you hurt at all?
+メデューサ先生|保健室に魔女反応が・・・=Dr. Medusa, I sensed the soul of a witch in the infirmary.
+そう・・・私がいない間に|侵入されちゃったみたいね・・・|二人ともケガはない？=Really? They must have broken in while I was out. Are you hurt at all?
 !FILE:EV0923_012.bscr
-博士・・・|保健室に魔女反応が・・・=Professor... There was a witch in the infirmary...
-ええ　もちろん|気づきましたよ・・・=Yes, I'm well aware. I noticed it as well...
+博士・・・|保健室に魔女反応が・・・=Professor... There was a witch in the infirmary.
+ええ　もちろん|気づきましたよ・・・=Yes, I'm well aware. I noticed it as well.
 冷てェな博士！|来てくれたっていいじゃねェか？=Why are you so calm, Professor!? Would it have hurt you to come help out?
 保健室ですから|多分　俺に対する|挑発だと思ったのです・・・=In the infirmary? I thought it might have been an attempt to provoke me...
 なんで保健室だと挑発なんだよ|意味がわかんねェよ！=What does the infirmary have to do with provoking you? You're not making any sense!
-いえ　すみません|何でもありませんから・・・=I'm sorry. Forget I said anything...
-とにかく二人にケガがなくて|何よりです・・・=What's most important is that you two weren't hurt...
+いえ　すみません|何でもありませんから・・・=I'm sorry. Forget I said anything.
+とにかく二人にケガがなくて|何よりです・・・=What's most important is that you two weren't hurt.
 !FILE:EV0923_016.bscr
-とにかく二人にケガがなくて|何よりです・・・=What's most important is that you two weren't hurt...
+とにかく二人にケガがなくて|何よりです・・・=What's most important is that you two weren't hurt.
 !FILE:EV0923_017.bscr
 そうだ二人ともカエルを|見つけたら捕まえてきて|もらえませんか？=Before I forget, if you two happen to find a frog, would you mind catching it for me?
 何につかうんだよ=What do you need a frog for?
-個人的に必要なのです|基本に立ち返ろうと思って・・・=For personal reasons. I've been thinking of going back to the basics...
+個人的に必要なのです|基本に立ち返ろうと思って・・・=For personal reasons. I've been thinking of going back to the basics.
 最近　どうも俺自身の研究が|荒れているように思えるのです=I haven't quite been myself recently, and my research has suffered for it.
-研究はカエルにはじまり|カエルに終わる・・・初心を|取り戻そうと思います=Research begins with a frog, and so does it end with a frog... One mustn't forget their origins.
+研究はカエルにはじまり|カエルに終わる・・・初心を|取り戻そうと思います=Research begins with a frog, and so does it end with a frog. One mustn't forget their origins.
 どうすんだよ　マカ=What do think, Maka?
 あはは・・・もしカエルを見かけたら|捕まえておきますよ　博士！=Ahaha... If we find a frog, I guess we'll catch it for you, Professor!
 カエルか・・・|ずいぶん安請け合いしたけど|大丈夫なのか？=A frog, huh? ....Are you sure it's okay to make a promise like that without thinking it through?
@@ -3854,46 +3854,46 @@
 !FILE:EV0923_022.bscr
 どうしたんだよ　てめェら|何か　微妙なツラしてんな☆=What are you guys doing? You look like you're up to no good☆
 まいったぜ　博士に|カエルを持ってくるように|頼まれちまってよ！=This is so stupid. The professor asked us to get him a damn frog!
-初心に帰って|カエルの研究をするんだって・・・=Something about getting back to basics and frog research...
+初心に帰って|カエルの研究をするんだって・・・=Something about getting back to basics and frog research.
 ブラック☆スター　あんた|死武専でカエルなんて見たことある？=Black☆Star, have you ever seen any frogs at the DWMA?
 カエル？　お前達|どこに目ン玉つけてんだよ！|そこにいるじゃねェか☆=A frog? Did you guys go blind or something!? There's a frog right there☆
 ゲコリ！=Ribbit!
 時代は博士の味方なのか=The professor couldn't have chosen a better time to start looking for frogs, huh?
-ずいぶん珍しいカエルね・・・|あんなの見た事ないわ！=It's a really weird-looking frog, don't you think...? I've never seen one like that!
+ずいぶん珍しいカエルね・・・|あんなの見た事ないわ！=It's a really weird-looking frog, don't you think? I've never seen one like that!
 ゲコリ！=Ribbit!
-あ～あ・・・逃げちまった・・・|マカの殺気に気づいたんじゃねェか？=Urrgh, it ran off... I bet it was able to sense Maka's bloodlust.
+あ～あ・・・逃げちまった・・・|マカの殺気に気づいたんじゃねェか？=Urrgh, it ran off. I bet it was able to sense Maka's bloodlust.
 失礼ね　ソウル！|・・・なんだか急に悔しくなってきた|あのカエルを絶対捕まえてやる！=Take it back, Soul! ...This is really starting to get on my nerves.|That frog is mine!
-いつまでも小僧っ気が|抜けねェヤツラだぜ！|ひやっはははははは☆=She's got the temper of a two-year-old even now! Yahahahaha☆
+いつまでも小僧っ気が|抜けねェヤツラだぜ！|ひやっはははははは☆=She's got the temper of a two-year-old! Yahahahaha☆
 !FILE:EV0923_026.bscr
-いつまでも小僧っ気が|抜けねェヤツラだぜ！|ひやっはははははは☆=She's got the temper of a two-year-old even now! Yahahahaha☆
+いつまでも小僧っ気が|抜けねェヤツラだぜ！|ひやっはははははは☆=She's got the temper of a two-year-old! Yahahahaha☆
 !FILE:EV0923_032.bscr
 何をさがしているんですか|マカちゃん　ソウル君？=Soul, Maka, what are you looking for?
 この辺でカエルを|見なかったか？=You seen a frog anywhere around here?
-カエルって・・・|そこにいますよ・・・=A frog...? There's one over there...
+カエルって・・・|そこにいますよ・・・=A frog? There's one over there
 ・・・ゲコリ=...Ribbit.
 いたわよ　ソウル！|あそこよ　あそこ！|早く捕まえなさい！=There it is, Soul! There! Right there! Quick! Catch it!
-あんまりイジメると|雨がふるからやめたほうがいいですよ・・・=You two should stop. It'll rain if ever you torment a frog, you know...
-椿ちゃん|おばあちゃんみたいね・・・=Tsubaki, you sound like a superstitious old lady...
+あんまりイジメると|雨がふるからやめたほうがいいですよ・・・=You two should stop. It'll rain if ever you torment a frog, you know.
+椿ちゃん|おばあちゃんみたいね・・・=Tsubaki, you sound like a superstitious old lady.
 ゲコリ　若さがないわね=Ribbit. Looks like one too.
-あのカエル・・・|何かしゃべったような・・・=Did that frog... just say something...?
+あのカエル・・・|何かしゃべったような・・・=Did that frog... just say something?
 何言ってるの椿ちゃん？|カエルがしゃべるわけ|ないじゃない！=What are you talking about, Tsubaki? Frogs can't talk!
 ゲコリ！=Ribbit!
-あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again... Must be because of all of Soul's whining and complaining...
+あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again. Must be because of all of Soul's whining and complaining.
 はぁ！？|人のせいにするんじゃねェよ！|お前がノロマなだけだろ！=Huh!? Don't go blaming other people! It's just because you're such a slowpoke!
 明日は大雨かしら=I better bring my umbrella tomorrow.
 !FILE:EV0923_036.bscr
 明日は大雨かしら=I better bring my umbrella tomorrow.
 !FILE:EV0923_042.bscr
-ほぇ？何を|さがしてるのかな？=Huh? You guys are looking for something, huh?
+ほぇ？何を|さがしてるのかな？=Huh? What are you lookin' for?
 この辺りでカエルを|見なかった？=Have you seen a frog around here?
 カエルなんて|どうするの？食べるの？=What do you want with a frog? Are you gonna eat it?
-いや|カエルなんて喰わねェよ・・・=No, we're not going to eat a frog...
+いや|カエルなんて喰わねェよ・・・=No, we're not going to eat a frog.
 食べないのに|何で捕まえるのかな？|きゃはははは♪=Well, if you're not going to eat it, what's the point of catching it? Kyahahaha♪
 ゲコリ|食べるなんて野蛮な子供達ね=Ribbit. Eat me? What barbaric children.
 あのカエル|しゃべんなかった？=Was that frog just talking?
 何言ってんだよ！|カエルが喋るわけねェだろ！=Are you kidding? Frogs can't talk!
 ゲコリ！=Ribbit!
-あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again... Must be because of all of Soul's whining and complaining...
+あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again. Must be because of all of Soul's whining and complaining.
 はぁ！？|人のせいにするんじゃねェよ！|お前がノロマなだけだろ！=Huh!? Don't go blaming other people! It's just because you're such a slowpoke!
 残さず食べるんだぞ！|きゃはははは♪=You have to eat the whole thing! Kyahahaha♪
 !FILE:EV0923_046.bscr
@@ -3901,140 +3901,140 @@
 !FILE:EV0923_052.bscr
 こんな所で何をやってるのかな？=What are you doing here?
 実はデスサイズ|俺達は今　カエルをさがしているんだ！=Actually, we're kind of looking for a frog right now.
-カエルだって？|お前　俺のかわいいマカに|何やらせてんだ！=A frog!? What are you making my adorable Maka do!?
-カエルの百匹や二百匹|マカの手を煩わせないで|お前が捕まえてこい！=I don't care how many there are, Maka isn't going to be touching anything slimy, so go catch them yourself!
-ゲコリ|親バカにもほどがあるわ|たいしてかわいい子でもないのに・・・=Ribbit. He's as dumb as his daughter. She's not a cute kid at all...
+カエルだって？|お前　俺のかわいいマカに|何やらせてんだ！=A frog!? How could you make my adorable Maka do that!?
+カエルの百匹や二百匹|マカの手を煩わせないで|お前が捕まえてこい！=I don't care how many there are. Maka isn't going to be touching anything slimy, so go catch them yourself!
+ゲコリ|親バカにもほどがあるわ|たいしてかわいい子でもないのに・・・=Ribbit. He's as dumb as his daughter. She's not a cute kid at all.
 おい　今　何つった！？|聞き捨てならねェぞ！=Hey! What are you muttering about? Did you think I wouldn't hear you!?
-ふ～ん・・・|ソウルの本音がわかっちゃったかも・・・=Hmm... So that's what you really think, huh...?
+ふ～ん・・・|ソウルの本音がわかっちゃったかも・・・=Hmm... So that's what you really think, huh?
 ちげェよ　俺じゃねェよ|あのカエルが喋ったんだよ！=You've got it all wrong! That wasn't me. It was that frog who said it!
 ゲコリ！=Ribbit!
 何言ってるの？|カエルがしゃべるわけ|ないじゃない！=Have you lost it? You know frogs can't talk!
-俺に絡んでいるヒマがあったら|カエルを捕まえようぜ・・・=If you've got enough free time to try and insult me, help me catch that frog...
+俺に絡んでいるヒマがあったら|カエルを捕まえようぜ・・・=If you've got enough free time to try and insult me, help me catch that frog.
 ゲコリ！=Ribbit!
-あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again... Must be because of all of Soul's whining and complaining...
+あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again. Must be because of all of Soul's whining and complaining.
 はぁ！？|人のせいにするんじゃねェよ！|お前がノロマなだけだろ！=Huh!? Don't go blaming other people! It's just because you're such a slowpoke!
 !FILE:EV0923_055.bscr
-あの～|パパも混ぜてくれるかな？=Umm, papa's still here, you know?
+あの～|パパも混ぜてくれるかな？=Umm, Papa's still here, you know?
 !FILE:EV0923_056.bscr
-あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again... Must be because of all of Soul's whining and complaining...
+あ～あ　逃げちゃった・・・|ソウルがゴチャゴチャとうるさいから・・・=Aww. It hopped off again. Must be because of all of Soul's whining and complaining.
 はぁ！？|人のせいにするんじゃねェよ！|お前がノロマなだけだろ！=Huh!? Don't go blaming other people! It's just because you're such a slowpoke!
 !FILE:EV0923_060.bscr
 もうさがす場所は|ここしか考えられねェな！=I think this is the only place we haven't searched yet.
 待ってちょうだい|中から話し声がするわ・・・=Hold on. I hear voices inside...
 !FILE:EV0923_070.bscr
 お願いだから助けてちょうだい！|フリーと戦った恐ろしい子供に|追いかけられているの！=Please help me! I'm being chased by that scary kid that took on Free!
-アイツらの話し振りからすると|私を捕まえて研究する気満々なのよ～・・・=It sounds like they want to catch me so they can do some kind of weird experiments on me...
+アイツらの話し振りからすると|私を捕まえて研究する気満々なのよ～・・・=It sounds like they want to catch me so they can do some kind of weird experiments on me.
 あら　いいじゃない♪=Well, isn't that quite lucky♪?
 研究ついでに|お腹の中にいるヘビ達も|取りだしてもらえるかもしれないわよ♪=While they have you open on the operating table, you could have them take those snakes out for you♪
-そんなこといわないで|お願いよ～・・・=Do you have to say things like that...?
+そんなこといわないで|お願いよ～・・・=Do you have to say things like that?
 いいわ　逃がしてあげる♪|その代わり　またパシリを|頼まれてちょうだい♪=Don't worry. I'll help you escape♪|But in exchange, you'll have to do a few things for me♪
 ゲコ～・・・=Ribbit...
-あれ　おかしいな|確かに話し声が聞こえたと|思ったんだけどな・・・=Huh? That's odd. I was sure we heard voices coming from in here...
-カエルも|いないわね・・・=There's no frog either...
+あれ　おかしいな|確かに話し声が聞こえたと|思ったんだけどな・・・=Huh? That's odd. I was sure we heard voices coming from in here.
+カエルも|いないわね・・・=There's no frog either.
 騒々しいわよ二人とも|一体　何をしているのかしら？=You two are being awfully loud. What ever are you doing?
-すみません|カエルを捕まえようと|してたんです・・・=Sorry. We're trying to catch a frog...
+すみません|カエルを捕まえようと|してたんです・・・=Sorry. We're trying to catch a frog.
 カエルなんて|どうするつもりなの？=And what are you planning on doing with it once you do?
 博士が研究したいんだとよ|だから　捕まえてやるのさ=The professor wants one for his research, so he asked us to catch one.
 カエルがかわいそうじゃない|それともあなた達　カエルの研究|なんかに興味があったのかしら？=Don't you feel bad for those frogs? Or maybe you two are really interested in frogs?
 どっちかと言えば|どうでもいい部類だな=It would be okay to fall into either of those categories, wouldn't it?
-そうね　ちょっとムキに|なりすぎたかも・・・=I see what you mean. Maybe we've gotten a little too carried away...
+そうね　ちょっとムキに|なりすぎたかも・・・=I see what you mean. Maybe we've gotten a little too carried away.
 えらいわよ二人とも|よく聞き分けてくれたわね♪|そうだ　これはご褒美よ=Thank you for being so reasonable. You're such remarkable children♪ Right. I think you've earned this.
 なんだコレは？|図鑑なのか？=What's this? An encyclopedia?
 そうよ　たしか|マンガのキャラが世界のカエルを|説明してくれているのよ♪=Exactly. If I remember right, it has a popular manga character who teaches you about all kinds of frogs♪
-・・・あ　説明してくれるキャラって|カリスマジャスティスだ・・・=...Hey, look at that.|It's Charisma Justice...
+・・・あ　説明してくれるキャラって|カリスマジャスティスだ・・・=...Hey, look at that.|It's Charisma Justice.
 あなた達　カエルに|興味があるみたいだから|もらってちょうだい♪=It looks like you two have quite the interest in frogs, so go ahead and|take it♪
-別に好きってわけじゃ|ないんだけどな・・・=I wouldn't really say that I like them or anything...
+別に好きってわけじゃ|ないんだけどな・・・=I wouldn't exactly put it that way...
 !FILE:EV0923_076.bscr
 あなた達　カエルに|興味があるみたいだから|もらってちょうだい♪=It looks like you two have quite the interest in frogs, so go ahead and|take it♪
-別に好きってわけじゃ|ないんだけどな・・・=I wouldn't really say that I like them or anything...
+別に好きってわけじゃ|ないんだけどな・・・=I wouldn't exactly put it that way...
 !FILE:EV0923_077.bscr
 どうしたんだよ|シケた面しやがってよ！=What's wrong with you? You're looking grumpier than usual!
 メデューサ先生から|本を貰ったんだけどよ・・・=Well, Dr. Medusa sort of gave us this book, but...
-なんとも微妙なのよこれが・・・|カリスマジャスティス|関連なんだけどね・・・=It's got something to do with Charisma Justice and all, so it's not really my thing...
+なんとも微妙なのよこれが・・・|カリスマジャスティス|関連なんだけどね・・・=It's got something to do with Charisma Justice and all, so it's not really my thing.
 カリスマジャスティス！|おい　その本　俺にくれよ|な　いいだろ！？=Charisma Justice! Hey, you can give it to me! How does that sound!?
-マカに聞いてみてくれ|聞くまでもないと思うけどよ・・・=Try asking Maka. Although I doubt you even need to...
-メデューサ先生に悪いと思うけど・・・|こういうのは一番喜んでくれる人が|もらうべきなのよね・・・=It was a gift from Dr. Medusa, but... it's better if it goes to someone who could really appreciate it...
+マカに聞いてみてくれ|聞くまでもないと思うけどよ・・・=Try asking Maka. Although I doubt you even need to.
+メデューサ先生に悪いと思うけど・・・|こういうのは一番喜んでくれる人が|もらうべきなのよね・・・=It was a gift from Dr. Medusa, but... it's better if it goes to someone who could really appreciate it.
 ひやっはぁ☆|スターへの貢ぎ物|たしかに受け取ったぜ！=Yahoo☆ A star can't really refuse tribute!
-ああ　俺達も嬉しいぜ・・・=Yeah, we're glad too...
-うん　あんたの喜びとは|別のベクトルでね・・・=Yep. And your excitement is just a bonus...
-ん　なんだ　マンガじゃねェのか|喜びも半分だぜ・・・=Hey! What gives? This isn't a manga. And the excitement is gone...
+ああ　俺達も嬉しいぜ・・・=Yeah, we're glad too.
+うん　あんたの喜びとは|別のベクトルでね・・・=Yep. And your excitement is just a bonus.
+ん　なんだ　マンガじゃねェのか|喜びも半分だぜ・・・=Hey! What gives? This isn't a manga. And the excitement is gone.
 ブラック☆スターに%_dc[0,196,0]カエル図鑑%_dc[255,255,255]を渡した=Gave the %_dc[0,196,0]Frog Encyclopedia %_dc[255,255,255]to Black☆Star.
 !FILE:EV0923_090.bscr
-ん？中が騒がしいな・・・=Huh? I'm hearing noise from in there...
+ん？中が騒がしいな・・・=Huh? I'm hearing noise from in there.
 ちょっと待って|この反応は・・・=Hold on a sec'. This soul response...
 !FILE:EV0924_002.bscr#メデューサ先生 = Dr. Medusa part 39
 そういえば博士が|お前達をさがしていた|ようだぞ？=Just so you know, the professor was looking for you.
 博士が俺達に|なんの用なんだよ？=Do you know what he wants with us?
-何か聞きたいことが|あるようだったが・・・=I think he wants to ask you something...
+何か聞きたいことが|あるようだったが・・・=I think he wants to ask you something.
 わかったわ|博士の所に行きましょう=Okay. Let's go see the professor.
 !FILE:EV0924_006.bscr
 そういえば博士が|お前達をさがしていた|ようだぞ？=Just so you know, the professor was looking for you.
 !FILE:EV0924_012.bscr
 メデューサ先生の様子は|どんな感じだったでしょうか？=Has Dr. Medusa seemed at all odd to you?
 メデューサ先生？|やけに唐突なことを聞いてくるな？=Dr. Medusa? What's with such a random question like that out of nowhere?
-昨日と比べて|博士が期待しているほど|劇的な変化はないと思いますが？=Compared to yesterday, I haven't noticed any dramatic changes like you anticipated.
+昨日と比べて|博士が期待しているほど|劇的な変化はないと思いますが？=She seemed like the same Dr. Medusa as always to me.
 別に劇的な変化を|期待しているわけではないのですが・・・=I'm not expecting a difference as dramatic as life and death or anything, but...
 そうだ　君達に|お願いがあります=Right. I have a little favor to ask of you.
 少しでもメデューサ先生の|挙動におかしなことがあったら|俺に報告してもらえませんか？=If you notice even the smallest oddity in her behavior, please report back to me.
-あはは　わかりました|おかしなことがあったら|報告するようにします・・・=Ahaha... Okay. We'll be sure to report anything weird...
+あはは　わかりました|おかしなことがあったら|報告するようにします・・・=Ahaha... Okay. We'll be sure to report anything weird.
 !FILE:EV0924_016.bscr
 そうだ　君達に|お願いがあります=Right. I have a little favor to ask of you.
 少しでもメデューサ先生の|挙動におかしなことがあったら|俺に報告してもらえませんか？=If you notice even the smallest oddity in her behavior, please report back to me.
-あはは　わかりました|おかしなことがあったら|報告するようにします・・・=Ahaha... Okay. We'll be sure to report anything weird...
+あはは　わかりました|おかしなことがあったら|報告するようにします・・・=Ahaha... Okay. We'll be sure to report anything weird.
 !FILE:EV0924_017.bscr
 ねぇ　ソウル|博士ってメデューサ先生に|こだわっているよね？=Hey, Soul... The professor's really fixated with Dr. Medusa, huh?
-もしかするとこだわりをみせるほどの|理由があるのかもしれねェな・・・=Well, there must be a good reason if he's not even trying to hide it...
+もしかするとこだわりをみせるほどの|理由があるのかもしれねェな・・・=Well, there must be a good reason if he's not even trying to hide it.
 どういう意味よソウル？=Like what?
 もしかすると|メデューサ先生は魔女・・・=Well, maybe Dr. Medusa is... a witch...
-だったり　するわけねェよな・・・=No, she couldn't be...
+だったり　するわけねェよな・・・=No, she couldn't be.
 もう　あたり前でしょ|魔女が死武専の　しかも|保健医になれるわけないじゃない=Yeah, right. It wouldn't make any sense for a witch to even come to the DWMA, let alone become the school nurse.
 そうだよな・・・|そうなんだけどな・・・=Yeah... Yeah, but... Hm...
 あれ　ソウル|あんた何考えてんの？=Huh? What is it, Soul?
-そういえば　メデューサ先生のこと|あんまりよく知らねェなって・・・=Now that I think about, I don't really know anything about Dr. Medusa...
-たしかに|他の先生にくらべると|そうかもしれない・・・=Yeah, I guess I don't know her nearly as well as the other teachers...
+そういえば　メデューサ先生のこと|あんまりよく知らねェなって・・・=Now that I think about, I don't really know anything about Dr. Medusa.
+たしかに|他の先生にくらべると|そうかもしれない・・・=Yeah, I guess I don't know her nearly as well as the other teachers.
 なぁ　マカ|他の連中に聞いてみねェか？=So what do you say we ask the others?
 メデューサ先生が|どんな人かってよ？=What kind of person she is, I mean.
-別にいいけど　ソウル|あんた変なことに|興味を持つわね？=If you want to, but I have to say, you get interested in the weirdest things.
+別にいいけど　ソウル|あんた変なことに|興味を持つわね？=If you want to. But I have to say, you get interested in the weirdest things.
 ・・・・・・・・・=.........
 どうした|何考えてんだよ？=What is it? Something on your mind?
 前にもこんなことが|なかったかしら？=This feels like deja vu to me.
-そうだっけ？|よく覚えてねェなぁ・・・=Oh, really? Doesn't ring a bell here...
+そうだっけ？|よく覚えてねェなぁ・・・=Oh, really? Doesn't ring a bell to me.
 !FILE:EV0924_022.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=Would you mind telling us whatever you know about Dr. Medusa?
-普通の保健医だと思うが|違っているのか？=I think she's a normal nurse. Is she not?
-そりゃ先生に|くらべたら普通だと思うけど・・・=I'd say she's normal compared to you, yeah...
-あはは・・・|わかりました先生・・・|ありがとうございます=Ahaha... Never mind, Sid... Thanks anyway.
+普通の保健医だと思うが|違っているのか？=I think she's just a normal nurse. Is she not?
+そりゃ先生に|くらべたら普通だと思うけど・・・=I'd say she's normal compared to you, yeah.
+あはは・・・|わかりました先生・・・|ありがとうございます=Ahaha... Never mind, Sid. Thanks anyway.
 !FILE:EV0924_026.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=Would you mind telling us whatever you know about Dr. Medusa?
-普通の保健医だと思うが|違っているのか？=I think she's a normal nurse. Is she not?
+普通の保健医だと思うが|違っているのか？=I think she's just a normal nurse. Is she not?
 !FILE:EV0924_032.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=What do you know about Dr. Medusa?
 お前のほうが|詳しいんじゃないか？|よく保健室にいくだろう？=Nothing you wouldn't know. You're the one who goes to the infirmary all the time.
-あの人　プライベートな話は|ぜんぜんしねェんだよ・・・=But she never talks about herself at all...
-とにかく俺様は|あんな弱そうなヤツには|まったく興味がねェ☆=In any case, I'm totally not interested in such weaklings☆
-そうねブラック☆スターなら|そういうと思ったわ・・・=Yeah, I figured as much coming from Black☆Star...
+あの人　プライベートな話は|ぜんぜんしねェんだよ・・・=But she never talks about herself at all.
+とにかく俺様は|あんな弱そうなヤツには|まったく興味がねェ☆=Whatever. I'm totally not interested in such weaklings☆
+そうねブラック☆スターなら|そういうと思ったわ・・・=Yeah, I figured as much coming from Black☆Star.
 !FILE:EV0924_036.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=Would you mind telling us whatever you know about Dr. Medusa?
-とにかく俺様は|あんな弱そうなヤツには|まったく興味がねェ☆=In any case, I'm totally not interested in such weaklings☆
+とにかく俺様は|あんな弱そうなヤツには|まったく興味がねェ☆=Whatever. I'm totally not interested in such weaklings☆
 !FILE:EV0924_042.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=Is there anything you could tell us about Dr. Medusa?
-大人の女性ですよね|他の先生に比べても大人だわ・・・=She's a mature woman. Mature compared to the other teachers even...
-そうよね　憧れるよね・・・|私もそういう人になりたい・・・=Totally. I really admire that about her... I want to be like her someday...
+大人の女性ですよね|他の先生に比べても大人だわ・・・=She's a mature woman. Mature compared to the other teachers even.
+そうよね　憧れるよね・・・|私もそういう人になりたい・・・=Totally. I really admire that about her. I want to be like her someday.
 椿はともかく|マカは無理なんじゃねェか？=Tsubaki maybe, but that'll never happen for you, Maka.
 もう　ソウルったら|失礼よ！=You take that back, Soul!
 そうですよ　可能性が|ないわけじゃないんですし=Yeah. It's definitely not impossible for her.
 おい　椿|お前　何気にひどいことを|言ったんじゃねェのか？=Hey, Tsubaki, that wasn't exactly a nice thing to say on your part either.
 !FILE:EV0924_046.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=Would you mind telling us whatever you know about Dr. Medusa?
-大人の女性ですよね|他の先生に比べても大人だわ・・・=She's a mature woman. Mature compared to the other teachers even...
+大人の女性ですよね|他の先生に比べても大人だわ・・・=She's a mature woman. Mature compared to the other teachers even.
 !FILE:EV0924_047.bscr
 こんな所に居たのか|お前達！=This is where you guys are!
-どうしたんだデスサイズ？|今日はいつもと|ずいぶん雰囲気が違うじゃねェか？=What's up, Spirit? You're not looking like your normal self today.
-悪ィな　今はそんな戯れ言に|付き合ってらんねェんだ=Now's not the time for silly jokes.
+どうしたんだデスサイズ？|今日はいつもと|ずいぶん雰囲気が違うじゃねェか？=What's up, Death Scythe? Have to sneak out early this morning?#Tried to actually make this line a joke to flow better with the next line while still keeping it in line with the characters' personalities. I hope it doesn't go too far. I tried to keep it tame despite the subject matter.
+悪ィな　今はそんな戯れ言に|付き合ってらんねェんだ=Now's not the time for silly jokes!
 メデューサ先生が|魔女にさらわれた！=Dr. Medusa has been abducted by a witch!
-なんですって！|それは　本当なの！？=What!? Are you being serious!?
+なんですって！|それは　本当なの！？=What!? Are you serious!?
 どうしてメデューサ先生が|さらわれたってわかるんだよ！=I don't understand why they would want to take Dr. Medusa!
-少し前に犯行声明が送られてきたんだ・・・=Just now we received a letter confessing to the abduction...
+少し前に犯行声明が送られてきたんだ・・・=Just now we received a letter confessing to the abduction.
 そんな・・・|メデューサ先生・・・=That... Dr. Medusa...
 心配しているヒマはない|死神様がお前達を呼んでいる=There's no time to worry right now. Lord Death has summoned you.
 おそらくメデューサ先生を|救い出す指令が出されるだろう=I'm afraid he'll most likely be giving you orders to rescue Dr. Medusa.
@@ -4057,7 +4057,7 @@
 !FILE:EV0924_060.bscr
 あれ？博士も|メデューサ先生を|助けに行くのか？=Huh? Professor, you're going to help too?
 当然です　大切な同僚ですから|助けなくてはいけません=Naturally. She's a precious colleague of mine, so I have to help her.
-博士が　そういうと|何かウソ臭いのよね・・・=Liar, liar, pants on fire...
+博士が　そういうと|何かウソ臭いのよね・・・=Liar, liar, pants on fire.
 博士を茶化している場合|じゃねェぞ　マカ=Now's not the time to act like a child, Maka.
 君達とは別行動になって|しまうかもしれませんが・・・=Unfortunately, I won't be going the same way as the both of you, so...
 くれぐれも気をつけてください|相手は魔女ですから！=Please be extremely careful. The enemy is a witch after all!
@@ -4068,14 +4068,14 @@
 !FILE:EV0924_070.bscr
 ちゅす！うすっ！|ほいさ！お疲れさ～ん♪=Hola! Aloha! Helloha! Welcome back♪
 すみません死神様|魔女を逃がしてしまいました・・・=Sorry, Lord Death. We fled from the witch...
-それにメデューサ先生を|発見することはできなかった・・・=And we didn't even locate Dr. Medusa...
+それにメデューサ先生を|発見することはできなかった・・・=And we didn't even locate Dr. Medusa.
 まぁまぁ|そんなに落ち込まないでちょうだい=Calm down. Calm down. There's no need to get upset over it.
 まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale! Yeah? Yeah♪?
 でもよ　死神様・・・=But Lord Death...
 そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa your worried about, Stein rescued her♪
 はぁ　なんだそれ！？|そういうことは先に言ってくれよ死神様！|何考えてんだ！！=What!? Are you serious? Why didn't you start with that? Did you even consider that!?
 ソウル！死神様に|そんなにからむんじゃないの！=Soul! Don't talk back to Lord Death like that!
-メデューサ先生が|助かったんだから|それを喜ぼうよ・・・=Let's just be happy that Dr. Medusa is okay...
+メデューサ先生が|助かったんだから|それを喜ぼうよ・・・=Let's just be happy that Dr. Medusa is okay.
 わかったよ　マカ=You're right, Maka.
 !FILE:COMMON
 それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
@@ -4086,7 +4086,7 @@
 そうなの　さらわれたのに|恥ずかしいわ　カスリ傷くらい|つけてくれても良かったのに・・・=Yeah. It's kind of embarrassing, honestly. I was abducted, but I don't have a single thing to show for it. Just a little scratch or bruise would have been nice...
 それより あなた達|私を助けるために魔女と|戦ってくれたんですって？=But forget about me. I heard you two fought against the witch trying to save me.
 ああ・・・でも結局は|逃げられたんだけどな・・・=Yeah... But we weren't able to defeat her...
-先生を救出したのも|シュタイン博士だし・・・=And in the end Professor Stein had to save you...
+先生を救出したのも|シュタイン博士だし・・・=And in the end Professor Stein had to save you.
 そんなに落ち込まないで|私はあなた達の気持ちが|うれしいわ♪=Please, don't worry about that. I'm very happy to see how much you all care♪
 博士には悪いけど|私はあなた達に|助けてほしかったくらいよ♪=I'm grateful for the professor, but I was kind of hoping it would be you kids who would save me♪
 あんまりうれしいから|これをプレゼントするわ♪=I'm in a good mood, so I want to give you this present♪
@@ -4095,20 +4095,20 @@
 ・・・・・・・・・=.........
 どうしたの？|何を考えているのかしら？=Is everything okay?  You seem lost in thought.
 先生って前にも|魔女にさらわれませんでしたっけ？=Doctor, I could have sworn you had been kidnapped by a witch another time before now.
-あれ　そうだったかしら・・・|ごめんなさい|先生よく覚えてないわ・・・=Oh, how peculiar... Well, I'm sorry, but I don't remember that myself...
+あれ　そうだったかしら・・・|ごめんなさい|先生よく覚えてないわ・・・=Oh, how peculiar... Well, I'm sorry, but I don't remember that myself.
 !FILE:EV0924_086.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 !FILE:EV0924_092.bscr
-どうしたんだ博士？|ヒーローがどうしてこんな所で|たそがれてんだ？=What's wrong, professor? What's the hero of the day doing here looking all sad?
+どうしたんだ博士？|ヒーローがどうしてこんな所で|たそがれてんだ？=What's wrong, Professor? What's the hero of the day doing here looking all sad?
 今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
 なんだよヒーロー？|それ自慢かよ！=Not a very modest hero, are you!?
 私達だからいいようなものの|ブラック☆スターだったら|大憤慨してますよ　今ごろ！！=We'll let it slide, but if it was Black☆Star who heard you say that, you'd be getting an earful about it by now!
 いや　別に自慢を|していたわけではないのですが・・・=No, it really doesn't have anything to do with me wanting to boast...
-すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget about what I was just saying...
+すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget about what I was just saying.
 別にいいけどよ・・・|ところで博士は　こんな所で何してたんだ？=Really, it's all right, but... what are you doing here anyway?
 ええ|やっと尻尾が見えてきました|その喜びに　うち震えていたところです=Right. I finally saw what she really is. And I'm trembling with excitement.
 よくわかんねェけど|身の危険をビンビン感じてきたぜ・・・=I'm not sure what you're talking about, but I'm starting to feel like I might be in danger...
-なんでかな|急にパパに会いたくなってきちゃった・・・=Why do I suddenly feel like running to papa...?
+なんでかな|急にパパに会いたくなってきちゃった・・・=Why do I suddenly feel like running to Papa?
 !FILE:EV0924_096.bscr
 今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
 !FILE:EV0924_097.bscr
@@ -9389,7 +9389,7 @@
 ・・・・・・・・・=.........
 どうしたの？|何を考えているのかしら？=Is everything okay? You seem lost in thought.
 先生よ！前にも|魔女にさらわれなかったか？=Hey! Weren't you kidnapped before too?
-あれ　そうだったかしら・・・|ごめんなさい|先生よく覚えてないわ・・・=Oh, how peculiar... Well, I'm sorry, but I don't remember that myself...
+あれ　そうだったかしら・・・|ごめんなさい|先生よく覚えてないわ・・・=Oh, how peculiar... Well, I'm sorry, but I don't remember that myself.
 !FILE:EV1924_096.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 !FILE:EV1924_102.bscr
@@ -14990,7 +14990,7 @@
 ・・・・・・・・・=.........
 どうしたの？|何を考えているのかしら？=Is everything okay? You seem lost in thought.
 先生！ぶっちゃけ　前にも|魔女にさらわれなかったか？=Doctor, this might be insensitive, but you were abducted by witches before, weren't you?
-あれ　そうだったかしら・・・|ごめんなさい|先生よく覚えてないわ・・・=Oh, how peculiar... Well, I'm sorry, but I don't remember that myself...
+あれ　そうだったかしら・・・|ごめんなさい|先生よく覚えてないわ・・・=Oh, how peculiar... Well, I'm sorry, but I don't remember that myself.
 !FILE:EV2924_086.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 !FILE:EV2924_092.bscr
