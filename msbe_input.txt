@@ -1990,13 +1990,13 @@
 またかよ～♪きゃはははは！=Not again♪ Kyahahaha!
 そんで　キッド君は|今どこなの～♪|・・・ソウル君=In that case, where's Kid now♪?|...Soul?
 は　はい|保健室です・・・=Y-Yeah. In the infirmary...#In lines 1944, 1946, and 1952 Soul uses the です form when answering Patty. The form is slightly more polite than he would normal use when speaking with her. It helps to convey that he knows he's guilty and that he's a little scared of Patty. I considered adding "ma'am", but it felt a little too strong. Another consideration would be replacing "Yeah" for "Yes". I'm not sure what else could be done or if it's even necessary really.
-ふ～ん　どこで|おかしくなったのかな？|・・・ソウル君=Hmm? And where'd he start going haywire exactly? Soul?
+ふ～ん　どこで|おかしくなったのかな？|・・・ソウル君=Hmm? And where'd he start going haywire exactly? ...Soul?
 は　はい|特別指導室です・・・=Y-Yeah. In the Special Guidance Room...
 なんで　アンタ達|そんな所にいたのよ？=What were you two doing in there?
 色々あんだよ　男同士！=Just guy stuff!
-ふ～ん　じゃあなんで|キッド君はおかしく|なったのかな？・・・ソウル君=Hmm? So what made Kid go haywire then? Soul...?
+ふ～ん　じゃあなんで|キッド君はおかしく|なったのかな？・・・ソウル君=Hmm? So what made Kid go haywire then? ...Soul?
 それは・・・=Well, you see...
-なんでかな？|・・・ソウル君！=What could it have been?|Soul!?
+なんでかな？|・・・ソウル君！=What could it have been?|...Soul!?
 それは　よく|わかんないです　はい・・・=Well, I don't really know.|Yeah, that's it...
 そういうことにしといたほうが|いいと思うよ・・・ソウル君！=I'd say you should try to keep that in mind next time... Soul!
 きゃはははは！=Kyahahaha!
@@ -4116,17 +4116,17 @@
 まだ　そんなこと|言ってんのかよ！しつけェぞ！=Are you still going on about that? Just give it up!
 絶対にそうだと|思うんだけどな=But I swear I really am sure.
 !FILE:EV0930_000.bscr
-何か後味の悪ィ|手伝いだなぁ・・・=Accepting this request leaves a bad taste in my mouth...
+何か後味の悪ィ|手伝いだなぁ・・・=Accepting this request leaves a bad taste in my mouth.
 余計なことは考えないで|目の前の戦いに集中して！=Forget about all that right now.|Just focus on the fight ahead!
 !FILE:EV0930_001.bscr
 モヤモヤしてたからな|ストレス解消といこうぜ！=Things have been pretty stressful lately, so let's blow off some steam!
 わかったわ|思いっきり行くよ！=Yeah. Let's do this!
 !FILE:EV0930_002.bscr
-ブレア|おとなしく死武専に戻ってくれるかな・・・=I hope it won't be too hard to convince Blair to come back to the DWMA...
+ブレア|おとなしく死武専に戻ってくれるかな・・・=I hope it won't be too hard to convince Blair to come back to the DWMA.
 どうだろうな・・・|とにかくヤツを見つけたら|説得してみようぜ！=Yeah... Once we find her, we're really going to have to do our best to persuade her.
 !FILE:EV0930_003.bscr
-デスサイズのために|がんばろうぜ　マカ！=Let's do our best, Maka! For Spirit.
-そう言われると|やりたくなくなってきた・・・=When you say it like that, I don't feel like doing it anymore...
+デスサイズのために|がんばろうぜ　マカ！=Let's do our best, Maka! For Death Scythe.
+そう言われると|やりたくなくなってきた・・・=When you say it like that, I don't feel like doing it anymore.
 !FILE:EV0930_004.bscr
 一時休戦よ|目の前のことに集中して！=I'm calling a truce! Just focus on what's ahead, okay?
 言われなくても|わかってるぜ！=I think I could figure that out on my own!
@@ -4142,14 +4142,14 @@
 !FILE:EV0931_002.bscr
 ああああ=AAaAaah!!
 !FILE:EV0931_003.bscr
-これがあれば|博士の実験は進むし|デスサイズも楽になるだろ=With this the professor will be able to continue his experiment, and should help Spirit relax a little.
-パパ　喜んでくれるかな♪=I hope this makes papa happy♪
+これがあれば|博士の実験は進むし|デスサイズも楽になるだろ=With this the professor will be able to continue his experiment. Should help Death Scythe to relax a little too.
+パパ　喜んでくれるかな♪=I hope this makes Papa happy♪
 !FILE:EV0931_004.bscr
-ふぅ・・・後は　単独で|出かけたことがバレないよう|祈るだけだぜ・・・=Phew... Now we just need to hope nobody finds out we went out on our own...
+ふぅ・・・後は　単独で|出かけたことがバレないよう|祈るだけだぜ・・・=Phew... Now we just need to hope nobody finds out we went out on our own.
 ソウル|あんたって意外と小心者なのね=You're such a scaredy-cat, Soul.
 それに私達ケンカしてるんだから|気安く話し掛けないでちょうだい！=And I'm still mad at you, so don't try talking to me as if there was nothing wrong!
 もう休戦は終了かよ=So the truce is over then?
-こんな所で・・・|私は果てるのかぁぁぁぁ！！=So this... is where I meet my eeeeeend!!
+こんな所で・・・|私は果てるのかぁぁぁぁ！！=So this... is Nirvana!!
 !FILE:EV0931_005.bscr
 ああああ=AAaAaah!!
 !FILE:EV0932_010.bscr
@@ -4157,9 +4157,9 @@
 もちろん　いつでも|オッケーだぜ！=Totally. I thought you'd never ask!
 ソウル　どう？=How about it, Soul?
 俺のほうはオッケーだ|いつでもいいぞ　マカ！=It's all systems go for me. I'm ready when you are, Maka!
-ここが|今回の目的地なのね・・・=This is the place, right...?
+ここが|今回の目的地なのね・・・=This is the place, right?
 こっちの準備は完了だぜ|後はお前次第だぜ　マカ！=I'm good to go. The rest is up to you, Maka!
-どうやら目的の場所に|ついたみたいね・・・=I guess this is the place, huh...?
+どうやら目的の場所に|ついたみたいね・・・=I guess this is the place, huh?
 だりぃ・・・さっさと|片付けちまおうぜ=All right... Let's get this over with quickly.
 !FILE:EV0932_011.bscr
 準備はいい？|もうはじめようと思うんだけど？=You ready? I think we should get started.
@@ -4169,7 +4169,7 @@
 見た感じ敵なんかいないみたいだけど・・・|そんなはずないよね・・・=I don't see any sign of enemies, but... looks can be deceiving...
 どうでもいいよ|さっさと先に進もうぜ=Doesn't matter to me. Let's just get this over with.
 この場所に|どんな敵が潜んでいるのかな・・・=I wonder what kind of enemy could be lurking around here...
-なんでもいいよ|早くやっつけて死武専に戻ろうぜ・・・=Who cares? Let's just take 'em out and get back to the DWMA...
+なんでもいいよ|早くやっつけて死武専に戻ろうぜ・・・=Who cares? Let's just take 'em out and get back to the DWMA.
 あんまり良さそうな|場所じゃないね・・・=Something seems off about this place...
 そうか？どこも|こんなもんだと思うけどな？=Oh, yeah? Seems like any other place to me.
 !FILE:EV0932_012.bscr
@@ -4182,7 +4182,7 @@
 あんまり良さそうな|場所じゃないね・・・=Something seems off about this place...
 そうか？どこも|こんなもんだと思うけどな？=Oh, yeah? Seems like any other place to me.
 !FILE:EV0932_020.bscr
-気のせいかしら|さっきからずいぶん緊張感が|ないみたいなんだけど・・・=Maybe it's my imagination, but I've got a really bad feeling about this...
+気のせいかしら|さっきからずいぶん緊張感が|ないみたいなんだけど・・・=Maybe it's my imagination, but I've got a really bad feeling about this.
 気のせいだぜ　マカ|あんまり考えすぎると|キッドみたいになるぞ！=It's definitely your imagination. You're starting to look like Kid with all that overthinking!
 もう！|戦闘でもその調子だったら|マカチョップだからね！=Hey! If we get into a fight there will be a Maka Chop waiting for you at the end!
 ソウル　あんた　最近たるんでるんだから|ポカしないようにね=Soul, you've been slacking off recently, so no mistakes today, okay?
@@ -4198,7 +4198,7 @@
 普通にやれば何ともないと思うんだけど|なんだか緊張してきちゃった・・・=We shouldn't have any trouble if we do everything like normal, but I'm still nervous for some reason...
 まるで女の子みたいなことを|言うじゃねェか！？=Wow! You're such a little girl!
 んもう！|とにかく　はじめるよ！！=You know what I mean! Let's just get started!!
-私達の実力ならば普通にクリアできるはずよ|油断しないでいきましょう=With what we're capable of, normally we should be able to clear this. So let's stay focused.
+私達の実力ならば普通にクリアできるはずよ|油断しないでいきましょう=With what we're capable of, we should be able to clear this, so let's just stay focused.
 油断だって？|それは　どちらかといえば|お前の問題だろ？=Focused? It seems to me that you're the one that can't focus.
 はぁ　何だか|やる気がなくなってきちゃった・・・=*Sigh* I'm so unmotivated for some reason...
 私達ならば|普通にやればそんなに|問題がないと思うの=I don't think this will give us any problems if we just do like normal.
@@ -4211,10 +4211,10 @@
 なんだか武者ぶるいが|してきちゃった・・・=I'm trembling with excitement for some reason...
 まぁ　あんまり|肩に力を入れんなよ=Just don't get too excited, all right?
 そうね　ソウルの|言う通りかもしれないわね=Yeah. You're probably right, Soul.
-ねェ　ソウル・・・|ここ　あちこちから|異様な反応がするよ・・・=Hey, Soul... I'm sensing something strange all around this area...
+ねェ　ソウル・・・|ここ　あちこちから|異様な反応がするよ・・・=Hey, Soul... I'm sensing something strange all around this area.
 そりゃ　するだろうよ|そういう所に|来てんだからよ！=That makes sense. That's sort of why we're here!
 はぁ　もういいわ|でも　お願いだから|真面目にやってちょうだいね=Well, yeah. Just please take this seriously, okay?
-ねェ　ソウル・・・|私なんだか嫌な予感がするのよね・・・=Um, Soul... I've got sort of a bad feeling about this...
+ねェ　ソウル・・・|私なんだか嫌な予感がするのよね・・・=Um, Soul... I've got sort of a bad feeling about this.
 おいおい　ずいぶん弱気だな！|らしくねェんじゃねェか！？=Come on! Where's your self-confidence! You've got it all wrong!
 私だってそんな時くらいあるわよ！=Even I can't be super confident all the time!
 今回は|結構面倒なことになりそうな気がするの=I feel like this one's going to be really annoying.
@@ -4222,7 +4222,7 @@
 うっさいなあ　もう=Lay off!
 !FILE:EV0932_030.bscr
 そういえば|ブラック☆スター達は|どこにいるのかな？=By the way, where'd Black☆Star disappear to?
-あれ？|どうやらはぐれちまった|みてえだな・・・=Huh? I guess he must have wandered off somewhere...
+あれ？|どうやらはぐれちまった|みてえだな・・・=Huh? I guess he must have wandered off somewhere.
 ふう|まぁ　いいか=*Sigh* I guess it's fine.
 そういえば|ブラック☆スター達は|どこにいるのかな？=By the way, where'd Black☆Star disappear to?
 あんなフリーダムな|男のことを　俺に聞かないでくれ=Don't ask me. I said we should have put him on a leash.
@@ -4254,27 +4254,27 @@
 あれ？お前そんなに心配するほど|オックス君と仲よかったっけ？=Huh? You and Ox must be pretty close for you to be that worried about him.
 ふう|まぁ　いいか=*Sigh* I guess it's fine.
 !FILE:EV0932_040.bscr
-ブレアのサポートは期待できねェぜ|あいつ　どっかに|行っちまったんだからな・・・=Blair ran off somewhere, so don't expect any help from her...
+ブレアのサポートは期待できねェぜ|あいつ　どっかに|行っちまったんだからな・・・=Blair ran off somewhere, so don't expect any help from her.
 !FILE:EV0932_050.bscr
 ブレアと戦うんだから|あいつのサポートは|ないって事だぜ　マカ！=Since it's Blair we're fighting, she obviously won't be helping us!
 !FILE:EV0933_010.bscr
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
 クールだぜ！|やったな！=Cool! We nailed it!
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission Complete!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 今回のはちょっと簡単だったかも？=That was pretty simple, wasn't it?
 まぁ　そーだな|俺達なら楽勝な奴だったな=Yeah! He didn't stand a chance against us!
 アレ？　もう終わり？=Huh? It's over already?
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 ま　これで俺もクールな男に|一歩近づいたってわけだな！=Hmph! I just got that much cooler!
 目標達成～！！|今回は色々と経験できて|おもしろかったね♪=Success!! That was some good experience. And it was pretty fun too♪
 まっ　もうちょっと|歯応えがあってもよかったケドな=It would have been better with a bit more bite to it, but ah well.
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 クールだぜ！|やったな！=Cool! We nailed it!
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 目標達成～！！|今回は色々と経験できて|おもしろかったね♪=Success!! That was some good experience. And it was pretty fun too♪
 ま　これで俺もクールな男に|一歩近づいたってわけだな！=Hmph! I just got that much cooler!
@@ -4284,7 +4284,7 @@
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 まぁ　そーだな|俺達なら楽勝な奴だったな=Yeah! He didn't stand a chance against us!
 目標達成～！！|今回は色々と経験できて|おもしろかったね♪=Success!! That was some good experience. And it was pretty fun too♪
 クールだぜ！|やったな！=Cool! We nailed it!
@@ -4295,7 +4295,7 @@
 そうか？|俺はちょっと疲れたぜ=Really? I'm actually a little tired.
 今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh?|I thought it was supposed to be harder than that.
 それだけ俺達が強くなってるって|ことじゃねぇか？=Doesn't that just mean we've gotten stronger?
-早く帰ってシャワー浴びたい・・・=I can't wait to get home and take a nice, hot shower...
+早く帰ってシャワー浴びたい・・・=I can't wait to get home and take a nice, hot shower.
 よっしゃ！終わったぜ～♪=Sweet! It's finished♪
 これで目標達成ね♪=And that makes another successful mission♪
 ま　俺達に掛かれば|あの程度は朝飯前だな=Yeah, something like that's a cinch for us.
@@ -4329,12 +4329,12 @@
 もっと難しいと思ってたケド|ちょうどいい手応えの課題だったね=I was expecting more of a challenge, but this task wasn't so bad.
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
 目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really hoping things would go smoother than that.
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down. I'm sure it's nothing to worry about.
 もっと簡単だと思ってたケド|ちょうどいい手応えの課題だったね=I was worried it was going to be a little too easy, but this task was all right.
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
 まぁ　帰ってから|復習すればいいんじゃねぇか？=Well, why don't you go back over the assignment once we get back?
-もっともっと強くならないと・・・=I need to become even stronger...
+もっともっと強くならないと・・・=I need to become even stronger.
 まっ　勝ったんだしいーんじゃねェか|次からちょっと気をつけようぜ！=Hey, we won, didn't we? We'll just have to be a little more careful from now on!
 よし！|目標達成！=Yes! Mission success!
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
@@ -4345,50 +4345,50 @@
 もっと簡単だと思ってたケド|ちょうどいい手応えの課題だったね=I was worried it was going to be a little too easy, but this task was all right.
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
-もっともっと強くならないと・・・=I need to become even stronger...
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
-もっともっと強くならないと・・・=I need to become even stronger...
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down. I'm sure it's nothing to worry about.
+もっともっと強くならないと・・・=I need to become even stronger.
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down. I'm sure it's nothing to worry about.
+もっともっと強くならないと・・・=I need to become even stronger.
 じゃあ今回のはこれで終わりだな=Well, looks like that's another one down.
 目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really hoping things would go smoother than that.
 まっ　勝ったんだしいーんじゃねェか|次からちょっと気をつけようぜ！=Hey, we won, didn't we? We'll just have to be a little more careful from now on!
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
-もっともっと強くならないと・・・=I need to become even stronger...
+もっともっと強くならないと・・・=I need to become even stronger.
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
 !FILE:EV0933_013.bscr
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
 ああ|あんまりムチャしないでくれよ=Yeah. Things were getting pretty dicey.
 目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 今回はちょっと危なかったな=That was starting to get a little dicey.
-ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
+ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant* *Pant* Another... mission complete...
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
-はぁ・・・はぁ・・・=*Pant*... *Pant*...
+はぁ・・・はぁ・・・=*Pant* *Pant*
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
 目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 お疲れサン|まっ　がんばったじゃねェか=You did great. Not that I expected any less from you.
-はぁ・・・はぁ・・・=*Pant*... *Pant*...
+はぁ・・・はぁ・・・=*Pant* *Pant*
 今回はちょっと危なかったな=That was starting to get a little dicey.
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
 ああ　クールじゃなかったな=Yeah. That wasn't cool at all.
 目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
-ったく|マカは人使いが荒ェよ！=Geez! You're such a slave-driver!
-ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
+ったく|マカは人使いが荒ェよ！=Geez! You don't let me slack off one bit!
+ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant* *Pant* Another... mission complete...
 ああ|あんまりムチャしないでくれよ=Yeah. Things were getting pretty dicey.
-はぁ・・・はぁ・・・=*Pant*... *Pant*...
+はぁ・・・はぁ・・・=*Pant* *Pant*
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
-ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
+ハァ・・・ハァ・・・　|これで・・・　目標達成ね・・・=*Pant* *Pant* Another... mission complete...
 今回はちょっと危なかったな=That was starting to get a little dicey.
 目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
 お疲れサン|まっ　がんばったじゃねェか=You did great. Not that I expected any less from you.
-はぁ・・・はぁ・・・=*Pant*... *Pant*...
-ったく|マカは人使いが荒ェよ！=Geez! You're such a slave-driver!
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
+はぁ・・・はぁ・・・=*Pant* *Pant*
+ったく|マカは人使いが荒ェよ！=Geez! You don't let me slack off one bit!
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
-ったく|マカは人使いが荒ェよ！=Geez! You're such a slave-driver!
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
+ったく|マカは人使いが荒ェよ！=Geez! You don't let me slack off one bit!
 !FILE:EV0933_014.bscr
 お星様がみえる～=I'm seeing stars...
 お前さ・・・=You...
@@ -4496,48 +4496,48 @@
 鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 !FILE:EV0934_130.bscr
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 !FILE:EV0934_131.bscr
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 !FILE:EV0934_132.bscr
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 !FILE:EV0934_135.bscr
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 !FILE:EV0934_200.bscr
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
@@ -4934,21 +4934,21 @@
 !FILE:EV0935_040.bscr
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
 クールだぜ！|やったな！=Cool! We nailed it!
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 今回のはちょっと簡単だったかも？=That was pretty simple, wasn't it?
 まぁ　そーだな|俺達なら楽勝な奴だったな=Yeah! He didn't stand a chance against us!
 アレ？　もう終わり？=Huh? It's over already?
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 ま　これで俺もクールな男に|一歩近づいたってわけだな！=Hmph! I just got that much cooler!
 目標達成～！！|今回は色々と経験できて|おもしろかったね♪=Success!! That was some good experience. And it was pretty fun too♪
 まっ　もうちょっと|歯応えがあってもよかったケドな=It would have been better with a bit more bite to it, but ah well.
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 クールだぜ！|やったな！=Cool! We nailed it!
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 目標達成～！！|今回は色々と経験できて|おもしろかったね♪=Success!! That was some good experience. And it was pretty fun too♪
 ま　これで俺もクールな男に|一歩近づいたってわけだな！=Hmph! I just got that much cooler!
@@ -4958,7 +4958,7 @@
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 まぁ　そーだな|俺達なら楽勝な奴だったな=Yeah! He didn't stand a chance against us!
 変な奴だったね・・・=That guy was so weird...
 ああ　|全然クールじゃねぇ奴だったな=For real. He wasn't cool at all.
@@ -4969,7 +4969,7 @@
 そうか？|俺はちょっと疲れたぜ=Really? I'm actually a little tired.
 今回のは案外簡単だったね|もっと難しいのかと思ってた=That was surprisingly easy, huh?|I thought it was supposed to be harder than that.
 それだけ俺達が強くなってるって|ことじゃねぇか？=Doesn't that just mean we've gotten stronger?
-早く帰ってシャワー浴びたい・・・=I can't wait to get home and take a nice, hot shower...
+早く帰ってシャワー浴びたい・・・=I can't wait to get home and take a nice, hot shower.
 よっしゃ！終わったぜ～♪=Sweet! It's finished♪
 これで目標達成ね♪=And that makes another successful mission♪
 ま　俺達に掛かれば|あの程度は朝飯前だな=Yeah, something like that's a cinch for us.
@@ -5008,7 +5008,7 @@
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
 今回はちょっと難しいのに|当たった感じよね=I feel like that one was pretty difficult, huh?
 下手に手に負えない奴に手を出して|取り返しがつかなくなるよか|全然ＯＫだろ？=Don't you think it would be better to not run in head first against a guy that could really make you regret it?
-もっともっと強くならないと・・・=I need to become even stronger...
+もっともっと強くならないと・・・=I need to become even stronger.
 まっ　勝ったんだしいーんじゃねェか|次からちょっと気をつけようぜ！=Hey, we won, didn't we? We'll just have to be a little more careful from now on!
 よし！|目標達成！=Yes! Mission success!
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
@@ -5019,7 +5019,7 @@
 今回のは思ったより難しかったね・・・=That was more difficult than I thought it would be...
 そうだな|敵に変な奴もいたしな！=Yeah. That guy made for a weird opponent!
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
-そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down like that. I'm sure it's nothing to worry about.
+そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down. I'm sure it's nothing to worry about.
 今回は思ったより疲れたね・・・=I didn't expect to be so worn out by that...
 しかもアイツ　思ったよりしぶとかったしな=For sure. That guy was really stubborn.
 ふぅ・・・|思ったよりも強かったね=Phew... He was tougher to take down than expected.
@@ -5028,41 +5028,41 @@
 簡単すぎるのもつまんねーし|難しいところだな=The easy ones are just as tough, but because they're so boring.
 もっと難しいと思ってたケド|ちょうどいい手応えの課題だったね=I was expecting more of a challenge, but this task wasn't so bad.
 そうだな|敵に変な奴もいたしな！=Yeah. That guy made for a weird opponent!
-もっともっと強くならないと・・・=I need to become even stronger...
+もっともっと強くならないと・・・=I need to become even stronger.
 まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
 !FILE:EV0935_043.bscr
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
 ああ|あんまりムチャしないでくれよ=Yeah. Things were getting pretty dicey.
 目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 今回はちょっと危なかったな=That was starting to get a little dicey.
-ハァ・・・ハァ・・・|これで・・・目標達成ね・・・=*Pant*... *Pant*... Team Maka one... Bad guys none...
+ハァ・・・ハァ・・・|これで・・・目標達成ね・・・=*Pant* *Pant* Team Maka one... Bad guys none...
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
-はぁ・・・はぁ・・・=*Pant*... *Pant*...
+はぁ・・・はぁ・・・=*Pant* *Pant*
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
 目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 お疲れサン|まっ　がんばったじゃねェか=You did great. Not that I expected any less from you.
-はぁ・・・はぁ・・・=*Pant*... *Pant*...
+はぁ・・・はぁ・・・=*Pant* *Pant*
 今回はちょっと危なかったな=That was starting to get a little dicey.
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
 ああ　クールじゃなかったな=Yeah. That wasn't cool at all.
 目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
-ったく|マカは人使いが荒ェよ！=Geez! You're such a slave-driver!
-ハァ・・・ハァ・・・　|これで・・・目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
+ったく|マカは人使いが荒ェよ！=Geez! You don't let me slack off one bit!
+ハァ・・・ハァ・・・　|これで・・・目標達成ね・・・=*Pant* *Pant* Another... mission complete...
 ああ|あんまりムチャしないでくれよ=Yeah. Things were getting pretty dicey.
-はぁ・・・はぁ・・・=*Pant*... *Pant*...
+はぁ・・・はぁ・・・=*Pant* *Pant*
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
-ハァ・・・ハァ・・・　|これで・・・目標達成ね・・・=*Pant*... *Pant*... Another... mission complete...
+ハァ・・・ハァ・・・　|これで・・・目標達成ね・・・=*Pant* *Pant* Another... mission complete...
 今回はちょっと危なかったな=That was starting to get a little dicey.
 目標・・・達成ね・・・|あー！疲れたぁぁ！！=Mission... complete...|Phew! I'm exhausted!!
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
 大丈夫かマカ？|息切れしてるぜ？=Maka, you all right? You're out of breath.
 ええ　大丈夫|ちょっと疲れただけだから・・・=Yeah. I'm fine. Just a little tired...
-はぁ・・・はぁ・・・=*Pant*... *Pant*...
-ったく|マカは人使いが荒ェよ！=Geez! You're such a slave-driver!
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
+はぁ・・・はぁ・・・=*Pant* *Pant*
+ったく|マカは人使いが荒ェよ！=Geez! You don't let me slack off one bit!
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
 ちょっとそこで休んでろ|すぐここにバイク回してやるから=Stay where you are and take a breather. I'll be right back with the bike.
-今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard...
-ったく|マカは人使いが荒ェよ！=Geez! You're such a slave-driver!
+今回のはメチャクチャハードな|内容だったね・・・=This mission was ridiculously hard.
+ったく|マカは人使いが荒ェよ！=Geez! You don't let me slack off one bit!
 !FILE:EV0935_044.bscr
 お星様がみえる～=I'm seeing stars...
 お前さ・・・=You...
@@ -5078,11 +5078,11 @@
 さーてとっ！|たまには遊びながら帰ろっか？=You know what? It wouldn't hurt for us to enjoy ourselves a little before going back, would it?
 そうだ！|どうせならこの辺りを探検しながら|帰ろっか？=I know! While we're here, why don't we explore a little on the return trip?
 !FILE:EV0935_130.bscr
-こんな所で・・・|私は果てるのかぁぁぁぁ！！=So this... is where I meet my eeeeeend!!
+こんな所で・・・|私は果てるのかぁぁぁぁ！！=So this... is Nirvana!!
 !FILE:EV0935_131.bscr
 うがぁぁぁぁぁぁぁっ！！=Graaaaaaah!!
 !FILE:EV0935_132.bscr
-あと一歩だったというのにぃぃぃぃ！=Yet I was so cloooose!
+あと一歩だったというのにぃぃぃぃ！=My third eye was nearly open!
 !FILE:EV0935_230.bscr
 銃弾すら効かない　この身体がぁぁ！！=Your attacks can do me no harm!!
 !FILE:EV0935_231.bscr
@@ -5742,16 +5742,16 @@
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
 まっ俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 !FILE:EV0956_020.bscr
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 !FILE:EV0956_029.bscr
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 !FILE:EV0956_030.bscr
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 クールだぜ！|やったな！=Cool! We nailed it!
 !FILE:EV0956_039.bscr
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 クールだぜ！|やったな！=Cool! We nailed it!
 !FILE:EV0956_040.bscr
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
@@ -5760,10 +5760,10 @@
 やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 !FILE:EV0956_050.bscr
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 ま　これで俺もクールな男に|一歩近づいたって訳だな！=Hmph! I just got that much cooler!
 !FILE:EV0956_059.bscr
-目標達っ～成っ！！=Mission Commmplete!!
+目標達っ～成っ！！=Mission complete!!
 ま　これで俺もクールな男に|一歩近づいたって訳だな！=Hmph! I just got that much cooler!
 !FILE:EV0960_000.bscr
 さてと　何をしようかしら？=Well now... What to do?
@@ -9789,48 +9789,48 @@
 ひゃっはぁ～！|暗殺されたいヤツはどいつだー？！=Yahoo! Are you the one that wants to be assassinated!?
 ビッグなスター！俺様参上！|サインが欲しけりゃかかってこい！=The big star, me, has arrived! If you want my autograph, come and get it!
 !FILE:EV1934_130.bscr
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 !FILE:EV1934_131.bscr
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 ビッグなスターの輝きに|目が眩むだろ！=You must be starstruck running into a star as big as me!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 ひゃっはぁ～！|暗殺されたいヤツはどいつだー？！=Yahoo! Are you the one that wants to be assassinated!?
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 スターである俺様が|いっちょカツを入れてやるか！|ひやっはははははは☆=I guess it's up to a star like me to give him a pep-talk! Yahahahahahaha☆
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 まったく　しょうがねェヤツだぜ！|ひやっはははははは☆=This guy is totally hopeless! Yahahahahahaha☆
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 !FILE:EV1934_132.bscr
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者が|俺様より目立つんじゃねーぜ！=Nobody whose soul has become a kishin egg is going to take over my spotlight!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 小物稼ぎしやがって！|気にいらねェよ！小物が！！=I'm done with scoring weaklings! I don't like 'em, those weaklings!!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 よわっちそうなヤツだな！|俺様の敵じゃねーぜ！=This guy looks like a weakling! Definitely not a threat to me!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 何いってんだ　お前ェ？=What did you say?
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 !FILE:EV1934_135.bscr
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 !FILE:EV1934_200.bscr
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
@@ -10371,11 +10371,11 @@
 まっ　きばった分|休みながら帰るか　椿！=Yeah! I went all out, so why don't we take it easy on the way back, Tsubaki?
 そうだな・・・|この俺様が小物達に土産を持って|帰ってやるか！椿！=I have an idea! Why don't we get some souvenirs for all the little guys waiting for us back home?
 !FILE:EV1935_130.bscr
-こんな所で・・・|私は果てるのかぁぁぁぁ！！=So this... is where I meet my eeeeeend!!
+こんな所で・・・|私は果てるのかぁぁぁぁ！！=So this... is Nirvana!!
 !FILE:EV1935_131.bscr
 うがぁぁぁぁぁぁぁっ！！=Graaaaaaah!!
 !FILE:EV1935_132.bscr
-あと一歩だったというのにぃぃぃぃ！=Yet I was so cloooose!
+あと一歩だったというのにぃぃぃぃ！=My third eye was nearly open!
 !FILE:EV1935_230.bscr
 銃弾すら効かない　この身体がぁぁ！！=Your attacks can do me no harm!!
 !FILE:EV1935_231.bscr
@@ -15366,48 +15366,48 @@
 見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2934_130.bscr
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
-死神の手先でも|私を止められないのだぁ～！=Even the reaper's underlings can do nothing to stop meee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
+死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! I cannot be defeeeated!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 !FILE:EV2934_131.bscr
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
-なんだぁ～？|死神の手先かぁ～=Whaaat? The reaper's underlings!?
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
+なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-死神の手先が|何をしても無駄だぁ～！=I will not be rivaled by the reaper's mere underlings!
+死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 !FILE:EV2934_132.bscr
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 !FILE:EV2934_135.bscr
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your struggling is futile! Play nice and give me your souls!
+無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 !FILE:EV2934_200.bscr
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
@@ -15826,11 +15826,11 @@
 うむ|たまにはこの辺りを探検しながら|地形を把握して帰るか！=Hm. It couldn't hurt to explore a little every once in a while, would it?
 よし！|せっかくここまで来たのだ|シンメトリーな土産物でもさがして帰るか=Hey, we came all this way, so why don't we pick up a few souvenirs before we go home!?
 !FILE:EV2935_130.bscr
-こんな所で・・・|私は果てるのかぁぁぁぁ！！=So this... is where I meet my eeeeeend!!
+こんな所で・・・|私は果てるのかぁぁぁぁ！！=So this... is Nirvana!!
 !FILE:EV2935_131.bscr
 うがぁぁぁぁぁぁぁっ！！=Graaaaaaah!!
 !FILE:EV2935_132.bscr
-あと一歩だったというのにぃぃぃぃ！=Yet I was so cloooose!
+あと一歩だったというのにぃぃぃぃ！=My third eye was nearly open!
 !FILE:EV2935_230.bscr
 銃弾すら効かない　この身体がぁぁ！！=Your attacks can do me no harm!!
 !FILE:EV2935_231.bscr
@@ -18570,7 +18570,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=The Dissection class specimen has escaped. Capture it at once!
 疑似生物おかウニ%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Artificial Land Urchin%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[196,0,0]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
@@ -18597,7 +18597,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ツボ%_dc[199,133,84]の落ちてる場所は|だいたいわかった！　早く|手に入れて特訓再開だぁ！=%_dc[199,133,84]I think this is where the %_dc[0,196,0]Jar %_dc[199,133,84]was. Bring it here if you want the water.#I know this doesn't match the original, but it didn't sound right for the quest to be from Black Star's PoV. 'Want to train' also fits, but I couldn't find a good way to make 'restart training' work unfortunately.
 ツボ%_dc[199,133,84]を手に入れろ！=%_dc[199,133,84]Get the %_dc[0,196,0]Jar%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
@@ -18624,13 +18624,13 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs%_dc[199,133,84]!
 %_teノラ人形どもを追え！=%_tePursue the stray dummies!
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に敵を|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 5 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
@@ -18732,7 +18732,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
@@ -18753,7 +18753,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
 %_teデスノワールを退治せよ！=%_teEliminate the Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped from DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
