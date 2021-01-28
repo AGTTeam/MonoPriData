@@ -1555,9 +1555,9 @@
 ちっすっ！　うい～すっ！！|おつかれさ～ん♪=Howdy, howdy!! Thanks for coming♪
 今日はちょっと　みんなに|手伝ってほしいことがあるのよ～♪|デスサイズ君=Today, there's a little thing that I'd like everyone's help with♪ Spirit?
 よし|じゃあ耳かっぽじって|よ～く聞けよ=Right. Okay, clean out your ears and listen up!
-・・・こちら　シド|・・・こちら　シド|・・・応答されたし=... This is Sid... This is Sid... Do you copy?
+・・・こちら　シド|・・・こちら　シド|・・・応答されたし=...This is Sid... This is Sid...|Do you copy?
 はいは～い♪|こちら死神　どうぞ～♪=Yes, yees♪ This is Death. Go ahead♪
-至急　応援を請う！|くり返す　至急　応援を請う！|場所は・・・=Requesting emergency backup! I repeat! Requesting emergency backup! I'm at...
+至急　応援を請う！|くり返す　至急　応援を請う！|場所は・・・=Requesting emergency backup!|I repeat! Requesting emergency backup! I'm at--
 お前達！|至急　シド先生の応援に向かってくれ！=Now all of you! You will be Sid's emergency backup!
 !FILE:EV0300_201.bscr
 なにやってたんだ？|大至急　向かってくれ！=What are you standing around for? You need to get to Sid ASAP!
@@ -1572,11 +1572,11 @@
 !FILE:EV0300_401.bscr
 頼んだぞ！|お前なら　やれる！=Please! I know you can do it!
 !FILE:EV0300_500.bscr
-はい　はい|ごっくろ～さんだったね♪=Yes, that's all right. I appreciate all your efforts♪
+はい　はい|ごっくろ～さんだったね♪=Yes, that's all right. I appreciate all your effort♪
 さすが俺の娘　マカだな=That's my girl, Maka.
 娘だなんて思ってないわよ！=What makes you think you get to call me your girl!?
 え？|そ　そんな・・・　しどい=Huh? Y-You're... breaking my heart.
-はははは　ははは！=Hahaha Haha!
+はははは　ははは！=Hahaha, ahaha!
 おめぇ|何笑ってんだよ！=What the hell are you laughing about!?
 ごくろ～さま♪|二人はもう　戻っていいよん♪=Thanks for your hard work, you two♪ You're good to go now♪
 はい|死神様=Thanks, Lord Death.
@@ -1584,8 +1584,8 @@
 で　コレが|その繭です=Right. Here's the cocoon.
 鬼神を生み出す繭か・・・|恐ろしいモノだな=A kishin-bearing cocoon? That's a frightening prospect.
 他の生徒の中にも|コレを持ち帰ってきているものがいます=There were other students that came back with some as well.
-一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=... Judging by its soul response, this cocoon should be minuscule. There must be a Soul Protect on it.
-ってことは|黒幕は魔女か=Then it's a witch behind all of this?
+一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=...Judging by its soul response, this cocoon should be minuscule. There must be a Soul Protect on it.
+ってことは|黒幕は魔女か=You mean it's a witch who's behind all of this?
 やっかいなことになりそうですね=This whole thing is becoming quite the ordeal.
 そゆことになるね～♪|じゃあ　シュタイン君|詳しく調べちゃってちょうだい=Quite♪ Now, Stein, I would like you to examine the cocoon in more detail.
 わかりました=Understood.
@@ -1602,24 +1602,24 @@
 ああ！=Yeah!
 !FILE:EV0301_401.bscr
 ここね=We're here.
-感じる|強いよ　この中のヤツ=Whatever's in there. It's strong. I feel it.
+感じる|強いよ　この中のヤツ=Whatever's in there. It's strong.|I feel it.
 へっ　望むとこだぜ|クールに決めるぜ　マカ=Heh. Wouldn't want it any other way. Be cool, Maka.
 !FILE:EV0301_402.bscr
 うへっ|なんだよコレ=Uh, what is this?
 ソウル|黙ってて・・・=Soul, shh...
 ぐるる・・・|噂ほどの味じゃねぇな|魂ってやつは=Grrr... These souls don't taste like the rumors said at all.
-！　・・・いる|・・・あそこの後ろ=! ... There... Behind there.
+！　・・・いる|・・・あそこの後ろ=...There...! Behind there.
 ん？|おやおや　また客か　今日は忙しいな|俺になんか用かい？=Hm? Look what we've got here. Another visitor. Today's been quite the busy day. What can I do for you?
 アンタが黒幕ね！=You're the one pulling the strings, aren't you!?
 あぁ　黒幕？=Huh? Me pulling the strings?
-魔女？=A witch?#Lines 1573 and 1574 come before this one.
-ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=As if I would do all of this for that damned witch who's always creeping and crawling around. I'd devour these souls and become some sort of demon.
+グアハハハッ=Gwahahaha!
+笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　お嬢チャン=Don't make me laugh! I'm nothing like that poor little witch of yours, missy!
+魔女？=A witch?
+ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn witch who's always creeping and crawling around. I'll devour these souls myself.#must be kept short
 この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will transcend the werewolves of legend!#I don't know if these are legendary werewolves or just one legendary werewolf.
 こいつ|もしかしたら黒幕じゃないかも？=Maybe he isn't the one behind everything.
 あぁ|でもやるしかない！=Maybe not, but we still have to take him out!
 グゥオォ！=Guuooh!
-グアハハハッ=Gwahahaha!#This and the next line occur between lines 1566 and 1567.
-笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　お嬢チャン=Don't make me laugh! I'm nothing like that poor little witch of yours, missy!
 !FILE:EV0301_452.bscr
 この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will transcend the werewolves of legend!
 こいつ|もしかしたら黒幕じゃないかも？=Maybe he isn't the one behind everything.
@@ -2036,11 +2036,11 @@
 だからパパ来ちゃった・・・=So Papa's here...
 あれは単なる脅しじゃねェか？|本当に呼び出すつもりは|ないと思うけどな・・・=I thought that was just a threat.|I didn't think he was actually planning on calling...
 おっと|ジャマしないでくれるかな？=Hold it! Do you mind not interfering?
-こっから先は親子以外|立ち入り禁止だぜ！=This is an A and B conversation between parent and child, so go ahead and see your way out!
+こっから先は親子以外|立ち入り禁止だぜ！=This is an A and B conversation between parent and child, so go|ahead and see your way out!
 !FILE:EV0322_015.bscr
 さっ　マカ|行こうか！=Come on, Maka! Let's get out of here!
 !FILE:EV0322_016.bscr
-こっから先は親子以外|立ち入り禁止だぜ！=This is an A and B conversation between parent and child, so go ahead and see your way out!
+こっから先は親子以外|立ち入り禁止だぜ！=This is an A and B conversation between parent and child, so go|ahead and see your way out!
 !FILE:EV0322_017.bscr
 立ち入り禁止なのはパパのほうよ|ソウル行きましょう！=Papa, you're the C in this conversation. Let's go Soul!
 あ　ああ|じゃあ　そういうことだから=Uh. Sure. Let's go then, I guess.
@@ -2050,7 +2050,7 @@
 ああ　お前達か　すまなかったな|どうやら俺の誤解らしい=I'm glad to see you two. I'm sorry about earlier. It looks like it was just a misunderstanding.
 だから　誤解だって|言ってたじゃねェか！=Didn't we tell you that!?
 それよりも　キッド君は|大丈夫なんですか？=By the way, how's Kid doing?
-ああ　肉体的なダメージは|ほとんどない　倒れた理由は|どうやら精神的なものらしい・・・=Oh. It looks like there's nothing wrong with him physically. But it seems he fainted because of some mental distress.
+ああ　肉体的なダメージは|ほとんどない　倒れた理由は|どうやら精神的なものらしい・・・=Oh. It seems there's nothing wrong with him physically, but he fainted because of some kind of mental strain.
 どうもアイツは|神経質すぎるようだ・・・=That kid is too sensitive...#神経質 could be translated as sensitive or nervous. In the following line Sid uses the same word to describe the way he was in the past, so I wasn't sure which one would be the more appropriate translation for this context.
 俺も神経質な　そんな男だった|だが　それも昔の話か・・・=I was sensitive too. That's the kind of man I was. But that was a long time ago...
 キッドは保健室にいる|気になるなら　見舞って|やってくれ=Kid's in the infirmary right now. So if you're worried about him, why not go and give him a visit?
@@ -2063,8 +2063,8 @@
 うむ　実は・・・=Yeah. Actually...
 いや　やっぱいいよ|大体見当がつくから・・・=Nah, you don't need to explain anything. I think we've pretty much got the gist.
 そうか　残念だ|お前達なら理解してくれると|思ったんだが・・・=Oh, okay. I figured you two would understand.
-そうだ　一つ|頼まれてくれないか？=Anyway. Can I ask you guys for a small favor?
-リズとパティに|俺が保健室にいると伝えてくれ=Could you let Liz and Patty know I'm in the infirmary?
+そうだ　一つ|頼まれてくれないか？=Anyway. Can I ask you guys for a|small favor?
+リズとパティに|俺が保健室にいると伝えてくれ=Could you let Liz and Patty know I'm here?
 俺の姿が急に見えなく|なったから　きっと心配|しているだろう=I'm sure they've been worried sick ever since I disappeared.
 あいつらが心配してるかどうかは|わかんねェぜ=I don't know if they'd really be worried or not.
 もう　ソウルったら・・・|いいわよキッド君|二人に知らせておくわね！=That's not nice, Soul. You can count on us, Kid. We'll let them know!
@@ -2083,36 +2083,36 @@
 !FILE:EV0322_052.bscr
 キッドから伝言だぜ！=We've got a message for you from Kid!
 今　保健室で休んでいるって|また　キッド君　倒れちゃったのよ=Kid fainted again, so he's resting in the infirmary right now.
-あり？キッド君|また迷惑かけちゃった？=Really? Was Kid being all fussy again?
+あり？キッド君|また迷惑かけちゃった？=Really? Was Kid making a fuss again?
 お前　あんなんと|一緒にいて疲れねェか？=Don't you ever get tired of putting up with it?
 ほぇ？どうして|ぜんぜん平気だよ♪=Huh? Why? It never bothers me♪
 パティはえらいわね=You're amazing, Patty.
 一緒にいるだけでほめられるんなら|これから　もっとキッド君と|一緒にいることにするよ！=If I'm going to get complimented just for hanging out with Kid, I'm gonna start hanging out with him even more!
 それってキッドにとっては|迷惑なんじゃねェのか？=Wouldn't that just annoy Kid, though?
 !FILE:EV0322_056.bscr
-あり？キッド君|また迷惑かけちゃった？=Really? Was Kid being all fussy again?
+あり？キッド君|また迷惑かけちゃった？=Really? Was Kid making a fuss again?
 !FILE:EV0322_067.bscr
 ちょうどよかった|マカに話があります=Exactly the person I wanted to see. Maka, I need to speak with you.
 どうしたんだよ博士？=What is it, Professor?
-順番的にもそろそろ|マカの三者面談を行いたいのですが・・・|親御さんの時間はとれそうですか？=As you well know, Maka, we must complete your parent-teacher meeting before long... Would it be possible to take a little of your parent's time?
-すみません|最近は忙しいみたいで|ちょっと無理そうなんです=Sorry, Professor. He's been really busy lately, so it's been difficult to find the time.
+順番的にもそろそろ|マカの三者面談を行いたいのですが・・・|親御さんの時間はとれそうですか？=As you know, Maka, we're due a meeting... Would it be possible to take a little of your parent's time?#must be kept short
+すみません|最近は忙しいみたいで|ちょっと無理そうなんです=Sorry, Professor. Things have been really busy lately, so it's been difficult to find the time.
 そうですか・・・|それでは日時の調整を行いたいので=I see... Well, I'd like to coordinate a time and date...
-その旨を記載したプリントを|親御さんに渡してください=So if you could please pass this form with the meeting details on to your father...
+その旨を記載したプリントを|親御さんに渡してください=So if you could please pass this form with the meeting details on to your parents...
 プリントなんて|もってねェじゃねェか？=Do you even have the form?
 今は手元にありません|すみませんが|後で俺のところまできてください=I don't have it on me at this time, no. My apologies. Please come to my office for it later.
 わかりました博士=Will do, Professor.
-忙しいって・・・|デスサイズは暇そうじゃねェか？=Real busy, huh? Seemed like Spirit had plenty of free time to me.
+忙しいって・・・|デスサイズは暇そうじゃねェか？=Real busy, huh? Seems like Death Scythe has plenty of free time to me.
 それが　いやだから|全力でとぼけているんじゃない！|からかうのはやめてちょうだい=I really don't want to do it, and I'm doing everything I can to get out of it! So quit with the dumb jokes.
 !FILE:EV0322_070.bscr
 ソウル　隠れて|パパがこっちにくるわ！=Soul, hide! Papa's heading this way!
 おい　マカ|引っ張んなよ！=Hey, don't pull!
 ・・・・・・・・・=.........
-デスサイズ|すごく落ち込んでたけど|何があったんだ=Spirit looks totally depressed. What happened to him?
+デスサイズ|すごく落ち込んでたけど|何があったんだ=Death Scythe looks totally depressed. What happened to him?
 私に聞かないでよ！=Don't ask me!
 !FILE:EV0322_075.bscr
 さてと　これから|どうすんだ？=In that case, what's it gonna be now?
 !FILE:EV0322_076.bscr
-デスサイズ|すごく落ち込んでたけど|何があったんだ=Spirit looks totally depressed. What happened to him?
+デスサイズ|すごく落ち込んでたけど|何があったんだ=Death Scythe looks totally depressed. What happened to him?
 私に聞かないでよ！=Don't ask me!
 !FILE:EV0322_081.bscr
 マカ　すみません=Maka, I'm sorry.
@@ -2124,32 +2124,32 @@
 すげぇ　地獄耳だな・・・|デスサイズは何を言ってたんだ？=What kind of super hearing does he have? So what did he say?
 ええ　マカのことを|ほめちぎっていましたよ=Well, he was singing high praises of Maka.
 そんな娘の親である|俺もすごいとか言ってましたね=If I had such a daughter as he described, I would do the same.
-パパ・・・|私　恥ずかしい・・・=Papa... I'm so ashamed...
-つい釣り込まれて|俺もマカの将来のことなどを|提案しようとしたのですが・・・=It was against my better judgment, but he talked me into making a few suggestions pertaining to your future...
-よく考えたら先輩には|親権がないのですよね|そんな人とお話しするわけにはいきません=But then I thought about it a little more and told him that I just couldn't talk to a parent with such little authority.
+パパ・・・|私　恥ずかしい・・・=Papa... I'm so embarrassed...
+つい釣り込まれて|俺もマカの将来のことなどを|提案しようとしたのですが・・・=Even I started to get caught up in all the talk about plans for your future and things...
+よく考えたら先輩には|親権がないのですよね|そんな人とお話しするわけにはいきません=But when I gave it some more thought, I realized I shouldn't speak to a parent with such little authority.
 それを告げたとたんに|急に悶絶しだして|プリントを食べてしまったのです=When I told him, he immediately went into a flying rage and ate the form.
-浮かれさせるだけさせといて|落としたってわけか・・・|博士　わざとやったろ？=It sounds to me like you let it slip to get a rise out of him... Did you do it on purpose, professor?
+浮かれさせるだけさせといて|落としたってわけか・・・|博士　わざとやったろ？=It sounds to me like you let it slip to get a rise out of him... Did you do it on purpose, Professor?
 いいえ　違いますよ♪|守秘義務を守った俺を|どうかほめてください！=No, of course not♪ I feel like I even deserve some thanks for keeping confidentiality!
-それにしても　これまでないくらい|見事な取り乱し方でした|さすがにまずいかもしれませんね・・・=Nonetheless, I don't know that I've ever seen him so angry. He might be in a bad way...
-パパ　自業自得だけど|ちょっとだけ　かわいそう・・・=Papa's getting what he deserves, but I do sort of feel bad for him.
+それにしても　これまでないくらい|見事な取り乱し方でした|さすがにまずいかもしれませんね・・・=Nonetheless, I don't know that I've ever seen him so angry. He might be|in a bad way...
+パパ　自業自得だけど|ちょっとだけ　かわいそう・・・=Papa brought it on himself, but I do sort of feel bad for him.
 !FILE:EV0322_086.bscr
-それにしても　これまでないくらい|見事な取り乱し方でした|さすがにまずいかもしれませんね・・・=Nonetheless, I don't know that I've ever seen him so angry. He might be in a bad way...
+それにしても　これまでないくらい|見事な取り乱し方でした|さすがにまずいかもしれませんね・・・=Nonetheless, I don't know that I've ever seen him so angry. He might be|in a bad way...
 !FILE:EV0322_087.bscr
-デスサイズを|なぐさめに行かねェとな=I think you should go and console Spirit.
+デスサイズを|なぐさめに行かねェとな=I think you should go and console Death Scythe.
 はぁ　何でそうなるのよ？=Huh? Why would I want to do that?
-かわいそうとか|言ってたじゃねェか？=Weren't you just saying that he looked pitiful?
-私はいやよ・・・そうだ|椿ちゃんに頼もう！=Well, I can't do it... I know. I'll ask Tsubaki!
+かわいそうとか|言ってたじゃねェか？=Weren't you just saying that you felt bad for him?
+私はいやよ・・・そうだ|椿ちゃんに頼もう！=Well, I can't do it... I know.|I'll ask Tsubaki!
 なんで椿なんだ？=Why Tsubaki?
-ダミースターで|私に化けてもらって|パパをなぐさめてもらうのよ！=She can transform into me with Dummy☆Star and comfort Papa for me!
-決ーめた！|椿ちゃんをさがしましょう！=I've made up my mind! Let's find Tsubaki!
-そんなにイヤなら|心配しなきゃいいのに・・・=Seems like a lot of trouble to go through for something you're not worried about...
+ダミースターで|私に化けてもらって|パパをなぐさめてもらうのよ！=She can transform into me with Dummy☆Star and comfort Papa|for me!
+決ーめた！|椿ちゃんをさがしましょう！=I've made up my mind!|Let's find Tsubaki!
+そんなにイヤなら|心配しなきゃいいのに・・・=If you really don't want to go, you could just leave it, you know...
 !FILE:EV0322_092.bscr
-椿ちゃんお願い|ダミースターで私になって|パパをなぐさめてちょうだい=I need a favor, Tsubaki. Do you think you could transform into me with Dummy☆Star and go comfort my papa? Please?
+椿ちゃんお願い|ダミースターで私になって|パパをなぐさめてちょうだい=I need a favor, Tsubaki. Could transform into me with Dummy☆Star and go comfort my papa? Please?
 ごめんなさいマカちゃん|それだけはできないわ=Sorry, Maka, but I couldn't possibly.
 そんなことしたら|私　おヨメに行けなくなってしまう・・・=If I did that, I could never become someone's bride.
 椿の頭の中で|デスサイズは|どんなイメージなんだ？=What kind of person does she think he is exactly?
 !FILE:EV0322_096.bscr
-椿ちゃんお願い|ダミースターで私になって|パパをなぐさめてちょうだい=I need a favor, Tsubaki. Do you think you could transform into me with Dummy☆Star and go comfort my papa? Please?
+椿ちゃんお願い|ダミースターで私になって|パパをなぐさめてちょうだい=I need a favor, Tsubaki. Could transform into me with Dummy☆Star and go comfort my papa? Please?
 ごめんなさいマカちゃん|それだけはできないわ=Sorry, Maka, but I couldn't possibly.
 !FILE:EV0322_097.bscr
 仕方ないよね・・・|私がなぐさめるしかないよね・・・=I guess I have no choice... I have to cheer Papa up.
@@ -2184,9 +2184,9 @@
 !FILE:EV0322_106.bscr
 マカ　パパはうれしいよ・・・=Maka, I'm so happy.
 !FILE:EV0322_107.bscr
-どうだった　久しぶりの|親子水入らずは？=Been a while since your last father-daughter bonding moment. So how'd it go?
+どうだった　久しぶりの|親子水入らずは？=Been a while since your last father-daughter bonding moment.|So how'd it go?
 大丈夫よ！ここしばらくの|記憶はなくなってると思うから！=Just splendid! I don't think he'll remember a thing!
-よく　わかんねェけど|よかったんだよな？=I'm not sure what you mean, but I guess everything is fine.
+よく　わかんねェけど|よかったんだよな？=I'm not sure I follow you, but all's well that ends well, I guess.
 !FILE:EV0400_000.bscr#morning class, day 4, Maka part 38
 アイツ|強かったね=He was strong, huh?
 ああ=For sure.
@@ -7412,15 +7412,15 @@
 ん？|おやおや　また客か　今日は忙しいな|俺になんか用かい？=Hm? Look what we've got here. Another visitor. Today's been quite the busy day. What can I do for you?
 おう！　まっくろ黒幕ヤロー！|このブラック☆スター様が|退治しにきてやったぞ！=Hey! So you're the bastard pulling the strings! The great Black☆Star has come to end you!
 あぁ　黒幕？=Huh? Me pulling the strings?
+グアハハハッ=Gwahahaha!
+笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　小僧=Don't make me laugh! I'm nothing like that poor little witch of yours, you brat!
 あ？　魔女？|なんの話だ？=What? A witch? What are you talking about?
-ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=As if I would do all of this for that damned witch who's always creeping and crawling around. I'd devour these souls and become some sort of demon.
+ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn witch who's always creeping and crawling around. I'll devour these souls myself.
 この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will transcend the werewolves of legend!
 ブラック☆スター|もしかしたら黒幕じゃないのかも？=He might not be the one behind everything after all.
 黒白はカンケーねぇ！|伝説は俺様から生まれ|俺様で終わるんだ！=There's no arguing with the truth! And the truth is that this legend begins and ends with me!
 ヤツに伝説は作らせねぇ！|行くぜ　椿！=This guys won't be creating any legends of his own! Let's do this, Tsubaki!
 はい！=Roger!
-グアハハハッ=Gwahahaha!
-笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　小僧=Don't make me laugh! I'm nothing like that poor little witch of yours, you brat!
 グゥオォ！=Guuooh!
 !FILE:EV1301_403.bscr
 ぐるる・・・|やる・・・な=Grrr... I can't... lose...
@@ -13060,14 +13060,14 @@
 ん？|おやおや　また客か　今日は忙しいな|俺になんか用かい？=Hm? Look what we've got here. Another visitor. Today's been quite the busy day. What can I do for you?
 一つ　聞きたいことがある|お前が　黒幕か？=I only have a single question. Are you the one pulling the strings?
 あぁ　黒幕？=Huh? Me pulling the strings?
-魔女だと？=There's a witch?#Lines 13253 and 13254 come before this line.
-ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=As if I would do all of this for that damned witch who's always creeping and crawling around. I'd devour these souls and become some sort of demon.
-この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will surpass the Legendary Wolf Man!
+グアハハハッ=Gwahahaha!
+笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　小僧=Don't make me laugh! I'm nothing like that poor little witch of yours, you brat!
+魔女だと？=There's a witch?
+ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn witch who's always creeping and crawling around. I'll devour these souls myself.
+この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will transcend the werewolves of legend!
 キッド　こいつもしかして|黒幕じゃないかも=Kid, I'm thinking this probably isn't the guy behind it all.
 うむ！|だがヤツの魂は　裁かねばならない！=I agree! But his soul must still be judged!
 きゃは！|ガンバだね=Kyaha! Good luck!
-グアハハハッ=Gwahahaha!#This and the following line go between 13246 and 13247.
-笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　小僧=Don't make me laugh! I'm nothing like that poor little witch of yours, you brat!
 グゥオォ！=Guuooh!
 !FILE:EV2301_403.bscr
 ぐるる・・・|やる・・・な=Grrr... I can't... lose...
@@ -17397,14 +17397,14 @@
 いよいよね|ブラック☆スター！=No doubt about it, Black☆Star!
 必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
 使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the arrows shown on screen in order to use the Finishing Strike.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the instructions shown on screen in order to use the Finishing Strike.
 では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
 !FILE:EV9907_522.bscr
 では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Finishing Strike.
 やるぞ　キッド！=Let's do it, Kid!
 必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
 使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the arrows shown on screen in order to use the Finishing Strike.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the instructions shown on screen in order to use the Finishing Strike.
 では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
 !FILE:EV9907_530.bscr
 魂の共鳴と必殺技の使い方を覚えましたか？|では、実際に戦ってみましょう=If you think you know how to use Soul Resonance and Finishing Strikes, let's see you put them to use in a real fight.
@@ -18014,7 +18014,7 @@
 !FILE:EV9967_120.bscr
 申し訳ないのですが|私は忙しいのです=Not to be rude, but I'm very busy.#seen
 次の試験で首位を奪還するため|勉学に励まなければならないのです=You'll need to really hit the books if you expect to get your top spot back on the next exam.
-屋内では私は|ただのガリ勉かもしれません・・・=Indoors I might be a bit of a bookworm...
+屋内では私は|ただのガリ勉かもしれません・・・=Indoors I might be a bit of a bookworm...#seen
 ただし　外での私は違います|いずれその姿を|ハッキリとお見せする機会があるでしょう=But I'm a different person in the field. One of these days you'll get to see what that side of me is really like.#must be kept short
 この髪型については|今は語らないでおきましょう=Don't ask me about my hairstyle right now.#seen
 いつか|その理由を話す時がくるかもしれませんね=Maybe someday I'll be able to tell you the reason behind it...
@@ -18648,8 +18648,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_te指令『危険物の回収』=%_teHazardous Material
-危険物指定の%_dc[0,196,0]太陽石%_dc[199,133,84]が|西地区に落下しました|捜索回収してください=A few %_dc[0,196,0]Sun Stones %_dc[199,133,84]fell|in the western sector. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
+危険物指定の%_dc[0,196,0]太陽石%_dc[199,133,84]が|西地区に落下しました|捜索回収してください=A %_dc[0,196,0]Sun Stone %_dc[199,133,84]fell|in the western sector. Please retrieve it.
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous! Take it on if you dare!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
@@ -18735,8 +18735,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Material
-危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
+危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]. Please retrieve it.
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teシド先生からのSOS！=%_teSOS from Sid!
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
@@ -18756,8 +18756,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Materials
-危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
+危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]. Please retrieve it.
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_te連続殺人魔を退治せよ！=%_teStop the Bloodlust!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ソンソンＪ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
 ソンソンＪ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sonson-J%_dc[199,133,84]!
@@ -18783,8 +18783,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専からノラ人形が|%_dc[0,0,196]４０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]40 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies within the time limit!
 %_te危険物の回収=%_teHazardous Materials
-危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]. Please retrieve them.
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
+危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]. Please retrieve it.
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teシド先生からのSOS！=%_teSOS from Sid!
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
@@ -18822,8 +18822,8 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te危険物の回収=%_teHazardous Materials
-危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]! Retrieve them posthaste!
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
+危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]! Retrieve it posthaste!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_te迷惑ドッグを退治せよ！=%_teEliminate the Pesky Dogs!
 停電被害の報告殺到！|%_dc[196,0,0]マッドフント%_dc[199,133,84]%_dc[0,0,196]１５%_dc[199,133,84]匹を|すみやかに倒せ！=Numerous Reports of Power Outages! Hurry and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 制限時間内に|%_dc[196,0,0]マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds %_dc[199,133,84]within the time limit!
@@ -18852,8 +18852,8 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Materials
-危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]! Retrieve them posthaste!
-危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stones%_dc[199,133,84]!
+危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]! Retrieve it posthaste!
+危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
 猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
