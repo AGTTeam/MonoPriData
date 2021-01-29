@@ -106,7 +106,7 @@
 ほんとですか=Is that true?
 はい|してません=Yeah. It wasn't a real fight.
 それならまぁ・・・いいでしょ=In that case... good.
-はい♪|じゃあ　授業を始めま～す=Okay♪ Well, let's start class.
+はい♪|じゃあ　授業を始めま～す=Okay♪ Time to start class!
 おーす=Good morning!
 !FILE:EV0100_010.bscr#morning class mission
 はい　今日の午前授業は|簡単な実技訓練です♪|くばられたプリントを見てください=This morning's class will involve some simple, practical training♪|Please take a look at your handouts.
@@ -2191,7 +2191,7 @@
 アイツ|強かったね=He was strong, huh?
 ああ=For sure.
 !FILE:COMMON
-ワンワン吠えて　シッポをふるヤツは|負けるのだぁ　だっしゃぁ！=The tail-wagging woof woof man was defeated. Hooray!
+ワンワン吠えて　シッポをふるヤツは|負けるのだぁ　だっしゃぁ！=We beat the tail-wagging woof woof man. Go us!
 でも|アイツが黒幕じゃなかったんだろ？=But he wasn't the mastermind after all.
 黒幕は魔女だ=It's a witch pulling the strings.
 いやッ！　ちがうッ！|黒幕は　俺だぁ！！=Nope! You're wrong! The mastermind... is ME!!
@@ -2200,23 +2200,23 @@
 言ってみりゃ|鬼神の繭ってとこか=You mean like a cocoon for kishin?
 鬼神の繭・・・=A kishin cocoon...
 そんなものが|あんだけの数あるっての？=How many of those things could there be?
-はい♪|じゃあ　授業を始めま～す=Alright, everyone♪ Let's start class.
+はい♪|じゃあ　授業を始めま～す=Okay♪ Time to start class!
 のんびり授業などしている場合なのか？=Is this really the time to be sitting in class all carefree?
-そうだ！　そうだ！！|今こそ　俺様の実力を見せてやる|チャンスだぜ！=Yeah! You're right!! This is the perfect chance for me to show my real strength!
+そうだ！　そうだ！！|今こそ　俺様の実力を見せてやる|チャンスだぜ！=Yeah! You're right!!|This is the perfect chance for me to show my real strength!
 たいして魂も集められないお前達で|魔女に勝てるとでも？=And you really think that you, the one who hasn't gathered a single soul, will win against a witch?
 俺が　勝てないとでも？=Are you trying to say you don't think I can win?
 まぁ　せめて隠れている魔女を|見つけるぐらいできてほしいものだがな=Well, I'd be impressed just to see you find a witch in hiding.
 俺に　魂感知ができるとでも？=Just because I can't use Soul Perception?
-じゃ～|プリント配ります♪=Alright, I'm going to pass around the handouts.
+じゃ～|プリント配ります♪=All right, I'm going to pass around the handouts.
 !FILE:EV0400_001.bscr
 はい 今日も予定を変更して|実戦訓練をやります♪=Okay. Today's program has been changed. We'll be doing a live combat exercise♪
 実戦訓練？=Live combat exercise?
-え！　これって・・・|見て　ソウル=Eh? That's... Look, Soul.
+え！　これって・・・|見て　ソウル=Eh? That's...|Look, Soul.
 おい　コレ|あの仮面の奴らに　そっくりじゃねぇか=Hey, this looks just like those guys with the masks, doesn't it?
-このところの事情は|みな大体知っていると思います=I assume everyone has a a rough idea of the current situation.
+このところの事情は|みな大体知っていると思います=I assume everyone has a rough idea of the current situation.
 今後　予想される戦いに備えて|みんなからの情報をもとに|訓練用の敵を作りました=In anticipation of the upcoming battle, I made this practice enemy based off the information that everyone gave me.
-名付けて『訓練君』です♪=I call him Training Buddy♪
-まんまじゃん=Of course you do.
+名付けて『訓練君』です♪=I call him "Training Buddy"♪
+まんまじゃん=Makes sense.
 !FILE:EV0400_010.bscr
 『訓練君』は結構手強いですよ|気を抜かないよ～にしてください♪=Training Buddy is stronger than he looks, so please don't let your minds wander during the exercise♪
 !FILE:EV0400_011.bscr
@@ -2228,10 +2228,10 @@
 じゃあ|次は君たちだね♪=Okay, you guys are up.
 !FILE:EV0400_016.bscr
 もっと訓練したい人は|『特別指導室』へ行ってください♪=Anybody who wishes to do more training, please come to the Special Guidance Room♪
-きゃはは|どーすんのー？=Kyahaha. What should we do now?
+きゃはは|どーすんのー？=Kyahaha. What now?
 !FILE:EV0400_100.bscr
 そういや|あの回収した繭って　どうしたんだ？=Come to think of it, what happened with the cocoon we recovered?
-ツギハギ研究所で|調べてるらしい　って聞いたけど=I'm pretty sure I heard they're examining it at the Patchwork Lab.
+ツギハギ研究所で|調べてるらしい　って聞いたけど=I'm pretty sure I heard that they're examining it at the Patchwork Lab.
 ふ～ん=Hmm.
 !FILE:EV0400_200.bscr#afternoon class, day 4 part 39
 はい♪|では　午後の授業を始めます♪=All right♪ Let's start the afternoon class♪
@@ -2366,7 +2366,7 @@
 ソウル！=Soul!
 おう！=Yeah!
 !FILE:EV0420_002.bscr#父へのプレゼント = A Present for Papa part 38
-そういえば先ほど|デスサイズを　この辺で見たぞ=By the way, I just saw Spirit around here.
+そういえば先ほど|デスサイズを　この辺で見たぞ=By the way, I just saw Death Scythe around here.
 げっ　パパがいたの！=Ack! Papa was here!?
 誰かをさがしていたみたいだが|お前ではないのか？=It seemed like he was looking for someone, but I guess that would be you, wouldn't it?
 つーか|ぜってェお前だよ！=I mean, there's no way it isn't you he's looking for!
@@ -2375,7 +2375,7 @@
 そういえば先ほど|デスサイズを　この辺で見たぞ=By the way, I just saw Spirit around here.
 げっ　パパがいたの！=Ack! Papa was here!?
 !FILE:EV0420_007.bscr
-やぁ　マカ|こんな所にいたのかい？=Well, there you are, Maka. Were you here the whole time?
+やぁ　マカ|こんな所にいたのかい？=Well, there you are, Maka. Were you here this whole time?
 飛び出してきやがった・・・=He came out of nowhere...
 もしよかったらパパと|楽しい一時をすごさないか？=How does a fun time together with your papa sound?
 ごめんなさい　パパ|今日は予定が入ってるの・・・=Sorry, Papa, but I've actually got plans today...
@@ -2384,11 +2384,11 @@
 ブレアがバイトしてるお店の|女の子でも誘ったらどう？=Why don't you just invite the girls from that place where Blair works?
 毎日　毎日|忙しいみたいじゃない・・・=Oh, wait. I forgot. You already do.
 違うんだよマカ|これにはちゃんと理由が・・・=It's not what you think, Maka. There's a really good reason for that...
-とにかくパパ　しばらく私に|近づかないでちょうだい！|パパがそばに来ると不愉快なの！=Whatever, Papa. Just please stay away from me right now! If you come near me, I think I might die!
+とにかくパパ　しばらく私に|近づかないでちょうだい！|パパがそばに来ると不愉快なの！=Whatever, Papa. Just please stay away from me right now! If you come near me, I think I'll be sick.
 わかったよ　マカ|パパ　もう行くからね・・・=Okay, Maka. Papa's gonna go now...
 ・・・・・・・・・=.........
 どうしたのよソウル|言いたいことがあるなら言いなさいよ=What's wrong, Soul? If there's something you want to say, just say it.
-なぁ　マカ|お前言いすぎじゃなかったか？=Look, Maka. You don't think maybe you were being a little unfair?
+なぁ　マカ|お前言いすぎじゃなかったか？=Look, Maka. Don't you think you were being a bit unfair?
 ソウルは　他人でしょ|あんたには関係ない話だわ=You're not part of this, Soul. It has nothing to do with you.
 関係ないなら|俺の目の前で|みにくい争いをするんじゃねェよ=If it has nothing to do with me, don't subject me to your family disputes.
 あ～！やっぱりソウルは|パパの味方なんだ=I see what's going on! I should have known you were buddy-buddy with him.
@@ -2403,7 +2403,7 @@
 私　人がケンカしてるところって|見てることさえ苦手なんです・・・=I hate it when people argue. It makes me feel so uncomfortable just seeing it.
 それなのに　魔眼と戦った時|マカちゃんとソウル君の間に|入らなきゃいけなくなって・・・=I remember when I had to get between you and Maka during the fight against the Magic Eye...
 もう　あんな思いはしたくないなー|というのが正直なところです|あれはトラウマなのよ=It was traumatizing for me, and I just honestly don't want to be put in a position like that again.
-そうだったのか椿|すまないことをした・・・=I didn't realize... Tsubaki, I'm really sorry for that.
+そうだったのか椿|すまないことをした・・・=I didn't realize... Tsubaki, I'm really sorry.
 !FILE:EV0420_016.bscr
 私　人がケンカしてるところって|見てることさえ苦手なんです・・・=I hate it when people argue. It makes me feel so uncomfortable just seeing it.
 !FILE:EV0420_022.bscr
@@ -2413,12 +2413,12 @@
 マカに注意したら|ケンカになっちまったんだ|まったく　めんどくせェ・・・=You have to be so careful around Maka if you don't want to get into a fight. It's such a pain.
 ソウル　お前ェって|案外　大物かもな？=You're a bigger man that I thought, Soul.
 はぁ　なんでだよ？=Huh? Why do you say that?
-俺様みたいなスターでも|あの二人の間に入るのは|躊躇するのに　お前ときたら・・・=A star like me would get in the middle of a fight between those two with no hesitation, but for someone like you...
-言っとくがなブラック☆スター|やりたくてやってるわけじゃねェぞ=It goes without saying, but I'm not doing it because I think it's fun.
+俺様みたいなスターでも|あの二人の間に入るのは|躊躇するのに　お前ときたら・・・=Even star like me would hesitate to get in the middle of a fight between those two, but for someone like you...
+言っとくがなブラック☆スター|やりたくてやってるわけじゃねェぞ=This goes without saying, but I don't do it because I think it's fun.
 !FILE:EV0420_026.bscr
 ソウル　お前ェって|案外　大物かもな？=You're a bigger man that I thought, Soul.
 !FILE:EV0420_030.bscr
-マカ　こんな所にいたのか・・・=So that's where you've been, huh, Maka?
+マカ　こんな所にいたのか・・・=So this is where you've been, huh, Maka?
 何よソウル　何しに来たのよ|今　話したくないから|あっちへ行ってちょうだい=What do you want, Soul? Why are you here? I don't want to talk right now, so please just go away.
 言いたくないけど|言わせてもらうぜ・・・=You don't have talk. But you could at least listen to me.
 お前　父親に|甘えすぎじゃねぇのか？=You're acting like a spoiled brat with your father.
@@ -2428,18 +2428,18 @@
 マカがデスサイズに甘えてるって|思われても　仕方ねぇぜ！=No matter how much he spoils you, you won't give him even an inch!
 ・・・・・・・・・=.........
 たしかにソウルの言うとおり|パパに甘えてたし　扱いが|むごかったかもしれない・・・=You're probably right. I guess I have been a little cruel with him. And maybe I've been a little bit of a brat too...
-でも今更　急には変われないわ|どうしようソウル・・・=But I can't fix it immediately after all this time. What should I do, Soul?
+でも今更　急には変われないわ|どうしようソウル・・・=But I can't just magically undo everything after all this time.|What should I do, Soul?
 そうだな・・・まずは|関係を変えるキッカケとして|プレゼントをするのはどうだ？=It's gonna be tough... How about a present as a first step toward changing your relationship?
-いやよ　恥ずかしい・・・=No way. That would be so humiliating.
+いやよ　恥ずかしい・・・=No way! That would be so humiliating.
 プレゼントの|いいところは一瞬ですむところだぜ=The good part about offering a gift is that it only takes a second.
-拘束時間はできるだけ|短いほうがいいんじゃねェか？|一日中付き合うよりはいいだろ？=You want to make this as quick as possible, don't you? 'Cause a whole day of father-daughter activities would also work.
+拘束時間はできるだけ|短いほうがいいんじゃねェか？|一日中付き合うよりはいいだろ？=You want to make this as quick as possible, right? 'Cause a whole day of daddy-daughter fun would also work.
 そうね　ソウルの|言う通りかもしれないわね=Yeah. You're probably right, Soul.
-決めた！私パパに|プレゼントする！=It's decided then! I'll offer him a present!
+決めた！私パパに|プレゼントする！=It's decided then!|I'll offer him a present!
 !FILE:EV0420_035.bscr
-決めた！私パパに|プレゼントする！=It's decided then! I'll offer him a present!
+決めた！私パパに|プレゼントする！=It's decided then!|I'll offer him a present!
 !FILE:EV0420_036.bscr
 プレゼントの|いいところは一瞬ですむところだぜ=The good part about offering a gift is that it only takes a second.
-拘束時間はできるだけ|短いほうがいいんじゃねェか？|一日中付き合うよりはいいだろ？=You want to make this as quick as possible, don't you? 'Cause a whole day of father-daughter activities would also work.
+拘束時間はできるだけ|短いほうがいいんじゃねェか？|一日中付き合うよりはいいだろ？=You want to make this as quick as possible, right? 'Cause a whole day of daddy-daughter fun would also work.
 !FILE:EV0420_037.bscr
 でもプレゼントって|何を渡したらいいのかしら？=But what kind of present should I give him?
 パパくらいの男の人が|何を欲しがっているか|正直わからないわ・・・=I honestly have no idea what a guy like papa might want...
@@ -2459,7 +2459,7 @@
 ゾンビの俺には|欲しいものは何もない！=As a zombie, I don't really want anything!
 死の恐怖からも苦痛からも|解放されたのだ|これ以上何をのぞむというのだ？=I've been freed from the fear of pain or death. What more could I really hope for?
 なんだよ　参考に|ならねェなぁ！=Are you serious? You're no help at all!
-この気持ちはゾンビに|ならないとわからないだろうな・・・|俺も昔はわからない　そんな男だった=You're not a zombie, so I wouldn't expect you to understand how I feel... I didn't understand either. That's the kind of man I was.
+この気持ちはゾンビに|ならないとわからないだろうな・・・|俺も昔はわからない　そんな男だった=You're not a zombie, so I don't expect you to understand. I didn't understand either. That's the kind of man I was.#must be kept short
 !FILE:EV0420_056.bscr
 ゾンビの俺には|欲しいものは何もない！=As a zombie, I don't really want anything!
 死の恐怖からも苦痛からも|解放されたのだ|これ以上何をのぞむというのだ？=I've been freed from the fear of pain or death. What more could I really hope for?
@@ -2469,27 +2469,27 @@
 たとえばキッドから|何をもらったら一番　嬉しい？=How about this? If Kid was going to give you something, what would you be the happiest to receive?
 キッドからねェ・・・|それだったら　何をもらっても|うれしいよ～ん♪=A gift from Kid, huh? In that case, it's all the same to me. I'd be happy to receive anything from him♪
 なんだよ　参考に|ならねェなぁ！=What? You're no help at all!
-ごめんね　ごめんね|でも親ってのはね|そういうもんだよ～ん♪=I'm sorry. I'm sorry, but that's how it is when you're a parent♪
+ごめんね　ごめんね|でも親ってのはね|そういうもんだよ～ん♪=Very sorry, but that's just how it is when you're a parent♪
 !FILE:EV0420_066.bscr
 死神様の欲しいものって|なんですか？=Lord Death, is there something that you really want?
 私の欲しいもの・・・|はて　なんだろうね？=Something I really want? Let me think. Hmm...
 !FILE:EV0420_072.bscr
 メデューサ先生|大人の男の人って　何が|欲しいものなんですかね？=Dr. Medusa, I was wondering what kinds of things men want.
-やっぱり　女の人よ|ほら　あなたのお父さんを|見ていればわかるでしょ♪=I'm not a man, you know. Oh, but one look at your father and I think I might know one thing♪
+やっぱり　女の人よ|ほら　あなたのお父さんを|見ていればわかるでしょ♪=I'm not a man, you know. Oh, but one look at your father and I think I have a good idea♪
 先生　それは　やべェよ・・・=That's sort of a touchy subject...
 私　不愉快だから|これで失礼します！=I'm feeling uncomfortable, so I'm going to go!
 あら　マカちゃん|怒っちゃったの？=Oh, no. Did I upset you, Maka?
 冗談よ冗談|そんなに怒らないでちょうだい♪=It was just a silly joke, so please don't be angry♪
 !FILE:EV0420_076.bscr
 メデューサ先生|大人の男の人って　何が|欲しいものなんですかね？=Dr. Medusa, I was wondering what kinds of things men want.
-やっぱり　女の人よ|ほら　あなたのお父さんを|見ていればわかるでしょ♪=I'm not a man, you know. Oh, but one look at your father and I think I might know one thing♪
+やっぱり　女の人よ|ほら　あなたのお父さんを|見ていればわかるでしょ♪=I'm not a man, you know. Oh, but one look at your father and I think I have a good idea♪
 !FILE:EV0420_077.bscr
 先生達の意見|全然参考にならなかったな・・・=Asking the teachers wasn't all that helpful, was it?
 そうねパパへの|プレゼント　ぜんぜん|決められないな・・・=Not really. I still have no idea what kind of present to give Papa.
 やっぱり|本人に直接聞いてみるしか|ねェんじゃねェのか？=It looks like all that's left to try is to ask him directly.
 じゃあ　お願いね！=So you'll do it, right?
 はぁ　なんで俺が|そんなことしなきゃ|いけねェんだよ！=Huh!? Why do I have to do it!?
-お願い！|やっぱり私　まだ　パパと|あんまり話したくないの=Please!? I already don't really want to talk to him, you know.
+お願い！|やっぱり私　まだ　パパと|あんまり話したくないの=Please? I already don't really want to talk to him, you know.
 ったく　この女は・・・|本当にプレゼントをする気があんのかよ=This girl, I swear... Does she even really want to give him a present?
 !FILE:EV0420_080.bscr
 あ　あそこに|パパがいるわよ！=Look! Papa's over there!
@@ -2497,7 +2497,7 @@
 いっちまったか何の躊躇もなく・・・=She really just ran off. And with no hesitation...
 しょうがねェ　デスサイズの|欲しいものを聞きだしてくるか！=Whatever. Let's just go ask him what he wants!
 おい　デスサイズ！=Yo, Death Scythe!
-なんだ　ソウルか？|何の用だよ　用がねェなら|あっちへ行け　シッ　シッ！=What do you want, Soul? If this isn't an emergency, just get out of here. Now shoo!
+なんだ　ソウルか？|何の用だよ　用がねェなら|あっちへ行け　シッ　シッ！=What do you want, Soul? If it isn't an emergency, just get out of here.|Now shoo!
 お前　今一番欲しい|ものってなんだ？=What would you like most right now?
 言ってもしょうがねェけどよ|俺は休みが欲しい=It's not like telling you is going to do anything, but I'd really like some time off.
 休みなんてもらって|どうするんだ？=Some time off to do what?
@@ -2505,7 +2505,7 @@
 その時間にあてようと|思っている・・・って=So I was thinking I'd like to take some time to... Hold on!
 なんでこんなこと|お前に言わなきゃいけねェんだ！=Why do have to tell you any of this!?
 じゃあ　お前|今　忙しいんだな？|ヒマそうに見えるけど？=Wait, so you're busy right now? 'Cause you don't look busy.
-あんまり　仕事量が多すぎて|ボーッとしちまってるだけだ|決してヒマな状況ではないぜ=I'm totally swamped with work and needed a little break, but I definitely don't have any time to be standing around talking to you.
+あんまり　仕事量が多すぎて|ボーッとしちまってるだけだ|決してヒマな状況ではないぜ=I'm swamped with work and needed a break, but I definitely don't have time to stand around talking to you.
 あんまりボーッとしてると|いつまでも仕事が終わらねェぞ=And how is your work going to get finished with you taking a break?
 !FILE:EV0420_085.bscr
 ・・・・・・・・・=.........
@@ -2524,15 +2524,15 @@
 死神様に|相談してみましょう！=Let's go see what Lord Death has to say!
 !FILE:EV0420_092.bscr
 死神様　パパのお仕事|私達が手伝っちゃダメですか？=Lord Death, would it be okay for us to help Papa with his work?
-う～ん・・・別にいいんだけどね|君達にできそうなやつは|何かあったかな・・・=Hmm... That's okay with me. Now is there anything that you two could take care of...?
-あ　そうそう|一つだけそういうのがあったね|そういえば♪=Oh, of course. What do you know? I have just the thing♪
+う～ん・・・別にいいんだけどね|君達にできそうなやつは|何かあったかな・・・=Hmm... That's okay with me. But is there anything that you two could take care of...?
+あ　そうそう|一つだけそういうのがあったね|そういえば♪=Oh, of course. What do you know?|I have just the thing♪
 どんな内容なんだよ　それは？=So what is it then?
-私は直接タッチしてないから|知らないよ～ん♪=I haven't looked into it myself, so I don't know a thing♪
+私は直接タッチしてないから|知らないよ～ん♪=I haven't looked into it myself, so I don't know the details♪
 詳しい話は|シュタイン君に|聞いてみてね♪=If you want to know more, try talking with Stein♪
 死神様　すごく適当|いいんですか　こういうことで=Is it okay for you to be so irresponsible with these things?
-いいじゃない　これまでも|シュタイン君だよりのスタイルで|やってきたんだからさぁ♪=What's wrong with that? This is how I've always done it with Stein's sort of requests♪
+いいじゃない　これまでも|シュタイン君だよりのスタイルで|やってきたんだからさぁ♪=What's wrong with that? This is how I've always done it with Stein's requests♪
 死神様！=Lord Death!
-やっぱ　変えなきゃダメ？=I don't really need to change, do I?
+やっぱ　変えなきゃダメ？=Maybe things really do need to change, hm...
 !FILE:EV0420_096.bscr
 詳しい話は|シュタイン君に|聞いてみてね♪=If you want to know more, try talking with Stein♪
 !FILE:EV0420_102.bscr
@@ -2546,9 +2546,9 @@
 娘である　君には|非常に言いにくいのですが・・・=As his daughter, this isn't an easy thing to tell you, but...
 先輩が今キツキツなのは|いつも仕事をなまけているから|そのしわ寄せがきたに過ぎません=Spirit's got himself in a tough spot from constantly neglecting his work, and these are the consequences.
 自業自得ってヤツか・・・=He dug his own grave with this one.
-パパ　私はずかしい・・・=Papa, you're so embarrassing.
+パパ　私はずかしい・・・=Papa, I'm so ashamed.
 そんなことよりも|そろそろ仕事の説明をしても|よろしいでしょうか？=Now then, may I finally go over the details of the job?
-あっ　すみません博士|仕事の説明をお願いします=Oh! Sorry, Professor! Yes, please go on.
+あっ　すみません博士|仕事の説明をお願いします=Oh! Sorry, Professor!|Yes, please go on.
 !FILE:EV0420_110.bscr
 お疲れ様です|依頼の品を確かに|受け取りました=Welcome back. It looks like you were successful in retrieving the item I requested.
 ところで博士　それで|どんな研究をするつもり|なんですか？=If you don't mind my asking, Professor, what sort of research are you planning on doing with that thing?
@@ -2573,17 +2573,17 @@
 だめだ|こっから先はお前一人で行かないと=No. This is as far as I go. You're going by yourself from here.
 どうしてよ　あんたも|一緒についてきてよ！=What for? You can come too!
 これだけは絶対にダメだ！|一人でデスサイズと話をしてくるんだ！=Not this time! You've got to talk to him on your own!
-わかったわよ|でもどこかに行かないで|絶対に待っていてね=Fine. But don't go anywhere. Just wait here, okay?
+わかったわよ|でもどこかに行かないで|絶対に待っていてね=Fine. But don't go anywhere.|Just wait here, okay?
 パパ　ちょっと|お話があるの=Papa... can we talk?
 マカ！！！！=Maka!!!!
 ははは　よかった|パパすっかり　マカに|嫌われたと思ってたから=Hahaha! I'm so relieved! I really thought you might actually hate me.
 すごくうれしいよ|ところでパパに何か用かな？=Oh, I'm so happy! Now what can your papa do for you?
-えっと　その|私からパパにプレゼントがあるの=Um, well... I have a present for you, papa...
+えっと　その|私からパパにプレゼントがあるの=Um, well... I have a present for you, Papa...
 オォォエェェ～～=*Barf*
 えっ！！|ちょっとパパ！大丈夫！？=Oh, no!! Papa! Are you okay!?
 ごべん・・・|あまりの嬉しさで・・・='Scuse me... So much joy...#Spirit says ごべん instead of ごめん because he just vomited, so I translated it as 'scuse me. I couldn't think of a better way to imply his difficulty speaking through text only. I'm open to ideas and suggestions to improve this.
 パパはマカの|その気持ちだけで|すごく嬉しいよ=I'm just so happy to hear you say that.
-でもねプレゼントって|ものじゃないの・・・=Just so you know, present isn't really a thing...
+でもねプレゼントって|ものじゃないの・・・=Just so you know, the present isn't a physical thing...
 パパ　お仕事|忙しいっていってたから・・・=You said you were busy with work and stuff, so...
 私　代わりに|パパのお仕事やっちゃったの|まずかったかしら？=I did some of your work for you to help out. Should I not have?
 オォォエェェ～～=*Barf*
@@ -2592,10 +2592,10 @@
 ありがとうマカ|これでゆっくり休めるよ=Thank you, Maka. Now I'll be able to relax a little.
 そうだマカ　せっかくだから|今度の休日　一緒に|デートしないか？=In fact, since you were so kind, why don't I take you out on a date on my next day off?
 ・・・・・・・・・=.........
-ははは　やっぱり|ダメだよね・・・パパ　調子に|乗りすぎちゃったかな・・・=Hehehe... I'm just kidding of course... I got a little carried away again...
+ははは　やっぱり|ダメだよね・・・パパ　調子に|乗りすぎちゃったかな・・・=Hehehe... I'm just kidding of course...|I got a little carried away again...
 今度の休みは無理だけど|半年後だったらいいよ|それまで私なんとかしてみる=I can't this time, but I should be free a few months from now. Until then, I'll see what I can do.
 ・・・・・・・・・=.........
-どうしたのパパ？=What's wrong, papa?
+どうしたのパパ？=What's wrong, Papa?
 オォォエェェ～～=*Barf*
 えっ！！|ちょっとパパ！大丈夫！？=Oh, no!! Papa! Are you okay!?
 !FILE:EV0420_125.bscr
@@ -2603,10 +2603,10 @@
 !FILE:EV0420_126.bscr
 ごべん・・・|あまりの嬉しさで・・・='Scuse me... So much joy...
 !FILE:EV0420_127.bscr
-よう　どうだった|親子水入らずは？|プレゼント喜んでもらえたか？=Yo! How'd it go just father and daughter? Did he like the present?
+よう　どうだった|親子水入らずは？|プレゼント喜んでもらえたか？=Yo! How'd it go with just the two of you? Did he like the present?
 ええ　よろこんでもらえたけど・・・|３回　吐かれたわ・・・=He did. It made him really happy, but he threw up... three times.
-なんだそれ？|プレゼント　胃薬のほうがよかったかな？=What? Why? Maybe some nausea medicine would have made for a better gift.
-そうね　もし今度|プレゼントする機会があったら|胃薬を渡すことにするわ=Yeah. That's what I'll get him the next time I get the bright idea to give him something.
+なんだそれ？|プレゼント　胃薬のほうがよかったかな？=What? Why? Maybe some nausea medicine would have made for a|better gift.
+そうね　もし今度|プレゼントする機会があったら|胃薬を渡すことにするわ=Yeah. If I ever decide to get him another gift, that's what it'll have to be.
 !FILE:EV0421_002.bscr#俺様ステージ = The Black☆Star Show part 39
 どうしたんだ椿|浮かない顔して？=You seem upset, Tsubaki. What's wrong?
 あ　マカちゃんに|ソウル君・・・=Oh! Maka and Soul...
@@ -3785,8 +3785,8 @@
 　　暇そうな君達へ=　　　Time to kill?
 授業が始まらない時には|学生課で暇つぶしをして|ください|　　　　シュタインより=Why not spend some|of it at the student|affairs office?|　　　　　　　　--Stein
 !FILE:EV0905_010.bscr
-　おばちゃん旅に出るよ=Auntie's gone out.
-でも安心しな　いつでも|あんた達を見守ってるよ|後ろからね！|　　　　　おばちゃんより=But no need to worry. She's always watching over you from behind!|　　　　　　　--Auntie
+　おばちゃん旅に出るよ=　 Auntie's on vacay.
+でも安心しな　いつでも|あんた達を見守ってるよ|後ろからね！|　　　　　おばちゃんより=But no need to worry.|She's always watching|over you from behind!|　　　　　　　--Auntie
 !FILE:EV0905_020.bscr
 　　受付停止中=Reception Desk Closed
 申し訳ないけど|ちょっと急用が入ってね|また　今度来るんだね|　　　　　おばちゃんより=Apologies, something|urgent came up.|I'll be back soon.|　　　　　　　--Auntie
@@ -4125,7 +4125,7 @@
 ブレア|おとなしく死武専に戻ってくれるかな・・・=I hope it won't be too hard to convince Blair to come back to the DWMA.
 どうだろうな・・・|とにかくヤツを見つけたら|説得してみようぜ！=Yeah... Once we find her, we're really going to have to do our best to persuade her.
 !FILE:EV0930_003.bscr
-デスサイズのために|がんばろうぜ　マカ！=Let's do our best, Maka! For Death Scythe.
+デスサイズのために|がんばろうぜ　マカ！=Let's do our best, Maka!|For Death Scythe.
 そう言われると|やりたくなくなってきた・・・=When you say it like that, I don't feel like doing it anymore.
 !FILE:EV0930_004.bscr
 一時休戦よ|目の前のことに集中して！=I'm calling a truce! Just focus on what's ahead, okay?
@@ -5992,7 +5992,7 @@
 !FILE:EV0981_700.bscr
 ようやく|この部屋に入れるようになったな|マカ=Well, we were finally able to get in this room, eh Maka?
 そうね・・・|でも　特別指導室で|どんな訓練をするんだろ？=Yeah... But what kind of training do you think we'll be doing in the Special Guidance Room?
-さぁ？|特別っていうぐらいだから|特別なんじゃねェか？=I wonder. It's called the SPECIAL Guidance Room, so it would be special, don't you think?
+さぁ？|特別っていうぐらいだから|特別なんじゃねェか？=I wonder. It's called the SPECIAL Guidance Room, so it'll be something special, don't you think?
 よく来ましたね　君達=Good of you to come, children.
 うい～っす='Sup!
 こんにちは=Hello!
@@ -6008,7 +6008,7 @@
 ・・・・・・・・・=.........
 どうです？|特別って感じがしてきたでしょう=Stunned? You must feel very special.
 さあ　受けたいものを選んでください=Now go ahead and choose the training you'd like.
-・・・マカ|気合入れていこうぜ=... Maka, let's just get this over with.
+・・・マカ|気合入れていこうぜ=...Maka, let's just get this over with.
 !FILE:EV0981_710.bscr
 シド先生が相手か・・・=We're going to be fighting Sid?
 ソウル|やるからには勝つよ！=As long as we don't give up, I know we can win!
@@ -6095,7 +6095,7 @@
 !FILE:EV0988_350.bscr
 まぁ　仕方ないか|俺だってやりたくないからな・・・=Well, I guess it can't be helped. I wouldn't want to do it either...
 !FILE:EV0988_351.bscr
-俺の頼みを断るとは・・・|ま　せいぜい夜道に|気をつけることですね・・・=You're refusing my request... No matter. Just be careful while walking the streets at night, okay...
+俺の頼みを断るとは・・・|ま　せいぜい夜道に|気をつけることですね・・・=You're refusing my request...|No matter. Just be warned if you go out after dark...
 !FILE:EV1100_100.bscr
 ランチは　どこで食べる？=Where do you want to have lunch?
 !FILE:EV1100_300.bscr
@@ -17707,7 +17707,7 @@
 !FILE:EV9963_100.bscr
 それでは　もう一度|君達に手伝ってほしいことを|説明します=Okay, let me explain what I want your help with one more time.
 !FILE:EV9963_101.bscr
-俺がするまでもなく|解剖されてしまったようですね・・・=You're organs won't be of any use to me in that condition...
+俺がするまでもなく|解剖されてしまったようですね・・・=Your organs won't be of any use to me in that condition...
 君達という素材には|まったく興味がいだけません=And you won't be terribly useful as raw material either.
 !FILE:EV9963_102.bscr
 それでは　もう一度|ツボがある場所を説明します=All right, let me explain where the jar|is again.
@@ -18143,7 +18143,7 @@
 よく来たな　お前達|さあ　どれに挑戦するか選んでくれ=Look who's here. Go ahead and choose which challenge you want to face.
 !FILE:EV9981_310.bscr
 む？　パートナーは|どうしたんだ？=Hm? What happened to your partner?
-全員　揃ってないんじゃ|受けさせるわけにはいかないぞ=If your whole team isn't here I can't let you take on this mission.
+全員　揃ってないんじゃ|受けさせるわけにはいかないぞ=If your whole team isn't here I can't let you take on a mission.
 揃ってから　また来るんだな=Round them up and come back later.
 何かやるべきことがあるんだろう？|それをやったら来い！=Aren't you supposed to be taking care of something else? Come back once it's finished!
 俺は昔から察しのいい|そんな男だった・・・=I've always been good at reading people. That's the kind of man I was...
@@ -18154,7 +18154,7 @@
 これにするのか？=This one then?
 お前達なら問題なく|終わらせられるだろうな=You guys'll be able to finish this without any problems no doubt.
 ちょうどよさそうじゃないか|俺もこれを勧めるぞ=I'd go so far as to recommend this one. It looks perfect for you.
-止めはしないが|気を引き締めろよ=Don't quit on me now. Give it all you've got.
+止めはしないが|気を引き締めろよ=I won't try to stop you, but make sure you're ready for this.
 !FILE:EV9981_330.bscr
 やめるのか？|うむ　落ち着いて慎重に選ぶようにな=Giving up on this one? Yeah, keep a clear mind and choose wisely.
 他のにするのか？|あせらず　ゆっくり選んだほうがいいぞ=Another one caught your eye? No need to rush. Take your time to choose the one you think is best.
@@ -18582,7 +18582,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Wrangle %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!#better phrasing welcome, but ~6 more characters is the limit
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
+死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
 戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Let's learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
@@ -18606,10 +18606,10 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
-気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Track down the irritated prankster bat%_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat%_dc[0,0,196]10%_dc[199,133,84] of them!
+気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Track down the irate prankster %_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat %_dc[0,0,196]10%_dc[199,133,84] of them!
 バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Defeat%_dc[0,0,196] 10%_dc[196,0,0] Bad Eaters%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
+死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
 戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Let's learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
@@ -18675,7 +18675,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 椿のために薬の材料|%_dc[0,196,0]ダブルムーンの花%_dc[199,133,84]を|探し出せ！=Track down a %_dc[0,196,0]Gemooni Flower %_dc[199,133,84]that I can use to make remedy for Tsubaki!
 ダブルムーンの花%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find a %_dc[0,196,0]Gemooni Flower%_dc[199,133,84]!
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
-気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Track down the irritated prankster bat%_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat%_dc[0,0,196]15%_dc[199,133,84] of them!
+気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Track down the irate prankster %_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat %_dc[0,0,196]15%_dc[199,133,84] of them!
 バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Bad Eaters%_dc[199,133,84]!
 %_te極悪ボウズを退治せよ！=%_teEliminate the monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious kishin egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
@@ -18684,7 +18684,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
+死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies!
 %_te魔女の道具を探せ！=%_teSearch for the Witches' Apparatus
 怪しげな魔法のモトになる|という%_dc[0,196,0]水晶の欠片%_dc[199,133,84]を|回収してきてくれ！=Go and recover the suspicious %_dc[0,196,0]Crystal Shard %_dc[199,133,84]that acts as a catalyst for the witches' magic!
@@ -18708,7 +18708,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
+死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
@@ -18771,7 +18771,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 見てるだけで腹が立つ|%_dc[0,196,0]エクスカリバー人形%_dc[199,133,84]を早く|回収してくれ！=Promptly retrieve the %_dc[0,196,0]Excalibur Doll %_dc[199,133,84]that gets on your nerves just looking at!
 エクスカリバー人形%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Excalibur Doll%_dc[199,133,84]!
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
-気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[0,0,196]１０%_dc[199,133,84]匹を|すみやかに倒せ！=Quickly defeat %_dc[0,0,196]10 %_dc[199,133,84]of the irritated prankster bats, %_dc[196,0,0]Bad Eaters%_dc[199,133,84]!
+気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[0,0,196]１０%_dc[199,133,84]匹を|すみやかに倒せ！=Quickly defeat %_dc[0,0,196]10 %_dc[199,133,84]of the irate prankster %_dc[196,0,0]Bad Eaters%_dc[199,133,84]!
 制限時間内に|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]10 %_dc[196,0,0]Bad Eaters %_dc[199,133,84]within the time limit!
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
@@ -18788,20 +18788,20 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teシド先生からのSOS！=%_teSOS from Sid!
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
-%_te訓練君で実戦に備えろ！=%_tePrepare for a Real Battle with Training Buddy!
+%_te訓練君で実戦に備えろ！=%_teTrain with a Buddy!
 シュタイン博士が作った|敵にソックリな%_dc[196,0,0]訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[199,133,84]of Professor Stein's %_dc[196,0,0]Training Buddies %_dc[199,133,84]that look just like the enemy!
-訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
-%_teプレゼントは肉体労働？=%_teThe Gift is Physical Labor?
-デスサイズの代わりに|%_dc[0,196,0]ヒゲグサ%_dc[199,133,84]を見つけて|シュタイン博士に渡そう！=Take over for Spirit and find the %_dc[0,196,0]Whiskeroot %_dc[199,133,84]for Professor Stein!
+訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
+%_teプレゼントは肉体労働？=%_teGrafting for a Gift?
+デスサイズの代わりに|%_dc[0,196,0]ヒゲグサ%_dc[199,133,84]を見つけて|シュタイン博士に渡そう！=Take over for Spirit|and find a %_dc[0,196,0]Whiskeroot %_dc[199,133,84]for Professor Stein!
 ヒゲグサ%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Whiskeroot%_dc[199,133,84]!
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
-気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Track down the irritated prankster bat,%_dc[196,0,0]Bad Eater%_dc[199,133,84], and defeat%_dc[0,0,196]20%_dc[199,133,84] of them!
+気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Track down the irate prankster %_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat %_dc[0,0,196]20%_dc[199,133,84] of them!
 バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]20 %_dc[196,0,0]Bad Eaters%_dc[199,133,84]!
-%_te死武専生なら　なっ！=%_teFor DWMA Students!
-死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my prized soul studies book have gone missing. Please recover them for me.
+%_te死武専生なら　なっ！=%_teLost Page Recovery!#Changed to make it more clear what the mission is about
+死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my|soul studies book have gone missing...
 魂学書の破れたページ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]ページ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Torn Pages of a Soul Studies Book%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
+死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
@@ -18812,14 +18812,14 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te謎の敵襲来！=%_teA Mysterious Enemy Invades!
 ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity and objective!
 ツギハギ研究所を襲った|犯人を倒せ！=Defeat the culprit of the attack on the Patchwork Lab!
-%_te訓練君で実戦に備えろ！=%_tePrepare for a Real Battle with Training Buddy!
+%_te訓練君で実戦に備えろ！=%_teTrain with a Buddy!
 シュタイン博士が作った|敵にソックリな%_dc[196,0,0]訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[199,133,84]of Professor Stein's %_dc[196,0,0]Training Buddies %_dc[199,133,84]that look just like the enemy!
-訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
+訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_teアメリカつばきを探せ！=%Search for an American Camellia!
 博士が探しているという|%_dc[0,196,0]アメリカつばき%_dc[199,133,84]を見つけて|わけてもらおう！=Find the |%_dc[0,196,0]American Camellias %_dc[199,133,84]for the professor!
 アメリカつばき%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find an %_dc[0,196,0]American Camellia%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
+死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te危険物の回収=%_teHazardous Materials
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]! Retrieve it posthaste!
@@ -18836,9 +18836,9 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te謎の敵襲来！=%_teA Mysterious Enemy Invades!
 ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity and objective!
 ツギハギ研究所を襲った|犯人を倒せ！=Defeat the culprit of the attack on the Patchwork Lab!
-%_te訓練君で実戦に備えろ！=%_tePrepare for a Real Battle with Training Buddy!
+%_te訓練君で実戦に備えろ！=%_teTrain with a Buddy!
 シュタイン博士が作った|敵にソックリな%_dc[196,0,0]訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[199,133,84]of Professor Stein's %_dc[196,0,0]Training Buddies %_dc[199,133,84]that look just like the enemy!
-訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
+訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te噂のスゴいヤツ？！=%_teDid You Hear About that Amazing Thing?!
 ホントかウソか？！|噂の%_dc[0,196,0]魂の実%_dc[199,133,84]を見つけて|願いを叶えよう！=Truth? Lie? Find a %_dc[199,133,84]Soul Seed%_dc[199,133,84] and it'll grant wishes!
 魂の実%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Soul Seed%_dc[199,133,84]!
@@ -18862,7 +18862,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 ツギハギ研究所を襲った|犯人を倒せ！=Defeat the culprit of the attack on the Patchwork Lab!
 %_te特別実戦模擬訓練！=%_teSpecial Combat Simulation Training!
 備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84], and improve your skills!
-訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
+訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te極悪怪僧を退治せよ！=%_teEliminate the Monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84] whose soul has become a kishin egg!
 怪僧アジャーリ%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84]!
@@ -18870,7 +18870,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 怪しげな魔法のモトになる|という%_dc[0,196,0]水晶の欠片%_dc[199,133,84]を|回収してきてくれ！=Go and recover the suspicious %_dc[0,196,0]Crystal Shard %_dc[199,133,84]that acts as a catalyst for the witches' magic!
 水晶の欠片%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Crystal Shard%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the dummies that have escaped the DWMA and settled in town!
+死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval Request
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
@@ -18886,7 +18886,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 全ての敵を倒して|パラポネラをぶっつぶせ！=Defeat all the enemies and crush Paraponera!
 %_te特別実戦模擬訓練！=%_teSpecial Combat Simulation Training!
 備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84], and improve your skills!
-訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
+訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te星族の遺産=%_teThe Star Clan's Legacy
 暗殺術が記された|%_dc[0,196,0]星族の奥義書%_dc[199,133,84]を|回収せよ！=Retrieve the %_dc[0,196,0]Star Clan's secret book %_dc[199,133,84]where are written their assassination arts!
 星族の奥義書%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Star Clan's secret book%_dc[199,133,84]!
@@ -18899,8 +18899,8 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
 制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|   By Sid
 制限時間内に|敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!
-%_te死武専生なら　なっ！=%_teFor DWMA Students!
-死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my prized soul studies book have gone missing. Please recover them for me.
+%_te死武専生なら　なっ！=%_teLost Page Recovery!
+死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my|soul studies book have gone missing...
 魂学書の破れたページ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]ページ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Torn Pages of a Soul Studies Book%_dc[199,133,84]!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
 シド先生%_dc[199,133,84]に挑戦！|三つ星だってなんのその|日頃の成果を見せつけろ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Sid%_dc%_dc[199,133,84]! He's a three-star meister, so show him what your capable of!
@@ -18910,7 +18910,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 全ての敵を倒して|パラポネラをぶっつぶせ！=Defeat all the enemies and crush Paraponera!
 %_te特別実戦模擬訓練！=%_teSpecial Combat Simulation Training!
 備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84], and improve your skills!
-訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
+訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te殺人鬼を退治せよ！=%_teEliminate the Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]THE CAN%_dc[199,133,84]!
 THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CAN%_dc[199,133,84]!
@@ -18974,8 +18974,8 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_te極悪怪僧を退治せよ！=%_teEliminate the Monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Ajhari, the Wicked Monk %_dc[199,133,84]whose soul has become a kishin egg!
 怪僧アジャーリ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84]!
-%_te死武専生なら　なっ！=%_teFor DWMA Students!
-死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my prized soul studies book have gone missing. Please recover them for me.
+%_te死武専生なら　なっ！=%_teLost Page Recovery!
+死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my|soul studies book have gone missing...
 魂学書の破れたページ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]ページ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Torn Pages of a Soul Studies Book%_dc[199,133,84]!
 %_te殺人鬼を速やかに倒せ！=%_teDefeat the Cutthroat Swiftly!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]is coming! Defeat him before he can do any damage!
