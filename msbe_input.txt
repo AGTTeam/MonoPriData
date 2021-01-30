@@ -787,7 +787,7 @@
 ちょうどよかったわ|マカちゃん・・・=What perfect timing, Maka.
 お父さんを何とか|してくれないかな？=Do you think you could do something about your father?
 パパ！！=Papa!!
-やぁ　マカ|パパに何か用かな？=Heeey, Maka... What can papa do for you?
+やぁ　マカ|パパに何か用かな？=Heeey, Maka... What can Papa do for you?
 いっそ・・・いっそ！=I... I just--!
 ご迷惑を　おかけしました|メデューサ先生・・・=I'm sorry for the trouble he's caused you, Dr. Medusa.
 いいのよ・・・|ありがとう　マカちゃん=It's all right. Thank you, Maka.
@@ -2764,11 +2764,11 @@
 ほ～～ん・・・|キザだけど　なんとなく説得力があるな|それ=Hmmm... He's a smug jerk, but I get he can be pretty convincing.
 !FILE:EV0422_002.bscr#家族の肖像 = A Family Photo part 39
 シド先生が|呼んでたよ　マカ=Sid was calling for you, Maka.
-マカに何の用なんだ？|先生なんか言ってたか？=What does he need Maka for? Did he say anything?
+マカに何の用なんだ？|先生なんか言ってたか？=What does he need Maka for?|Did he say anything?
 あのねぇ　落とし物が|見つかったみたいだよ♪=Well, I think he found something she lost♪
 きっとアルバムね|よかった　さがしてたのよ♪=That's gotta be my album! I've been looking everywhere for it♪
 どうすんだ？|今すぐにとりにいくのか？=You want to go and get it right away?
-ええ　もちろんよ|すぐ　シド先生の所に|行きましょう♪=Yeah, definitely. Let's go see Sid♪
+ええ　もちろんよ|すぐ　シド先生の所に|行きましょう♪=Yeah, definitely. Let's go see Mr. Sid♪
 !FILE:EV0422_006.bscr
 シド先生が|呼んでたよ　マカ=Sid was calling for you, Maka.
 !FILE:EV0422_007.bscr
@@ -2777,12 +2777,12 @@
 お前は俺を|そういうふうに思ってたんだな・・・|ま　多分からかうと思うけどよ=I can't believe you really think so terribly of me... Well, I probably would make fun of you though.
 !FILE:EV0422_012.bscr
 シド先生|マカの落とし物が見つかったんだって？=Sid, we heard you found something of Maka's.
-おう　これだ|受けとれ　マカ！=Yeah, this. Here you go, Maka!
-ありがとうございます|先生！=Thanks, Sid!
+おう　これだ|受けとれ　マカ！=Yeah, this.|Here you go, Maka!
+ありがとうございます|先生！=Thank you, Mr. Sid!
 落とし物のアルバム|たしかに渡したぞ！=The lost album has been returned successfully!
 おもしろそうだな・・・|俺にも見せてくれよ=Let me see it... I've got to know.
-仕方ないな|ちょっと恥ずかしいけど|一緒に見ようか=I guess it's not a secret anymore. But it's a little embarrassing, so we'll look at it together.
-変な写真があっても|からかわないでよ=And you're not allowed to tease me even if there's any weird pictures.
+仕方ないな|ちょっと恥ずかしいけど|一緒に見ようか=I guess it's not a secret anymore, so... It's a little embarrassing, but we can look at it together.
+変な写真があっても|からかわないでよ=But you're not allowed to tease me even if there are any weird pictures.
 !FILE:EV0422_016.bscr
 落とし物のアルバム|たしかに渡したぞ！=The lost album has been returned successfully!
 !FILE:EV0422_017.bscr
@@ -2794,7 +2794,7 @@
 でも　それだと|デスサイズが少しかわいそうだろ=We could, but I'd feel kind of bad for him.
 わかったわよ|パパにも見せてあげる=Fine! We'll show Papa too.
 !FILE:EV0422_022.bscr
-やぁ　マカ|パパに何か用かな？=Heyyy, Maka... What can papa do for you?
+やぁ　マカ|パパに何か用かな？=Heeey, Maka... What can Papa do for you?
 マカのアルバムを|一緒に見ようぜ！=Do you want to take a look at Maka's album with us?
 パパが一緒でも|本当にいいのかい？=Is it really okay for me to look too?
 うん　いいよ|一緒に見よう　パパ=Yeah, it's fine. Come look with us, Papa.
@@ -2812,20 +2812,20 @@
 あんまり　深刻に考えるなよ・・・=Don't look too deep into it.
 こんなの・・・|こんなの・・・うそだー！=This... This... I don't believe it!
 きゃあ！何するのパパ！！=Kyah! Papa, what are you doing!!?
-デスサイズがマカを襲って・・・|アルバムを奪って逃げた・・・=Did Spirit just attack you... and then steal your album and run away!?#This line literally translates to "Spirit attacked Maka and... stole the album and ran away...", but it's really awkward because it's just there to explain what happened. I tried to make it sound at least somewhat natural.
+デスサイズに%_dc[0,196,0]マカのアルバム%_dc[255,255,255]を奪われました=Spirit stole %_dc[0,196,0]Maka's Album%_dc[255,255,255].
+デスサイズがマカを襲って・・・|アルバムを奪って逃げた・・・=Did Death Scythe just attack you... and then steal your album and run away!?#This line literally translates to "Spirit attacked Maka and... stole the album and ran away...", but it's really awkward because it's just there to explain what happened. I tried to make it sound at least somewhat natural.
 大変よ|パパを追いかけなきゃ！=This is bad. We need to catch Papa!
 それにしても|なんでデスサイズの姿が写った写真が|なかったんだ？=So what's up with that anyway? Why is there no sign of Death Scythe in any of those photos?
 うん　かなり前なんだけど|パパのことがどうしても許せなくて|腹立ちまぎれに・・・=About that... It was a long time ago. Papa did something that I could never forgive, and I got angry and...
-もしかして|デスサイズが写ってる|写真を全部修正したのかよ！=You cut him out of all the pictures!? Is that what I'm hearing?
-いいじゃない！|それだけ怒っていたってことなの！=So what! He's the one that made me mad!
-デスサイズに%_dc[0,196,0]マカのアルバム%_dc[255,255,255]を奪われました=Spirit stole %_dc[0,196,0]Maka's Album%_dc[255,255,255].
+もしかして|デスサイズが写ってる|写真を全部修正したのかよ！=You cut him out of all the pictures!?|Is that what I'm hearing?
+いいじゃない！|それだけ怒っていたってことなの！=So what! He's the one who made me mad!
 !FILE:EV0422_032.bscr
 デスサイズを見なかったか？=Have you seen Death Scythe?
 私のアルバム取って|逃げちゃったんです・・・=He took my album and ran off.
 アルバムですか・・・=A photo album?
 この頃　俺もよく|自分のアルバムを見るように|なりました・・・=Lately, I've been thinking about looking through an album of my own.
 そして過ぎ去ってしまった|過去を惜しんでいます・・・=That time is long passed. What I wouldn't give to go back...
-博士が感傷的になるなんて|キャラじゃねェんじゃねェか？=I wouldn't take you as someone to get so sentimental.
+博士が感傷的になるなんて|キャラじゃねェんじゃねェか？=I didn't take for the sentimental type.
 昔を思い返せば|誰でも感傷的になります・・・=Who doesn't get sentimental thinking about the past?
 ああ　昔に戻って|もう一度自分の体を|調べなおしたい・・・=Yes. I would kill to go back in time and experiment on my body once more...
 やっぱり　この人|めちゃくちゃだわ・・・=Why is he always so creepy?
@@ -2839,17 +2839,17 @@
 あのアルバムには|当然　俺の写真もあるのだろう！|どうだ　昔の俺はカッコよかったか？=I'm sure you must have some pictures of me in that album! How'd I look? I used to be quite the stud, huh?
 先生の写真は|一枚もなかったぜ・・・=There weren't any pictures of you.
 先生に何かあるわけじゃ|ないんですがなんとなく編集の|都合上　そうなってしまいました=I don't have anything against you. It's just a coincidence from when I compiled all my photos.
-俺は昔から早とちりな|そんな男だった・・・|それは今もかわらない=I've always jumped to wrong conclusions. That's the kind of man I was... But I'm not so sure that's changed.
+俺は昔から早とちりな|そんな男だった・・・|それは今もかわらない=I always jumped to the wrong conclusion. That's the kind of man I was. Guess that hasn't changed.
 !FILE:EV0422_045.bscr
 ・・・・・・・・・=.........
 !FILE:EV0422_046.bscr
-俺は昔から早とちりな|そんな男だった・・・|それは今もかわらない=I've always jumped to wrong conclusions. That's the kind of man I was... But I'm not so sure that's changed.
+俺は昔から早とちりな|そんな男だった・・・|それは今もかわらない=I always jumped to the wrong conclusion. That's the kind of man I was. Guess that hasn't changed.
 !FILE:EV0422_050.bscr
-デスサイズ！=Spirit!
+デスサイズ！=Death Scythe!
 パパ　アルバムを返して！=Papa, give me back my album!
 ・・・・・・・・・=.........
 あれ|本当に返してくれるの？=What? You're really giving it back?
-やけに素直だな？|何かあったのかよ？=He's being so obedient? What happened?
+やけに素直だな？|何かあったのかよ？=He's being so obedient?|What happened?
 マカ・・・=Maka...
 な　なあにパパ|まだ何か用があるの？=Wh-What is it, Papa? Do you need something?
 パパは　マカとマカのママを|世界で一番愛してるからね・・・=Maka, Papa loves you and your mother more than anything in the world, you know.
@@ -18177,14 +18177,14 @@
 !FILE:EV9981_411.bscr
 どこか悪い所でも|あるのかしら？=Did you hurt yourselves or something?
 気分が悪くなったら|いつでも保健室に来てちょうだい♪=If you're ever feeling unwell, you can stop by here any time♪
-!FILE:EV9981_420.bscr
+!FILE:EV9981_420.bscr#Medusa
 これにするの？=This one?
 あなた達には|簡単かもしれないわね=This should be simple for you guys.
-あなた達の実力を考えると|これは良いかもしれないわね=Knowing what you're capable of, I don't think this one should cause you too much trouble.
+あなた達の実力を考えると|これは良いかもしれないわね=Knowing what you're capable of, I don't think it should cause you too much trouble.
 結構大変よ　これは|どうする？=It'll be pretty tough. Are you sure about this?
 !FILE:EV9981_430.bscr
 あら？　やめるの？|そうね　こういうのは慎重に|選んだほうがいいわよ=Oh? Changed your mind? I think it wise to be deliberate when choosing these.
-他のにするの？|訓練とはいえ　ケガをするかもしれないから|よく考えて選んでね=Interested in looking at a different one? It's only training, but it's still possible to get hurt, so consider your choice carefully.
+他のにするの？|訓練とはいえ　ケガをするかもしれないから|よく考えて選んでね=Something else? It's only training, but it's still possible to get hurt, so consider your choice carefully.#must be kept short
 そうね|あなた達なら|他のほうがいいかもしれないわね=I don't blame you. I think a different one might be better suited for you.
 !FILE:EV9981_440.bscr
 決まったみたいね|しっかりとやるのよ=Looks like you've made up your mind. Give it your all, okay?
