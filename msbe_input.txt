@@ -125,9 +125,9 @@
 !FILE:EV0100_100.bscr
 ハラへったぁ～|どこでランチにする？=I'm starving! What's for lunch?
 !FILE:EV0100_200.bscr#afternoon class mission
-はい♪　では|午後は『魂の共鳴』の訓練をします|プリントを見てください=Okay♪ This afternoon we will be working on Soul Resonance. Please take a look at your handouts.
+はい♪　では|午後は『魂の共鳴』の訓練をします|プリントを見てください=Okay♪ This afternoon we will be working on Soul Resonance.|Please take a look at your handouts.
 !FILE:EV0100_201.bscr
-さぁ　誰からでもいいぞ|繰り返し練習して腕をみがいてください=Everyone is going to try it a few times. So do I have any volunteers to go first?
+さぁ　誰からでもいいぞ|繰り返し練習して腕をみがいてください=Everyone is going to try it a few times. So, do I have any volunteers to go first?
 !FILE:EV0100_202.bscr
 はい|次は誰かな？=Who's next? Let's see...
 !FILE:EV0100_203.bscr
@@ -135,7 +135,7 @@
 !FILE:EV0100_204.bscr
 こらこら|勝手に　どこへ行くつもりかな？|・・・ホルマリンのビンにいれるよ=Hey, hey! Where do you think you're going? I'll stick you in a jar of formaldehyde!
 !FILE:EV0100_205.bscr
-気を抜いちゃいけませんよ|もう一度　がんばりましょう！=You mustn't lose focus! Try it again, alright!
+気を抜いちゃいけませんよ|もう一度　がんばりましょう！=You mustn't lose focus! Let's try it again!
 !FILE:EV0100_206.bscr
 んじゃ　今日の授業はおしまいです♪|腕試しをしたい場合は『掲示板』を|利用してください♪=Anyone wishing to test their abilities can make use of the Mission Board♪ Class is dismissed♪
 お～い　誰か|死神様のお手伝いを引き受けるヤツは|いないか？=Everybody, listen up! Lord Death is looking for someone to provide him with some assistance!
