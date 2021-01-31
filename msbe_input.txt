@@ -1,4 +1,4 @@
-!FILE:COMMON
+﻿!FILE:COMMON
 なし=None
 まだ見ることができません=You can't view this yet.
 午前授業=Morning Class
@@ -36,7 +36,7 @@
 死神三者面談=Reaper-Teacher Meeting
 事件発生=The Incidental Plot Hole
 父へのプレゼント=A Present for Papa
-俺様ステージ=The Black☆Star Show
+俺様ステージ=Black☆Star's Show
 家族の肖像=A Family Photo
 彼女の思いと・・・=A Girl and Her Thoughts
 マカが倒れた=Maka Fainted
@@ -412,7 +412,7 @@
 シュタイン君にも考えがあると思うから|まずは事情を確認してみないとね～ん♪=I'm sure Stein has his reasons, so I must first confirm the situation♪
 ゼッテェ|あいつの趣味だよ・・・=It's just a hobby for him...
 !FILE:EV0120_097.bscr
-どうしたんですか博士？|そんな恐ろしい顔をして=What's wrong, professor?|Why that scary look?
+どうしたんですか博士？|そんな恐ろしい顔をして=What's wrong, Professor?|Why that scary look?
 これは失礼しました|俺としたことが取り乱してしまったようです=My apologies. I, of all people, have made a colossal blunder, it would seem.
 実は　明日の授業に使おうとしていた|疑似生物が逃げ出してしまったのです=The truth is, the artificial organism that I intended to use during tomorrow's class has escaped.
 ラッキー|あっ　なんでもありません|続けてください=Yes! Oh, ignore me. Please continue.
@@ -2240,7 +2240,7 @@
 仕方がないさ！|オイッ！　そこのお前達　手を貸せ！=No matter! Listen up! You'll all be lending a hand!
 !FILE:EV0400_201.bscr
 また|派手にやってくれてるねぇ=They did a real number on the place, didn't they?
-うわっ！|・・・ひでぇ=Wah! ... That's intense.
+うわっ！|・・・ひでぇ=Wah! ...That's intense.
 ほんと=For real.
 あ～あ|ぼこぼこの穴だらけじゃん=Yeah, there are holes everywhere.
 穴があったら|気に入らないヤツを入れて埋めろぉ～=No need to waste a perfectly good hole. Throw someone you don't like in there before you cover it up!
@@ -2253,9 +2253,9 @@
 行こう！|ソウル！=Soul! Let's go!
 おう！|クールにな！=Yeah! Be cool!
 !FILE:EV0400_202.bscr
-おい　どこへ行ってたんだ？|手が足りないんだ　頼むぞ=Hey! Where were you headed? Lend a hand. We're short on help.
+おい　どこへ行ってたんだ？|手が足りないんだ　頼むぞ=Hey! Where did you go off to? Lend a hand here. We're short on help.
 !FILE:EV0400_203.bscr
-気をつけて　行け！|頼んだぞ！=You have your orders! Go! And keep on your guard!
+気をつけて　行け！|頼んだぞ！=You have your orders! Go! And stay on your guard!
 !FILE:EV0400_204.bscr
 ん　どこへ行くんですか？|忘れ物なら　早く戻ってきてください=Hm? Where are you going? If you forgot something, take care of it and hurry back.
 !FILE:EV0400_205.bscr
@@ -2267,7 +2267,7 @@
 !FILE:EV0400_500.bscr
 おお　無事だったか|よくやったぞ！=Good! Everyone's safe. Well done!
 大丈夫ですか？|メデューサ先生=Are you all right, Dr. Medusa?
-え　ええ|マカちゃん　ソウル君|二人ともよく勝ったわね　すごいわよ=Y-Yes. You two are a couple of amazing little heroes.
+え　ええ|マカちゃん　ソウル君|二人ともよく勝ったわね　すごいわよ=Y-Yes. What true heroes you two are.
 えへへ=Ehehe...
 まぁな=Well...
 なに　デレデレしてやがんだバカ野郎|俺以外に　デレデレすんじゃねぇ！！=What are you blushing for, you moron? I'm the only one anybody should be blushing over!!
@@ -2277,32 +2277,32 @@
 終わったか=It's finished then?
 もう|うじゃうじゃいてキモイって～の=There were so many of those disgusting things squirming around.
 うじゃうじゃアリンコは　ぷっちぷち～|きゃははは=We crushed those ants like bubble wrap! Pop! Kyahahaha!
-・・・・・=.....
+・・・・・=......
 !FILE:EV0400_501.bscr
 まさか　向こうから襲ってくるとはねぇ|オーマイガッ♪　って感じだね～♪=To think they'd attack from there of all places. It's like "Oh my gah!♪"
 えぇ・・・　生徒によると|やつらはパラポネラ|それを操っているのが=Yeah... According to the students, Paraponera is behind this.
 魔女ポネラ=The witch, Ponera.
 やっぱり　魔女か・・・=Of course it's a witch.
 せっかく回収した繭を|根こそぎ持っていかれました=And the cocoon we managed to recover was taken during the attack.
-魂にこだわるあたり　やはり|鬼神を作り出すのが狙いだよな=So this obsession over souls... Their aim is to use them to produce kishin.
-そね♪　だとしたら|こっちもマジで相手しなきゃなんないね=Yep♪ Which means we really must deal with them.
+魂にこだわるあたり　やはり|鬼神を作り出すのが狙いだよな=Going to such length for those souls... Their aim must be to use them to produce kishin.
+そね♪　だとしたら|こっちもマジで相手しなきゃなんないね=Yep♪ Which means we really must|deal with them.
 んじゃ|シュタイン君　デスサイズ君|頼むね～ん♪=Welp, Stein, Spirit, I'll leave it up to you♪
 はい=Yes, sir.
 はい=Yes, sir.
 はい=Yes, sir.
 !FILE:EV0400_502.bscr
 まぁ|ギガントのことは仕方がないわよね=Well, I guess the Gigant won't suffice.
-はい|まだ完全ではありませんから=No. They haven't been perfected yet.
+はい|まだ完全ではありませんから=No. It hasn't been perfected yet.#changed this line to singular to make it more obvious the next line is a different group
 だけど　まさか死武専に|アノ人が入り込んでるなんてね=But to think that they have truly infiltrated the DWMA...
 ええ・・・|狙いはなんでしょうか？=Indeed... What could they be trying?
 いいんじゃない？　何でも|私達の邪魔をするようなら|消えてもらうまでよ=It shouldn't matter. If ever they try to hinder our plans, we'll simply remove them from the equation.
 ふふっ　だって　あなたもいてくれるし|私達で作り出した　この繭があれば|たとえ相手が　あの姉妹でも関係ないわ=Hehe. As long as you're here and we still have the cocoon we made, that sister will have nothing against us.
 はい　さすがはポネラ様|・・・しかし　今はさらなる繭を|作っていただく大事なとき=Indeed, Madam Ponera... However, it is vital that you continue to create more cocoons for the time being.
-余計な力を使うわけにはいきません|祭壇の準備は私にお任せを|ポネラ様は繭を・・・=You mustn't expend any strength unnecessarily. Leave the preparation of the altar to me and focus on the cocoons.
+余計な力を使うわけにはいきません|祭壇の準備は私にお任せを|ポネラ様は繭を・・・=You mustn't overexert yourself. Leave the preparation of the altar to me and focus on the cocoons.
 ええ　あなたがそういうならそうするわ|じゃあ　準備はお願いね=Yes, I will do as you instruct. I'll leave all the preparations to you.
 もうすぐ私達の夢が叶う時・・・|誰にも邪魔させないでね=The moment our dream becomes reality is nearly at hand... You must not allow anyone to get in our way.
 かしこまりました=You have my word.
-フッ　私達か・・・|まぁいい・・・もうすぐ力が手に入る=Hmph... Our dream... Not long now... The power will be mine.
+フッ　私達か・・・|まぁいい・・・もうすぐ力が手に入る=Hmph... Our dream...? No matter... That power will be mine before long.
 !FILE:EV0401_400.bscr
 うわ！|うじゃうじゃいるじゃんか！=Woah! There's a whole swarm of them!
 ソウル！=Soul!
@@ -2319,7 +2319,7 @@
 うおっ！=Woah!
 なに？=What?
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-ということは　狙いは繭か！|・・・メデューサ先生は？=Which means the cocoon is their real target! ... Where's Dr. Medusa?
+ということは　狙いは繭か！|・・・メデューサ先生は？=Which means the cocoon is their real target! ...Where's Dr. Medusa?
 あっ！　大変！=Ah! She's not here!
 さがそう　マカ！=Let's find her, Maka!
 !FILE:EV0401_402.bscr
@@ -2335,11 +2335,11 @@
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
 そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The witch, Ponera, is our magnificent queen.
-魂の繭を集めて|一体何をたくらんでるの！=What are you planning on doing with all of these soul cocoons!?
+魂の繭を集めて|一体何をたくらんでるの！=What are you planning on doing with|all of those soul cocoons!?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
-待て！|・・・うわっ！=Wait! ... Woah!
-キシキシキシィ・・・|お前達はここで死ねぇ！=KrshKrshKrsh... This place will be your grave!
+待て！|・・・うわっ！=Wait! ...Woah!
+キシキシキシィ・・・|お前達はここで死ねぇ！=KrshKrshKrsh... This place will be your grave!#I think the styling of this laugh is a little offputting. Maybe krsh krsh krsh?
 ソウル！=Soul!
 おう！=Yeah!
 !FILE:EV0401_403.bscr
@@ -2358,7 +2358,7 @@
 うおっ！=Woah!
 なに？=What?
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-ということは　狙いは繭か！|・・・メデューサ先生は？=Which means the cocoon is their real target! ... Where's Dr. Medusa?
+ということは　狙いは繭か！|・・・メデューサ先生は？=Which means the cocoon is their real target! ...Where's Dr. Medusa?
 あっ！　大変！=Ah! She's not here!
 探そう　マカ！=Let's find her, Maka!
 !FILE:EV0401_452.bscr
@@ -2608,21 +2608,21 @@
 なんだそれ？|プレゼント　胃薬のほうがよかったかな？=What? Why? Maybe some nausea medicine would have made for a|better gift.
 そうね　もし今度|プレゼントする機会があったら|胃薬を渡すことにするわ=Yeah. If I ever decide to get him another gift, that's what it'll have to be.
 !FILE:EV0421_002.bscr#俺様ステージ = The Black☆Star Show part 39
-どうしたんだ椿|浮かない顔して？=You seem upset, Tsubaki. What's wrong?
+どうしたんだ椿|浮かない顔して？=You seem upset, Tsubaki.|What's wrong?
 あ　マカちゃんに|ソウル君・・・=Oh! Maka and Soul...
-椿ちゃん　何があったか|知らないけど　一人で悩まないで！=Tsubaki, I don't know what happened, but you don't have to suffer alone!
+椿ちゃん　何があったか|知らないけど　一人で悩まないで！=Tsubaki, I don't know what happened, but you don't have to suffer alone.
 もしよかったら|私に相談してくれない！=Whatever it is, you can talk to me about it!
-ありがとう　マカちゃん|それじゃあ思い切って|言っちゃいますね！=Thank you, Maka. In that case, I'll do my best to tell you everything!
+ありがとう　マカちゃん|それじゃあ思い切って|言っちゃいますね！=Thank you, Maka. In that case, allow me to tell you everything!
 実はブラック☆スターが|俺様のこれまでを総括した|ステージを開催するっていうんです・・・=To tell you the truth, Black☆Star was saying something about a performance to summarize all he's done up to now...
 なんだそれ|ライブみたいなもんかよ？=A what? You mean like some sort of live show?
 あはは　何をするかは|まだ決めてないみたいだけど・・・=Ahaha... I don't think he's decided exactly what he wants to do yet, but...
-いつものことじゃない|放っておけないの？|何で椿ちゃんが困ってるの？=Sounds like one of Black☆Star's typical stunts. Can't you just ignore him like usual? Why are you so stressed about it, Tsubaki?
-それがブラック☆スター|私に人を集めてこいって・・・=Well, Black☆Star sort of told me to find people to come watch, and...
+いつものことじゃない|放っておけないの？|何で椿ちゃんが困ってるの？=Sounds like one of his typical stunts. Can't you just ignore him like usual? Why are you so worried, Tsubaki?#must be kept short
+それがブラック☆スター|私に人を集めてこいって・・・=Well, Black☆Star sort of told me to|find people to come watch, and...
 何人集まったんだよ？=How many people do you have so far?
 えへへ|それがまだ一人も・・・=Ehehe... I have exactly... zero...
 私達も　人集めを|協力するわ！=We'll help you round up some people!
 おい　何言い出すんだよ！=Yo! What'd you go and say that for?
-椿ちゃんがこんなに|困ってるのよ！|放っておけないじゃない！=Tsubaki is clearly stressed about this! We can't just ignore her!
+椿ちゃんがこんなに|困ってるのよ！|放っておけないじゃない！=Tsubaki is clearly stressed about this. We can't just ignore her!
 ありがとう　マカちゃん|私も　もう少しがんばってみますね！=Thanks, Maka. I won't give up either! I'm going to keep trying!
 !FILE:EV0421_006.bscr
 ・・・私たちも　人集めを|協力するわ！=We'll help you round up some people!
@@ -2630,7 +2630,7 @@
 !FILE:EV0421_007.bscr
 それにしても|ブラック☆スターのステージって・・・|あいつ何する気なんだ？=So this performance thing from Black☆Star... What do you think he's got planned?
 さぁ　さっぱり|想像がつかないわ・・・=Yeah, I honestly couldn't even begin to imagine.
-でもよ|何するかわからなければ|人を集められねェんじゃないか？=So... we have no idea what he's going to do, but somehow we're still going to get people to come?
+でもよ|何するかわからなければ|人を集められねェんじゃないか？=So... we have no idea what he's going to do, but somehow we've still got to get people to come?
 そこは　気合よ！|それとブラック☆スターの|普段の行いかしら・・・=That's the spirit! Isn't that how Black☆Star would normally do it?
 こりゃ正直　厳しいな・・・=This is gonna be a pain...
 !FILE:EV0421_012.bscr
@@ -2662,7 +2662,7 @@
 うん　私|ヒマだよ～！どうしたの？=I sure am! Why? What's up?
 ちょうどよかったわ♪=Well, you're in luck♪
 ブラック☆スターのステージが|これからあるんだ　お前も来いよ！|きっと楽しいぜ！=Black☆Star's going to be performing pretty soon. You should come! It'll be a lot of fun!
-ブラック☆スターの|ステージだって♪|きゃはははは！=Black☆Star? Performing♪? Kyahahaha!
+ブラック☆スターの|ステージだって♪|きゃはははは！=Black☆Star? Performing♪?|Kyahahaha!
 どう　パティ|もちろんくるわよね？=So, Patty? You're coming, right?
 きゃはははは！=Kyahahaha!
 おい　パティ・・・=Hey... Patty...
@@ -2675,7 +2675,7 @@
 !FILE:EV0421_042.bscr
 オックス君|今　ヒマかしら？=Ox, are you free right now by any chance?
 ヒマではありませんが|話をする時間くらいはあります|どうしたのですか？=Not terribly, no, but I should have enough time for a little chat. What do you need?
-実はこれから|ブラック☆スターのステージが・・・=The truth is, Black☆Star's going to be...
+実はこれから|ブラック☆スターのステージが・・・=The truth is, Black☆Star's going to be--
 おい　待てよ！=Hey, hold on!
 どうしたのよ一体？=What is it? Seriously...
 いくらなんでも|オックス君は無理だろ！=You can't be desperate enough to be considering Ox!
@@ -2725,9 +2725,9 @@
 キッドのヤツが来てくれた！|アイツもわかってきたな！！=Kid! That guy has finally come to recognize my genius!!
 キッド君って|意外と付き合い　いいのね・・・=I didn't expect Kid to come. That's good though.
 観客が少なくて残念だね？=The turnout is a little disappointing, huh?
-そんなことねェよ！|俺様が入学式でやった|ステージの三倍だぜ！=Not at all! There are three times as many people as there were for my performance at the school entrance ceremony!
-あの時は|椿一人だったからよ！=Tsubaki was the only one back then!
-そう　よかったね|ブラック☆スター・・・|ところでみんなはどこにいるの？=That's wonderful, Black☆Star... Where is everyone anyway?
+そんなことねェよ！|俺様が入学式でやった|ステージの三倍だぜ！=Not at all! This is times as many people as there were for my performance at the school entrance ceremony!
+あの時は|椿一人だったからよ！=Tsubaki was the only one back then.
+そう　よかったね|ブラック☆スター・・・|ところでみんなはどこにいるの？=That's wonderful, Black☆Star...|Where is everyone anyway?
 スタッフとして|色々手伝ってもらっている！=They're lending me a hand backstage!
 いけね　そろそろ|開演だから行くぜ！|楽しんでくれよ☆=The show will be starting shortly, so I've gotta go! Please enjoy it☆
 がんばってねブラック☆スター！=Break a leg, Black☆Star!
@@ -2739,7 +2739,7 @@
 え～今こうして|世界が平安を|保っていられるのも・・・=And it is in this way that we are able to maintain peace throughout the world...
 もういいよキッド|早くひっこめ！=That's enough, Kid! Now hurry and get off the stage!
 え～これも全てですね=Yes, I guess that's everything about me.
-ひやっはぁ☆|俺だぁ！！俺様だ！！|いわゆる一つのブラック☆スターだ！！=Yahoo☆ It's me! The original!! The one and only, Black☆Star!!
+ひやっはぁ☆|俺だぁ！！俺様だ！！|いわゆる一つのブラック☆スターだ！！=Yahoo☆ It's me! The original!! The one and only, Black☆Star!!!
 え～と　何というか・・・=Umm... Are you serious?
 身にしみろ！！=Now listen to this!!
 俺に様をつけていいのは|様になってる俺だけだぁ！！！|ひやっはははははは☆=Who decided I was a star? It was none other than myself of course! Only a star like me could decide that!! Yahahaha☆
@@ -2756,12 +2756,12 @@
 何ていっていいか・・・|本当にすみません・・・=I don't know what to say. I'm so sorry.
 !FILE:EV0421_067.bscr
 どうだった？|ブラック☆スターのステージは？=How was Black☆Star's show?
-ソウル　あんた|逃げたでしょ！=Soul, I know you were lying!
-悪ィ　悪ィ！|それよりも|どうだったか教えてくれよ！=Sorry. Sorry. Tell me anyway! How was it?
+ソウル　あんた|逃げたでしょ！=Soul, I know you lied to get out of it!
+悪ィ　悪ィ！|それよりも|どうだったか教えてくれよ！=Sorry. Sorry. Tell me anyway!|How was it?
 あ　うん・・・ある意味|今のブラック☆スターの|集大成だったわ・・・=Oh, right... In a way, it was a perfect showing from Black☆Star.
 どういう意味でだ？=What do you mean?
-はじまってもいない|っていう意味でかしら=Well, I couldn't even tell if he was really acting.
-ほ～～ん・・・|キザだけど　なんとなく説得力があるな|それ=Hmmm... He's a smug jerk, but I get he can be pretty convincing.
+はじまってもいない|っていう意味でかしら=Well, I couldn't even tell if he was|really acting.
+ほ～～ん・・・|キザだけど　なんとなく説得力があるな|それ=Hmmm... He's a smug jerk, but I get that he can be pretty convincing.
 !FILE:EV0422_002.bscr#家族の肖像 = A Family Photo part 39
 シド先生が|呼んでたよ　マカ=Sid was calling for you, Maka.
 マカに何の用なんだ？|先生なんか言ってたか？=What does he need Maka for?|Did he say anything?
@@ -3971,7 +3971,7 @@
 そういえば博士が|お前達をさがしていた|ようだぞ？=Just so you know, the professor was looking for you.
 !FILE:EV0924_012.bscr
 メデューサ先生の様子は|どんな感じだったでしょうか？=Has Dr. Medusa seemed at all odd to you?
-メデューサ先生？|やけに唐突なことを聞いてくるな？=Dr. Medusa? What's with such a random question like that out of nowhere?
+メデューサ先生？|やけに唐突なことを聞いてくるな？=Dr. Medusa? What's with the random question?
 昨日と比べて|博士が期待しているほど|劇的な変化はないと思いますが？=She seemed like the same Dr. Medusa as always to me.
 別に劇的な変化を|期待しているわけではないのですが・・・=I'm not expecting a difference as dramatic as life and death or anything, but...
 そうだ　君達に|お願いがあります=Right. I have a little favor to ask of you.
@@ -3988,7 +3988,7 @@
 もしかすると|メデューサ先生は魔女・・・=Well, maybe Dr. Medusa is... a witch...
 だったり　するわけねェよな・・・=No, she couldn't be.
 もう　あたり前でしょ|魔女が死武専の　しかも|保健医になれるわけないじゃない=Yeah, right. It wouldn't make any sense for a witch to even come to the DWMA, let alone become the school nurse.
-そうだよな・・・|そうなんだけどな・・・=Yeah... Yeah, but... Hm...
+そうだよな・・・|そうなんだけどな・・・=Yeah...|Yeah, but... Hm...
 あれ　ソウル|あんた何考えてんの？=Huh? What is it, Soul?
 そういえば　メデューサ先生のこと|あんまりよく知らねェなって・・・=Now that I think about, I don't really know anything about Dr. Medusa.
 たしかに|他の先生にくらべると|そうかもしれない・・・=Yeah, I guess I don't know her nearly as well as the other teachers.
@@ -4003,7 +4003,7 @@
 メデューサ先生について|知ってることがあったら教えてくれよ？=Would you mind telling us whatever you know about Dr. Medusa?
 普通の保健医だと思うが|違っているのか？=I think she's just a normal nurse. Is she not?
 そりゃ先生に|くらべたら普通だと思うけど・・・=I'd say she's normal compared to you, yeah.
-あはは・・・|わかりました先生・・・|ありがとうございます=Ahaha... Never mind, Sid. Thanks anyway.
+あはは・・・|わかりました先生・・・|ありがとうございます=Ahaha... Never mind, Mr. Sid. Thanks anyway.
 !FILE:EV0924_026.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=Would you mind telling us whatever you know about Dr. Medusa?
 普通の保健医だと思うが|違っているのか？=I think she's just a normal nurse. Is she not?
@@ -4012,14 +4012,14 @@
 お前のほうが|詳しいんじゃないか？|よく保健室にいくだろう？=Nothing you wouldn't know. You're the one who goes to the infirmary all the time.
 あの人　プライベートな話は|ぜんぜんしねェんだよ・・・=But she never talks about herself at all.
 とにかく俺様は|あんな弱そうなヤツには|まったく興味がねェ☆=Whatever. I'm totally not interested in such weaklings☆
-そうねブラック☆スターなら|そういうと思ったわ・・・=Yeah, I figured as much coming from Black☆Star.
+そうねブラック☆スターなら|そういうと思ったわ・・・=Yeah, I figured as much coming from you.
 !FILE:EV0924_036.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=Would you mind telling us whatever you know about Dr. Medusa?
 とにかく俺様は|あんな弱そうなヤツには|まったく興味がねェ☆=Whatever. I'm totally not interested in such weaklings☆
 !FILE:EV0924_042.bscr
 メデューサ先生について|知ってることがあったら教えてくれよ？=Is there anything you could tell us about Dr. Medusa?
 大人の女性ですよね|他の先生に比べても大人だわ・・・=She's a mature woman. Mature compared to the other teachers even.
-そうよね　憧れるよね・・・|私もそういう人になりたい・・・=Totally. I really admire that about her. I want to be like her someday.
+そうよね　憧れるよね・・・|私もそういう人になりたい・・・=Totally. I really admire that about her.|I want to be like her someday.
 椿はともかく|マカは無理なんじゃねェか？=Tsubaki maybe, but that'll never happen for you, Maka.
 もう　ソウルったら|失礼よ！=You take that back, Soul!
 そうですよ　可能性が|ないわけじゃないんですし=Yeah. It's definitely not impossible for her.
@@ -4035,12 +4035,12 @@
 なんですって！|それは　本当なの！？=What!? Are you serious!?
 どうしてメデューサ先生が|さらわれたってわかるんだよ！=I don't understand why they would want to take Dr. Medusa!
 少し前に犯行声明が送られてきたんだ・・・=Just now we received a letter confessing to the abduction.
-そんな・・・|メデューサ先生・・・=That... Dr. Medusa...
+そんな・・・|メデューサ先生・・・=That's... Dr. Medusa...
 心配しているヒマはない|死神様がお前達を呼んでいる=There's no time to worry right now. Lord Death has summoned you.
 おそらくメデューサ先生を|救い出す指令が出されるだろう=I'm afraid he'll most likely be giving you orders to rescue Dr. Medusa.
 マカ！グズグズしている|ヒマはねェぞ！！=Maka, this isn't the time to hesitate!!
 わかったわ　ソウル！|デスルームに行こう！=You're right, Soul! Let's hurry to the Death Room!
-・・・・・・・・・=.........
+・・・・・・・・・=.........#this section doesn't seem to be used
 こんな時に|何考えてんだよ！=What is it this time!?
 落ち着いて考えてみたんだけど|前にも　メデューサ先生って|さらわれなかったっけ？=I was just taking a second to stop and think about this logically, and I swear Dr. Medusa was taken like this before.
 何言ってんだよ|こんな非常時に！=This is an emergency! Now's not the time for this!
@@ -4049,9 +4049,9 @@
 メデューサ先生が|魔女にさらわれたんだろ？=So Dr. Medusa really has been taken by a witch?
 私達にメデューサ先生を|救い出せということですね！=You're going to tell us to rescue her, right!?
 ま　ブッチャけ|そ～ゆ～ことなんだけどね♪=Well, actually... about that...♪
-これでも君達に|頼むかどうか|結構　悩んだんだよ～ん♪=I've been pretty worried about if I should ask you guys to take care of this one♪
+これでも君達に|頼むかどうか|結構　悩んだんだよ～ん♪=I've been pretty worried about whether I should to ask you guys to take care of this one♪
 何せ相手は|魔女なんだから♪=With the enemy being a witch and all♪
-くれぐれも慎重に|考えてちょうだい！|断るのも勇気だよ～ん♪=Please give it some real thought! It takes courage to say no too♪
+くれぐれも慎重に|考えてちょうだい！|断るのも勇気だよ～ん♪=Please give it some real thought!|It takes courage to say no too♪
 わかりました|死神様！=We will, Lord Death!
 決定権は職人にある|どうするかはマカが決めてくれ！=You're the meister, so the decision is yours, Maka!
 !FILE:EV0924_060.bscr
@@ -4061,19 +4061,19 @@
 博士を茶化している場合|じゃねェぞ　マカ=Now's not the time to act like a child, Maka.
 君達とは別行動になって|しまうかもしれませんが・・・=Unfortunately, I won't be going the same way as the both of you, so...
 くれぐれも気をつけてください|相手は魔女ですから！=Please be extremely careful. The enemy is a witch after all!
-・・・・・・・・・=.........
+・・・・・・・・・=.........#this section doesn't seem to be used
 どうしたのですか？|何を考えているのですか？=Are you okay? Is something bothering you?
 博士　以前にも|メデューサ先生って|魔女にさらわれませんでしたっけ？=Professor... Dr. Medusa was taken by a witch once before, wasn't she?
 はて？覚えていません|君の気のせいでしょう？=Is that so? I have no recollection of that. Perhaps you imagined it...
 !FILE:EV0924_070.bscr
 ちゅす！うすっ！|ほいさ！お疲れさ～ん♪=Hola! Aloha! Helloha! Welcome back♪
-すみません死神様|魔女を逃がしてしまいました・・・=Sorry, Lord Death. We fled from the witch...
+すみません死神様|魔女を逃がしてしまいました・・・=Sorry, Lord Death. We let the witch get away...
 それにメデューサ先生を|発見することはできなかった・・・=And we didn't even locate Dr. Medusa.
 まぁまぁ|そんなに落ち込まないでちょうだい=Calm down. Calm down. There's no need to get upset over it.
-まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale! Yeah? Yeah♪?
+まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale!|Yeah? Yeah♪?
 でもよ　死神様・・・=But Lord Death...
 そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa your worried about, Stein rescued her♪
-はぁ　なんだそれ！？|そういうことは先に言ってくれよ死神様！|何考えてんだ！！=What!? Are you serious? Why didn't you start with that? Did you even consider that!?
+はぁ　なんだそれ！？|そういうことは先に言ってくれよ死神様！|何考えてんだ！！=What!? Are you serious? Why didn't you start with that? What were you thinking!?
 ソウル！死神様に|そんなにからむんじゃないの！=Soul! Don't talk back to Lord Death like that!
 メデューサ先生が|助かったんだから|それを喜ぼうよ・・・=Let's just be happy that Dr. Medusa is okay.
 わかったよ　マカ=You're right, Maka.
@@ -4081,9 +4081,9 @@
 それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
 もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the infirmary, so you can probably go see her there!
 !FILE:EV0924_080.bscr
-心配かけたわね♪=You were worried about me, weren't you♪?
+心配かけたわね♪=You were worried about me, weren't you?
 死神様から聞いてたけどよ|ケガ一つなかったんだって？=Lord Death already told us, but you're not hurt at all, right?
-そうなの　さらわれたのに|恥ずかしいわ　カスリ傷くらい|つけてくれても良かったのに・・・=Yeah. It's kind of embarrassing, honestly. I was abducted, but I don't have a single thing to show for it. Just a little scratch or bruise would have been nice...
+そうなの　さらわれたのに|恥ずかしいわ　カスリ傷くらい|つけてくれても良かったのに・・・=It's embarrassing. I was abducted, but have nothing to show for it. A little scratch would have been nice...#must be kept short
 それより あなた達|私を助けるために魔女と|戦ってくれたんですって？=But forget about me. I heard you two fought against the witch trying to save me.
 ああ・・・でも結局は|逃げられたんだけどな・・・=Yeah... But we weren't able to defeat her...
 先生を救出したのも|シュタイン博士だし・・・=And in the end Professor Stein had to save you.
@@ -4092,7 +4092,7 @@
 あんまりうれしいから|これをプレゼントするわ♪=I'm in a good mood, so I want to give you this present♪
 ありがとうございます|メデューサ先生！=Thank you so much, Dr. Medusa!
 あらあら　お礼を言うのは|私のほうだと思うけど♪=No, no. It's me who should be thanking you♪
-・・・・・・・・・=.........
+・・・・・・・・・=.........#doesn't seem to be used
 どうしたの？|何を考えているのかしら？=Is everything okay?  You seem lost in thought.
 先生って前にも|魔女にさらわれませんでしたっけ？=Doctor, I could have sworn you had been kidnapped by a witch another time before now.
 あれ　そうだったかしら・・・|ごめんなさい|先生よく覚えてないわ・・・=Oh, how peculiar... Well, I'm sorry, but I don't remember that myself.
@@ -4100,17 +4100,17 @@
 心配かけたわね♪=You were worried about me, weren't you♪?
 !FILE:EV0924_092.bscr
 どうしたんだ博士？|ヒーローがどうしてこんな所で|たそがれてんだ？=What's wrong, Professor? What's the hero of the day doing here looking all sad?
-今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
+今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about the rescue. I didn't use my real strength... like it was a pretend fight...#needs to be kept short
 なんだよヒーロー？|それ自慢かよ！=Not a very modest hero, are you!?
-私達だからいいようなものの|ブラック☆スターだったら|大憤慨してますよ　今ごろ！！=We'll let it slide, but if it was Black☆Star who heard you say that, you'd be getting an earful about it by now!
+私達だからいいようなものの|ブラック☆スターだったら|大憤慨してますよ　今ごろ！！=We'll let it slide, but if it was Black☆Star who heard you say that, you'd be getting an earful about it!
 いや　別に自慢を|していたわけではないのですが・・・=No, it really doesn't have anything to do with me wanting to boast...
-すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget about what I was just saying.
+すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget I said anything.
 別にいいけどよ・・・|ところで博士は　こんな所で何してたんだ？=Really, it's all right, but... what are you doing here anyway?
 ええ|やっと尻尾が見えてきました|その喜びに　うち震えていたところです=Right. I finally saw what she really is. And I'm trembling with excitement.
 よくわかんねェけど|身の危険をビンビン感じてきたぜ・・・=I'm not sure what you're talking about, but I'm starting to feel like I might be in danger...
 なんでかな|急にパパに会いたくなってきちゃった・・・=Why do I suddenly feel like running to Papa?
 !FILE:EV0924_096.bscr
-今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
+今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about the rescue. I didn't use my real strength... like it was a pretend fight...
 !FILE:EV0924_097.bscr
 ねぇ　やっぱり|メデューサ先生って前にも|さらわれたことがあるよ！=You know, I'm positive this was not the first time Dr. Medusa was abducted!
 まだ　そんなこと|言ってんのかよ！しつけェぞ！=Are you still going on about that? Just give it up!
@@ -4186,7 +4186,7 @@
 気のせいだぜ　マカ|あんまり考えすぎると|キッドみたいになるぞ！=It's definitely your imagination. You're starting to look like Kid with all that overthinking!
 もう！|戦闘でもその調子だったら|マカチョップだからね！=Hey! If we get into a fight there will be a Maka Chop waiting for you at the end!
 ソウル　あんた　最近たるんでるんだから|ポカしないようにね=Soul, you've been slacking off recently, so no mistakes today, okay?
-へいへい　わかりました|ご期待に添えるように|せいぜいガンバリますよ！=Yes, it is as you say, milady. I will do all that I can to live up to your expectations!
+へいへい　わかりました|ご期待に添えるように|せいぜいガンバリますよ！=Yes, it is as you say, milady. I will do|all that I can to live up to your expectations!
 ずいぶんと調子がいいじゃん|期待してるよ　ソウル！=You look like you're in pretty good shape, Soul. I'm expecting a lot then!
 なんか　あんた|めんどくさがってない？=Can you like not be so annoying?
 何言ってんだよ|やる気に満ち溢れたこの俺が|わかんねェのか？=What did you say? I can't hear you over all this determination.
@@ -4331,7 +4331,7 @@
 目標は達成したケド・・・|もうちょっと上手くやりたかったね=We were successful, but... I was really hoping things would go smoother than that.
 そんなに落ち込むなよ|気にすることねェぜ=Don't let it get you down. I'm sure it's nothing to worry about.
 もっと簡単だと思ってたケド|ちょうどいい手応えの課題だったね=I was worried it was going to be a little too easy, but this task was all right.
-まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose to do.
+まっ　決定権は職人にあるからな|思うとおりにやってくれていいさ=Well, it's up to the meister to decide, you know. So I'm with you whatever you choose.
 うーん　目標は達成したけど|課題が残る結果になったね・・・=Hmm... We succeeded, but I still have a lot that I need to work on...
 まぁ　帰ってから|復習すればいいんじゃねぇか？=Well, why don't you go back over the assignment once we get back?
 もっともっと強くならないと・・・=I need to become even stronger.
@@ -5417,11 +5417,11 @@
 !FILE:EV0946_000.bscr
 あら　来たのは　あなた達なの・・・=Well, well. Look who's here...
 お前は・・・あの時の・・・=You... You're...
-どうした　マカ！|あの魔女を知ってるのか！？=What is it, Maka!? Don't you know this witch!?
+どうした　マカ！|あの魔女を知ってるのか！？=What is it, Maka!? Do you know this witch!?
 魔剣と戦った時　現れた魔女よ・・・|こいつがメデューサ先生を・・・=It's the witch from when we fought the Demon Sword... She must have taken Dr. Medusa...
 ちょうどいいわ|黒血がアナタ達をどれだけ|侵食したか確かめてあげる♪=It's so nice to see you again. Now let me see how much the black blood has taken over♪
-油断するなよ|・・・といっても　油断しなくても|どうにかなる相手じゃねェけどな=Stay on your guard... As is this is the kind of opponent we could take on without being on our guard.
-あはは・・・ありがとう|作戦なしで突っ込むよ！！=Ahaha... I don't have any strategy, but let's just rush in there!!
+油断するなよ|・・・といっても　油断しなくても|どうにかなる相手じゃねェけどな=Stay on your guard. Not that we'd even need it for someone like her, but!
+あはは・・・ありがとう|作戦なしで突っ込むよ！！=Ahaha, yeah. I don't have any strategy, but let's just rush in there!!
 さぁ　来なさい！|我が子のように愛でてあげるわ♪=Come then! I'll treat you like I would my own children♪
 !FILE:EV0946_100.bscr
 あら　あなた達 また来たの・・・=Oh, so you've come once again...
@@ -5436,7 +5436,7 @@
 待ちなさい！|まだ決着はついてないんだから！=Wait! This isn't over yet!
 落ち着くんだ|これ以上の深追いは危険だぜ|どんな罠があるかもしれねェ・・・=Calm down, Maka. It's too risky to keep chasing after her. She could have some kind of trap set up...
 わかったわ|これ以上はやめておきましょう=You're probably right. We'll let her get away for now.
-よく聞き分けてくれたぜ|ご主人様！=Master really listened to my advice!
+よく聞き分けてくれたぜ|ご主人様！=You're actually going to listen to me for once? I'm honored!
 !FILE:EV0948_000.bscr
 ブレア・・・|ねえ一緒に帰ろう=Blair... Hey, why don't you come back with us?
 いやよ　うるさいから|マカは黙っていて♪=Not gonna happen. Now why don't you do me a favor and zip it♪?
@@ -5628,7 +5628,7 @@
 !FILE:EV0953_212.bscr
 毒だ！マカ！=Poison! Maka!
 !FILE:EV0953_300.bscr
-身体がマヒしてる・・・=I've been paralyzed...
+身体がマヒしてる・・・=I've been paralyzed...#Paralyzed might be too strong for this as you can still move but are slowed down, though I can't think of a good alternative. (It's an electrical attack)
 !FILE:EV0953_301.bscr
 う・・・動き辛い･･･=Ngh! ... It's hard to move...
 !FILE:EV0953_302.bscr
@@ -5820,7 +5820,7 @@
 !FILE:EV0966_032.bscr
 お前達|このごろがんばっているらしいな！=Seems like you guys have been working really hard recently!
 えへへ　うれしいな|ほめられちゃった♪=Hehehe. That was totally a compliment♪ I'm so happy.
-期待の意味をこめて|これを渡しておこう=I'm giving you this with the expectation that you keep it up.
+期待の意味をこめて|これを渡しておこう=I'm giving you this with the expectation that you'll keep it up.
 けっこう　こういうのは|照れくさいもんだな・・・=You take it, Maka. I wouldn't be caught dead holding a thing like that...
 これからも精進するんだぞ！=Keep working diligently!
 !FILE:EV0966_036.bscr
@@ -6081,7 +6081,7 @@
 !FILE:EV0988_301.bscr
 そうか　それも仕方あるまい=Yeah, but there's probably nothing we can do.
 !FILE:EV0988_302.bscr
-ま！ま！ま！|返事はすぐにとは言わないからさ♪=But! But! But! You don't want to give me an answer right away♪?
+ま！ま！ま！|返事はすぐにとは言わないからさ♪=But, but, but--! You don't want to give me an answer right away♪?
 じっくり考えてみて|ちょうだ～い♪=Think about it carefully now♪
 !FILE:EV0988_303.bscr
 そう・・・ガッカリだわ・・・=I see... That's a bit of a let-down...
@@ -8019,7 +8019,7 @@
 うわっ！=Woah!
 きゃっ！=Kyah!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ... Where's Dr. Medusa?
+・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ...Where's Dr. Medusa?
 うざってェ　ヤツラだぜ！=They really piss me off!
 さがしましょう！=We need to find her!
 !FILE:EV1401_402.bscr
@@ -8057,7 +8057,7 @@
 うわっ！=Woah!
 きゃっ！=Kyah!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ... Where's Dr. Medusa?
+・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ...Where's Dr. Medusa?
 うざってェ　ヤツラだぜ！=They really piss me off!
 探しましょう！=We need to find her!
 !FILE:EV1401_452.bscr
@@ -9377,7 +9377,7 @@
 !FILE:EV1924_090.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 死神様から聞いたんですけど|ケガがなくてよかったですね♪=Lord Death told us you didn't have even a scratch on you. I'm so glad♪
-そうなの　さらわれたのに|恥ずかしいわ　カスリ傷くらい|つけてくれても良かったのに・・・=Yeah. It's kind of embarrassing, honestly. I was abducted, but I don't have a single thing to show for it. Just a little scratch or bruise would have been nice...
+そうなの　さらわれたのに|恥ずかしいわ　カスリ傷くらい|つけてくれても良かったのに・・・=It's embarrassing. I was abducted, but have nothing to show for it. A little scratch would have been nice...
 それより あなた達|私を助けるために魔女と|戦ってくれたんですって？=But forget about me. I heard you two fought against the witch trying to save me.
 ええ・・・でも結局は|逃げられてしまったんですけど・・・=Yes... But we had no choice but to run away in the end...
 ちげェよ　椿！|アイツが俺を恐れて|逃げ出したんじゃねェか！=Nuh-uh, Tsubaki! She was so scared of me that she ran away!
@@ -13645,7 +13645,7 @@
 むぅ！=Ngh!
 キャー！=Kyaaa!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ... Where's Dr. Medusa?
+・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ...Where's Dr. Medusa?
 まずい！！=This is bad!!
 早くさがさなきゃ！=We have to hurry and look for her!
 !FILE:EV2401_402.bscr
@@ -13697,7 +13697,7 @@
 むぅ！=Ngh!
 キャー！=Kyaaa!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ... Where's Dr. Medusa?
+・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ...Where's Dr. Medusa?
 まずい！！=This is bad!!
 早く探さなきゃ！=We have to hurry and look for her!
 !FILE:EV2401_452.bscr
@@ -14978,7 +14978,7 @@
 !FILE:EV2924_080.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 父上から聞きました|おケガがなくてなによりです=We heard from father that you weren't at all injured.
-そうなの　さらわれたのに|恥ずかしいわ　カスリ傷くらい|つけてくれても良かったのに・・・=Yeah. It's kind of embarrassing, honestly. I was abducted, but I don't have a single thing to show for it. Just a little scratch or bruise would have been nice...
+そうなの　さらわれたのに|恥ずかしいわ　カスリ傷くらい|つけてくれても良かったのに・・・=It's embarrassing. I was abducted, but have nothing to show for it. A little scratch would have been nice...
 それより あなた達|私を助けるために魔女と|戦ってくれたんですって？=But forget about me. I heard you all fought against the witch trying to save me.
 そうか私達　魔女と|戦ったんだっけ・・・思い出したら|急に怖くなってきた・・・=Yeah, I guess we did fight a witch... I'm getting freaked out again just thinking about it...
 ホントにビビってるね|お姉ちゃん！=You're such a scaredy-cat, sis!
@@ -17040,7 +17040,7 @@
 !FILE:EV2966_022.bscr
 お前達|このごろがんばっているらしいな！=Seems like you guys have been working really hard recently!
 いいね　いいね|ほめられるのは好きだぜ！=Goody goody! I like to be praised!
-期待の意味をこめて|これを渡しておこう=I'm giving you this with the expectation that you keep it up.
+期待の意味をこめて|これを渡しておこう=I'm giving you this with the expectation that you'll keep it up.
 おお　ありがとうございます=Oh! Thank you very much.
 これからも精進するんだぞ！=Keep working diligently!
 !FILE:EV2966_026.bscr
@@ -17689,7 +17689,7 @@
 俺のフォローが|足りなかったようだ・・・=It looks like I failed to back you up...
 こんなことになってしまって|すまなかった・・・=I'm sorry that I've gotten this way...
 !FILE:EV9963_070.bscr
-やる気になってくれたかな？|でもその前に・・・=You're finally motivated, huh? But before that...
+やる気になってくれたかな？|でもその前に・・・=You're finally motivated, huh?|But before that...
 もう一度　詳しい内容を|説明するよ～ん♪=Let me explain the finer details of the assignment again♪
 !FILE:EV9963_071.bscr
 まったく君達は・・・|困ったもんだね・・・=You all really struggled, huh...?
@@ -18018,9 +18018,9 @@
 ただし　外での私は違います|いずれその姿を|ハッキリとお見せする機会があるでしょう=But I'm a different person in the field. One of these days you'll get to see what that side of me is really like.#must be kept short
 この髪型については|今は語らないでおきましょう=Don't ask me about my hairstyle right now.#seen
 いつか|その理由を話す時がくるかもしれませんね=Maybe someday I'll be able to tell you the reason behind it...
-おや|こんな所にいてもいいのですか？=Um, are we allowed to be here?
+おや|こんな所にいてもいいのですか？=Um, is it all right for you to be here right now?#seen
 !FILE:EV9967_121.bscr
-おや|こんな所にいてもいいのですか？=Um, are we allowed to be here?
+おや|こんな所にいてもいいのですか？=Um, is it all right for you to be here right now?
 !FILE:EV9967_200.bscr
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
 あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
@@ -18113,7 +18113,7 @@
 根性が足りないぞ　お前達|次は　がんばれよ=You lack guts! Try harder next time!
 わるい　わるい|一応手加減はしたんだが|やりすぎちゃったか・・・=No, it's my fault. I've tried to go easy on you, but it looks like I've been overly soft...
 !FILE:EV9981_200.bscr
-よく来ましたね　君達|さあ　好きなものを選んでください=I'm glad you guys came. Now, please choose that pleases you.
+よく来ましたね　君達|さあ　好きなものを選んでください=I'm glad you guys came. Now, please choose whichever one you'd like.#Stein's mission select welcome.
 !FILE:EV9981_210.bscr
 おや？　パートナーは|どうしましたか？=Hey, where's your partner?
 パートナーがいないんじゃ|受けることはできませんよ=You won't be able to take on any missions without your partner.
@@ -18152,7 +18152,7 @@
 俺と違って生身なのだから|あまり無理をするんじゃないぞ！=Unlike me, you're still flesh and blood, so don't get carried away!
 !FILE:EV9981_320.bscr
 これにするのか？=This one then?
-お前達なら問題なく|終わらせられるだろうな=You guys'll be able to finish this without any problems no doubt.
+お前達なら問題なく|終わらせられるだろうな=No doubt you guys'll be able to finish this without any problems.
 ちょうどよさそうじゃないか|俺もこれを勧めるぞ=I'd go so far as to recommend this one. It looks perfect for you.
 止めはしないが|気を引き締めろよ=I won't try to stop you, but make sure you're ready for this.
 !FILE:EV9981_330.bscr
@@ -18221,7 +18221,7 @@
 最後までやり遂げたようだな|これが　お前達の成績だ=Good job seeing the mission through to the end. Here are your results.
 すごいじゃないかお前達！|これなら　将来|三つ星職人になれるかもな！=Amazing work, you guys! Keep this up and you'll definitely be ranked three- stars in the future.#added space for improved wordwrap
 よくやったなお前達|ここまでできるのは|すごいことだぞ=Bravo. That was some great work you did.
-よくがんばったなお前達|この調子で　次もがんばれよ=You guys really gave it your all.|Keep it up for next time too.
+よくがんばったなお前達|この調子で　次もがんばれよ=You guys really gave it your all.|Keep it up for next time too!
 ちょっと　微妙な成績だな|お前達ならもっと良くなるはずだ|もう少し鍛えてみたらどうだ？=That was a little shaky. I know you guys are capable of more. How about a few more drills?
 いい成績とは言えないが|よく最後までやり遂げたな|そこは評価するぞ=I can't say you did well, but you kept trying to the very end. I can appreciate that.
 お前達やったな！|レベルが上がったようだぞ=Look at that, you guys! It looks like you've gone up a level.
@@ -18342,7 +18342,7 @@
 %_te挑戦　昼=%_teDefiance: Noon
 %_te挑戦　夕方=%_teDefiance: Evening
 %_te挑戦　夜=%_teDefiance: Night
-%_te反撃=%_teCounteroffensive
+%_te反撃=%_teCounteroffensive#too long. Counteroffense would fit although it's not a real word
 %_te反撃　昼=%_teCounteroffensive: Noon
 %_te反撃　夕方=%_teCounteroffensive: Evening
 %_te反撃　夜=%_teCounteroffensive: Night
@@ -18434,8 +18434,8 @@
 %_d[0]匹=%_d[0] x
 %_d[0]回=%_d[0] x
 %_d[0]回=%_d[0] x
-%_tr+1ランク=%_trRank +1
-%_tr-1ランク=%_trRank -1
+%_tr+1ランク=%_trGrade +1
+%_tr-1ランク=%_trGrade -1
 %_trなし=%_trNone
 Wii本体保存メモリの空き容量が|不足しています。データを保存する場合は|「Wiiメニューのデータ管理画面に戻る」|を選択し、セーブデータ画面でデータを|SDカードに移動するか、データを消去して|１ブロックの空き容量を確保してください。=Insufficient free space in Wii system memory. First, select 'Return to Wii Data Management Screen'. Then from the save data screen, delete or transfer data to an SD card to secure a block of free space.
 Wii本体保存メモリの空きファイル数が|不足しています。データを保存する場合は|「Wiiメニューのデータ管理画面に戻る」|を選択し、セーブデータ画面でデータを|SDカードに移動するか、データを|消去してください。=Insufficient empty files in Wii system memory. To save, first select 'Return to Wii Data Management Screen'. Then from the save data screen, delete or transfer data to an SD card.
@@ -18791,7 +18791,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te訓練君で実戦に備えろ！=%_teTrain with a Buddy!
 シュタイン博士が作った|敵にソックリな%_dc[196,0,0]訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[199,133,84]of Professor Stein's %_dc[196,0,0]Training Buddies %_dc[199,133,84]that look just like the enemy!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
-%_teプレゼントは肉体労働？=%_teGrafting for a Gift?
+%_teプレゼントは肉体労働？=%_teA Labor of Love?
 デスサイズの代わりに|%_dc[0,196,0]ヒゲグサ%_dc[199,133,84]を見つけて|シュタイン博士に渡そう！=Take over for Spirit|and find a %_dc[0,196,0]Whiskeroot %_dc[199,133,84]for Professor Stein!
 ヒゲグサ%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Whiskeroot%_dc[199,133,84]!
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
@@ -18810,7 +18810,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
 %_te謎の敵襲来！=%_teA Mysterious Enemy Invades!
-ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity and objective!
+ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity!
 ツギハギ研究所を襲った|犯人を倒せ！=Defeat the culprit of the attack on the Patchwork Lab!
 %_te訓練君で実戦に備えろ！=%_teTrain with a Buddy!
 シュタイン博士が作った|敵にソックリな%_dc[196,0,0]訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[199,133,84]of Professor Stein's %_dc[196,0,0]Training Buddies %_dc[199,133,84]that look just like the enemy!
@@ -18834,7 +18834,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
 %_te謎の敵襲来！=%_teA Mysterious Enemy Invades!
-ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity and objective!
+ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity!
 ツギハギ研究所を襲った|犯人を倒せ！=Defeat the culprit of the attack on the Patchwork Lab!
 %_te訓練君で実戦に備えろ！=%_teTrain with a Buddy!
 シュタイン博士が作った|敵にソックリな%_dc[196,0,0]訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[199,133,84]of Professor Stein's %_dc[196,0,0]Training Buddies %_dc[199,133,84]that look just like the enemy!
@@ -18858,7 +18858,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
 %_te謎の敵襲来！=%_teA Mysterious Enemy Invades!
-ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity and objective!
+ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity!
 ツギハギ研究所を襲った|犯人を倒せ！=Defeat the culprit of the attack on the Patchwork Lab!
 %_te特別実戦模擬訓練！=%_teSpecial Combat Simulation Training!
 備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84], and improve your skills!

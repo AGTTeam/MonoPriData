@@ -68,6 +68,8 @@ Blair - Blair often refers to herself in the third-person; does Blair have a nic
 
 Black Star - Black Star can refer to himself in the third-person, often in place of 俺様 (ore-sama); Black Star often uses the terms 大物 and 小物, big thing and small thing respectively, to talk about himself and others, how is ‘small thing’ translated in the official anime dub? I translated it numerous ways (small-fry, weakling, small people, little guys, etc.), it is important to make sure it isn’t translated as little people as that could be considered offensive
 
+Kid - Does he ever use a move called the 虫酸ダッシュ (mushizu dash)?
+
 
 Grimoire - I've taken to changing his laugh from Hehehe to Hmhmhm to differentiate it from the awkward laugh that Tsubaki and Maka use.
 
