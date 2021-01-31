@@ -2413,7 +2413,7 @@
 マカに注意したら|ケンカになっちまったんだ|まったく　めんどくせェ・・・=You have to be so careful around Maka if you don't want to get into a fight. It's such a pain.
 ソウル　お前ェって|案外　大物かもな？=You're a bigger man that I thought, Soul.
 はぁ　なんでだよ？=Huh? Why do you say that?
-俺様みたいなスターでも|あの二人の間に入るのは|躊躇するのに　お前ときたら・・・=Even star like me would hesitate to get in the middle of a fight between those two, but for someone like you...
+俺様みたいなスターでも|あの二人の間に入るのは|躊躇するのに　お前ときたら・・・=Even a star like me would hesitate to get in the middle of a fight between those two, but for someone like you...
 言っとくがなブラック☆スター|やりたくてやってるわけじゃねェぞ=This goes without saying, but I don't do it because I think it's fun.
 !FILE:EV0420_026.bscr
 ソウル　お前ェって|案外　大物かもな？=You're a bigger man that I thought, Soul.
@@ -2825,7 +2825,7 @@
 アルバムですか・・・=A photo album?
 この頃　俺もよく|自分のアルバムを見るように|なりました・・・=Lately, I've been thinking about looking through an album of my own.
 そして過ぎ去ってしまった|過去を惜しんでいます・・・=That time is long passed. What I wouldn't give to go back...
-博士が感傷的になるなんて|キャラじゃねェんじゃねェか？=I didn't take for the sentimental type.
+博士が感傷的になるなんて|キャラじゃねェんじゃねェか？=I didn't take you for the sentimental type.
 昔を思い返せば|誰でも感傷的になります・・・=Who doesn't get sentimental thinking about the past?
 ああ　昔に戻って|もう一度自分の体を|調べなおしたい・・・=Yes. I would kill to go back in time and experiment on my body once more...
 やっぱり　この人|めちゃくちゃだわ・・・=Why is he always so creepy?
@@ -4258,7 +4258,7 @@
 !FILE:EV0932_050.bscr
 ブレアと戦うんだから|あいつのサポートは|ないって事だぜ　マカ！=Since it's Blair we're fighting, she obviously won't be helping us!
 !FILE:EV0933_010.bscr
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 クールだぜ！|やったな！=Cool! We nailed it!
 目標達っ～成っ！！=Mission Complete!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
@@ -4270,7 +4270,7 @@
 ま　これで俺もクールな男に|一歩近づいたってわけだな！=Hmph! I just got that much cooler!
 目標達成～！！|今回は色々と経験できて|おもしろかったね♪=Success!! That was some good experience. And it was pretty fun too♪
 まっ　もうちょっと|歯応えがあってもよかったケドな=It would have been better with a bit more bite to it, but ah well.
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 目標達っ～成っ！！=Mission complete!!
 クールだぜ！|やったな！=Cool! We nailed it!
@@ -4282,7 +4282,7 @@
 まっ　もうちょっと|歯応えがあってもよかったケドな=It would have been better with a bit more bite to it, but ah well.
 今回のはちょっと簡単だったかも？=That was pretty simple, wasn't it?
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 目標達っ～成っ！！=Mission complete!!
 まぁ　そーだな|俺達なら楽勝な奴だったな=Yeah! He didn't stand a chance against us!
@@ -4393,7 +4393,7 @@
 お星様がみえる～=I'm seeing stars...
 お前さ・・・=You...
 !FILE:EV0933_020.bscr
-あ！・・・あれ？|そういえばここドコ？もしかして迷った？|はぅ・・・どう帰ればいいんだろう・・・=...Huh? I don't recognize this place. Are we lost? Hm... How are we going to get back...?
+あ！・・・あれ？|そういえばここドコ？もしかして迷った？|はぅ・・・どう帰ればいいんだろう・・・=...Huh? I don't recognize this place. Are we lost? Hm... How are we going to get back?
 と・も・か・く！|さっさと帰って休も～=What-everrr! I'm going back and resting immediately.
 目標も達成したことだし|たまにはゆっくり歩いて帰ろっか？=Our tasks are all finished, so I say we take our time on the walk back.
 さてと・・・|学校に帰るぞ～！=Now then... Time to get back to school!
@@ -4411,22 +4411,22 @@
 私の身体は　無敵なのだぁ～=With God on my side, I am immortal!
 お前達は何ものだぁ～？=Who are you?
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-死神の手先でも|私を止められないのだぁ～！=Even the rrreaper's pawns are useless to stop me!
+死神の手先でも|私を止められないのだぁ～！=Even Death's pawns are useless to stop me!
 頑丈な私の身体！|ほれぼれするだろ～？=Impressed? My body is as strong as steel!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 !FILE:EV0934_030.bscr
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV0934_031.bscr
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
@@ -4456,33 +4456,33 @@
 !FILE:EV0934_035.bscr
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV0934_040.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
 いいからいくよ！　|ソウル！=We should be good to go! Come on, Soul!
-なんか弱っちそうな奴だな・・・=This guy looks pretty weak...
+なんか弱っちそうな奴だな・・・=This guy looks pretty weak.
 ソウル！|やっちゃうよ！=Let's do it, Soul!
 さっさと片付けようぜ！=Let's take care of this quickly!
 気を抜かないでよ！ソウル！=Stay on your guard, Soul!
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 !FILE:EV0934_041.bscr
 油断するなよ！=Don't be reckless now!
 よし！|行くよ　ソウル！=Okay! Let's go, Soul!
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 いくぞ！マカ！=Let's go, Maka!
 ちゃんと波長を合わせてよね！ソウル！=Keep your soul wavelength in sync with mine, Soul!
 マカ！|クールに決めようぜ！=Let's make this cool, Maka!
 ソウル！|最初から本気で行くよ！=Let's take this seriously, Soul!
 !FILE:EV0934_042.bscr
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
-なんか強そうな奴だな・・・=This guy looks pretty tough...
+なんか強そうな奴だな・・・=This guy looks pretty tough.
 がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
-イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your distance.
+イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane. Definitely keep your distance.
 なんとかするよ！ソウル！=Let's do it, Soul!
-うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck... I don't really want to have anything to do with this guy...
+うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck! I don't really want to have anything to do with this guy.
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_100.bscr
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
@@ -4539,42 +4539,42 @@
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 !FILE:EV0934_200.bscr
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincible!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
-死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
+絶望に打ちひしがれるのだぁ～！=Tremble in fear!
+死神の手先が|何をしても無駄だぁ～！=There is nothing the reaper's followers can do! I am invincible!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
-私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
-ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
+私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my way!
+ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mwahaha... You cannot defeat me!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Stop your useless struggling and hand over your souls!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV0934_230.bscr
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 !FILE:EV0934_231.bscr
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 !FILE:EV0934_232.bscr
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
 鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
@@ -4599,19 +4599,19 @@
 いいからいくよ！　|ソウル！=We should be good to go! Come on, Soul!
 マカ！|クールに決めようぜ！=Let's make this cool, Maka!
 ソウル！|最初から本気で行くよ！=Let's take this seriously, Soul!
-なんか弱っちそうな奴だな・・・=This guy looks pretty weak...
+なんか弱っちそうな奴だな・・・=This guy looks pretty weak.
 ソウル！|やっちゃうよ！=Let's do it, Soul!
-なんか強そうな奴だな・・・=This guy looks pretty tough...
+なんか強そうな奴だな・・・=This guy looks pretty tough.
 がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 さっさと片付けようぜ！=Let's take care of this quickly!
 気を抜かないでよ！ソウル！=Stay on your guard, Soul!
 いくぞ！マカ！=Let's go, Maka!
 ちゃんと波長を合わせてよね！ソウル！=Keep your soul wavelength in sync with mine, Soul!
-イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your distance.
+イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane. Definitely keep your distance.
 なんとかするよ！ソウル！=Let's do it, Soul!
-うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck... I don't really want to have anything to do with this guy...
+うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck! I don't really want to have anything to do with this guy.
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_330.bscr
 ＨＡ！ＨＡ！=Ha! Ha!
@@ -4659,29 +4659,29 @@
 !FILE:EV0934_340.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
 いいからいくよ！　|ソウル！=We should be good to go! Come on, Soul!
-なんか弱っちそうな奴だな・・・=This guy looks pretty weak...
+なんか弱っちそうな奴だな・・・=This guy looks pretty weak.
 ソウル！|やっちゃうよ！=Let's do it, Soul!
 さっさと片付けようぜ！=Let's take care of this quickly!
 気を抜かないでよ！ソウル！=Stay on your guard, Soul!
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 !FILE:EV0934_341.bscr
 油断するなよ！=Don't be reckless now!
 よし！|行くよ　ソウル！=Okay! Let's go, Soul!
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 いくぞ！マカ！=Let's go, Maka!
 ちゃんと波長を合わせてよね！ソウル！=Keep your soul wavelength in sync with mine, Soul!
 マカ！|クールに決めようぜ！=Let's make this cool, Maka!
 ソウル！|最初から本気で行くよ！=Let's take this seriously, Soul!
 !FILE:EV0934_342.bscr
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
-なんか強そうな奴だな・・・=This guy looks pretty tough...
+なんか強そうな奴だな・・・=This guy looks pretty tough.
 がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
-イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your distance.
+イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane. Definitely keep your distance.
 なんとかするよ！ソウル！=Let's do it, Soul!
-うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck... I don't really want to have anything to do with this guy...
+うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck! I don't really want to have anything to do with this guy.
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_430.bscr
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
@@ -4815,29 +4815,29 @@
 !FILE:EV0934_640.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
 いいからいくよ！　|ソウル！=We should be good to go! Come on, Soul!
-なんか弱っちそうな奴だな・・・=This guy looks pretty weak...
+なんか弱っちそうな奴だな・・・=This guy looks pretty weak.
 ソウル！|やっちゃうよ！=Let's do it, Soul!
 さっさと片付けようぜ！=Let's take care of this quickly!
 気を抜かないでよ！ソウル！=Stay on your guard, Soul!
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 !FILE:EV0934_641.bscr
 油断するなよ！=Don't be reckless now!
 よし！|行くよ　ソウル！=Okay! Let's go, Soul!
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
 いくぞ！マカ！=Let's go, Maka!
 ちゃんと波長を合わせてよね！ソウル！=Keep your soul wavelength in sync with mine, Soul!
 マカ！|クールに決めようぜ！=Let's make this cool, Maka!
 ソウル！|最初から本気で行くよ！=Let's take this seriously, Soul!
 !FILE:EV0934_642.bscr
-まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak...?
+まったく・・・|メチャクチャな奴だぜ・・・=Geez... Who is this freak?
 ソウル！|さっさと終わらせるよ！=Soul! Let's end this now!
-なんか強そうな奴だな・・・=This guy looks pretty tough...
+なんか強そうな奴だな・・・=This guy looks pretty tough.
 がんばるしかない！！　|いくわよ　ソウル！=We've got to give it our all!!|Soul, let's go!
-イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane... Definitely keep your distance.
+イっちゃってる奴だなぁ・・・|近づかないほうが良くねェか？=This guy's insane. Definitely keep your distance.
 なんとかするよ！ソウル！=Let's do it, Soul!
-うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck... I don't really want to have anything to do with this guy...
+うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck! I don't really want to have anything to do with this guy.
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_730.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
@@ -4932,7 +4932,7 @@
 !FILE:EV0935_032.bscr
 ぐぉぉぉ・・・|私の身体がぁっぁ！！！=Rooooh... My bodyyyy!!!
 !FILE:EV0935_040.bscr
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 クールだぜ！|やったな！=Cool! We nailed it!
 目標達っ～成っ！！=Mission complete!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
@@ -4944,7 +4944,7 @@
 ま　これで俺もクールな男に|一歩近づいたってわけだな！=Hmph! I just got that much cooler!
 目標達成～！！|今回は色々と経験できて|おもしろかったね♪=Success!! That was some good experience. And it was pretty fun too♪
 まっ　もうちょっと|歯応えがあってもよかったケドな=It would have been better with a bit more bite to it, but ah well.
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 目標達っ～成っ！！=Mission complete!!
 クールだぜ！|やったな！=Cool! We nailed it!
@@ -4956,7 +4956,7 @@
 まっ　もうちょっと|歯応えがあってもよかったケドな=It would have been better with a bit more bite to it, but ah well.
 今回のはちょっと簡単だったかも？=That was pretty simple, wasn't it?
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 まっ　俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 目標達っ～成っ！！=Mission complete!!
 まぁ　そーだな|俺達なら楽勝な奴だったな=Yeah! He didn't stand a chance against us!
@@ -4998,7 +4998,7 @@
 これで目標達成ね♪=And that makes another successful mission♪
 よっしゃ！終わったぜ～♪=Sweet! It's finished♪
 !FILE:EV0935_042.bscr
-今回は思いのほか面倒な奴だったなぁ・・・|次はもうちょっと慎重に選ぼう・・・=That guy was way more annoying than I expected... Let's choose our targets more carefully from now on...
+今回は思いのほか面倒な奴だったなぁ・・・|次はもうちょっと慎重に選ぼう・・・=That guy was way more annoying than I expected. Let's choose our targets more carefully from now on.
 そうだな|ちょっと危なかった時もあったしな=Yeah. Things were looking pretty dicey there for a minute.
 もっと難しいと思ってたケド|ちょうどいい手応えの課題だったね=I was expecting more of a challenge, but this task wasn't so bad.
 おう！|ボチボチだったな！=Yeah! That went really smoothly!
@@ -5067,7 +5067,7 @@
 お星様がみえる～=I'm seeing stars...
 お前さ・・・=You...
 !FILE:EV0935_050.bscr
-あ！・・・あれ？|そういえばここドコ？もしかして迷った？|はぅ・・・どう帰ればいいんだろう・・・=...Huh? I don't recognize this place. Are we lost? Hm... How are we going to get back...?
+あ！・・・あれ？|そういえばここドコ？もしかして迷った？|はぅ・・・どう帰ればいいんだろう・・・=...Huh? I don't recognize this place. Are we lost? Hm... How are we going to get back?
 と・も・か・く！|さっさと帰って休も～=What-everrr! I'm going back to rest immediately.
 目標も達成したことだし|たまにはゆっくり歩いて帰ろっか？=Our tasks are all finished, so I say we take our time on the walk back.
 さてと・・・|学校に帰るぞ～！=Now then... Time to get back to school!
@@ -5730,16 +5730,16 @@
 行こう！|ソウル！=Soul! Let's go!
 おう！|クールにな！=Yeah! Be cool!
 !FILE:EV0956_000.bscr
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 クールだぜ！|やったな！=Cool! We nailed it!
 !FILE:EV0956_009.bscr
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 クールだぜ！|やったな！=Cool! We nailed it!
 !FILE:EV0956_010.bscr
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 まっ俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 !FILE:EV0956_019.bscr
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 まっ俺達に掛かれば|あの程度は楽勝だな！=Yeah. If they're going to try and challenge us, they'll have to make it harder than that!
 !FILE:EV0956_020.bscr
 目標達っ～成っ！！=Mission complete!!
@@ -5754,10 +5754,10 @@
 目標達っ～成っ！！=Mission complete!!
 クールだぜ！|やったな！=Cool! We nailed it!
 !FILE:EV0956_040.bscr
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 !FILE:EV0956_049.bscr
-やったぁーー！！|目標達成ね！！=Yaaayyy!!! We accomplished our goal!!
+やったぁーー！！|目標達成ね！！=Yaaayyy!!! Goal accomplished!!
 いい感じじゃねぇか！=Feeling pretty good, huh?
 !FILE:EV0956_050.bscr
 目標達っ～成っ！！=Mission complete!!
@@ -9704,22 +9704,22 @@
 私の身体は　無敵なのだぁ～=With God on my side, I am immortal!
 お前達は何ものだぁ～？=Who are you?
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-死神の手先でも|私を止められないのだぁ～！=Even the rrreaper's pawns are useless to stop me!
+死神の手先でも|私を止められないのだぁ～！=Even Death's pawns are useless to stop me!
 頑丈な私の身体！|ほれぼれするだろ～？=Impressed? My body is as strong as steel!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 !FILE:EV1934_030.bscr
 お前達は何ものだぁ～？=Who are you?
 俺様を知らないヤツが|まだいるとは　驚きだぜ！=I didn't think it was possible that there was still someone out there who doesn't know who I am!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV1934_031.bscr
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 ビッグなスターの輝きに|目が眩むだろ！=You must be starstruck running into a star as big as me!
@@ -9832,42 +9832,42 @@
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 !FILE:EV1934_200.bscr
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincible!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
-死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
+絶望に打ちひしがれるのだぁ～！=Tremble in fear!
+死神の手先が|何をしても無駄だぁ～！=There is nothing the reaper's followers can do! I am invincible!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
-私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
-ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
+私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my way!
+ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mwahaha... You cannot defeat me!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Stop your useless struggling and hand over your souls!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV1934_230.bscr
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+私の身体は　無敵なのだぁ～=My body is invincible!
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 俺様の存在自体が無敵だぁ！=My very existence would be too much for you!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 !FILE:EV1934_231.bscr
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 ビッグなスターの輝きに|目が眩むだろ！=You must be starstruck running into a star as big as me!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 ひゃっはぁ～！|暗殺されたいヤツはどいつだー？！=Yahoo! Are you the one that wants to be assassinated!?
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 なに言ってんだ　コイツ？|全ては俺様のためにあるんだよ！=What are you talking about, you bastard? They'll all be mine!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 まったく　しょうがねェヤツだぜ！|ひやっはははははは☆=This guy is totally hopeless! Yahahahahahaha☆
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 !FILE:EV1934_232.bscr
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
 鬼神の卵と化した魂を持つ者が|俺様より目立つんじゃねーぜ！=Nobody whose soul has become a kishin egg is going to take over my spotlight!
@@ -9884,7 +9884,7 @@
 !FILE:EV1934_235.bscr
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 なに言ってんだ　コイツ？|全ては俺様のためにあるんだよ！=What are you talking about, you bastard? They'll all be mine!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 !FILE:EV1934_300.bscr
 気をつけてね！|ブラック☆スター！=Be careful, Black☆Star!
 椿！|最初から飛ばすぜっ！=This'll be done in no time, Tsubaki!
@@ -15308,22 +15308,22 @@
 私の身体は　無敵なのだぁ～=With God on my side, I am immortal!
 お前達は何ものだぁ～？=Who are you?
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!#Is this too much? xD
-死神の手先でも|私を止められないのだぁ～！=Even the rrreaper's pawns are useless to stop me!
+死神の手先でも|私を止められないのだぁ～！=Even Death's pawns are useless to stop me!
 頑丈な私の身体！|ほれぼれするだろ～？=Impressed? My body is as strong as steel!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 !FILE:EV2934_030.bscr
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV2934_031.bscr
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
 鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
@@ -15409,42 +15409,42 @@
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 !FILE:EV2934_200.bscr
-無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincibleee!
+無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincible!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
-絶望に打ちひしがれるのだぁ～！=Tremble in fearrrr!
-死神の手先が|何をしても無駄だぁ～！=There is nothing the Death's pawns can do! I am invincibleee!
+絶望に打ちひしがれるのだぁ～！=Tremble in fear!
+死神の手先が|何をしても無駄だぁ～！=There is nothing the reaper's followers can do! I am invincible!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahahaha... I cannot be killed! Not by anyone!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
-私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my wayyy!
-ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
+私の身体の前では|お前達は何もできないのだぁ～=There's nothing you can do to get in my way!
+ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mwahaha... You cannot defeat me!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Stop your useless struggling and hand over your souls!
-私に敵うとでも思っているのかぁ～？=You'rrre no match for me!
+私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV2934_230.bscr
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 !FILE:EV2934_231.bscr
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-私の身体の前では|お前達は何もできないのだぁ～=You won't be able to do anything to stop me!
+私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 !FILE:EV2934_232.bscr
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
@@ -15455,13 +15455,13 @@
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
 見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ムハハハハ・・・|私には何も効かないのだぁ～！=Mwahahaha... Your attacks are useless against meee!
-ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mh-haha... You cannot defeat me!
+ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mwahaha... You cannot defeat me!
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 !FILE:EV2934_235.bscr
-私の身体は　無敵なのだぁ～=My body is invincibleee!
+私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I will not be stopped by aaanyone!
+ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 !FILE:EV2934_330.bscr
 ＨＡ！ＨＡ！=Ha! Ha!
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
@@ -18143,7 +18143,7 @@
 よく来たな　お前達|さあ　どれに挑戦するか選んでくれ=Look who's here. Go ahead and choose which challenge you want to face.
 !FILE:EV9981_310.bscr
 む？　パートナーは|どうしたんだ？=Hm? What happened to your partner?
-全員　揃ってないんじゃ|受けさせるわけにはいかないぞ=If your whole team isn't here I can't let you take on a mission.
+全員　揃ってないんじゃ|受けさせるわけにはいかないぞ=I can't let you take on a mission if your whole team isn't here.
 揃ってから　また来るんだな=Round them up and come back later.
 何かやるべきことがあるんだろう？|それをやったら来い！=Aren't you supposed to be taking care of something else? Come back once it's finished!
 俺は昔から察しのいい|そんな男だった・・・=I've always been good at reading people. That's the kind of man I was...
