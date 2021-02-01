@@ -1,4 +1,4 @@
-﻿!FILE:COMMON
+!FILE:COMMON
 なし=None
 まだ見ることができません=You can't view this yet.
 午前授業=Morning Class
@@ -886,7 +886,7 @@
 !FILE:EV0200_203.bscr
 ん　どうした　トイレか？|早く戻ってくるんだぞ=Huh? What is it? You need a bathroom break already? Hurry up and get back here.
 !FILE:EV0200_204.bscr
-いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! THAT is the kind of man I was!!
+いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! That's the kind of man I was!!
 !FILE:EV0200_400.bscr
 おい　どうした？|しっかりしてくれ　頼むぞ=Hey! What happened? Pull yourself together.
 !FILE:EV0200_401.bscr
@@ -2905,7 +2905,7 @@
 敵の特性やその地形など|考えて戦うことになれるための訓練だ|手元のプリントをよく読め=This training will directly assess fighting against the terrain and specific characteristics of our enemy. Be sure to read the handouts in front of you!
 !FILE:EV0500_011.bscr
 よし|理解できたものから始めろ！=Now! Those that have understood the exercise are up first!
-いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! THAT is the kind of man I was!!
+いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! That's the kind of man I was!!
 !FILE:EV0500_012.bscr
 よし|次！=Good. Next!
 !FILE:EV0500_013.bscr
@@ -4049,7 +4049,7 @@
 メデューサ先生が|魔女にさらわれたんだろ？=So Dr. Medusa really has been taken by a witch?
 私達にメデューサ先生を|救い出せということですね！=You're going to tell us to rescue her, right!?
 ま　ブッチャけ|そ～ゆ～ことなんだけどね♪=Well, actually... about that...♪
-これでも君達に|頼むかどうか|結構　悩んだんだよ～ん♪=I've been pretty worried about whether I should to ask you guys to take care of this one♪
+これでも君達に|頼むかどうか|結構　悩んだんだよ～ん♪=I've been pretty worried about whether I should ask you guys to take care of this one♪
 何せ相手は|魔女なんだから♪=With the enemy being a witch and all♪
 くれぐれも慎重に|考えてちょうだい！|断るのも勇気だよ～ん♪=Please give it some real thought!|It takes courage to say no too♪
 わかりました|死神様！=We will, Lord Death!
@@ -5161,7 +5161,7 @@
 !FILE:EV0940_030.bscr
 君達を解体したくなってきた♪=Perhaps I'll dissect you after all♪
 さぁ　来い|解剖してやろう=Come here now. Don't worry. It's only a little autopsy♪
-さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral...?
+さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral?
 !FILE:EV0940_031.bscr
 来い！|お前達の魂をみせてみろ！=Come here! I want to take a peek at your souls!
 さぁ　来なさい|君達がどれだけ成長したか|見てあげましょう=Well, come on now. Let me see how much you guys have improved.
@@ -5210,21 +5210,21 @@
 注意しろよ！マカ！=Don't get cocky, Maka!
 負けないんだからっ！！=We won't lose!!
 !FILE:EV0940_130.bscr
-いくぞ！一撃入魂！！|俺はそんな男だったぁぁぁ！！=Go! Put all your strength into a single blow!! Thaaat's the kind of man I was!!
-いくぞ！直球勝負！！|俺はそんな男だったぁぁぁ！！=Go! Take the straightforward approach!! Thaaat's the kind of man I was!!
-いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110%!! That's the kind of man I waaaas!!
+いくぞ！一撃入魂！！|俺はそんな男だったぁぁぁ！！=Go! Put all your strength into a single blow!! That's the kind of man I was!!
+いくぞ！直球勝負！！|俺はそんな男だったぁぁぁ！！=Go! Take the straightforward approach!! That's the kind of man I was!!
+いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110%!! That's the kind of man I was!!
 !FILE:EV0940_131.bscr
-いくぞ！謹厳実直！！|俺はそんな男だったぁぁぁ！！=Go strictly and honestly!! Thaaat's the kind of man I was!!
-いくぞ！|俺は真面目一筋！！|そんな男だったぁぁぁ！！=Go with a single-minded earnestness!! Thaaat's the kind of man I was!!
-いくぞ！正々堂々！！|俺はそんな男だったぁぁぁ！！=Go and fight fair and square!! Thaaat's the kind of man I was!!
+いくぞ！謹厳実直！！|俺はそんな男だったぁぁぁ！！=Go directly and honestly!! That's the kind of man I was!!
+いくぞ！|俺は真面目一筋！！|そんな男だったぁぁぁ！！=Go with a single-minded earnestness!! That's the kind of man I was!!
+いくぞ！正々堂々！！|俺はそんな男だったぁぁぁ！！=Go and fight fair and square!! That's the kind of man I was!!
 !FILE:EV0940_132.bscr
-いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! THAT is the kind of man I was!!
-いくぞ！|俺はけっこうせっかち|そんな男だったぁぁぁ！！=No more waiting! I'm getting impatient! That's the kind of man I waaas!!
-いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I waaaas!!
+いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! That's the kind of man I was!!
+いくぞ！|俺はけっこうせっかち|そんな男だったぁぁぁ！！=No more waiting! I'm getting impatient! That's the kind of man I was!!
+いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I was!!
 !FILE:EV0940_210.bscr
 ブレアをご指名なのね♪|張り切っちゃうんだから♪=You picked me? Probably because I'm so enthusiastic♪
 にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Nyaha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
-ようやくブレアの出番なのね|ずいぶん待たされちゃった♪=It's finally time for my debut perfomance. Sorry for making you wait so terribly long♪
+ようやくブレアの出番なのね|ずいぶん待たされちゃった♪=It's finally time for my debut performance. Sorry for making you wait so terribly long♪
 !FILE:EV0940_211.bscr
 今回はブレアが相手だよ♪|退屈させないでね♪=I'll be your opponent this time♪ Try not to bore me♪
 にゃはははは♪|今回はブレアが先生なんだよ=Nyahahaha♪ I'll be your teacher this time♪
@@ -5235,10 +5235,10 @@
 にゃは♪|バイトだけどブレアは先生|とっても偉いのよ♪=Nyaha♪ It's just a part-time job, but I'm a pretty great teacher, huh♪?
 !FILE:EV0940_220.bscr
 ブレアが相手か・・・|どうも闘志がわきにくいのよね・・・=Blair is our opponent... Doesn't really excite me, you know...
-まぁ　とにかく|油断だけはしないでくれ・・・=Well we can't back out now anyway...
-はぁ・・・わかった=Yeah, I know...
+まぁ　とにかく|油断だけはしないでくれ・・・=Well we can't back out now anyway.
+はぁ・・・わかった=Yeah, I know.
 !FILE:EV0940_221.bscr
-ブレア　どんどん死武専になじんでるね・・・=Blair's gotten awfully cozy here at the DWMA...
+ブレア　どんどん死武専になじんでるね・・・=Blair's gotten awfully cozy here at the DWMA.
 そんなことよりも|油断すんじゃねェぞ|アイツやるぜ！=Forget about that for right now. We need to focus if we're gonna take her on!
 わかってる！|日頃の恨みもまとめて|ぶつけてやるんだから！=Right! I've had a rough day, so this is my chance to blow off some steam!
 !FILE:EV0940_222.bscr
@@ -5250,7 +5250,7 @@
 あんまりヒドイことしたら|校内暴力で訴えるからね♪=You be nice, or I'll have to resort to violence♪
 あんまり強く叩いたら|エライ人に言いつけるからね♪=If you hit me too hard, I'll tell on you♪
 にゃはははは♪|ブレアを楽しませてちょうだい♪=Nyahahaha♪ Come play with Blair♪
-久しぶりに　いい運動が|できそうね♪=It's been a while since I've been so physical♪
+久しぶりに　いい運動が|できそうね♪=It's been a while since I've gotten so physical♪
 ブレア　なんだか|胸がドキドキしてきちゃった♪=Blair's heart is really pounding for some reason♪
 やりすぎちゃうかもしれないけど|その時はごめんね♪=I might get a little carried away, so sorry about that♪
 にゃはははは♪|面倒だから手加減は|してあげないよ♪=Nyahahaha♪ You're tough, so don't expect me to go easy on you♪
@@ -5275,7 +5275,7 @@
 よっしゃぁ～♪=Sweeeet♪
 はい！そこまで！|良い動きでした！|日頃の成果が出ていましたよ♪=All right! That's enough! Good work as always♪
 やったぁー！！=Yaaay!!
-これでクールな男に|一歩近づいたぜ！=One step closer to being a cool guy!
+これでクールな男に|一歩近づいたぜ！=Always a little cooler than the day before!
 !FILE:EV0941_013.bscr
 ふむふむ　なかなか|成長していますね・・・=Yes, yes. You've grown a fair amount...
 すんごい疲れたけど|がんばった甲斐がありました♪=It was exhausting, but it was worth it♪
@@ -5284,7 +5284,7 @@
 すんごい疲れたけど|がんばった甲斐がありました♪=It was exhausting, but it was worth it♪
 やったぜ！マカ！=We did it, Maka!
 !FILE:EV0941_020.bscr
-もしかすると　君達を過小評価|していたのかもしれませんね・・・|少し考えを改めなくては・・・=Perhaps I have underestimated you... I'll have to reevaluate what I thought I knew about you...
+もしかすると　君達を過小評価|していたのかもしれませんね・・・|少し考えを改めなくては・・・=Perhaps I have underestimated you... I'll have to reevaluate what I thought I knew.
 またお願いします　博士！=Thanks again, professor!
 こんなに急に成長するなんて・・・|君達を研究したくなっちゃいますね♪=How quickly you improve... You would make great research subjects♪
 またお願いします　博士！=Thanks again, professor!
@@ -5332,7 +5332,7 @@
 よっしゃぁ～♪=Sweeeet♪
 よし！今回はここまでだ！|日頃のがんばっている成果が出ていたぞ！=All right! We'll end it here for now! All your hard work is paying off!
 やったぁー！！=Yaaay!!
-これでクールな男に|一歩近づいたぜ！=One step closer to being a cool guy!
+これでクールな男に|一歩近づいたぜ！=Always a little cooler than the day before!
 !FILE:EV0941_113.bscr
 よし終了だ！|お前達！よくがんばったな！！=That'll be good! Great work, you guys!!
 すんごい疲れたけど|がんばった甲斐がありました♪=It was exhausting, but it was worth it♪
@@ -5393,9 +5393,9 @@
 あんまり深く考えるのは|やめとこうぜ=It's no use thinking too deeply about it.
 !FILE:EV0941_220.bscr
 にゃは♪|みんなマタタビよりも|すごかったよ♪=Nyaha♪ You guys were even better than catnip♪
-あんたにほめられても|あんまり嬉しくないわね・・・=Is that really supposed to be a compliment...?
+あんたにほめられても|あんまり嬉しくないわね・・・=Is that really supposed to be a compliment?
 にゃは♪|みんながカッコイイから|毛が逆立っちゃうわ♪=Nyaha♪ You guys were so cool you made my fur stand on end♪
-あんたにほめられても|あんまり嬉しくないわね・・・=Is that really supposed to be a compliment...?
+あんたにほめられても|あんまり嬉しくないわね・・・=Is that really supposed to be a compliment?
 !FILE:EV0941_221.bscr
 にゃは♪|みんながすごいから|舌がザラザラしてきちゃった♪=Nyaha♪ You guys must have tongues as rough and tough as you are♪
 ありがとう|一応　お礼を言っておくわ=I guess I should thank you, so... thanks.
@@ -5408,9 +5408,9 @@
 ありがとう|一応　お礼を言っておくわ=I guess I should thank you, so... thanks.
 !FILE:EV0941_223.bscr
 にゃは♪|みんな強くなってるんだね♪=Nyaha♪ You guys have gotten so strong♪
-あんたに評価されるなんて|なんだかへこんできちゃった・・・=Why does being praised by you just make me feel worse...?
+あんたに評価されるなんて|なんだかへこんできちゃった・・・=Why does being praised by you just make me feel worse?
 にゃは♪|けっこうイケてたよ　みんな♪=Nyaha♪ You guys are as fun as a ball of yarn♪
-あんたに評価されるなんて|なんだかへこんできちゃった・・・=Why does being praised by you just make me feel worse...?
+あんたに評価されるなんて|なんだかへこんできちゃった・・・=Why does being praised by you just make me feel worse?
 !FILE:EV0941_280.bscr
 お星様がみえる～=I'm seeing stars...
 お前さ・・・=You...
@@ -5420,7 +5420,7 @@
 どうした　マカ！|あの魔女を知ってるのか！？=What is it, Maka!? Do you know this witch!?
 魔剣と戦った時　現れた魔女よ・・・|こいつがメデューサ先生を・・・=It's the witch from when we fought the Demon Sword... She must have taken Dr. Medusa...
 ちょうどいいわ|黒血がアナタ達をどれだけ|侵食したか確かめてあげる♪=It's so nice to see you again. Now let me see how much the black blood has taken over♪
-油断するなよ|・・・といっても　油断しなくても|どうにかなる相手じゃねェけどな=Stay on your guard. Not that we'd even need it for someone like her, but!
+油断するなよ|・・・といっても　油断しなくても|どうにかなる相手じゃねェけどな=Stay on your guard. Not that we'd even need it for someone like her, but...!
 あはは・・・ありがとう|作戦なしで突っ込むよ！！=Ahaha, yeah. I don't have any strategy, but let's just rush in there!!
 さぁ　来なさい！|我が子のように愛でてあげるわ♪=Come then! I'll treat you like I would my own children♪
 !FILE:EV0946_100.bscr
@@ -5431,10 +5431,10 @@
 あはは・・・ありがとう|もちろん　作戦なしで|突っ込むよ！！=Ahaha... Thanks, but of course I'm charging in with no plan!!
 !FILE:EV0947_000.bscr
 今日はコレくらいにしといてあげる・・・|興味深い現象も確認できたしね♪=That will be all for today... I was able to confirm quite the interesting phenomenon♪
-何を言ってるの|お前は・・・=What is that supposed to mean...?
+何を言ってるの|お前は・・・=What's that supposed to mean?
 せいぜいがんばって|メデューサ先生をさがしなさい・・・=Now go and find that Dr. Medusa of yours...
 待ちなさい！|まだ決着はついてないんだから！=Wait! This isn't over yet!
-落ち着くんだ|これ以上の深追いは危険だぜ|どんな罠があるかもしれねェ・・・=Calm down, Maka. It's too risky to keep chasing after her. She could have some kind of trap set up...
+落ち着くんだ|これ以上の深追いは危険だぜ|どんな罠があるかもしれねェ・・・=Calm down, Maka. It's too risky to keep chasing after her. She could have some kind of trap set up.
 わかったわ|これ以上はやめておきましょう=You're probably right. We'll let her get away for now.
 よく聞き分けてくれたぜ|ご主人様！=You're actually going to listen to me for once? I'm honored!
 !FILE:EV0948_000.bscr
@@ -5443,8 +5443,8 @@
 なんですって！|生意気よ！=What did you say, you hag!?
 落ち着けよ|挑発にのるんじゃねェ！=Calm down, Maka! Don't let her get under your skin!
 ソウル君　やっぱり|マカの武器なんか|やめちゃいなよ♪=Soul, what are you still doing being a weapon for someone like her♪?
-そしてブレアの武器に|なってよ・・・聞こえてるんでしょ？=Why don't you come be my weapon...? I know you can hear me.
-な　何言ってんだ・・・=Wh-What's she playing at...?
+そしてブレアの武器に|なってよ・・・聞こえてるんでしょ？=Why don't you come be my weapon? ...I know you can hear me.
+な　何言ってんだ・・・=Wh-What's she playing at?
 これ以上　話しても無駄なようね・・・|こうなったら力ずくでもアンタを連れ戻す！|覚悟しなさい　ブレア！=Looks like negotiations have failed... I'll drag you in kicking and screaming if I have to! Prepare yourself, Blair!
 !FILE:EV0948_100.bscr
 にゃはは♪|また来たの～♪=Nyahaha♪ Look who it is♪
@@ -5455,9 +5455,9 @@
 ここまで言われて|黙ってられるはずないでしょ！|ギッタギタにしてやる！！=How can you stay silent after what she said!? I'm going to give her such a beating!!
 !FILE:EV0949_000.bscr
 ブレア|疲れちゃった・・・=I'm tired...
-さぁ　おとなしくネコになって・・・|死武専に戻ろう・・・=Well, someone could use a catnap... How about we get back to the DWMA...?
+さぁ　おとなしくネコになって・・・|死武専に戻ろう・・・=Well, someone could use a catnap... How about we get back to the DWMA?
 はいはい|これでいい♪=Alrighty. Let's go back♪
-さてと　死武専に戻るとしようぜ・・・=All right, let's get her back to the DWMA...
+さてと　死武専に戻るとしようぜ・・・=All right, let's get her back to the DWMA.
 でも　ブーたん|おどろいちゃった♪=You really surprised me, though, Soul♪
 ソウル君って|クールにゃだけじゃにゃくて|意外に強引にゃのね♪=I knew you were cool, but I didn't know how rough you could be♪
 あ　ああ・・・|俺はクールなだけな男じゃねェぜ！=W-Well... There's more to me than just being cool!
@@ -5528,7 +5528,7 @@
 !FILE:EV0951_071.bscr
 マカっ！！|これ以上は無理だぜ・・・|死武専へ戻るぞ！=Maka!! We can't keep going... We have to get back to the DWMA!
 !FILE:EV0951_072.bscr
-マカ！！|くそっ！ここまでか・・・|一旦戻るぜ！=Maka!! Damn it! Is this it...? We have to retreat!
+マカ！！|くそっ！ここまでか・・・|一旦戻るぜ！=Maka!! Damn it! Is this it? ...We have to retreat!
 !FILE:EV0951_073.bscr
 マカ！　大丈夫か？|くそっ・・・|やっぱ先生はつえーな=Maka! Are you all right? Damn... The teachers are really strong.
 !FILE:EV0951_120.bscr
@@ -5538,7 +5538,7 @@
 !FILE:EV0951_122.bscr
 いつまでこんな所で|ボンヤリしてるつもりなんだよ！=How long do you plan on hanging out in a place like this!?
 !FILE:EV0951_130.bscr
-もう　終わりですか？|正直君たちにはガッカリしました・・・=Are you done already? I must admit, I'm quite disappointed in you...
+もう　終わりですか？|正直君たちにはガッカリしました・・・=Are you done already? I must admit, I'm quite disappointed in you.
 全然　だめじゃねェか|何やってんだよ！=That wasn't bad at all! What are you talking about?
 ああ・・・マカ・・・=Not at all... from Maka...
 !FILE:EV0951_131.bscr
@@ -5550,7 +5550,7 @@
 大丈夫かマカ！|しっかりしろ！=How are you holding up, Maka? Hang in there!
 やっぱり|力ずくでもソウルとの|コンビを解消させるべきだな・・・=Paired with Soul, she didn't stand a chance against his full power...
 !FILE:EV0951_140.bscr
-終わりなのか・・・|ずいぶんと張り合いがないな・・・=So that's it...? That was really disappointing...
+終わりなのか・・・|ずいぶんと張り合いがないな・・・=So that's it? That was really disappointing.
 全然　だめじゃねェか|何やってんだよ！=That wasn't bad at all! What are you talking about?
 !FILE:EV0951_141.bscr
 お前たちたるんでるぞ|これでは訓練にならない！=You bunch of slackers! You call this training?
@@ -5562,7 +5562,7 @@
 もう終わりなの？|ブレアつまんない♪=Over already? What a snoozefest♪
 全然　だめじゃねェか|何やってんだよ！=That wasn't bad at all! What are you talking about?
 !FILE:EV0951_151.bscr
-あーあ　もう少し|やってくれると思ったんだけどな・・・=Aww. I thought you would have been more fun than that...
+あーあ　もう少し|やってくれると思ったんだけどな・・・=Aww. I thought you would have been more fun than that.
 忘れてたぜ・・・|魔女ブレアの力を・・・=Blair's witch powers... I forgot about those...
 !FILE:EV0951_152.bscr
 にゃは♪|つい本気になっちゃった♪=Oops♪ I got a little carried away, didn't I♪
@@ -10746,7 +10746,7 @@
 !FILE:EV1940_030.bscr
 君達を解体したくなってきた♪=Perhaps I'll dissect you after all♪
 さぁ　来い|解剖してやろう=Come here now. Don't worry. It's only a little autopsy♪
-さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral...?
+さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral?
 !FILE:EV1940_031.bscr
 来い！|お前達の魂をみせてみろ！=Come here! I want to take a peek at your souls!
 さぁ　来なさい|君達がどれだけ成長したか|見てあげましょう=Well, come on now. Let me see how much you guys have improved.
@@ -10798,17 +10798,17 @@
 冗談でしょ・・・=You're joking, right..?
 ひやっはぁ☆|特別に俺様の暗殺術を見せてやるぜ！！=Yahoo☆ I'll make sure to show you my assassination techniques especially!!
 !FILE:EV1940_130.bscr
-いくぞ！一撃入魂！！|俺はそんな男だったぁぁぁ！！=Go! Put all your strength into a single blow!! Thaaat's the kind of man I was!!
-いくぞ！直球勝負！！|俺はそんな男だったぁぁぁ！！=Go! Take the straightforward approach!! Thaaat's the kind of man I was!!
-いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110%!! That's the kind of man I waaaas!!
+いくぞ！一撃入魂！！|俺はそんな男だったぁぁぁ！！=Go! Put all your strength into a single blow!! That's the kind of man I was!!
+いくぞ！直球勝負！！|俺はそんな男だったぁぁぁ！！=Go! Take the straightforward approach!! That's the kind of man I was!!
+いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110%!! That's the kind of man I was!!
 !FILE:EV1940_131.bscr
-いくぞ！謹厳実直！！|俺はそんな男だったぁぁぁ！！=Go! Stay strict and honest!! Thaaat's the kind of man I was!!
-いくぞ！|俺は真面目一筋！！|そんな男だったぁぁぁ！！=Go with a single-minded earnestness!! Thaaat's the kind of man I was!!
-いくぞ！正々堂々！！|俺はそんな男だったぁぁぁ！！=Go and fight fair and square!! Thaaat's the kind of man I was!!
+いくぞ！謹厳実直！！|俺はそんな男だったぁぁぁ！！=Go directly and honestly!! That's the kind of man I was!!
+いくぞ！|俺は真面目一筋！！|そんな男だったぁぁぁ！！=Go with a single-minded earnestness!! That's the kind of man I was!!
+いくぞ！正々堂々！！|俺はそんな男だったぁぁぁ！！=Go and fight fair and square!! That's the kind of man I was!!
 !FILE:EV1940_132.bscr
-いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! THAT is the kind of man I was!!
-いくぞ！|俺はけっこうせっかち|そんな男だったぁぁぁ！！=No more waiting! I'm getting impatient! That's the kind of man I waaas!!
-いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I waaaas!!
+いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! That's the kind of man I was!!
+いくぞ！|俺はけっこうせっかち|そんな男だったぁぁぁ！！=No more waiting! I'm getting impatient! That's the kind of man I was!!
+いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I was!!
 !FILE:EV1940_210.bscr
 ブレアをご指名なのね♪|張り切っちゃうんだから♪=You picked me? Probably because I'm so enthusiastic♪
 にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Nyaha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
@@ -10863,7 +10863,7 @@
 よっっっしゃ～！=Who's the best!? I'm the best!!
 ケガはない|ブラック☆スター=Not a single injury, Black☆Star.
 !FILE:EV1941_020.bscr
-もしかすると　君達を過小評価|していたのかもしれませんね・・・|少し考えを改めなくては・・・=Perhaps I have underestimated you... I'll have to reevaluate what I thought I knew about you...
+もしかすると　君達を過小評価|していたのかもしれませんね・・・|少し考えを改めなくては・・・=Perhaps I have underestimated you... I'll have to reevaluate what I thought I knew.
 神を超越した俺様は無敵だぜ！！=I've surpassed God! I'm invincible!!
 こんなに急に成長するなんて・・・|君達を研究したくなっちゃいますね♪=How quickly you improve... You would make great research subjects♪
 神を超越した俺様は無敵だぜ！！=I've surpassed God! I'm invincible!!
@@ -11096,7 +11096,7 @@
 !FILE:EV1951_122.bscr
 あの～|何してるんですか？=Um... What are you doing?
 !FILE:EV1951_130.bscr
-もう　終わりですか？|正直君たちにはガッカリしました・・・=Are you done already? I must admit, I'm quite disappointed in you...
+もう　終わりですか？|正直君たちにはガッカリしました・・・=Are you done already? I must admit, I'm quite disappointed in you.
 ブラック☆スター？|あ・・・やっぱり気絶しちゃってるわね=Black☆Star? Ah... He actually passed out.
 !FILE:EV1951_131.bscr
 おかしいですね？|もっと粘ってくれると思ったのですが・・・=How curious. You held on much longer than I had anticipated...
@@ -11105,7 +11105,7 @@
 すみません|ちょっとムキになってしまったようです=I'm sorry. I may have gotten a little carried away.
 ブラック☆スター|しっかりしてちょうだい！=Hang in there, Black☆Star!
 !FILE:EV1951_140.bscr
-終わりなのか・・・|ずいぶんと張り合いがないな・・・=So that's it...? That was really disappointing...
+終わりなのか・・・|ずいぶんと張り合いがないな・・・=So that's it? That was really disappointing.
 ブラック☆スター？|あ・・・やっぱり気絶しちゃってるわね=Black☆Star? Ah... He actually passed out.
 !FILE:EV1951_141.bscr
 お前たちたるんでるぞ|これでは訓練にならない！=You bunch of slackers! You call this training?
@@ -11117,7 +11117,7 @@
 もう終わりなの？|ブレアつまんない♪=Over already? What a snoozefest♪
 ブラック☆スター？|あ・・・やっぱり気絶しちゃってるわね=Black☆Star? Ah... He actually passed out.
 !FILE:EV1951_151.bscr
-あーあ　もう少し|やってくれると思ったんだけどな・・・=Aww. I thought you would have been more fun than that...
+あーあ　もう少し|やってくれると思ったんだけどな・・・=Aww. I thought you would have been more fun than that.
 この子　こんなに強かったんだ・・・=She's small, but she's really strong...
 !FILE:EV1951_152.bscr
 にゃは♪|つい本気になっちゃった♪=Oops♪ I got a little carried away, didn't I♪
@@ -16428,7 +16428,7 @@
 !FILE:EV2940_030.bscr
 君達を解体したくなってきた♪=Perhaps I'll dissect you after all♪
 さぁ　来い|解剖してやろう=Come here now. Don't worry. It's only a little autopsy♪
-さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral...?
+さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral?
 !FILE:EV2940_031.bscr
 来い！|お前達の魂をみせてみろ！=Come here! I want to take a peek at your souls!
 さぁ　来なさい|君達がどれだけ成長したか|見てあげましょう=Well, come on now. Let me see how much you guys have improved.
@@ -16480,17 +16480,17 @@
 キッド！いくぜ！=Kid! Let's do it!
 やっちまうぞぉ～！！=Fire at will!!
 !FILE:EV2940_130.bscr
-いくぞ！一撃入魂！！|俺はそんな男だったぁぁぁ！！=Go! Put all your strength into a single blow!! Thaaat's the kind of man I was!!
-いくぞ！直球勝負！！|俺はそんな男だったぁぁぁ！！=Go! Take the straightforward approach!! Thaaat's the kind of man I was!!
-いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110%!! That's the kind of man I waaaas!!
+いくぞ！一撃入魂！！|俺はそんな男だったぁぁぁ！！=Go! Put all your strength into a single blow!! That's the kind of man I was!!
+いくぞ！直球勝負！！|俺はそんな男だったぁぁぁ！！=Go! Take the straightforward approach!! That's the kind of man I was!!
+いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110%!! That's the kind of man I was!!
 !FILE:EV2940_131.bscr
-いくぞ！謹厳実直！！|俺はそんな男だったぁぁぁ！！=Go! Stay strict and honest!! Thaaat's the kind of man I was!!
-いくぞ！|俺は真面目一筋！！|そんな男だったぁぁぁ！！=Go with a single-minded earnestness!! Thaaat's the kind of man I was!!
-いくぞ！正々堂々！！|俺はそんな男だったぁぁぁ！！=Go and fight fair and square!! Thaaat's the kind of man I was!!
+いくぞ！謹厳実直！！|俺はそんな男だったぁぁぁ！！=Go directly and honestly!! That's the kind of man I was!!
+いくぞ！|俺は真面目一筋！！|そんな男だったぁぁぁ！！=Go with a single-minded earnestness!! That's the kind of man I was!!
+いくぞ！正々堂々！！|俺はそんな男だったぁぁぁ！！=Go and fight fair and square!! That's the kind of man I was!!
 !FILE:EV2940_132.bscr
-いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! THAT is the kind of man I was!!
-いくぞ！|俺はけっこうせっかち|そんな男だったぁぁぁ！！=No more waiting! I'm getting impatient! That's the kind of man I waaas!!
-いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I waaaas!!
+いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! That's the kind of man I was!!
+いくぞ！|俺はけっこうせっかち|そんな男だったぁぁぁ！！=No more waiting! I'm getting impatient! That's the kind of man I was!!
+いくぞ！|俺は手を抜いたりしない！！|そんな男だったぁぁぁ！！=Go! I won't let up!! That's the kind of man I was!!
 !FILE:EV2940_210.bscr
 ブレアをご指名なのね♪|張り切っちゃうんだから♪=You picked me? Probably because I'm so enthusiastic♪
 にゃは♪遊んでちょうだい♪|お店がはじまるまで|ブレアはヒマなの♪=Nyaha♪ Play with me♪ Ever since I started at the store, I've had lots of free time♪
@@ -16535,7 +16535,7 @@
 そこまでっ！|よくがんばりましたね♪=That'll do! Fantastic work♪
 ありがとうございます=Thank you.
 !FILE:EV2941_020.bscr
-もしかすると　君達を過小評価|していたのかもしれませんね・・・|少し考えを改めなくては・・・=Perhaps I have underestimated you... I'll have to reevaluate what I thought I knew about you...
+もしかすると　君達を過小評価|していたのかもしれませんね・・・|少し考えを改めなくては・・・=Perhaps I have underestimated you... I'll have to reevaluate what I thought I knew.
 うぉぉぉぉ！！|やる気出てきたー！！=Woooaah!! I'm feeling so motivated!!
 こんなに急に成長するなんて・・・|君達を研究したくなっちゃいますね♪=How quickly you improve... You would make great research subjects♪
 イェ～イ♪|ほめられちったぁ～♪=Yay! I love compliments♪
@@ -16762,7 +16762,7 @@
 !FILE:EV2951_122.bscr
 お前は本当に|マイペースだな・・・=You really do march to the beat of your own drum...
 !FILE:EV2951_130.bscr
-もう　終わりですか？|正直君たちにはガッカリしました・・・=Are you done already? I must admit, I'm quite disappointed in you...
+もう　終わりですか？|正直君たちにはガッカリしました・・・=Are you done already? I must admit, I'm quite disappointed in you.
 キッド　大丈夫か！=Kid, you're okay!
 さすが　死武専最強だね♪=Of course he is. He's the DWMA's strongest♪
 !FILE:EV2951_131.bscr
@@ -16774,7 +16774,7 @@
 キッド　大丈夫か！=Kid, you're okay!
 キッド君？|ありり？　気絶しちゃってるよ=Kid? I think... he passed out.
 !FILE:EV2951_140.bscr
-終わりなのか・・・|ずいぶんと張り合いがないな・・・=So that's it...? That was really disappointing...
+終わりなのか・・・|ずいぶんと張り合いがないな・・・=So that's it? That was really disappointing.
 キッド！　大丈夫か？|やっぱ先生が相手じゃきついか・・・=Kid? Are you okay? What else did I expect fighting a teacher?
 あ～あ|キッド君もうダメだな♪=Aww♪ Kid, how many fingers am I holding up?
 !FILE:EV2951_141.bscr
@@ -16790,7 +16790,7 @@
 キッド　大丈夫か！=Kid, you're okay!
 あ～あ|キッド君もうダメだな♪=Aww♪ Kid, how many fingers am I holding up?
 !FILE:EV2951_151.bscr
-あーあ　もう少し|やってくれると思ったんだけどな・・・=Aww. I thought you would have been more fun than that...
+あーあ　もう少し|やってくれると思ったんだけどな・・・=Aww. I thought you would have been more fun than that.
 マカ達を苦しめたのは|本当だったのか・・・=You really do torment Maka and Soul, don't you?
 ネコちゃん強いね～♪=That's one strong kittycat♪
 !FILE:EV2951_152.bscr
