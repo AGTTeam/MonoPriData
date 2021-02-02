@@ -5804,7 +5804,7 @@
 !FILE:EV0966_012.bscr
 マカ|いいものあげようか？=Maka, I've got something nice for you.
 何　はやくしてよ=Make it quick. What is it?
-これだよ　これ|絶対　気に入ってもらえると|思うんだけど・・・=It's here. It's just a little something I thought you might like...
+これだよ　これ|絶対　気に入ってもらえると|思うんだけど・・・=It's here. It's just a little something I thought you might like.
 あら　悪くない|・・・ありがとうパパ=Wow, it isn't terrible... Thanks, Papa.
 やったー！|マカに受け取ってもらえたぞ！=Yes!! Maka accepted my gift!
 !FILE:EV0966_016.bscr
@@ -5821,15 +5821,15 @@
 お前達|このごろがんばっているらしいな！=Seems like you guys have been working really hard recently!
 えへへ　うれしいな|ほめられちゃった♪=Hehehe. That was totally a compliment♪ I'm so happy.
 期待の意味をこめて|これを渡しておこう=I'm giving you this with the expectation that you'll keep it up.
-けっこう　こういうのは|照れくさいもんだな・・・=You take it, Maka. I wouldn't be caught dead holding a thing like that...
+けっこう　こういうのは|照れくさいもんだな・・・=You take it, Maka. I wouldn't be caught dead holding a thing like that.
 これからも精進するんだぞ！=Keep working diligently!
 !FILE:EV0966_036.bscr
 これからも精進するんだぞ！=Keep working diligently!
 !FILE:EV0966_042.bscr
-にゃんだか最近|カッコいいね～♪=You've been looking me-owfully cool recently♪
+にゃんだか最近|カッコいいね～♪=You've been looking meowfully cool recently♪
 あんたにほめられても|あんまり嬉しくないけど|一応　お礼を言っとくわ=I don't really care about any compliments I get from you, but I guess I should at least say thanks.
 これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, meow. Then you'll be even cooler♪
-けっこう　こういうのは|照れくさいもんだな・・・=You take it, Maka. I wouldn't be caught dead holding a thing like that...
+けっこう　こういうのは|照れくさいもんだな・・・=You take it, Maka. I wouldn't be caught dead holding a thing like that.
 これからも|ずっとカッコいいままでいてちょうだいね♪=I hope you'll stay this cool forever♪
 !FILE:EV0966_046.bscr
 これからも|ずっとカッコいいままでいてちょうだいね♪=I hope you'll stay this cool forever♪
@@ -5837,7 +5837,7 @@
 最近　君達の活躍には|目を見張るものがあります=I've been pretty impressed with your recent efforts.
 えへへ　うれしいな|ほめられちゃった♪=Hehehe. That was totally a compliment♪ I'm so happy.
 これは　俺の期待の気持ちです|ぜひ受け取ってください=I have high expectations for you, so please take this.
-けっこう　こういうのは|照れくさいもんだな・・・=You take it, Maka. I wouldn't be caught dead holding a thing like that...
+けっこう　こういうのは|照れくさいもんだな・・・=You take it, Maka. I wouldn't be caught dead holding a thing like that.
 この調子で　|がんばってください！=On that note, good luck!
 !FILE:EV0966_056.bscr
 この調子で　|がんばってください！=On that note, good luck!
@@ -5860,7 +5860,7 @@
 !FILE:EV0966_097.bscr
 マカ最近がんばってるみたいだね|パパは嬉しいよ♪=It looks like you've been working really hard recently, Maka. Papa is so proud♪
 何の用？|あんまり気安く話しかけてこないで=What do you want? I hate it when you act all fatherly like that.
-そんなこと言わないで|パパからのプレゼントを|受け取ってちょうだい・・・=That hurts, Maka. Here. Papa wanted to give you a little present...
+そんなこと言わないで|パパからのプレゼントを|受け取ってちょうだい・・・=That hurts, Maka. Here. Papa wanted to give you a little present.
 いいわパパ|でもこんなことはこれきりにして=Thanks, Papa. But this is the last one. No more gifts.
 ありがとうマカ|これからもがんばってね♪=Thanks, Maka. Keep up the good work, okay♪
 !FILE:EV0966_107.bscr
@@ -5884,7 +5884,7 @@
 何かしら　一体・・・=Really? What is it?
 しょうがねェな|無駄にしたくねェから|もらってやるよ！=Does it matter? I mean, you can't really turn down a gift!
 さぁ|うけとってちょうだい♪=Go on. Take it♪
-・・・ありがとう|それなりにうれしいわ=... Thanks. It's the thought that counts, right?
+・・・ありがとう|それなりにうれしいわ=...Thanks. It's the thought that counts, right?
 サンキュー|一応　礼を言っとくぜ！=Thanks! We really can't thank you enough!
 にゃはは♪|ブレアもうれしいよ♪=Nyahaha♪ I'm happy too♪
 !FILE:EV0968_030.bscr
@@ -5893,7 +5893,7 @@
 やれやれ|保健医がどこへいったんだか・・・=Oh, no. The nurse isn't here?
 けが人が出たらどうすんだよ|ブラック☆スターがいる限り|その確率は常に高いぜ！=What do we do if someone gets hurt? And with Black☆Star around I'd say it's more likely than not!
 人一人いない教室って|なんか寂しいもんだな・・・=The classroom is totally empty. It was crammed full of people just a little while ago...#seen
-ちょっと前までは|あんなににぎわってたのによ・・・=But now it feels almost desolate...
+ちょっと前までは|あんなににぎわってたのによ・・・=But now it feels almost desolate.
 どうだ　マカ|このままここで|ノンビリしていかねェか=So, Maka? You wanna stick around here and relax for a while?
 わかってる|言ってみただけだよ|本気で期待しちゃいねェよ=I know. I was just throwing it out there as a possibility. I didn't really expect you to go for it.
 しかし　この時間帯に|人通りが途絶えるなんて珍しいな・・・=It's pretty unusual for there to be no one around at this time of day though, right?
@@ -5933,10 +5933,10 @@
 確かに誰かがいると|思ったんだけどな・・・=I could have sworn there was someone here...
 誰も居ないんだったら仕方ねェ|他の場所に移動したほうがよさそうだな！=No use standing around if there's no one here. Should probably move to somewhere more populated!
 マカのヤツがいねェと|不便で困るぜ・・・=It's kind of annoying when Maka isn't around...
-あいつがいれば魂反応で|ある程度誰がいるのか|わかるんだけどな・・・=When she's there she can react to a person's soul response and know in an instant if there's someone there...
+あいつがいれば魂反応で|ある程度誰がいるのか|わかるんだけどな・・・=When she's there she can react to a person's soul response and know in an instant if there's someone there.
 いつまでも|ここにいたって仕方がねェな・・・=How long are we gonna hang out around here?
 誰かがいそうな|場所に移動するとしますか=It doesn't look like there's anyone here, so why don't we head somewhere else?
-せっかくだから|ノンビリすることにしよう・・・=We've worked hard. I say we deserve a little break...
+せっかくだから|ノンビリすることにしよう・・・=We've worked hard. I say we deserve a little break.
 ・・・・・・・・・=.........
 だめだ　ノンビリできねェ！=It's no good. I can't relax!
 マカに付き合わされているうちに|俺もセカセカ人間になって|しまったのかよ！？=Has Maka started rubbing off on me? Have I become some sort of fidgety busybody like her!?
@@ -5965,10 +5965,10 @@
 どれにするんだ？=Which one's it gonna be?
 !FILE:EV0981_310.bscr
 ん？　裏に何か書いてあるぞ・・・=Hm? There's something written on the back here...
-ブラック☆スターのサインがしてある|予約したって事だろう|これは受けられそうにないぞ=Black☆Star's autograph. I assume this means this mission has been resigned, although you never know with that guy.
+ブラック☆スターのサインがしてある|予約したって事だろう|これは受けられそうにないぞ=Black☆Star's autograph. I assume this means this mission's been reserved. Although you never know with that guy.
 !FILE:EV0981_320.bscr
 ん？　裏に何か書いてあるぞ・・・=Hm? There's something written on the back here...
-キッドのサインがしてある|予約したって事だろう|これは　受けられそうにないぞ=Looks like Kid already reserved this one. We'll have to choose a different one.
+キッドのサインがしてある|予約したって事だろう|これは　受けられそうにないぞ=Looks like Kid already reserved it. We'll have to choose a different one.
 !FILE:EV0981_500.bscr
 さてと　マカ　課外活動では|二組でないといけないんだが|誰を誘うつもりなんだ=Since we can't do any extracurricular activities without another group, who do you want to invite?
 誰を誘おうかしら|ちょっと考えさせて・・・=Who should we invite?|Let me have a think...
@@ -5997,11 +5997,11 @@
 うい～っす='Sup!
 こんにちは=Hello!
 シュタイン博士|ここではどんなことをするんです？=Professor Stein, what kind of training did we need to come here for?
-そうですね・・・　基本的には|掲示板でやっていたことと|変わらないですよ=Right... It won't be anything too different from what from what you typically do for the mission board.
+そうですね・・・　基本的には|掲示板でやっていたことと|変わらないですよ=Right... It won't be anything too different from what you typically do for the mission board.
 ただ・・・=However...
 ただ・・・？=However...?
 今回から　俺やシド達が|君達の訓練に付き合います=From now on, Sid or myself will be accompanying you during your training.
-マジかよ・・・=Seriously...?
+マジかよ・・・=Seriously?
 それと・・・　内容によっては|俺達が|直接　君達の相手をします=In addition... depending on the content of the training, we will be acting as your opponents personally.
 え？　それって・・・=Huh? But that means...
 ええ　正式に君達を|どつきまわせるってことです♪=Yes, that means I will be permitted to pummel you... officially♪
@@ -6025,7 +6025,7 @@
 !FILE:EV0988_101.bscr
 君達の実力ならば|苦戦することもないと思いますよ=I don't believe this should be a struggle for you if you use your|full power.
 !FILE:EV0988_102.bscr
-マカだったら|安心して頼めるね♪=I have full confidence in entrusting you with this, Maka♪
+マカだったら|安心して頼めるね♪=I have full confidence entrusting you with this, Maka♪
 !FILE:EV0988_103.bscr
 俺の実験のために|ぜひともお願いします！=Please! By any means necessary for the sake of my experiment!
 !FILE:EV0988_104.bscr
@@ -9350,7 +9350,7 @@
 何せ相手は|魔女なんだから♪=With the enemy being a witch and all♪
 くれぐれも慎重に|考えてちょうだい！|断るのも勇気だよ～ん♪=Please give it some real thought! It takes courage to say no too♪
 そんなことチマチマ考える|必要なんてねェよ！|死神のダンナ☆=What are you talking about, Lord Boss☆? What's there to think about!?
-ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously...?
+ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously?
 !FILE:EV1924_070.bscr
 あれ？博士も|メデューサ先生を助けに行くんですか？=Oh? Are you going to rescue Dr. Medusa as well, professor?
 当然です　大切な同僚ですから|助けなくてはいけません=Naturally. She's a precious colleague of mine, so I have to help her.
@@ -9683,7 +9683,7 @@
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 !FILE:EV1933_014.bscr
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times...
-ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously...?
+ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously?
 !FILE:EV1933_020.bscr
 ふぅ|たまにはゆっくり歩いて帰るか　椿！=Phew... How about we walk back slowly for a change, Tsubaki?
 うしっ！|それじゃー帰るぞ　椿！=Yeah! Okay, let's go home, Tsubaki!
@@ -10358,7 +10358,7 @@
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 !FILE:EV1935_044.bscr
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times...
-ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously...?
+ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously?
 !FILE:EV1935_050.bscr
 ふぅ|たまにはゆっくり歩いて帰るか　椿！=Phew... How about we walk back slowly for a change, Tsubaki?
 うしっ！|それじゃー帰るぞ　椿！=Yeah! Okay, let's go home, Tsubaki!
@@ -10522,7 +10522,7 @@
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 !FILE:EV1935_344.bscr
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times...
-ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously...?
+ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously?
 !FILE:EV1935_350.bscr
 ふぅ|たまにはゆっくり歩いて帰るか　椿！=Phew... How about we walk back slowly for a change, Tsubaki?
 うしっ！|それじゃー帰るぞ　椿！=Yeah! Okay, let's go home, Tsubaki!
@@ -10686,7 +10686,7 @@
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 !FILE:EV1935_644.bscr
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times...
-ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously...?
+ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously?
 !FILE:EV1935_650.bscr
 ふぅ|たまにはゆっくり歩いて帰るか　椿！=Phew... How about we walk back slowly for a change, Tsubaki?
 うしっ！|それじゃー帰るぞ　椿！=Yeah! Okay, let's go home, Tsubaki!
@@ -10893,7 +10893,7 @@
 お前　生徒には優しいのな|その優しさ俺にもわけてくれ・・・=Look how gentle you are with the students. You mind sending some of that gentleness my way...?
 !FILE:EV1941_080.bscr
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times...
-ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously...?
+ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously?
 !FILE:EV1941_110.bscr
 すごいなお前達！|俺の予想を超える成長だ！=I'm impressed! Your growth has exceeded expectations!
 ふっ・・・結果は|やる前から出てたぜ☆=Humph... It was over before it even began☆
@@ -10944,7 +10944,7 @@
 ああ|そうさしてもらうぜ=Yeah. I've earned it.
 !FILE:EV1941_180.bscr
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times...
-ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously...?
+ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously?
 !FILE:EV1941_210.bscr
 もう　やめよ|みんな必死なんだもん|ブレア怖くなってきちゃった♪=Alright, let's stop there. You all look like you could die at any second. I'm scared for you♪
 どういう事だ？|俺様の後光に|恐れおののいたということなのか？=What's that supposed to mean? Sounds like you're just afraid of my aura of light.
@@ -10995,7 +10995,7 @@
 なんかよくわかんねェけど|ようやく俺様のすごさに気づいたようだな☆=I don't really know what you're talking about, but it sounds like you've finally opened your eyes to my greatness☆
 !FILE:EV1941_280.bscr
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times...
-ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously...?
+ブラック☆スター・・・|もう少しマジメに考えてね=Black☆Star... You wanna maybe take this a little more seriously?
 !FILE:EV1946_000.bscr
 あら　来たのは　あなた達なの・・・=Well, well. Look who's here...
 ひやっはぁ☆|やっぱり　最後を締めるのは|いわゆる一つの　俺様だぜ！=Yahoo☆ Of course, the one will still be standing in the end will be me, the one, the only, Black☆Star!
@@ -11372,7 +11372,7 @@
 !FILE:EV1966_006.bscr
 この調子で|一気に駆け抜けてしまえ！=Keep dashing forward at the same pace, kids!
 !FILE:EV1966_012.bscr
-にゃんだか最近|カッコいいね～♪=You've been looking me-owfully cool recently♪
+にゃんだか最近|カッコいいね～♪=You've been looking meowfully cool recently♪
 ほめられるのは久しぶりだわ・・・|私嬉しい・・・=It's been a while since I've received a compliment... Thank you...
 これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, meow. Then you'll be even cooler♪
 ようやく時代が俺様に|追いついてきたようだな|ひやっはははははは☆=It looks like the times have finally caught up with me. Yahahahahahaha☆
@@ -11556,7 +11556,7 @@
 よく来ましたね　君達=Good of you to come, children.
 博士！|特別な俺様のために用意された|特別な訓練ってやつを受けに来たぜ=Professor, I've come to participate in the special training session that you prepared for me.
 その訓練なんですけど|どんなことをするんですか？=What kind of training even is it? What are we going to be doing?
-そうですね・・・　基本的には|掲示板でやっていたことと|変わらないですよ=Right... It won't be anything too different from what from what you typically do for the mission board.
+そうですね・・・　基本的には|掲示板でやっていたことと|変わらないですよ=Right... It won't be anything too different from what you typically do for the mission board.
 おいおい　変わんねェのかよ|つまんねーな=What? What do you mean it's the same? That's not special!
 ただ・・・=However...
 今回から　俺やシド達が|君達の訓練に付き合います=From now on, Sid or myself will be accompanying you during your training.
@@ -17026,11 +17026,11 @@
 きゃはははは|ほめられちゃった♪=Kyahahaha! We did good things♪
 これを渡しておくから|もっとがんばってちょうだい♪=I'm going to give you this, so keep at it and do your best out there♪
 物をもらうってのは|やっぱ気持ちいいね！=With the thing you gave us I feel better already!
-これからも|期待しているわよ♪=I'm expecting a lot from you two♪
+これからも|期待しているわよ♪=I'm expecting a lot from you three♪
 !FILE:EV2966_006.bscr
-これからも|期待しているわよ♪=I'm expecting a lot from you two♪
+これからも|期待しているわよ♪=I'm expecting a lot from you three♪
 !FILE:EV2966_012.bscr
-にゃんだか最近|カッコいいね～♪=You've been looking me-owfully cool recently♪
+にゃんだか最近|カッコいいね～♪=You've been looking meowfully cool recently♪
 うむ　問題ない=Hm. Sure.
 これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, meow. Then you'll be even cooler♪
 お返しはできないよ～|きゃはははは♪=Once we use it, we won't be able to give back the coolness. Kyahahaha♪
@@ -17262,7 +17262,7 @@
 ちゅ～す=Hiya!
 よく来ましたね　君達=Good of you to come, children.
 博士　特別指導室では|一体どんな訓練をするんですか？=Professor, what kind of training did we need to come to the Special Guidance Room for?
-そうですね・・・　基本的には|掲示板でやっていたことと|変わらないですよ=Right... It won't be anything too different from what from what you typically do for the mission board.
+そうですね・・・　基本的には|掲示板でやっていたことと|変わらないですよ=Right... It won't be anything too different from what you typically do for the mission board.
 ただ・・・=However...
 今回から　俺やシド達が|君達の訓練に付き合います=From now on, Sid or myself will be accompanying you during your training.
 それって　成績をつけるのが|先生達になるってことか・・・=Does that mean we get start giving you teachers grades...?
