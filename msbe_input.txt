@@ -2292,10 +2292,10 @@
 はい=Yes, sir.
 !FILE:EV0400_502.bscr
 まぁ|ギガントのことは仕方がないわよね=Well, I guess the Gigant won't suffice.
-はい|まだ完全ではありませんから=No. It hasn't been perfected yet.#changed this line to singular to make it more obvious the next line is a different group
-だけど　まさか死武専に|アノ人が入り込んでるなんてね=But to think that they have truly infiltrated the DWMA...
-ええ・・・|狙いはなんでしょうか？=Indeed... What could they be trying?
-いいんじゃない？　何でも|私達の邪魔をするようなら|消えてもらうまでよ=It shouldn't matter. If ever they try to hinder our plans, we'll simply remove them from the equation.
+はい|まだ完全ではありませんから=No. They haven't been perfected yet.
+だけど　まさか死武専に|アノ人が入り込んでるなんてね=But to think that she has truly infiltrated the DWMA...
+ええ・・・|狙いはなんでしょうか？=Indeed... What could she be after?
+いいんじゃない？　何でも|私達の邪魔をするようなら|消えてもらうまでよ=It shouldn't matter. If ever she tries to hinder our plans, we'll simply remove her from the equation.
 ふふっ　だって　あなたもいてくれるし|私達で作り出した　この繭があれば|たとえ相手が　あの姉妹でも関係ないわ=Hehe. As long as you're here and we still have the cocoon we made, that sister will have nothing against us.
 はい　さすがはポネラ様|・・・しかし　今はさらなる繭を|作っていただく大事なとき=Indeed, Madam Ponera... However, it is vital that you continue to create more cocoons for the time being.
 余計な力を使うわけにはいきません|祭壇の準備は私にお任せを|ポネラ様は繭を・・・=You mustn't overexert yourself. Leave the preparation of the altar to me and focus on the cocoons.
@@ -2339,17 +2339,17 @@
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
 待て！|・・・うわっ！=Wait! ...Woah!
-キシキシキシィ・・・|お前達はここで死ねぇ！=KrshKrshKrsh... This place will be your grave!#I think the styling of this laugh is a little offputting. Maybe krsh krsh krsh?
+キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
 ソウル！=Soul!
 おう！=Yeah!
 !FILE:EV0401_403.bscr
-キシキシキシィ・・・|おのれこしゃくな！　我らをなめるな！=KrshKrshKrsh... Insolent bastard! Don't underestimate us!
-キシキシキシィ・・・|な　なんだ？=KrshKrshKrsh... Wh-What?
+キシキシキシィ・・・|おのれこしゃくな！　我らをなめるな！=Krsh krsh krsh... Insolent bastard! Don't underestimate us!
+キシキシキシィ・・・|な　なんだ？=Krsh krsh krsh... Wh-What?
 いまよ！=Now!
 うおおおお！|魂の共鳴！！=Ooooooh! Soul Resonance!!
 うおおおお！|魂の共鳴！！=Ooooooh! Soul Resonance!!
 魔女狩り！！=Witch Hunter!!
-キシキシィ・・・|ば　ばかな・・・　ポネラさ・・　まぁ・・・=KrshKrsh... F-Forgive me... Ponera... My queen...
+キシキシィ・・・|ば　ばかな・・・　ポネラさ・・　まぁ・・・=Krsh krsh... F-Forgive me... Ponera... My queen...
 やったぁぁぁ！=Yes!!
 邪魔なのよ=Good riddance.
 うおおおお！|魂の共鳴！！=Ooooooh! Soul Resonance!!
@@ -2362,7 +2362,7 @@
 あっ！　大変！=Ah! She's not here!
 探そう　マカ！=Let's find her, Maka!
 !FILE:EV0401_452.bscr
-キシキシキシィ・・・|お前達はここで死ねぇ！=KrshKrshKrsh... This place will be your grave!
+キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
 ソウル！=Soul!
 おう！=Yeah!
 !FILE:EV0420_002.bscr#父へのプレゼント = A Present for Papa part 38
@@ -2725,7 +2725,7 @@
 キッドのヤツが来てくれた！|アイツもわかってきたな！！=Kid! That guy has finally come to recognize my genius!!
 キッド君って|意外と付き合い　いいのね・・・=I didn't expect Kid to come. That's good though.
 観客が少なくて残念だね？=The turnout is a little disappointing, huh?
-そんなことねェよ！|俺様が入学式でやった|ステージの三倍だぜ！=Not at all! This is times as many people as there were for my performance at the school entrance ceremony!
+そんなことねェよ！|俺様が入学式でやった|ステージの三倍だぜ！=Not at all! This is three times as many as there were for my performance at the school entrance ceremony!
 あの時は|椿一人だったからよ！=Tsubaki was the only one back then.
 そう　よかったね|ブラック☆スター・・・|ところでみんなはどこにいるの？=That's wonderful, Black☆Star...|Where is everyone anyway?
 スタッフとして|色々手伝ってもらっている！=They're lending me a hand backstage!
@@ -2866,7 +2866,7 @@
 じゃあ　開くわよ！=Let's open it up!
 デスサイズ・・・=Death Scythe...
 どうしよう　パパを初めて|不憫に感じちゃった=What should I do? I've never felt so bad for him before.
-まさか　全ての写真に|自分が写っているように|修正するなんて・・・=It's not like I can just add him back into all the photos.
+まさか　全ての写真に|自分が写っているように|修正するなんて・・・=Fixing it so that he's there in all the photos...
 すまん|俺はもう何もいえねェ・・・=Sorry. I don't know what to tell you.
 私　次にパパにあった時は|ちょっとだけ　優しくするわ=I can at least be a little nicer to him the next time I see him, I guess.
 !FILE:COMMON#Day 5 
@@ -4215,7 +4215,7 @@
 そりゃ　するだろうよ|そういう所に|来てんだからよ！=That makes sense. That's sort of why we're here!
 はぁ　もういいわ|でも　お願いだから|真面目にやってちょうだいね=Well, yeah. Just please take this seriously, okay?
 ねェ　ソウル・・・|私なんだか嫌な予感がするのよね・・・=Um, Soul... I've got sort of a bad feeling about this.
-おいおい　ずいぶん弱気だな！|らしくねェんじゃねェか！？=Come on! Where's your self-confidence! You've got it all wrong!
+おいおい　ずいぶん弱気だな！|らしくねェんじゃねェか！？=Come on! Where's your self- confidence! You've got it all wrong!#added space for better word-wrapping
 私だってそんな時くらいあるわよ！=Even I can't be super confident all the time!
 今回は|結構面倒なことになりそうな気がするの=I feel like this one's going to be really annoying.
 マジで？！|マカ様のその偉大なる勘が|外れることを俺は心から願うよ=Really? Oh, I do so hope the great Maka and her infallible hunches might be mistaken.
@@ -8039,17 +8039,17 @@
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
 待ちやがれ・・・|おっと！=Come back...! Damn!
-キシキシキシィ・・・|お前達はここで死ねぇ！=KrshKrshKrsh... This place will be your grave!
+キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
 邪魔すんな！|オメェを倒すのは　まばたきより一瞬だ！|椿！=Get outta my way! I'll crush you in the blink of an eye! Tsubaki!
 はい！=Roger!
 !FILE:EV1401_403.bscr
-キシキシキシィ・・・|おのれこしゃくな！　我らをなめるな！=KrshKrshKrsh... Insolent bastard! Don't underestimate us!
-キシキシキシィ・・・|な　なんだ？=KrshKrshKrsh... Wh-What?
+キシキシキシィ・・・|おのれこしゃくな！　我らをなめるな！=Krsh krsh krsh... Insolent bastard! Don't underestimate us!
+キシキシキシィ・・・|な　なんだ？=Krsh krsh krsh... Wh-What?
 いまよ！=Now!
 うおおおお！|魂の共鳴！！=Haaaaaaa! Soul Resonance!!
 おおおおお！|魂の共鳴！！=Oooooooh! Soul Resonance!!
 影☆星！！=Shadow☆Star!!
-キシキシィ・・・|ば　ばかな・・・　ポネラさ・・　まぁ・・・=KrshKrsh... F-Forgive me... Ponera... My queen...
+キシキシィ・・・|ば　ばかな・・・　ポネラさ・・　まぁ・・・=Krsh krsh... F-Forgive me... Ponera... My queen...
 邪魔なのよ=Good riddance.
 うおおおお！|魂の共鳴！！=Haaaaaaa! Soul Resonance!!
 !FILE:EV1401_451.bscr
@@ -8061,7 +8061,7 @@
 うざってェ　ヤツラだぜ！=They really piss me off!
 探しましょう！=We need to find her!
 !FILE:EV1401_452.bscr
-キシキシキシィ・・・|お前達はここで死ねぇ！=KrshKrshKrsh... This place will be your grave!
+キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
 邪魔すんな！|オメェを倒すのは　まばたきより一瞬だ！|椿！=Get outta my way! I'll crush you in the blink of an eye! Tsubaki!
 はい！=Roger!
 !FILE:EV1420_002.bscr#彼女の思いと・・・ = A Girl and Her Thoughts part 13
@@ -13665,14 +13665,14 @@
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
 あっ　待てコラ～！|・・・わぁ！=Ah. Wait up! ... Woah!
-キシキシキシィ・・・|お前達はここで死ねぇ！=KrshKrshKrsh... This place will be your grave!
+キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
 それは　お前だ！=I hear the bells tolling, but they're not for me!
 変ー身！=Transform!
 変ー身！=Transform!
 変ー身！=Transform!
 !FILE:EV2401_403.bscr
-キシキシキシィ・・・|おのれこしゃくな！　我らをなめるな！=KrshKrshKrsh... Insolent bastard! Don't underestimate us!
-キシキシキシィ・・・|な　なんだ？=KrshKrshKrsh... Wh-What?
+キシキシキシィ・・・|おのれこしゃくな！　我らをなめるな！=Krsh krsh krsh... Insolent bastard! Don't underestimate us!
+キシキシキシィ・・・|な　なんだ？=Krsh krsh krsh... Wh-What?
 いまよ！=Now!
 魂の共鳴！！=Soul Resonance!!
 魂の共鳴！！=Soul Resonance!!
@@ -13684,7 +13684,7 @@
 ３　２　１　・・・=3... 2... 1...
 ３　２　１　・・・=3... 2... 1...
 デス・キャノン！=Death Canon!
-キシキシィ・・・|ば　ばかな・・・　ポネラさ・・　まぁ・・・=KrshKrsh... F-Forgive me... Ponera... My queen...
+キシキシィ・・・|ば　ばかな・・・　ポネラさ・・　まぁ・・・=Krsh krsh... F-Forgive me... Ponera... My queen...
 イエ～イ！=Yaaay!
 やったぁ！=All right!
 邪魔なのよ=Good riddance.
@@ -13701,7 +13701,7 @@
 まずい！！=This is bad!!
 早く探さなきゃ！=We have to hurry and look for her!
 !FILE:EV2401_452.bscr
-キシキシキシィ・・・|お前達はここで死ねぇ！=KrshKrshKrsh... This place will be your grave!
+キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
 それは　お前だ！=I hear the bells tolling, but they're not for me!
 変ー身！=Transform!
 変ー身！=Transform!
