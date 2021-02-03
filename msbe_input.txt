@@ -176,7 +176,7 @@
 それが|犯人らしいのは仕留めたんですが=Well, we brought down what seems to have been the culprit, but...
 そいつが集めたっていう|魂が見つからなくて=We weren't able to locate the souls he said he had gathered.
 ん？　魂が見つからない？|その犯人は　魂を食べていたわけじゃ|ないんですか？=Huh? Souls he had gathered? Are you implying that he didn't eat them?
-それが　奴が消滅したとたんに|魂反応が消えたんだ=Well... the soul response disappeared as soon as we finished him.
+それが　奴が消滅したとたんに|魂反応が消えたんだ=Well... the soul response disappeared as soon as we finished him.#Is "soul response" an official term? I assume this is the soul they see with soul perception. Maybe replace "the soul response" with "the soul readings" or "the souls' presence" instead?
 それに　奴の他にも|うじゃうじゃ邪魔する連中もいたしな=Then there's also the other group|that was swarming around causing problems.
 ふむ|それは妙だな=Hm. How curious...
 ま　それならしょうがないね|二人とも今夜はゆっくり休んでちょうだい♪=Yep. Oh well♪ Why don't you two go on and take it easy tonight, okay?
