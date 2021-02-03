@@ -5638,7 +5638,7 @@
 !FILE:EV0953_311.bscr
 大丈夫か？マカ！=Are you okay? Maka!
 !FILE:EV0953_312.bscr
-マヒだ！マカ！=Paralysis! Maka!
+マヒだ！マカ！=Numbing! Maka!
 !FILE:EV0953_400.bscr
 フラフラする～=I feel dizzy...
 !FILE:EV0953_401.bscr
@@ -5676,17 +5676,17 @@
 !FILE:EV0954_212.bscr
 マカ！毒消しだ！=Maka! The Antidote!
 !FILE:EV0954_300.bscr
-強壮剤持っててよかった～♪=Good thing we had that Tonic♪
+強壮剤持っててよかった～♪=Good thing we had that Stimulant♪
 !FILE:EV0954_301.bscr
-強壮剤・・・強壮剤・・・=The Tonic... Tonic...
+強壮剤・・・強壮剤・・・=The Stimulant... Stimulant...
 !FILE:EV0954_302.bscr
-強壮剤があるっ！=We have the Tonic!
+強壮剤があるっ！=We have the Stimulant!
 !FILE:EV0954_310.bscr
-強壮剤があるぜ！マカ！=We have the Tonic! Maka!
+強壮剤があるぜ！マカ！=We have the Stimulant! Maka!
 !FILE:EV0954_311.bscr
-強壮剤・・・強壮剤・・・=The Tonic... The Tonic...
+強壮剤・・・強壮剤・・・=The Stimulant... The Stimulant...
 !FILE:EV0954_312.bscr
-マカ！強壮剤だ！=Maka! The Tonic!
+マカ！強壮剤だ！=Maka! The Stimulant!
 !FILE:EV0954_400.bscr
 頭がハッキリしてきた・・・=My head has cleared up...
 !FILE:EV0954_401.bscr
@@ -11193,7 +11193,7 @@
 !FILE:EV1953_311.bscr
 大丈夫？ブラック☆スター？=Are you okay? Black☆Star?
 !FILE:EV1953_312.bscr
-マヒだわ！ブラック☆スター！=Paralysis! Black☆Star!
+マヒだわ！ブラック☆スター！=Numbing! Black☆Star!
 !FILE:EV1953_400.bscr
 足がふらつきやがるぜ・・・=That's disorienting...
 !FILE:EV1953_401.bscr
@@ -11231,17 +11231,17 @@
 !FILE:EV1954_212.bscr
 ブラック☆スター！毒消しよ！=Black☆Star! The Antidote!
 !FILE:EV1954_300.bscr
-強壮剤を使ってやるか！=We can use the Tonic!
+強壮剤を使ってやるか！=We can use the Stimulant!
 !FILE:EV1954_301.bscr
-強壮剤・・・強壮剤・・・=Tonic... Tonic...
+強壮剤・・・強壮剤・・・=Stimulant... Stimulant...
 !FILE:EV1954_302.bscr
-俺様には強壮剤があるっ！=We have the Tonic!
+俺様には強壮剤があるっ！=We have the Stimulant!
 !FILE:EV1954_310.bscr
-強壮剤があるわ！ブラック☆スター！=We have the Tonic! Black☆Star!
+強壮剤があるわ！ブラック☆スター！=We have the Stimulant! Black☆Star!
 !FILE:EV1954_311.bscr
-強壮剤・・・強壮剤・・・=The Tonic... The Tonic...
+強壮剤・・・強壮剤・・・=The Stimulant... The Stimulant...
 !FILE:EV1954_312.bscr
-ブラック☆スター！強壮剤よ！=Black☆Star! The Tonic!
+ブラック☆スター！強壮剤よ！=Black☆Star! The Stimulant!
 !FILE:EV1954_400.bscr
 頭がハッキリしてきたぜ！=My head stopped spinning!
 !FILE:EV1954_401.bscr
@@ -16868,7 +16868,7 @@
 !FILE:EV2953_311.bscr
 大丈夫か？キッド？=Are you all right, Kid?
 !FILE:EV2953_312.bscr
-マヒだよ！キッド君！=Paralysis! Kid!
+マヒだよ！キッド君！=Numbing! Kid!
 !FILE:EV2953_400.bscr
 くそっ！フラフラするぞ・・・=Damn! I feel dizzy...
 !FILE:EV2953_401.bscr
@@ -16906,17 +16906,17 @@
 !FILE:EV2954_212.bscr
 キッド！毒消しだ！=Kid! The Antidote!
 !FILE:EV2954_300.bscr
-強壮剤だな=The Tonic!
+強壮剤だな=The Stimulant!
 !FILE:EV2954_301.bscr
-強壮剤・・・強壮剤・・・=Tonic... Tonic...
+強壮剤・・・強壮剤・・・=Stimulant... Stimulant...
 !FILE:EV2954_302.bscr
-強壮剤を使う時だな！=Now's the time to use the Tonic!
+強壮剤を使う時だな！=Now's the time to use the Stimulant!
 !FILE:EV2954_310.bscr
-強壮剤があるよ～！キッド君！=We have the Tonic! Kid!
+強壮剤があるよ～！キッド君！=We have the Stimulant! Kid!
 !FILE:EV2954_311.bscr
-強壮剤・・・強壮剤・・・=Tonic... Tonic...
+強壮剤・・・強壮剤・・・=Stimulant... Stimulant...
 !FILE:EV2954_312.bscr
-キッド！強壮剤だ！=Kid! The Tonic!
+キッド！強壮剤だ！=Kid! The Stimulant!
 !FILE:EV2954_400.bscr
 頭がハッキリしてきた・・・=My head has stopped swimming...
 !FILE:EV2954_401.bscr
@@ -17721,8 +17721,8 @@
 !FILE:EV9966_102.bscr
 毒消し%_dc[255,255,255]を手に入れた=Antidote%_dc[255,255,255] obtained!
 !FILE:EV9966_103.bscr
-強壮剤%_dc[255,255,255]を手に入れた=Tonic%_dc[255,255,255] obtained!
-!FILE:EV9966_104.bscr#When I hear 'tonic' I immediately think 'liquid', but if I didn't get the images mixed up, this item is a couple of pills with Lord Death's face on them. I thought about calling them stimulants or pick-me-up pills, but they come off a little too 'druggy' for a lack of a better term.
+強壮剤%_dc[255,255,255]を手に入れた=Stimulant%_dc[255,255,255] obtained!
+!FILE:EV9966_104.bscr
 バケツの水%_dc[255,255,255]を手に入れた=Bucket of Water%_dc[255,255,255] obtained!
 !FILE:EV9966_105.bscr
 実験霊体%_dc[255,255,255]を手に入れた=Experimental Spirit%_dc[255,255,255] obtained!
@@ -18278,7 +18278,7 @@
 目覚まし時計だね|いつもより早く睡眠状態が治るよ=It's an Alarm Clock. With this you'll wake up faster than usual from a sleep status.
 実験霊体だね|一度だけバトルで倒れても復活できるよ=It's an Experimental Spirit. With this, just once, you'll be revived even if you fall in battle.
 毒消しだね|いつもより早く毒状態が治るよ=It's an Antidote. With this you'll be cured faster than usual from a poison status.
-強壮剤だね|いつもより早くマヒ状態が治るよ=It's a Tonic. With this you'll be cured faster than usual from paralysis.
+強壮剤だね|いつもより早くマヒ状態が治るよ=It's a Stimulant. With this you'll be cured faster than usual from numbing.
 バケツの水だね|いつもより早く混乱状態が治るよ=It's a Bucket of Water. With this you'll recover faster than usual from confusion.
 ２個目の魂だね|バトルのときブレアが手助けしてくれるよ=It's a Second Life Soul. With this Blair will come to your aid in battle.
 『パーティードレス』だね|デス・シティーの女の子に凄い人気なんだよ|ちょっぴりセクシーなドレスだね=It's a Party Dress. It's amazingly popular with the girls of Death City. Just a tiny bit sexy too, isn't it?
