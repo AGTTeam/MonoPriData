@@ -6120,9 +6120,9 @@
 スターの成果は|計り知れないに　決まってんだろ！=Isn't it obvious? You put a star on the case and the bad guy gets caught!
 あの|犯人の男は　仕留めたんです=The culprit was brought down.
 うじゃうじゃいた　小物ともども|俺のビッグさに　耐え切れず|ペチャンコだぜ！=My teammates were a little small, but my bigness totally crushed him!
-でも|男が集めた魂が　見つからなくて=But we were unable to locate the soul that was in his possession.
-ん？　魂が見つからない？|その犯人は　魂を食べていたわけじゃ|ないんですか？=Huh? Soul in his possession? You mean to say that he didn't eat the soul?
-はい|自分で集めたって　言ってたんですけど=No. He mentioned finding it himself.
+でも|男が集めた魂が　見つからなくて=But we were unable to locate the souls that were in his possession.
+ん？　魂が見つからない？|その犯人は　魂を食べていたわけじゃ|ないんですか？=Huh? Souls in his possession? You mean to say that he didn't eat them?
+はい|自分で集めたって　言ってたんですけど=No. He mentioned collecting them himself.
 ふむ|それは妙だな=Hm. That's odd.
 ま　それならしょうがないね|二人とも今夜はゆっくり休んでちょうだい♪=Yep. Oh well♪ Why don't you two go on and take it easy tonight, okay?
 ああ|そうさしてもらうぜ=Yeah. I've earned it.
@@ -6135,7 +6135,7 @@
 俺様のオーラに　ビビッてんのさ|それより椿　あの建物からビンビン感じるぜ|怪しいムードがよ=Everyone would just be intimidated by my aura. But more importantly, Tsubaki, I've got a really weird feeling about that building over there. Something seems strange about it.
 特に怪しいところも　ないようだけど|ブラック☆スターは　何か感じるの？=I don't sense anything particularly strange. Are you sure you really sense something, Black☆Star?
 ああ！|俺様のカンが　そういっている！=Yeah! It's like a sixth sense of mine!
-はいはい　そうよね|じゃあ　行きましょ=Right, a sixth sense. Well should we check it out?
+はいはい　そうよね|じゃあ　行きましょ=Right, a sixth sense. Well, should we check it out?
 おう！=Yeah!
 ゴメンなさい=Sorry.
 待ってよ　ブラック☆スター！=Wait, Black☆Star!
@@ -6147,28 +6147,28 @@
 ギギギ・・・|生かして帰さない！=Gigigi! Leave now and you'll live!
 わかってねぇな|お前達が　俺のステージから|帰りたくなくなるのさ！　椿！=This stage isn't big enough for all of us! Tsubaki!
 はい！=Roger!
-おらァァ！|俺ステージの　始まりだァァ！！=All right! My time on stage begins!
+おらァァ！|俺ステージの　始まりだァァ！！=All right! Keep the spotlight on me!!
 !FILE:EV1101_402.bscr
 だぁ|びっくりしたぜ=Woah! That surprised me.
 だから|言ったじゃない=I tried to warn you.
 お　オデの宝物がないド|ど　どこいったダ！=M-My treasure's gone. Wh-Where is it?
 さ　さデは　おメーらが|ぬ　盗んだな=I-It must have been you. You s-stole it.
-いくぜぇ～！|ひゃっはぁ～！=Let's gooo! Yahoo!
+いくぜぇ～！|ひゃっはぁ～！=Let's go! Yahoo!
 返せー！|うぐぁおおおお～！！=Give it back! Ugrrroooohhh!!
 !FILE:EV1101_403.bscr
 でぇぇ・・・|た　宝物・・・|お　オデの集めた魂・・・=Waah... M-My treasure...|T-The souls I found...
-口ほどにもねぇ奴だぜ|椿　奴が集めたっていう魂はどこだ？=All bark and no bite.|Tsubaki, that guy said he found a soul. Where did it go?
-変ね|どこにもないわ　ブラック☆スター=It's strange, but I don't see it anywhere, Black☆Star.
-えぇ？|魂までもが俺様におそれをなしたのか！=Huh? I must have scared away the soul too!
+口ほどにもねぇ奴だぜ|椿　奴が集めたっていう魂はどこだ？=All bark and no bite.|Tsubaki, that guy said he found some souls. Where did they go?
+変ね|どこにもないわ　ブラック☆スター=It's strange, but I don't see them anywhere, Black☆Star.
+えぇ？|魂までもが俺様におそれをなしたのか！=Huh? I must have scared away the souls too!
 はぁ・・・　仕方ないわ|死武専に戻って死神様に報告しましょ=*Sigh* Oh well. Let's go back to the DWMA and report to Lord Death.
 !FILE:EV1101_450.bscr
 ひゃっはぁー！|今夜も俺オンステージだぜ=Yahoo! Tonight I am on stage!
-はいはい　そうよね|じゃあ　行きましょ=Right, a sixth sense. Well should we check it out?
+はいはい　そうよね|じゃあ　行きましょ=Right, a sixth sense. Well, should we check it out?
 おう！=Yeah!
 !FILE:EV1101_452.bscr
 お　オデの宝物を返せ！=G-Give me back my treasure!
 ブラック☆スター！=Black☆Star!
-いくぜぇ～！|ひゃっはぁ～！=Let's gooo! Yahoo!
+いくぜぇ～！|ひゃっはぁ～！=Let's go! Yahoo!
 返せー！|うぐぁおおおお～！！=Give it back! Ugrrroooohhh!!
 !FILE:EV1103_000.bscr
 あ！|先生！=Ah! Doctor!
@@ -6187,7 +6187,7 @@
 !FILE:EV1103_010.bscr
 きゃっ！=Kyah!
 にゃはは～♪=Nyahahaa♪
-ふっ・・・スターの輝きに誘われて|死武専にまであらわれやがったな！=Heh... Drawn all the way to the DWMA by the starlight were we?
+ふっ・・・スターの輝きに誘われて|死武専にまであらわれやがったな！=Heh... Drawn all the way to the DWMA by the starlight, were we?
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
 あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
 そうなんですか=I see...
@@ -6196,56 +6196,56 @@
 !FILE:EV1120_002.bscr#吸魂水特訓ステージ = Soul Sapping Water Special Training Stage part 3
 そういえばシド先生が|呼んでたぜ=Oh, by the way, Mr. Sid called for you.
 先生が？|一体何の用かしら？=Mr. Sid? What could he need us for?
-さあな　そこまでは|聞いてねェ|行けばわかるんじゃねェの=Who knows, didn't ask him. If you just go to him, you'll find out anyway, right?
+さあな　そこまでは|聞いてねェ|行けばわかるんじゃねェの=Who knows? Didn't ask. If you just go to him, you'll find out anyway, right?
 どうするの|ブラック☆スター？=What do you say, Black☆Star?
 スターである俺様に|少しでも時間があれば|会ってやってもいいかな☆=If a star such as myself ever finds the time for it, I might consider meeting him☆
 !FILE:EV1120_006.bscr
 そういえばシド先生が|呼んでたぜ=Oh, by the way, Mr. Sid called for you.
 先生が？|一体何の用かしら？=Mr. Sid? What could he need us for?
-さあな　そこまでは|聞いてねェ|行けばわかるんじゃねェの=Who knows, didn't ask him. If you just go to him, you'll find out anyway, right?
+さあな　そこまでは|聞いてねェ|行けばわかるんじゃねェの=Who knows? Didn't ask. If you just go to him, you'll find out anyway, right?
 !FILE:EV1120_012.bscr
 お前まだ　吸魂水を|使った特訓をしているのか？=Hey, are you still using that Soul Sapping Water to train?
-吸魂水って|たしか魂の波長を|吸い取る水ですよね？=Soul Sapping Water is that water which can absorb your soul's wavelength, right?
-そうだ　シュタインが|特訓用に貸したと聞いているが・・・=Exactly. I heard that Stein lent you some to use in your special training...
+吸魂水って|たしか魂の波長を|吸い取る水ですよね？=That's the stuff that can absorb your soul's wavelength, right?
+そうだ　シュタインが|特訓用に貸したと聞いているが・・・=Exactly. I heard that Stein lent you some to use in your special training.
 おうヨ！|もちろん続けてるぜ！！=Hell yeah! Of course I'm still doing it!!
-そうか・・・だが一つだけ忠告しておく|吸魂水をゼッタイに飲んではダメだ！=I see... I have to warn you though, you should absolutely never drink that water!
-もし飲んだ場合には|大人の職人でも命の保証はできない・・・=If you drink it, I can't guarantee that you'd survive, even if you were a fully grown up meister...
+そうか・・・だが一つだけ忠告しておく|吸魂水をゼッタイに飲んではダメだ！=I see... I have to warn you though. You should never, under any circumstance, drink that water!
+もし飲んだ場合には|大人の職人でも命の保証はできない・・・=If you drink it, I can't guarantee that you'd survive, even if you were a fully grown meister.
 そんな危険なものなんですか|絶対に飲んではダメよ！=Is it really that dangerous? You absolutely mustn't drink it!
-ああ　だがスターの前には|常に困難が立ちふさがるもの・・・=Right. And yet, stars are meant to keep facing difficulties...
-そしてそれを乗り越えるのも|スターである俺様の宿命・・・=And overcoming these difficulties is also a part of my destiny as a star...
+ああ　だがスターの前には|常に困難が立ちふさがるもの・・・=That's true. And yet, stars are meant to keep facing difficulties...
+そしてそれを乗り越えるのも|スターである俺様の宿命・・・=And overcoming said difficulties is also a part of my destiny as a star.
 椿　こいつが|危険なことをしそうになったら止めてくれ=Tsubaki, if he ever seems like he's about to do anything dangerous, please stop him.
 わかりました|自信はありませんけど|命にかかわることですから=Understood. I'm not sure I'll be able to, but it might cost him his life otherwise.
-二人とも　何ヘコんでんのか|しんネェけど　心配すんなよ！=I don't know why you two look so down, but there's no need to worry!
-俺は神を超越する男|ブラック☆スターだぜ☆=I am Black☆Star, the man who shall surpass God!
-そうなんですか・・・=Is that so...?
-あんまり無茶しないでね|おねがいだから・・・=Don't do anything reckless, please...
+二人とも　何ヘコんでんのか|しんネェけど　心配すんなよ！=I don't know why you two look so down. There's nothing to worry about!
+俺は神を超越する男|ブラック☆スターだぜ☆=I'm Black☆Star, the man who shall surpass God!
+そうなんですか・・・=Is that so?
+あんまり無茶しないでね|おねがいだから・・・=Please, don't do anything reckless.
 !FILE:EV1120_016.bscr
 椿　こいつが|危険なことをしそうになったら止めてくれ=Tsubaki, if he ever seems like he's about to do anything dangerous, please stop him.
 わかりました|自信はありませんけど|命にかかわることですから=Understood. I'm not sure I'll be able to, but it might cost him his life otherwise.
 !FILE:EV1120_017.bscr
 はぁ　気が重いなぁ=*Sigh* I feel depressed now.
-何があったかしんねェけど|そんなに心配すんなよ！=I don't know what's up with you, but I'm telling you! No need to worry!
-そうだ！せっかくだから|吸魂水を使った俺様の|特訓ステージを見せてやろう！=That's right! Might as well show you my magnificent Soul Sapping Water Special Training while we're at it!
-先に行ってるぜ！=Let's get to it!
+何があったかしんねェけど|そんなに心配すんなよ！=I don't know what's up with you, but I'm telling you there's no need to worry!
+そうだ！せっかくだから|吸魂水を使った俺様の|特訓ステージを見せてやろう！=Oh, yeah! I might as well show you how awesome my special Soul Sapping Water training is!
+先に行ってるぜ！=Let's go! Don't make me wait!
 あっ　ブラック☆スター|待ってちょうだい！=Ah, Black☆Star! Hang on!
 !FILE:EV1120_020.bscr
-おそかったな！|ちょっと待ってろ|今　ツボをもってくるからな！=You're late! Give me a second, I'll go bring the jar!
+おそかったな！|ちょっと待ってろ|今　ツボをもってくるからな！=You're late! Give me a second. I'll go get the jar!
 そういえばブラック☆スター|吸魂水の特訓って|どのくらいまで進んでいるの？=By the way, Black☆Star, how far are you into your Soul Sapping Water training?
 前は指をつけるだけで「むほむほ」|言ってたわよね？=You used to run out of breath just from dipping a finger in it, didn't you?
-おお・・・それか・・・|うで全部いったぜ！=Ah... that...? I was able to stick my whole arm into it last time!
-軽く倒れそうに|なったケド　まぁ耐えたな！=I almost fainted from it, but I managed to endure!
+おお・・・それか・・・|うで全部いったぜ！=Yeah... But I was able to stick my whole arm into it last time!
+軽く倒れそうに|なったケド　まぁ耐えたな！=I was starting to fade, but I lived to shine another day!
 ブラック☆スター|あまり無茶はしないで！=Black☆Star, please don't overdo it!
-なんてことねェ|俺こそ神だしな！|ひやっはははははは・・・ん？=No way that's gonna happen. I'm a god, after all! Hahahahaha... Huh?
+なんてことねェ|俺こそ神だしな！|ひやっはははははは・・・ん？=No way that's gonna happen. I'm a god after all! Hahahahaha... Huh?
 どうしたの|ブラック☆スター？=What's wrong, Black☆Star?
-ツボのヤツ　ビッグな|俺様の特訓に付き合うプレッシャーに|耐え切れなくなったのだろう・・・=That damn jar... looks like it wasn't able to withstand the pressure of being used to train a man as big as myself...#This is the maximum character limit, but could probably be phrased better
-どうやら逃げてしまったようだ・・・=It appears to have escaped...
-なくしたのね=You lost it, right?
+ツボのヤツ　ビッグな|俺様の特訓に付き合うプレッシャーに|耐え切れなくなったのだろう・・・=That damn jar... Looks like I was more man than it could hold.
+どうやら逃げてしまったようだ・・・=It probably rolled off to hide somewhere.
+なくしたのね=You lost it, didn't you?
 !FILE:EV1120_025.bscr
-さてと・・・|どうしたもんかな・・・=Now then... What should I do...?
+さてと・・・|どうしたもんかな・・・=Now then... What should I do?
 !FILE:EV1120_026.bscr
-ツボのヤツ　ビッグな|俺様の特訓に付き合うプレッシャーに|耐え切れなくなったのだろう・・・=That damn jar... looks like it wasn't able to withstand the pressure of being used to train a man as big as myself...
-どうやら逃げてしまったようだ・・・=It appears to have escaped...
-なくしたのね=You lost it, right?
+ツボのヤツ　ビッグな|俺様の特訓に付き合うプレッシャーに|耐え切れなくなったのだろう・・・=That damn jar... Looks like I was more man than it could hold.
+どうやら逃げてしまったようだ・・・=It probably rolled off to hide somewhere.
+なくしたのね=You lost it, didn't you?
 !FILE:EV1120_027.bscr
 去るものは追わないのが|俺様ルールとはいえ・・・=It's true that it's one of my rules not to chase after things that are lost...
 このままでは|特訓ステージが開幕できない・・・|ツボをさがすぞ=But at this rate I won't be able to demonstrate my special training...|We have to find this jar.
@@ -7389,7 +7389,7 @@
 とにかく|黒いヤローは片付けたぜ=In any case, we totally wiped the floor with the guy!
 ごくろ～さま♪|二人はもう　戻っていいよん♪=Thanks for your hard work, you two♪ You're good to go now♪#missing lines can be found in Maka common following EV0300_500
 !FILE:EV1301_050.bscr
-おらァァ！|俺ステージの　始まりだァァ！！=All right! My time on stage begins!
+おらァァ！|俺ステージの　始まりだァァ！！=All right! Keep the spotlight on me!!
 はい！=Roger!
 !FILE:EV1301_400.bscr
 ギギギ・・・=Gigigi!
@@ -10822,7 +10822,7 @@
 ブレア　死武専でも|バイトすることにしたの|よろしくね♪=I decided I'd get a part-time teaching job here at the DWMA♪
 にゃは♪|バイトだけどブレアは先生|とっても偉いのよ♪=Nyaha♪ It's just a part-time job, but I'm a pretty great teacher, huh♪?
 !FILE:EV1940_220.bscr
-ふっ・・・スターの輝きに|誘われて　死武専にまで|あらわれやがったな！=Heh... Drawn all the way to the DWMA by the starlight were we?
+ふっ・・・スターの輝きに|誘われて　死武専にまで|あらわれやがったな！=Heh... Drawn all the way to the DWMA by the starlight, were we?
 そんなことよりも|ケガだけはさせないようにね・・・=Don't take her lightly. Just concentrate on not getting hurt...
 ああ　もちろんわかってる！|大物と小物の差を見せつけてやるぜ☆=Yeah, I know that! Now let me demonstrate the difference between the big and small☆
 !FILE:EV1940_221.bscr
