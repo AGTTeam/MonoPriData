@@ -2883,12 +2883,12 @@
 今日は　シュタイン博士はお休みだ|代わりに俺が授業をやるぞ=Professor Stein is out for the day. I'll be taking over the class in his place.
 まあ|あれだけ穴だらけなら当然か=Hm. I guess that makes sense with all the holes around his lab.
 え～っ！|授業やんのかよ～！=Whaaat!? We're still having class!?
-といっても特別だぞ|昨日のような襲撃をされては|死武専としてもだまってられない！=Call it a special occasion! After yesterday's assault, the DWMA cannot sit back and do nothing!
-死武専をあげて反撃にでることが決まった|そこで　そのための特別訓練を行う！=It's been decided to train the DWMA and launch a counterattack. So there will be special training for that purpose!
-いいか|敵のアジトは狭くて暗い洞窟だと思われる=Understood?|We believe the enemy's base of operations to be in a series of dark, narrow caves.
+といっても特別だぞ|昨日のような襲撃をされては|死武専としてもだまってられない！=Call it a special occasion!|After yesterday's assault, the DWMA cannot sit back and do nothing!
+死武専をあげて反撃にでることが決まった|そこで　そのための特別訓練を行う！=It's been decided that the DWMA will launch a counterattack. So there will be special training for that purpose!
+いいか|敵のアジトは狭くて暗い洞窟だと思われる=Understood? We believe the enemy's base of operations to be in a series of dark, narrow caves.
 !FILE:EV0500_000.bscr#Missing lines from the above scene found in Maka
-繭を持っていったアイツ|何者なんだろう？=What was that thing that took the cocoon?
-あぁ　少なくとも|チャリンコじゃあ　なかったな=Well, it definitely wasn't an inf-ant.
+繭を持っていったアイツ|何者なんだろう？=What was that guy who took the cocoon?
+あぁ　少なくとも|チャリンコじゃあ　なかったな=Well, he definitely wasn't an inf-ant.
 わかってるよ　そんなこと！=That's enough of that now!
 !FILE:EV1500_000.bscr#Slight variation from the above lines found in Black Star
 繭を持って行ったアイツ|何者なんだろう？=Who was that guy that ran off with the cocoon though?
@@ -2902,7 +2902,7 @@
 今日は　シュタイン博士はお休みだ|代わりに俺が授業をやるぞ=Professor Stein is out for the day. I'll be taking over the class in his place.
 まあ|あれだけ穴だらけなら当然か=Hm. I guess that makes sense with all the holes around his lab.
 !FILE:EV0500_010.bscr
-敵の特性やその地形など|考えて戦うことになれるための訓練だ|手元のプリントをよく読め=This training will directly assess fighting against the terrain and specific characteristics of our enemy. Be sure to read the handouts in front of you!
+敵の特性やその地形など|考えて戦うことになれるための訓練だ|手元のプリントをよく読め=It's training to make you think about the terrain and characteristics of the enemy. Be sure to read the handouts!
 !FILE:EV0500_011.bscr
 よし|理解できたものから始めろ！=Now! Those that have understood the exercise are up first!
 いくぞ！熱血指導！|俺はそんな男だったぁぁぁ！！=Get going! An enthusiastic instructor! That's the kind of man I was!!
@@ -2915,12 +2915,12 @@
 !FILE:EV0500_015.bscr
 あきらめるな　やればできる！|以前の俺も　そんな男だった=Don't give up hope. Try and you will succeed! Even myself, that's the kind of man I was.
 !FILE:EV0500_016.bscr
-よ～し　これで訓練は終わりだ|これから戦いになる|それぞれ気持ち　装備を整えておけ=Alright! Training's over. Now the battle is for real, so get your equipment ready as each of you sees fit.
+よ～し　これで訓練は終わりだ|これから戦いになる|それぞれ気持ち　装備を整えておけ=Alright! Training's over. This is where the real fight begins, so make sure you're well-prepared.
 訓練に不安があるものは|『特別指導室』へ行け=Those who wish to train more, go to the Special Guidance Room.#Not sure if 特別指導室 exists anywhere in the manga or anime with an official translation, so this Special Guidance Room is moreso a placeholder than anything.
 さぁ|準備しとくか=I guess we should get ready then.
 !FILE:EV0500_100.bscr
 私達で|大丈夫なのかな？=Are we ready for this?
-なに言ってんだ|大丈夫さ　心配すんな=What are you talking about? Of course we are. Don't worry.
+なに言ってんだ|大丈夫さ　心配すんな=What are you talking about?|Of course we are. Don't worry.
 !FILE:EV0500_200.bscr
 よ～し|準備はいいか～！=All right! Preparations finished!?
 !FILE:EV0500_201.bscr
@@ -3085,20 +3085,20 @@
 ふ～ん・・・|あいつ本当に|特訓が好きなのね=Hmm? He really loves his special training, doesn't he?
 最近はスゴク熱が入ってきて|見てるコッチが疲れるほどなの=He's been going at it so non-stop lately that I'm exhausted just watching him.
 だから　こうして|逃げてきちゃったんだけど・・・=I finally had to take a break from him.
-お前も結構なマイペースだな・・・|アイツと一緒にやれてるわけが|なんとなくわかるぜ・・・=You're actually really independent, aren't you? I think I finally get how you're able to deal with him all the time.
+お前も結構なマイペースだな・・・|アイツと一緒にやれてるわけが|なんとなくわかるぜ・・・=You're actually really independent, aren't you? I think I finally get how you're able to deal with him.
 ブラック☆スター・・・|やることはやってるんだ・・・=When Black☆Star decides he's going to do something, he really doesn't stop until he's done it.
 !FILE:EV0520_006.bscr
 ふ～ん・・・|あいつ本当に|特訓が好きなのね=Hmm? He really loves his special training, doesn't he?
 最近はスゴク熱が入ってきて|見てるコッチが疲れるほどなの=He's been going at it so non-stop lately that I'm exhausted just watching him.
 !FILE:EV0520_010.bscr
 むっほぅうう！！=Mmuhhwwoooou!!
-ずいぶん力技だな|今度からは　そういう芸風でいくのか？=What raw talent. Is this a new avant-garde acting style?
+ずいぶん力技だな|今度からは　そういう芸風でいくのか？=That looks hard. Is this a new avant-garde acting style?
 ちげェよ！|特訓ステージの開幕中だぜ☆=No way! These are the opening moments of my special training performance☆
-ああ　例の吸魂水を|使った特訓だな|ずいぶんと張り切ってるじゃねェか？=Ah, you're talking about your special training with the Soul Sapping Water. You must be really excited.
-おうよ！今までの筋トレだけじゃ|どうしても限界があったからよ☆=You bet! Muscle training has been good enough by itself up to now, but it has its limits☆
+ああ　例の吸魂水を|使った特訓だな|ずいぶんと張り切ってるじゃねェか？=Ah, you're talking about your special training with the Soul Sapping Water. You seem pretty pumped up about it.
+おうよ！今までの筋トレだけじゃ|どうしても限界があったからよ☆=You bet! Muscle training has been good enough by itself up to now, but|it has its limits☆
 これを手に入れてからは|やっぱ　全然違うぜ！=This thing is a total game changer!
 とにかく　今は特訓がおもしろくて|仕方がねェ！！=Besides, this special training is really fun, so no reason to stop now!!
-このままだと俺様が|神を超越する日も|そんなに遠くねェな☆=If I keep at it, the day that I surpass the gods can't be too far away☆
+このままだと俺様が|神を超越する日も|そんなに遠くねェな☆=If I keep at it, the day that I surpass god can't be too far away☆
 小物達と俺様の差は|ますます開く一方だぜ！|ひやっはははははは☆=The gap between me and all you small fry just keeps getting bigger and bigger! Yahahahahahaha☆
 そうかもしれないわね・・・=That's probably true, huh?
 おいおいマカ|あんまりマジでとるなよ？=Woah, woah, Maka! You can't be taking him seriously.
@@ -5243,7 +5243,7 @@
 わかってる！|日頃の恨みもまとめて|ぶつけてやるんだから！=Right! I've had a rough day, so this is my chance to blow off some steam!
 !FILE:EV0940_222.bscr
 本当にブレアなのね|こんなに適当でいいのかなぁ？=Really? Blair? Does that even count?
-初めて戦った時を思い出せ|あいつにやられそうになったことを忘れんな=Don't you remember the first time we fought her? Don't forget. She about took us out for good.
+初めて戦った時を思い出せ|あいつにやられそうになったことを忘れんな=Don't you remember the first time we fought her? Don't forget. She almost took us out for good.
 ありがとう　ソウル|たしかに私　ブレアの力を忘れてた！=Thanks, Soul. Honestly, I had totally forgotten how strong Blair really is!
 !FILE:COMMON#EV0940_230, EV1940_230, EV2940_230
 あんまりいじめると|ブレア泣いちゃうから♪=If you're mean, you'll make Blair cry♪
@@ -18328,27 +18328,27 @@
 %_d[0]%_d[1]/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]=   %_d[2]%_d[3]/%_d[4]%_d[5]/%_d[0]%_d[1] %_d[6]%_d[7]:%_d[8]%_d[9]
 %_te課外授業=%_teExtra Lessons
 %_te課外授業　昼=%_teDWMA: Noon
-%_te課外授業　夕方=%_teDWMA: Evening
+%_te課外授業　夕方=%_teDWMA: Dusk
 %_te課外授業　夜=%_teDWMA: Night
 %_te繭=%_teCocoon
 %_te繭　昼=%_teCocoon: Noon
-%_te繭　夕方=%_teCocoon: Evening
+%_te繭　夕方=%_teCocoon: Dusk
 %_te繭　夜=%_teCocoon: Night
 %_te月=%_teMoon
 %_te月　昼=%_teMoon: Noon
-%_te月　夕方=%_teMoon: Evening
+%_te月　夕方=%_teMoon: Dusk
 %_te月　夜=%_teMoon: Night
 %_te挑戦=%_teDefiance
 %_te挑戦　昼=%_teDefiance: Noon
-%_te挑戦　夕方=%_teDefiance: Evening
+%_te挑戦　夕方=%_teDefiance: Dusk
 %_te挑戦　夜=%_teDefiance: Night
-%_te反撃=%_teCounteroffensive#too long. Counteroffense would fit although it's not a real word
-%_te反撃　昼=%_teCounteroffensive: Noon
-%_te反撃　夕方=%_teCounteroffensive: Evening
-%_te反撃　夜=%_teCounteroffensive: Night
+%_te反撃=%_tePayback
+%_te反撃　昼=%_tePayback: Noon
+%_te反撃　夕方=%_tePayback: Dusk
+%_te反撃　夜=%_tePayback: Night
 %_te決戦=%_teThe Final Battle
 %_te決戦　昼=%_teThe Final Battle: Noon
-%_te決戦　夕方=%_teThe Final Battle: Evening
+%_te決戦　夕方=%_teThe Final Battle: Dusk
 %_te決戦　夜=%_teThe Final Battle: Night
 設定したい項目にポインターを|合わせて　Aボタンを押せば|設定を変更することができます=Hover the pointer over the settings you wish to configure and press the|A button.
 サウンド出力のモノラル/ステレオを|設定します=Set the audio output to Mono/Stereo.
@@ -18807,7 +18807,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
-猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
+猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose|to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
 %_te謎の敵襲来！=%_teA Mysterious Enemy Invades!
 ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity!
@@ -18831,7 +18831,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
-猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
+猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose|to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
 %_te謎の敵襲来！=%_teA Mysterious Enemy Invades!
 ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity!
@@ -18855,13 +18855,13 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]! Retrieve it posthaste!
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
-猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose to a little cat!
+猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose|to a little cat!
 猫魔女ブレア%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]!
 %_te謎の敵襲来！=%_teA Mysterious Enemy Invades!
 ツギハギ研究所を襲った|大胆不敵なヤツラは何者か|その目的と正体を暴け！=Someone was bold enough to attack the Patchwork Lab. Reveal their true identity!
 ツギハギ研究所を襲った|犯人を倒せ！=Defeat the culprit of the attack on the Patchwork Lab!
-%_te特別実戦模擬訓練！=%_teSpecial Combat Simulation Training!
-備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84], and improve your skills!
+%_te特別実戦模擬訓練！=%_teCombat Simulation!
+備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te極悪怪僧を退治せよ！=%_teEliminate the Monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84] whose soul has become a kishin egg!
@@ -18884,8 +18884,8 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te打倒！パラポネラ！=%_teDestroy Paraponera!
 魂を集めて何かをたくらむ|謎の集団パラポネラ！|ヤツラの悪事を阻止せよ！=The mysterious group, Paraponera is gathering souls and planning something! Prevent their evil doings!
 全ての敵を倒して|パラポネラをぶっつぶせ！=Defeat all the enemies and crush Paraponera!
-%_te特別実戦模擬訓練！=%_teSpecial Combat Simulation Training!
-備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84], and improve your skills!
+%_te特別実戦模擬訓練！=%_teCombat Simulation!
+備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te星族の遺産=%_teThe Star Clan's Legacy
 暗殺術が記された|%_dc[0,196,0]星族の奥義書%_dc[199,133,84]を|回収せよ！=Retrieve the %_dc[0,196,0]Star Clan's secret book %_dc[199,133,84]where are written their assassination arts!
@@ -18908,8 +18908,8 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te打倒！パラポネラ！=%_teDestroy Paraponera!
 魂を集めて何かをたくらむ|謎の集団パラポネラ！|ヤツラの悪事を阻止せよ！=The mysterious group, Paraponera is gathering souls and planning something! Prevent their evil doings!
 全ての敵を倒して|パラポネラをぶっつぶせ！=Defeat all the enemies and crush Paraponera!
-%_te特別実戦模擬訓練！=%_teSpecial Combat Simulation Training!
-備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84], and improve your skills!
+%_te特別実戦模擬訓練！=%_teCombat Simulation!
+備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te殺人鬼を退治せよ！=%_teEliminate the Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]THE CAN%_dc[199,133,84]!
