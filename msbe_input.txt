@@ -570,7 +570,7 @@
 そんな方法があるくらい|だったら俺が教えてほしいくらいだ・・・=If such an easy method exists, I'd like to know what it is myself.
 だから言ったじゃねェか|虫が良すぎるってよ=Didn't I say so? Your expectations are way too high.
 はぁ　今さら何言ってるのよ|ソウルだって　あの時は|賛成したじゃない！？=What? You wanna say that again? I seem to remember somebody agreeing with me!
-ケンカはやめるんだ二人とも！|俺は争いを好まない|そんな男だった・・・=Stop arguing, you two! I don't like conflict. That's the kind of man I was...
+ケンカはやめるんだ二人とも！|俺は争いを好まない|そんな男だった・・・=Stop arguing, you two! I don't like conflict. That's the kind of man I was.
 !FILE:EV0121_016.bscr
 世の中はそんなに甘くない・・・=The world isn't such a simple place.
 そんな方法があるくらい|だったら俺が教えてほしいくらいだ・・・=If such an easy method exists, I'd like to know what it is myself.
@@ -2016,7 +2016,7 @@
 むっ　キッド・・・|これをやったのは　お前達か？=Hm? Kid... Did you two do this?
 教職員の立会いなしで|戦ってはいかんという|校則があるのを知らんのか！？=Have you forgotten the rules? There's to be no fighting without a member of the teaching staff present!#must be kept short
 違います　先生|キッド君が勝手に|倒れちゃったんです！=It's not what you think, Sid. Kid just passed out all on his own!
-俺は疑うことを知らない|そんな男だった・・・|だが　それも過去の話だ・・・=I believe everyone. That's the kind of man I was... But that was the past.
+俺は疑うことを知らない|そんな男だった・・・|だが　それも過去の話だ・・・=I believe everyone. That's the kind of man I was. But that was the past.
 とにかく教室まで来てもらおう！|話はそこでゆっくりと聞く！=In any case, come with me to the classroom! I'll listen to your story there!
 私達を疑っているんですか？=Do you really not believe us?
 どうしたら　そういう|発想ができんだよ！=What would possibly make you think we did this!?
@@ -2887,7 +2887,7 @@
 死武専をあげて反撃にでることが決まった|そこで　そのための特別訓練を行う！=It's been decided that the DWMA will launch a counterattack. So there will be special training for that purpose!
 いいか|敵のアジトは狭くて暗い洞窟だと思われる=Understood? We believe the enemy's base of operations to be in a series of dark, narrow caves.
 !FILE:EV0500_000.bscr#Missing lines from the above scene found in Maka
-繭を持っていったアイツ|何者なんだろう？=What was that guy who took the cocoon?
+繭を持っていったアイツ|何者なんだろう？=Who was that guy who took the cocoon?
 あぁ　少なくとも|チャリンコじゃあ　なかったな=Well, he definitely wasn't an inf-ant.
 わかってるよ　そんなこと！=That's enough of that now!
 !FILE:EV1500_000.bscr#Slight variation from the above lines found in Black Star
@@ -3098,12 +3098,12 @@
 おうよ！今までの筋トレだけじゃ|どうしても限界があったからよ☆=You bet! Muscle training has been good enough by itself up to now, but|it has its limits☆
 これを手に入れてからは|やっぱ　全然違うぜ！=This thing is a total game changer!
 とにかく　今は特訓がおもしろくて|仕方がねェ！！=Besides, this special training is really fun, so no reason to stop now!!
-このままだと俺様が|神を超越する日も|そんなに遠くねェな☆=If I keep at it, the day that I surpass god can't be too far away☆
+このままだと俺様が|神を超越する日も|そんなに遠くねェな☆=If I keep at it, the day that I surpass God can't be too far away☆
 小物達と俺様の差は|ますます開く一方だぜ！|ひやっはははははは☆=The gap between me and all you small fry just keeps getting bigger and bigger! Yahahahahahaha☆
 そうかもしれないわね・・・=That's probably true, huh?
 おいおいマカ|あんまりマジでとるなよ？=Woah, woah, Maka! You can't be taking him seriously.
 !FILE:EV0520_016.bscr
-このままだと俺様が|神を超越する日も|そんなに遠くねェな☆=If I keep at it, the day that I surpass the gods can't be too far away☆
+このままだと俺様が|神を超越する日も|そんなに遠くねェな☆=If I keep at it, the day that I surpass God can't be too far away☆
 小物達と俺様の差は|ますます開く一方だぜ！|ひやっはははははは☆=The gap between me and all you small fry just keeps getting bigger and bigger! Yahahahahahaha☆
 !FILE:EV0520_017.bscr
 どうしたんだよ|そんなに深刻な顔して？=You okay? You seem a little out of it.
@@ -3318,7 +3318,7 @@
 !FILE:EV0520_152.bscr
 お前とマカ　単独で|出かけたんだってな？=You and Maka went out on your own, right?
 そうだけど　それが|お前に関係あんのか？=Yeah, but how do you know about that?
-デスサイズに言われたんだ|なんでマカの単独行動を|止められなかったんだってな・・・=I heard it from Death Scythe. He was buggin' me about not stopping Maka from leaving without another team.
+デスサイズに言われたんだ|なんでマカの単独行動を|止められなかったんだってな・・・=I heard it from Death Scythe. He was bugging me about not stopping Maka from leaving without another team.
 確かにスターの俺様ならば|マカの暴走を止められただろう・・・=Of course, being the star I am, I could have stopped her little rampage.
 そういうことだから|悪ィな☆=And for not being there, I'm sorry☆
 い　いや　お前は全然悪くねェよ・・・=N-No. It wasn't at all your fault...
@@ -3486,9 +3486,9 @@
 なぜ　その話を|知っているのだ？=Why do you know about that?
 デスサイズに伝言を|頼まれたんだよ|特訓の件はオーケーだってさ！=He asked me to pass on a message. He said he was good for the special training!
 おお　ありがたい！|・・・しかしどういう心境の変化だ|ヤツが特訓に付き合ってくれるとは・・・=Yes! I really owe him one! ...But why the sudden change of heart about the training, I wonder.
-でもよ俺達は一つ星職人だぜ？|三つ星の先生が|焦る必要あんのかな？=There's one thing I don't get. We only have one-star, but you're a three-star meister, so why would you be jealous?
+でもよ俺達は一つ星職人だぜ？|三つ星の先生が|焦る必要あんのかな？=There's one thing I don't get. We only have one star, but you're a three-star meister, so why would you be jealous?
 何を言うのだ！|強さを求めるものに|星の数など関係ない！=What do you mean!? A person's strength is not determined by how many stars they have!
-俺はストイックな|そんな男だった・・・|それは今もかわらない！=I'm supposed to be stoic. That's the kind of man I was... And that still hasn't changed!
+俺はストイックな|そんな男だった・・・|それは今もかわらない！=I'm supposed to be stoic. That's the kind of man I was. And that still hasn't changed!
 ま　身体を壊さない程度に|がんばってくれ|あんまりストイックだともたねェぞ=Well, give it all you've got and don't stop until you have nothing left to give. Now that would be stoic.
 それに　そんなことよりも|マカのほうのフォローをしっかり頼むぜ！=Before I forget, I'm trusting you to follow up with Maka!
 約束する　マカにはきちんと事情を|説明しておこう！=You have my word. I'll talk to her and explain everything!
@@ -5178,7 +5178,7 @@
 俺のマカを傷つけたら　|ただじゃおかねェぞ！=If you leave even a scratch on my Maka...!
 !FILE:EV0940_110.bscr
 お前達がどれだけ強くなったか|俺に示してみろ！=Show me just how strong you've all gotten!
-俺は教育熱心な熱血教職人・・・|そんな男だった・・・|よって今回のお前達の相手は俺だ=I taught passionately and with dedication... That's the kind of man I was... And what better way to teach than to be your opponent.
+俺は教育熱心な熱血教職人・・・|そんな男だった・・・|よって今回のお前達の相手は俺だ=I taught passionately and with dedication... That's the kind of man I was. And what better way to teach than to be your opponent.
 よくきたな！|お前達がどれだけ成長したか|俺が確認してやろう！=You showed up! Let me see how much you've all improved!
 !FILE:EV0940_111.bscr
 よくきたな！|今回の相手は俺だぁ！=There you are! Your opponent today will be none other than yours truly!
@@ -5878,7 +5878,7 @@
 さぁ　これだ！|受け取ってくれ！=Yo, here! Take this with you!
 わぁ|ありがとうございます=Wow! Thank you so much!
 サンキュー|一応　礼を言っとくぜ！=Thanks! We really can't thank you enough!
-俺はものを惜しまない|そんな男だった・・・=I spare no expense. That's the kind of man I was...
+俺はものを惜しまない|そんな男だった・・・=I spare no expense. That's the kind of man I was.
 !FILE:EV0966_537.bscr
 ブレアからのプレゼント|受け取ってもらえる？=You want a little present from yours truly?
 何かしら　一体・・・=Really? What is it?
@@ -6019,7 +6019,7 @@
 ブレアと戦うんだから|あいつのサポートは|ないって事だぜ　マカ！=Since it's Blair we're fighting, she obviously won't be helping us!
 そんな事どうでもいいじゃない|私は　先に行ってるわよ！=That shouldn't be a problem. I'm going to go on ahead!
 !FILE:EV0987_950.bscr
-俺は昔から察しのいい|そんな男だった・・・=I've always been good at reading people. That's the kind of man I was...
+俺は昔から察しのいい|そんな男だった・・・=I've always been good at reading people. That's the kind of man I was.
 !FILE:EV0988_100.bscr
 お前達に手伝って|ほしい内容は　これだ=Here's what I would like your help with.
 !FILE:EV0988_101.bscr
@@ -6072,7 +6072,7 @@
 万が一やられる時には|解剖できる部分が残っている|程度にやられてください=If anything happens to you and you die, at least make sure that there's something left to dissect in the end.
 !FILE:EV0988_206.bscr
 よし　それでは|お前達に全てをまかせた|後はよろしく頼む！=Alright, it's all up to you guys.|Good luck out there!
-ブッチャケいえばお前達には期待している|俺は何でもブッチャケる|そんな男だった・・・=If I'm being honest, I have high hopes for you. And I'm always being honest. That's the kind of man I was...
+ブッチャケいえばお前達には期待している|俺は何でもブッチャケる|そんな男だった・・・=If I'm being honest, I have high hopes for you. And I'm always being honest. That's the kind of man I was.
 !FILE:EV0988_207.bscr
 おお　やってくれるのか|こいつはありがたい=Oh, you'll really do it? I really appreciate it.
 そんじゃ　任せたから|せいぜいがんばってくれ！=Well, I'm counting on you, so please do whatever you can manage!
@@ -6091,7 +6091,7 @@
 !FILE:EV0988_305.bscr
 そうですか|仕方ありませんね=I see. Well, oh well, I guess.
 !FILE:EV0988_306.bscr
-そうか　ならば仕方ない・・・|俺は去るものは追わない|そんな男だった・・・=I guess it doesn't matter now... I don't dwell on the past. That's the kind of man I was...
+そうか　ならば仕方ない・・・|俺は去るものは追わない|そんな男だった・・・=I guess it doesn't matter now... I don't dwell on the past. That's the kind of man I was.
 !FILE:EV0988_350.bscr
 まぁ　仕方ないか|俺だってやりたくないからな・・・=Well, I guess it can't be helped. I wouldn't want to do it either...
 !FILE:EV0988_351.bscr
@@ -6247,9 +6247,9 @@
 どうやら逃げてしまったようだ・・・=It probably rolled off to hide somewhere.
 なくしたのね=You lost it, didn't you?
 !FILE:EV1120_027.bscr
-去るものは追わないのが|俺様ルールとはいえ・・・=It's true that it's one of my rules not to chase after things that are lost...
-このままでは|特訓ステージが開幕できない・・・|ツボをさがすぞ=But at this rate I won't be able to demonstrate my special training...|We have to find this jar.
-やっぱり　さがすのね=We're really doing this, huh...?
+去るものは追わないのが|俺様ルールとはいえ・・・=Normally I wouldn't chase after a lost cause, but...
+このままでは|特訓ステージが開幕できない・・・|ツボをさがすぞ=At this rate I won't be able to show off my special training...|We have to find that jar.
+やっぱり　さがすのね=We're really doing this, huh?
 !FILE:EV1120_030.bscr
 人が倒れたわ|保健室に運んでちょうだい！=Someone just fainted. Please help me carry them to the infirmary!
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
@@ -6258,44 +6258,44 @@
 本当に　ごめんなさい|全部　私達のせいです・・・=I'm really sorry. It's all our fault...
 !FILE:EV1120_042.bscr
 おい　キッド！|おめェ　ツボしらねェか？=Hey, Kid! Do ya know what happened to my jar?
-ツボ？=A jar?
+ツボ？=Your jar?
 まず　おヘソがあるの=Well, a jar with a belly button.
 なに　ヘソだと！|ツボにか！？=Wait, what? A jar with a belly button!?
 そして数人のオヤジ達が|絡みあったような紋様をしてるの=Also, it's designed to look like several intertwined old men.
-オヤジが・・・|絡みあう・・・=Old men... intertwined...
-バーコードはげの|オヤジもいたかしら・・・|キッド君　どうしたの？=I think one of them was also balding... What's wrong, Kid?
+オヤジが・・・|絡みあう・・・=Intertwined... old men...
+バーコードはげの|オヤジもいたかしら・・・|キッド君　どうしたの？=I think one of them also had a combover... What's wrong, Kid?
 ・・・・・・・・・=.........
-気分が悪くなってきた・・・|うぷ・・・気持ち悪い=I'm not feeling all that great, suddenly... Ugh, disgusting...
-ははは・・・忘れてたわね|キッド君の病気・・・=Hahaha... I forgot about your sickness, Kid...
+気分が悪くなってきた・・・|うぷ・・・気持ち悪い=I'm not feeling all that great, suddenly... Ugh, disgusting.
+ははは・・・忘れてたわね|キッド君の病気・・・=Hahaha... I forgot about your sickness, Kid.
 !FILE:EV1120_045.bscr
 ・・・・・・・・・=.........
 !FILE:EV1120_046.bscr
-気分が悪くなってきた・・・|うぷ・・・気持ち悪い=I'm not feeling all that great, suddenly... Ugh, disgusting...
-ははは・・・忘れてたわね|キッド君の病気・・・=Hahaha... I forgot about your sickness, Kid...
+気分が悪くなってきた・・・|うぷ・・・気持ち悪い=I'm not feeling all that great, suddenly... Ugh, disgusting.
+ははは・・・忘れてたわね|キッド君の病気・・・=Hahaha... I forgot about your sickness, Kid.
 !FILE:EV1120_052.bscr
 シド先生　ツボを|どこかで見ませんでしたか？=Mr. Sid, have you seen a jar anywhere?
-俺はゾンビだから|骨ツボは必要ない|ガイコツ男に聞いてみるといい=I am a zombie, so I don't need an urn. You should go ask the skull man.
+俺はゾンビだから|骨ツボは必要ない|ガイコツ男に聞いてみるといい=I'm a zombie, so I don't need an urn. You should go ask the skull man.
 いや先生|そういうことではなくて・・・=Mr. Sid, that's not what I...
 ダメだ|このゾンビ　脳みそまで|くされていやがる！？=It's pointless! Is this zombie rotten all the way to his brain!?
 ブラック☆スター！|先生に失礼よ！！=Black☆Star! That's so rude!!
-すみません　シド先生|あとで必ず　あやまらせますから・・・=I'm so sorry, Mr. Sid. I'll make him apologize, I promise...
-気にするな椿|俺は一回目は許す|そんな男だった・・・=Do not worry, Tsubaki. I always forgive the first time. That's the kind of man I was...
+すみません　シド先生|あとで必ず　あやまらせますから・・・=I'm so sorry, Mr. Sid. I'll make him apologize, I promise.
+気にするな椿|俺は一回目は許す|そんな男だった・・・=Don't worry, Tsubaki. I always forgive the first time. That's the kind of man I was.
 !FILE:EV1120_056.bscr
-すみません　シド先生|あとで必ず　あやまらせますから・・・=I'm so sorry, Mr. Sid. I'll make him apologize, I promise...
-気にするな椿|俺は一回目は許す|そんな男だった・・・=Do not worry, Tsubaki. I always forgive the first time. That's the kind of man I was...
+すみません　シド先生|あとで必ず　あやまらせますから・・・=I'm so sorry, Mr. Sid. I'll make him apologize, I promise.
+気にするな椿|俺は一回目は許す|そんな男だった・・・=Don't worry, Tsubaki. I always forgive the first time. That's the kind of man I was.
 !FILE:EV1120_057.bscr
-あんた達　ツボをなくしたね・・・=So, you two lost the jar, huh...?
+あんた達　ツボをなくしたね・・・=So you lost the jar, huh?
 おばちゃん|なんで知ってんだよ！=Auntie, how did you know!?
 ツボがどこにあるか|わかりますか？=Do you know where the jar is?
 そこまではわかんないよ|でも　死武専の中にあるのは|間違いないね！=I don't know where exactly it is, but it must be somewhere in the DWMA!
 サンキュー　おばちゃん！=Thanks, Auntie!
-おばちゃん|あんた達を　ずっと見てるよ|後ろからね・・・=Auntie will always be watching you two from behind...
+おばちゃん|あんた達を　ずっと見てるよ|後ろからね・・・=Auntie will always be watching you from behind...
 !FILE:EV1120_062.bscr
 あら　あなた達が|保健室に来るなんて珍しいわね？=Oh, my. It's rare for you two to come to the infirmary.
 どこか悪い所でも|あるのかしら？=Did you hurt yourselves or something?
-ちげェよ　先生！|ツボ見なかったか？=Nope, Doctor! Have you seen my jar?
+ちげェよ　先生！|ツボ見なかったか？=Nope! Have you seen a jar anywhere?
 ツボ？|一体　何の話かしら？=A jar? What are you talking about?
-ブラック☆スターが|ツボをなくしてしまったんです|どこかで見ませんでしたか？=Black☆Star has lost his jar. Have you seen it by any chance?
+ブラック☆スターが|ツボをなくしてしまったんです|どこかで見ませんでしたか？=Black☆Star lost his jar. Have you seen it by any chance?
 ごめんなさい|ツボみたいなものは|先生見なかったわ=I'm really sorry.|I haven't seen anything of the sort.
 !FILE:EV1120_066.bscr
 ごめんなさい|ツボみたいなものは|先生見なかったわ=I'm really sorry.|I haven't seen anything of the sort.
@@ -6311,40 +6311,40 @@
 ・・・・・・・・・=.........
 あなた　心あたりない？=Do you have any idea what might have caused this?
 いえ　ぜんぜん|まったく　ちっとも|心あたりはありません！=Nope, not at all.|No way. I've got absolutely no idea!
-すみませんが|ブラック☆スターを追いかけるので|これで　私は失礼します=Excuse me, I have to catch up with Black☆Star, so I'll be on my way.
+すみませんが|ブラック☆スターを追いかけるので|これで　私は失礼します=Excuse me. I have to catch up with Black☆Star, so I'll be on my way.
 !FILE:EV1120_072.bscr
 マカちゃん　ツボを|どこかで見ませんでした？=Maka, have you seen a jar anywhere?
 おじ様達が絡んでいる|変な紋様のツボのことかしら？=Do you mean that jar with the weird design that looks like intertwined old men?
-そうです　そのツボです|どこで見たんですか？=Yes, that's the one!|Where did you see it?
-さっきまで　そこに落ちていたわ・・・|でも　もうないわよ・・・=It was lying over there just a short while ago... but it's gone now...
-なんだって！|誰が盗んでいったんだよ☆=What's that!? Who ran off with it!?
-盗んだんじゃなくて|職員さん達が回収していったの・・・=Nobody did, the staff members just took it back...
-なんでも　割れたツボの中から|危険な液体が漏れていたんだって・・・=That cracked jar was supposedly leaking some kind of dangerous liquid...
+そうです　そのツボです|どこで見たんですか？=That's the one!|Where did you see it?
+さっきまで　そこに落ちていたわ・・・|でも　もうないわよ・・・=It was lying over there just a little while ago, but it's gone now.
+なんだって！|誰が盗んでいったんだよ☆=What!? Who ran off with it!?
+盗んだんじゃなくて|職員さん達が回収していったの・・・=Nobody. The teachers came to get it.
+なんでも　割れたツボの中から|危険な液体が漏れていたんだって・・・=Apparently the jar was cracked and was leaking some kind of dangerous liquid...
 もしかして　あのツボ|あなた達のだったの？=Does that jar belong to you guys?
 ち　違うわ|私達のじゃないわ・・・=N-No, it doesn't...
-そう　よかった・・・|そうよね　あんな危険物をあなた達が|死武専に持ち込むはずないもんね♪=I see, that's a relief... Yup, there's no way you two would ever bring such a dangerous thing to the DWMA, right♪?
+そう　よかった・・・|そうよね　あんな危険物をあなた達が|死武専に持ち込むはずないもんね♪=Okay. That's a relief... Yup, there's no way you two would ever bring such a dangerous thing to the DWMA, right♪?
 !FILE:EV1120_076.bscr
 もしかして　あのツボ|あなた達のだったの？=Does that jar belong to you guys?
 ち　違うわ|私達のじゃないわ・・・=N-No, it doesn't...
-そう　よかった・・・|そうよね　あんな危険物をあなた達が|死武専に持ち込むはずないもんね♪=I see, that's a relief... Yup, there's no way you two would ever bring such a dangerous thing to the DWMA, right♪?
+そう　よかった・・・|そうよね　あんな危険物をあなた達が|死武専に持ち込むはずないもんね♪=Okay. That's a relief... Yup, there's no way you two would ever bring such a dangerous thing to the DWMA, right♪?
 !FILE:EV1120_077.bscr
-ブラック☆スター|ここでツボを落としたのね・・・=So this is where you dropped it, Black☆Star...
+ブラック☆スター|ここでツボを落としたのね・・・=So this must be where you dropped it, Black☆Star.
 う～ん|よく覚えてねェな☆=Hmm, I can't really remember☆
-はぁ・・・それより　どうするの|吸魂水が入ったツボがなければ|特訓はできないわよ？=*Sigh* Either way, what are we gonna do? You can't do your special training without the jar, right?
-ふっ　今日という日が|来ることは　はじめから|わかっていた・・・=Heh, I always knew that this day was going to come...
-もともとあのツボは|スターである俺様の特訓に|付き合うには　役不足だったのさ！=You see, this jar was never good enough to participate in the special training of a star like me to begin with!
+はぁ・・・それより　どうするの|吸魂水が入ったツボがなければ|特訓はできないわよ？=*Sigh* Doesn't matter. What are we gonna do? You can't do your special training without the jar, right?
+ふっ　今日という日が|来ることは　はじめから|わかっていた・・・=Heh, I always knew this day would come...
+もともとあのツボは|スターである俺様の特訓に|付き合うには　役不足だったのさ！=That jar was never going to make it through the special training of a star like me to begin with!
 そうかしら|たんにブラック☆スターの|不注意だと思うんだけど=I wonder about that. To me it seems like you were just being careless, to be honest.
 こうなったら仕方がない・・・|ネジメガネに|新しいツボをもらいに行くぜ=There's no helping it, then...|We'll have to go ask that screwball four-eyes for a new jar.
 てことは|まだ特訓をあきらめてないの？=So you aren't giving up on the training yet?
 言っただろう|特訓ステージを見せてやるって！|ひやっはははははは☆=Didn't I tell you that I was going to show you my magnificent special training? Hyahahahaha☆
 とほほ|今度はシュタイン博士の所に行くのね=Ungh. So we're visiting Professor Stein this time, huh?
 !FILE:EV1120_082.bscr
-実は　ブラック☆スターが|もらったツボをなくしてしまったんです=Actually, Black☆Star lost the jar he was given.
-だから博士|新しいヤツをくれよ！|すぐ特訓してェんだよ！=So give me a new one, Professor!|I'm doing special training soon!
+実は　ブラック☆スターが|もらったツボをなくしてしまったんです=So... Black☆Star lost the jar you gave him.
+だから博士|新しいヤツをくれよ！|すぐ特訓してェんだよ！=So give me a new one, Professor!|I need to get back to my special training!
 ええ　かまいませんよ|・・・ただ　ここにあるのは|吸魂水だけです・・・=Sure, I don't mind.|...However, what's in here is Soul Sapping Water.
 だから　それを|くれっていってんだろ！|さっさとくれよ　博士！=So? I said give it to me, didn't I?|Hurry up and give it to me, Professor!
 だから　ツボがないんですよ|ツボが　吸魂水を入れる|ツボがないんですよ=But I don't have another jar. I need a jar to put the Soul Sapping Water in.
-え・・・でも　あれって|特別なツボではなくて|普通のツボですよね？=Huh...? But you said that it's a normal jar, not a special jar, right?
+え・・・でも　あれって|特別なツボではなくて|普通のツボですよね？=Huh? But you said that it's a normal jar, not a special jar, right?
 ええ　だから|普通のツボがないんです=Right. In other words, I don't have another normal jar.
 なんだよ　ケチケチすんなよ！|ホントはツボだってあるんだろ？=What the hell? Don't be stingy! You said you actually have a jar, didn't you?
 スターの俺様をねたんで|隠してるだけなんだろ！？=You're just hiding it because you're jealous of a star like me, aren't you?
@@ -6353,13 +6353,13 @@
 一体　死武専のどこに|ツボなんてあるんですか？=Where in the DWMA might there be a jar, exactly?
 はて　俺も知りません・・・=When it comes down to it, I don't know either...
 じゃあ　あのツボ|どっから持ってきたんだよ！=Then where'd you get that jar from?!
-調査に出かけた帰りに|拾ってきたんですよ|興味をそそる形をしていたのでね=I picked it up on my way back from going out to do surveying. It had a shape that piqued my interest.
+調査に出かけた帰りに|拾ってきたんですよ|興味をそそる形をしていたのでね=I picked it up on my way back from some surveying I was doing. It had a shape that piqued my interest.
 素敵な趣味ですね・・・=What a lovely hobby...
 そうだ　ツボを拾った場所を|教えてあげますから|取りにいってはどうですか？=Right? Why don't I tell you where I picked up this jar, and then you try looking there?
 俺は一つしか拾って|きませんでしたけど|まだ何個か落ちていたはずです=I only brought one, but there are probably still many more that were dropped around there.
 特訓ステージを|開幕するためにはしょうがねェな=If we want to draw the curtain on the special training stage, we have no choice.
-博士　そのツボが|ゴロゴロだか　コロコロしている|場所を教えてくれ！=Professor, tell us where those round jars are scattered around!#I tried to convey the 'goro-goro' 'koro-koro' with 'round' and 'around', not sure if it works.
-それでは俺とツボが|出会った場所を教えます=Okay, let me tell you where I encountered the jar.
+博士　そのツボが|ゴロゴロだか　コロコロしている|場所を教えてくれ！=Professor, tell us where those round jars are rolling around!#I tried to convey the 'goro-goro' 'koro-koro' with 'round' and 'around', not sure if it works.
+それでは俺とツボが|出会った場所を教えます=Okay, let me tell you where I came across it.
 !FILE:EV1120_090.bscr
 お疲れ様です　みごとに|ツボを取ってきたようですね=Good work. It seems you got the jar without too much trouble.
 さっさと|ツボの中に吸魂水を|入れてくれよ！=Hurry up and put the Soul Sapping Water in the jar already!
@@ -6393,13 +6393,13 @@
 ブラック☆スター|お願いだからやめてちょうだい=Please stop, Black☆Star.
 もういい　俺様一人で|ステージを敢行する！=Fine. Black☆Star will take the stage alone!
 あっ　待ってちょうだい|ブラック☆スター・・・=Ah, please wait! Black☆Star...
-大変なことになったわね・・・|ブラック☆スターをさがさなきゃ・・・=This has gotten a little out of hand...|I need to find Black☆Star...
+大変なことになったわね・・・|ブラック☆スターをさがさなきゃ・・・=This has gotten a little out of hand...|I need to find him.
 !FILE:EV1120_102.bscr
 ごめんなさい|ブラック☆スターを|見なかったかしら？=Sorry. Have you seen Black☆Star?
 ブラック☆スターなら|ほら　あそこにいるぜ！=Black☆Star? He's over there!
 おお　何かすげェな|見ろよ　あんなに|にこやかに笑ってる！=Oh, this oughta be pretty great.|Look at that huge grin!
 ・・・・・・・・・=.........
-よかった|まだ吸魂水を飲んでないのね・・・=Oh good. He hasn't drank the Soul Sapping Water yet...
+よかった|まだ吸魂水を飲んでないのね・・・=Oh, good. He hasn't drank the Soul Sapping Water yet...
 ブラック☆スタ～|大丈夫なの～～=Hey, Black☆Star! Are you all right?
 ・・・・・・・・・=.........
 あれ　なんで|返事をしてくれないのかしら・・・=Huh?|I wonder why he isn't answering...
@@ -6409,9 +6409,9 @@
 ・・・・・・・・・=.........
 あぁーーーっ|ブラック☆スター！！=Aaaah! Black☆Star!!
 う～～ん=Unngh.
-あれ・・・ここは・・・|なんだ　死武専かよ=Huh...? Where...?|The DWMA?
+あれ・・・ここは・・・|なんだ　死武専かよ=Huh? Where...?|The DWMA?
 お　立ちあがった|どうやら気がついたみたいだな=Ah, it moves. Looks like you're awake.
-ブラック☆スター|大丈夫なの？=Black☆Star. Are you all right?
+ブラック☆スター|大丈夫なの？=Black☆Star, are you all right?
 さっきまで|オヤジとオフクロに|会っていたぜ！=I just saw my mom and my old man!
 何バカなこと言ってるのよ・・・=You're talking nonsense...
 悪ィ・・・心配かけたようだな・・・=My bad... I made you worry, didn't I?
@@ -6531,7 +6531,7 @@
 そうですよね　私　変でしたね！=I guess that was a little strange.
 だが　椿・・・|ブラック☆スターに|言いたいことは俺にもたくさんある！=Anyway, Tsubaki...|There's a lot that I want to say to Black☆Star!
 先生|それは私じゃなくて|直接　ブラック☆スターに・・・=But sir, wouldn't it be better to say it directly to Black☆Star...
-生前の俺は|一度言いかけたことを|最後まで言う　そんな男だった・・・=When I was alive, once I started to say something, I always finished.|That's the kind of man I was...
+生前の俺は|一度言いかけたことを|最後まで言う　そんな男だった・・・=When I was alive, once I started to say something, I always finished.|That's the kind of man I was.
 そんな・・・=But...
 ふぅ・・・|今日はこれくらいにしておこう・・・=Phew...|I guess that should be about all for today...
 俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=I wasn't the kind of man who told long stories...But I guess it was an old story too...
@@ -7182,7 +7182,7 @@
 お前が　そんなことを言うなんて|何かの事情があるのだろう|いいぞ　許可しよう=I suppose you wouldn't ask if you didn't have a good reason. Alright, I'll allow it.
 先生実は・・・=Well, the truth is...
 いや　理由は言わなくてもいい|俺はお前を信頼している=Forget it, no need to tell me the reason. I trust you.
-俺は　理由などどうでもいい|そんな男だった・・・=It doesn't matter to me what your reason is. That's the kind of man I was...
+俺は　理由などどうでもいい|そんな男だった・・・=It doesn't matter to me what your reason is. That's the kind of man I was.
 ありがとうございます先生=Thank you, Sid.
 しっかり眠るんだぞ|ゾンビのようにだ！=Sleep well. Just like a zombie!
 あははは・・・|そこまで深くは眠りません=Ahahaha... I don't plan to sleep that deeply.
@@ -7674,7 +7674,7 @@
 そんな乱暴な・・・=Violence won't...
 とりあえず大物ねらいだ！|まずは博士と白黒つけてくるぜ！=For now I'll hunt the big game! First, I'm going to settle this with the professor!
 シド先生|ブラック☆スターを止めてください！=Sid, please stop Black☆Star!
-俺は生徒の自主性を重んじる|そんな男だった・・・|ヤツを止めることはできない・・・=I respect the students' autonomy. That's the kind of man I was... I can't stop him...
+俺は生徒の自主性を重んじる|そんな男だった・・・|ヤツを止めることはできない・・・=I respect the students' autonomy. That's the kind of man I was. I can't stop him...
 先生|そういう問題ではないと思います・・・=Sir, I don't think that's the problem...
 !FILE:EV1320_150.bscr
 ノーーー！！=Nooooo!!
@@ -8268,11 +8268,11 @@
 無理もない話かもしれん|村人にとっては忌むべき|存在だったのだから・・・=It's probably to be expected. After all, he was shunned by the villagers...
 ったく　だから小物はダメだぜ！|あの村にはロクなヤツがいねェな！=Honestly, that's why I hate the weak and cowardly! There isn't a decent person in that village!
 そういうな|ブラック☆スター|村人の気持ちもわかってやれ！=Careful what you say, Black☆Star. You must try to understand how the villagers must feel!
-しかし　何もないというのは|さみしいものだ・・・俺も昔はさみしがりや|そんな男だった・・・=But nothing... It must have been a life of incredible solitude... I was lonely once. That's the kind of man I was...
+しかし　何もないというのは|さみしいものだ・・・俺も昔はさみしがりや|そんな男だった・・・=But nothing... It must have been a life of incredible solitude... I was lonely once. That's the kind of man I was.
 !FILE:EV1420_146.bscr
 ったく　だから小物はダメだぜ！|あの村にはロクなヤツがいねェな！=Honestly, that's why I hate the weak and cowardly! There isn't a decent person in that village!
 そういうな|ブラック☆スター|村人の気持ちもわかってやれ！=Careful what you say, Black☆Star. You must try to understand how the villagers must feel!
-しかし　何もないというのは|さみしいものだ・・・俺も昔はさみしがりや|そんな男だった・・・=But nothing... It must have been a life of incredible solitude... I was lonely once. That's the kind of man I was...
+しかし　何もないというのは|さみしいものだ・・・俺も昔はさみしがりや|そんな男だった・・・=But nothing... It must have been a life of incredible solitude... I was lonely once. That's the kind of man I was.
 !FILE:EV1420_147.bscr
 ようやくわかったぜ|椿のヤツ　まだアニキのこと|ひきずってやがるな・・・=I understand now. Tsubaki's been carrying around the thought of her brother...
 いいかげんアイツも|帰ってきた頃だろう・・・=I think she should be getting back any time now...
@@ -8657,7 +8657,7 @@
 博士・・・|余計なことをしやがって=Professor... I didn't need your help.
 いや・・・　なに=I'm sure... What?
 やばかったんじゃねぇの？|ブラック☆スター=Isn't it amazing, Black☆Star?
-やっとわかったか|俺様の　神をも超えるヤバさが！=You finally understand my god-surpassing amazingness!?
+やっとわかったか|俺様の　神をも超えるヤバさが！=You finally understand my God-surpassing amazingness!?
 いや　そーじゃなくて・・・|って　ヤバいのはあっちか=No, not that... Look. That's what's amazing over there.
 すごい・・・　これが全部|鬼神になるんですか？=No way... Will they all become kishin?
 ・・・鬼神の軍団か=... An army of kishin.
@@ -8886,7 +8886,7 @@
 もしやとは思うが|今回の件で死武専に対する恨みが|わきあがってきたのかもしれん・・・=Not really, but this affair might stem from some pent-up resentment towards the DWMA.
 何しろアイツは|星族最後の生き残り・・・=And that kid is the last surviving member of the Star Clan...
 そんな・・・先生ひどいです=Sid... That's terrible.
-そう言ってくれるな椿・・・|俺は全ての可能性を否定しない|そんな男だった・・・=I understand, Tsubaki... But I won't ignore any possibilities. That's the kind of man I was...
+そう言ってくれるな椿・・・|俺は全ての可能性を否定しない|そんな男だった・・・=I understand, Tsubaki... But I won't ignore any possibilities. That's the kind of man I was.
 !FILE:EV1520_126.bscr
 ブラック☆スターはどうしたんだ|一緒じゃないのか？=Where's Black☆Star? He's not with you?
 先生！ブラック☆スターを|疑ってるんですか？=Sid! Do you suspect Black☆Star?
@@ -10766,7 +10766,7 @@
 マカの　お友達だ|あんまり無茶すんじゃねェぞ=Those are Maka's friends, so try not to kill 'em, okay?
 !FILE:EV1940_110.bscr
 お前達がどれだけ強くなったか|俺に示してみろ！=Show me just how strong you've all gotten!
-俺は教育熱心な熱血教職人・・・|そんな男だった・・・|よって今回のお前達の相手は俺だ=I taught passionately and with dedication... That's the kind of man I was... And what better way to teach than to be your opponent.
+俺は教育熱心な熱血教職人・・・|そんな男だった・・・|よって今回のお前達の相手は俺だ=I taught passionately and with dedication... That's the kind of man I was. And what better way to teach than to be your opponent.
 よくきたな！|お前達がどれだけ成長したか|俺が確認してやろう！=You showed up! Let me see how much you've all improved!
 !FILE:EV1940_111.bscr
 よくきたな！|今回の相手は俺だぁ！=There you are! Your opponent today will be none other than yours truly!
@@ -11442,7 +11442,7 @@
 さぁ　これだ！|受け取ってくれ！=Yo, here! Take this with you!
 わるくねェな|受け取っておいてやるぜ！=Not bad. We'll take it off your hands!
 ありがとうございます|すごく嬉しいです=Thank you so much! It means a lot!
-俺はものを惜しまない|そんな男だった・・・=I spare no expense. That's the kind of man I was...
+俺はものを惜しまない|そんな男だった・・・=I spare no expense. That's the kind of man I was.
 !FILE:EV1966_537.bscr
 ブレアからのプレゼント|受け取ってもらえる？=You want a little present from yours truly?
 ひやっはぁ☆|スターへの貢ぎ物とは感心だ|もらっておいてやろう！=Yahoo☆ A star's tribute is always appreciated. I'll gladly accept it!
@@ -12106,9 +12106,9 @@
 まだ　父上と連絡は|とれないのですか？=You still haven't been able to get a hold of father?
 そうなのだ　死神様に|報告ができなくて困っている・・・=No, not yet. What do I do if I can't report to Lord Death...?
 大変だね・・・=Poor thing...
-生前の俺は報告を|欠かさない　そんな男だった・・・=When I was alive, I never failed to file a report. That's the kind of man I was...
+生前の俺は報告を|欠かさない　そんな男だった・・・=When I was alive, I never failed to file a report. That's the kind of man I was.
 !FILE:EV2121_056.bscr
-生前の俺は報告を|欠かさない　そんな男だった・・・=When I was alive, I never failed to file a report. That's the kind of man I was...
+生前の俺は報告を|欠かさない　そんな男だった・・・=When I was alive, I never failed to file a report. That's the kind of man I was.
 !FILE:EV2121_061.bscr
 ひゃっほう♪|俺は自由だ～♪=Yahaa♪ I'm freeee♪
 !FILE:EV2121_062.bscr
@@ -12977,7 +12977,7 @@
 二人で何を話してるのかな？=What are those two talking about?
 さあね　お姉ちゃん|さっぱりわからないよ・・・=For real. Big sis didn't understand a thing...
 !FILE:EV2222_075.bscr
-生前の俺はメンタル面が強い|そんな男だった・・・|だが　それも過去の話か・・・=When I was alive, my mental fortitude did not waver. That's the kind of man I was... But all the things they've been through...
+生前の俺はメンタル面が強い|そんな男だった・・・|だが　それも過去の話か・・・=When I was alive, my mental fortitude did not waver. That's the kind of man I was. But all the things they've been through...
 !FILE:EV2222_076.bscr
 あやうく自分を見失う所だった=I almost lost sight of myself.
 ありがとうキッド|お前の励ましで自分を|取り戻すことができた=Thanks, Kid. It's because of your encouragement that I was able to regain my composure.
@@ -14437,9 +14437,9 @@
 かなり　乙女だな|悪ィ　ミスったかもしんねェ・・・=It's kinda girly, huh? Sorry. This might have been a mistake...
 ごみんに～ぃ♪=Sooowy♪
 何を言うか　俺は嬉しいぞ|ありがとう　これは大切に使わせてもらうぞ=What are you saying? I'm overjoyed. Thanks. I'll use it with great care.
-俺は生徒からの贈り物を大切にする|そんな男だった・・・|それは今も変わらない・・・=I cherish gifts from my students. That's the kind of man I was... And that hasn't changed...
+俺は生徒からの贈り物を大切にする|そんな男だった・・・|それは今も変わらない・・・=I cherish gifts from my students. That's the kind of man I was. And that hasn't changed...
 !FILE:EV2520_066.bscr
-俺は生徒からの贈り物を大切にする|そんな男だった・・・|それは今も変わらない・・・=I cherish gifts from my students. That's the kind of man I was... And that hasn't changed...
+俺は生徒からの贈り物を大切にする|そんな男だった・・・|それは今も変わらない・・・=I cherish gifts from my students. That's the kind of man I was. And that hasn't changed...
 !FILE:EV2520_067.bscr
 先生のイメチェン|もう話題になったかな？=Maybe Sid's makeover has already become the talk of the school.
 ずいぶん　気が早いな|そんなに早く噂になる|ものではないと思うぞ=You're so impatient. I don't think word of this will have gotten around so quickly.
@@ -16448,7 +16448,7 @@
 マカの　お友達だ|あんまり無茶すんじゃねェぞ=Those are Maka's friends, so try not to kill 'em, okay?
 !FILE:EV2940_110.bscr
 お前達がどれだけ強くなったか|俺に示してみろ！=Show me just how strong you've all gotten!
-俺は教育熱心な熱血教職人・・・|そんな男だった・・・|よって今回のお前達の相手は俺だ=I taught passionately and with dedication... That's the kind of man I was... And what better way to teach than to be your opponent.
+俺は教育熱心な熱血教職人・・・|そんな男だった・・・|よって今回のお前達の相手は俺だ=I taught passionately and with dedication... That's the kind of man I was. And what better way to teach than to be your opponent.
 よくきたな！|お前達がどれだけ成長したか|俺が確認してやろう！=You showed up! Let me see how much you've all improved!
 !FILE:EV2940_111.bscr
 よくきたな！|今回の相手は俺だぁ！=There you are! Your opponent today will be none other than yours truly!
@@ -17110,7 +17110,7 @@
 はい|ありがとうございます=Okay. Thank you.
 その気持ちが|嬉しいぜ！=Getting gifts makes me so happy!
 お～お|ものもらっちった♪=Woah! A present!♪
-俺はものを惜しまない|そんな男だった・・・=I spare no expense. That's the kind of man I was...
+俺はものを惜しまない|そんな男だった・・・=I spare no expense. That's the kind of man I was.
 !FILE:EV2966_537.bscr
 ブレアからのプレゼント|受け取ってもらえる？=You want a little present from yours truly?
 うむ　問題ない=Yeah. Sure.
@@ -17841,7 +17841,7 @@
 なんか　あんまりいい気分がしねェな・・・=That doesn't really make me feel great about myself...
 もう少しマカも|大人になってくんねェかな・・・=I wish Maka could grow up a little...
 デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Spirit or Blair...
-ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our appartment, I've totally lost my cool while at home...
+ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our apartment, I've totally lost my cool while at home...
 誰か　あのネコ|もらってくれねェかな・・・=Does anybody want to take a cat off my hands?
 何回行っても|保健室って所は落ち着かねェぜ=No matter how many times I go there, I always feel terrible while I'm in the infirmary.
 あそこにいると|自分が本当に病人と思えてくるしよ=Whenever I'm there, I can't help but to start thinking I'm actually sick.
@@ -18146,7 +18146,7 @@
 全員　揃ってないんじゃ|受けさせるわけにはいかないぞ=I can't let you take on a mission if your whole team isn't here.
 揃ってから　また来るんだな=Round them up and come back later.
 何かやるべきことがあるんだろう？|それをやったら来い！=Aren't you supposed to be taking care of something else? Come back once it's finished!
-俺は昔から察しのいい|そんな男だった・・・=I've always been good at reading people. That's the kind of man I was...
+俺は昔から察しのいい|そんな男だった・・・=I've always been good at reading people. That's the kind of man I was.
 !FILE:EV9981_311.bscr
 大丈夫なのかお前達・・・=How you guys holding up...?
 俺と違って生身なのだから|あまり無理をするんじゃないぞ！=Unlike me, you're still flesh and blood, so don't get carried away!
