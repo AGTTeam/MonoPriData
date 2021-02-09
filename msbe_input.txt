@@ -11347,7 +11347,7 @@
 わかったわ・・・=All right...
 あれがあるでしょ・・・|これもあるでしょ・・・後は・・・=Whenever you want to knock on Death's door...
 死神様の鏡番号|４２－４２－５６４・・・=42 - 42 - 564.|Lord Death's mirror number.
-もしもし　死神様|魔暗器の椿です！=Hello, Lord Death? It's the demon weapon, Tsubaki!
+もしもし　死神様|魔暗器の椿です！=Hello, Lord Death? It's the magic weapon, Tsubaki!
 !FILE:EV1964_050.bscr
 椿　死神のダンナを呼び出そうぜ！=Tsubaki, let's call up Lord Boss!
 わかったわ・・・|えい！！=All right... Ya!!
