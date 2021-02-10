@@ -44,10 +44,10 @@
 最近のリズは・・・=Where Liz Belongs...
 保健室からの苦情=Dispensing Complaints
 ソウルの胸の傷=Soul's Scar
-反撃開始=Initiate Counteroffensive#I chose this wording to make it sound more militaristic, but it can easily be changed if it's too long.
+反撃開始=Payback Time
 劣等感大爆発=Inferiority Complexplosion
 ショッキングゾンビ=Zombie Shock
-彼の親切とその反応=Returning the Gift of Kindness
+彼の親切とその反応=Generous Gifts?#or possibly "Kindness & Karma"?
 星族の秘法=The Star Clan's Secret Ways
 危険なトレーニング=Dangerous Training
 打倒マカチョップ=Overcoming the Maka Chop
@@ -2930,10 +2930,10 @@
 !FILE:EV0500_203.bscr
 ん　忘れ物か？|早くしろ　ちょっとなら待ってやる|俺は余裕のある　そんな男だった=Huh? Forget something? Hurry it up. I only have so much time to wait around. That's the kind of man I was.
 !FILE:EV0500_204.bscr
-いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110%!! That's the kind of man I was!!#Another possibility would be "I always go all-out" if the numbers and symbols are going to cause problems.
+いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110％!! That's the kind of man I was!!
 !FILE:EV0500_210.bscr
-やつらが逃げた穴から|やつらのアジトを捜索する=We're going to hunt down their hideout through the holes they escaped through.
-ここからは　それぞれ単独行動になる|こころしてかかれ！=We're going to split up from here. Stay alert!
+やつらが逃げた穴から|やつらのアジトを捜索する=We're going to hunt down their hideout using the holes they escaped through.
+ここからは　それぞれ単独行動になる|こころしてかかれ！=We're going to split up from here. Stay alert!#not used?
 はい！=Right!
 ああ！=Yes!
 おう！=Yeah!
@@ -2949,13 +2949,13 @@
 !FILE:EV0500_401.bscr
 ガンバって　やり遂げるんだ|生前はオレもそんな男だった=Do your best until the very end. When I was alive, that's the kind of man I was.
 !FILE:EV0500_500.bscr
-なに？|鬼神の軍団になるのは近いだと？|・・・むむむ=What? They've nearly amassed an army of kishin? Hmmmm...
+なに？|鬼神の軍団になるのは近いだと？|・・・むむむ=What? They've nearly amassed an|army of kishin? Hmmmm...
 ああ　我々はいったん死武専に戻る|・・・・決戦の準備だ=Yes. We need to get back to the DWMA at once. It's time we put the final nail in the coffin.
 わかった|ここの守りは任せろ|死神様への報告は頼んだぞ=Understood. I'll take care of the defense in this zone. I'll leave it to you to report to Lord Death.
 !FILE:EV0500_501.bscr
 なるほどね|そ～ゆ～ことですか=I see. So that's what's going on.
 あの繭が　かえらないうちに|始末をしなければ・・・=Those cocoons must be dealt with before they transform.
-本物の鬼神への影響も|考えられるしな=We need to consider the effects on the real kishin as well.
+本物の鬼神への影響も|考えられるしな=We need to consider the effects on the real Kishin as well.
 まっ　まっ|備えあれば憂いなしってもんでしょ♪=Yep. Yep. Better safe than sorry, as they say♪#備えあれば憂いなし is a Japanese proverb. It literally means "If there is preparation, there are no worries."
 いよいよ決戦か|腕が鳴るぜ=It's time to settle this once and for all. I'm raring to go.
 あ　デスサイズ君は|私の手元に残ってもらいますよ=Ah. Spirit, you'll be staying by my side actually.
@@ -2967,9 +2967,9 @@
 魔女は　シド先生と生徒達に任せましょ♪=We'll entrust the witch to Sid and the students♪
 !FILE:EV0500_502.bscr
 ギギィ|ポネラ様・・・　これを・・・=Gigi! Madame Ponera... This...
-それって・・・=That...
 南の洞窟に落ちておりました・・・=It was found in the southern cave.
-そんなっ・・・　グリモアが|私のグリモアが・・・　いやよ|いやああぁぁぁ！=That... Grimoire is... My Grimoire is... No... Nooooooo!
+それって・・・=That's...
+そんなっ・・・　グリモアが|私のグリモアが・・・　いやよ|いやああぁぁぁ！=That means... Grimoire is... My Grimoire is... No... Nooooooo!
 許さない　あいつら・・・|よくもグリモアを・・・|絶対に許さないから=I won't... forgive them... I'll never forgive them... for what they did to Grimoire.
 !FILE:EV0501_400.bscr
 まず　この穴からね=I guess we'll try this hole first.
@@ -2987,31 +2987,30 @@
 今度こそ　たのむわよ=Please be the right one this time.
 マジでさ=For real.
 !FILE:EV0501_405.bscr
-もぉ！|どんだけいるのよ　コイツら！=Urgh! How many of these things are there!?
+もぉ！|どんだけいるのよ　コイツら！=Urgh! How many of these guys are there!?
 !FILE:EV0501_406.bscr
 何？　ここ・・・=What is this place?
 おい|アレなんだ？=Hey, what's that?
 え？|・・・繭？=Huh? ...A cocoon?
 にしちゃデカすぎねぇか？=Can they even get that big?
-キャッ！=Kya!
-うわっ！=Woah!
-コイツって|このあいだの！=It's between us and where we need to go!
+キャッ！=Wha--?!#this line appears for both Maka and Soul
+うわっ！=Woah!#not used?
+コイツって|このあいだの！=This thing again?!
 マカ　気をつけろ！=Be careful, Maka!
 おや？|あなたはたしか・・・=Oh? You must be...
 あんたは！=Identify yourself!
 おっと　これは申し遅れました|私の名は　グリモア　お見知りおきを=My apologies for not introducing myself sooner. My name is Grimoire. Pleased to make your acquaintance.
 その繭　化け物は・・・|何なの！=That cocoon monster... What is it!?
 フフフ　これですか？|ちょうど生まれるところを見れるなんて|あなたはラッキーですね=Hmhmhm. This? To be able to witness its very birth. How lucky you must be.
-・・・では　教えてあげましょう=...Allow me to explain.
+・・・では　教えてあげましょう=Allow me to explain.
 この繭でね|鬼神を作るのですよ=Yes, this cocoon... It creates kishin.
-鬼神！=Kishin!
-鬼神！=Kishin!
-まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Yes. It's not yet perfect however. Perhaps I should call it a pseudo-kishin.
-繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place the flesh that will become the yorishiro in the cocoon along with innumerable souls.#This line is pretty tricky. I decided on 'we' as opposed to 'I' because Grimoire is working along with Ponera. I translated 肉体 as flesh, but it can also be translated as 'physical body' or just 'body'.
-そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, the yorishiro grows and absorbs the souls until it is born with the power of a kishin.
-そんなモノを　なぜ・・・|なんのために=Why create this thing? To what purpose?
+鬼神！=Kishin?!
+まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Yes. It's not yet perfect however. Perhaps I should call it a pseudo- kishin.#added space for improved word wrapping
+繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and flesh to house them into the cocoon.#This line is pretty tricky. I decided on 'we' as opposed to 'I' because Grimoire is working along with Ponera. I translated 肉体 as flesh, but it can also be translated as 'physical body' or just 'body'.
+そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
+そんなモノを　なぜ・・・|なんのために=Why create this thing? For what purpose?
 世界を手に入れるためですよ|あなたのような邪魔者を消してね=To take over the world. To rid the world of pests like you.
-そんなことさせない！|魔女は・・・ポネラはどこにいるの！=Not while I live and breathe! The witch! Where is Ponera?
+そんなことさせない！|魔女は・・・ポネラはどこにいるの！=Not while I live and breathe!|The witch! Where is Ponera?
 フフフ・・・ポネラ様は|この先の神殿にいらっしゃいますよ=Hmhmhm... Madame Ponera is in the sanctuary before you.
 ああ　でも行けませんよ|邪魔させないように言われているのでね=Ah. But you cannot enter. She told me that she was not to be disturbed.
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
@@ -3021,15 +3020,15 @@
 鬼神！=Kishin!
 !FILE:EV0501_407.bscr
 フッ・・・|なかなかやりますね=Hm... You're stronger than you look.
-魔女の思いどおりになんかさせない！|そこをどいて！=I cannot allow you to follow through with the witch's plans! They end here!
+魔女の思いどおりになんかさせない！|そこをどいて！=I won't allow things to go according to the witch's plans! Out of my way!
 魔女の思いどおり？|ハハハ　ポネラにできることは|ただ繭を作ることだけですよ=Her plans? Hahaha! Ponera is merely useful for making cocoons.
 どういうこと？=What are you talking about?
 あの子は　この暗い地下の世界から|外へ出たいと願っていた=That child wished to emerge from this dark underground world.
-だから　私が教えてあげたんですよ|私の力と　ポネラの繭|その２つで叶えられる方法があることをね=Thus I instructed her that together, with my power and her cocoons, there existed a way in which her wish could be granted.
+だから　私が教えてあげたんですよ|私の力と　ポネラの繭|その２つで叶えられる方法があることをね=Thus I told her that together, with my power and her cocoons, there was a way her wish could be granted.
 その方法っていうのが|その化け物のことね！=And that monster is the way!?
-フフフ　なかなかの出来だと思いますがね|あの子は　繭を作り続け|それを使って　私が世界を支配する・・・=Hmhmhm. Her craftsmanship is remarkable, isn't it? That child will continue making cocoons. And I will make use of them to rule the world.
+フフフ　なかなかの出来だと思いますがね|あの子は　繭を作り続け|それを使って　私が世界を支配する・・・=Hmhm. Remarkable craftsmanship, no? That child will keep making cocoons, and I'll use them to rule the world.
 結果として　あの子の望みは|叶うことになるでしょう？=Once that comes to fruition, the child will have all that she desires, don't you think?
-ポネラを騙して利用したのね・・・|許せない　観念しなさい！=You've deceived Ponera to use her... Your deception ends here! Give up!
+ポネラを騙して利用したのね・・・|許せない　観念しなさい！=You deceived Ponera and used her... That I can't forgive! Give up!
 フフフ|申し訳ないが　そうもいかないのでね=Hmhmhm. My apologies, but that won't be possible.
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
 おおぉ・・・　力が沸いてくる=Oooohh... Power overwhelming.#Reference to the archon unit in Starcraft. As usual, feel free to change it.
@@ -3037,7 +3036,7 @@
 ふぅ・・・|この力を見せたくはなかったのですが|まぁ　いいでしょう=Phew... I didn't want to reveal this power... How unfortunate.
 あなたには・・・|ここで消えてもらいます=You... You're going to die in this place.
 !FILE:EV0501_408.bscr
-はぁ　はぁ　ソウル・・・|やばいよ　もう力が・・・=*Pant* *Pant* Soul... This is bad. My strength is fading...
+はぁ　はぁ　ソウル・・・|やばいよ　もう力が・・・=*Pant* *Pant* Soul... This is bad.|My strength is fading...
 くっそおぉぉ！！=Damn it!!
 クククッ・・・|さぁ　あなたが観念する番です|楽にしてあげます！=Hmphehe... Now it is your turn to give up. I'll make it easy for you!
 なにっ？！=What!?
@@ -3047,13 +3046,13 @@
 のヤロー！|俺のマカに手出した奴はどいつだコラー！！=That bastard! Anyone who lays a single hand on my Maka is dead!!
 ザコ共は任せなさい|君はヤツをやれ！=Leave these pests to us! You take care of him!
 はい！=Right!
-くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around! I'll end you!
+くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around!|I'll end you!
 !FILE:EV0501_409.bscr
 グフッ・・・|バカな　こんなところで・・・|終わるとは・・・=Gakk... No, I can't lose to the likes of you.
 やったぁ！=Yes!
 はぁ　はぁ|倒したぜ=*Pant* *Pant* The magic show's been cancelled.
 やりましたね=Good work.
-シュタイン博士！|・・・ありがとう=Professor Stein! ...Thanks.
+シュタイン博士！|・・・ありがとう=Professor Stein!|...Thank you.
 いや・・・　なに=No need to thank me.
 マカァ～　大丈夫かぁ|パパがいま　抱きしめて・・・=Makaaa! Are you all right? Papa is here now! Give me a big hug, and...
 さすがに　やばかったぜ|・・・てか　やばいぜアレ=As bad as that was... that would be worse.
@@ -3078,7 +3077,7 @@
 !FILE:EV0501_458.bscr
 ザコ共は任せなさい|君はヤツをやれ！=Leave these pests to us! You take care of him!
 はい！=Right!
-くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around! I'll end you!
+くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around!|I'll end you!
 !FILE:EV0520_002.bscr#part 40 - 劣等感大爆発 - Inferiority Complexplosion
 あれ　椿は一人なのか？=Huh? You by yourself, Tsubaki?
 ブラック☆スターは|特訓中なんです=Black☆Star's busy with some special training right now.
@@ -3515,7 +3514,7 @@
 お前が　あの二人を|どう思ってるか　よくわかったぜ=You think so too? I'm totally with you on that.
 ほとんど　ブラック☆スターと|同じ扱いじゃねェかよ=They're not actually all that different from Black☆Star, are they?
 あはは|そんなことはないんだけど=Ahaha. I don't mean it like that.
-おいおい　スターである|俺様とあんな小物を|一緒にしねェでくれよ！=Woah, woah, woah! Don't be lumping a big star like me in with those small-timers!
+おいおい　スターである|俺様とあんな小物を|一緒にしねェでくれよ！=Woah, woah, woah! Don't be lumping a big star like me in with those small- timers!#added space for better word-wrapping
 !FILE:EV0522_006.bscr
 そういえば　シドのヤツが|リズとパティをさがしてたぜ☆=Just so you know, Sid was looking for Liz and Patty☆
 !FILE:EV0522_007.bscr
@@ -3528,7 +3527,7 @@
 二人に荷物が届いたのだ|それを取りにきてほしかったのだが・・・=A package has arrived for them, and I'd like them to come pick it up.
 でもよ　あいつらって|たしか身寄りがないはずだろ？|誰からそんな荷物が届いたんだよ？=I didn't think those two had any relatives or anything, so who's the package from?
 親切な人がいるのだ|あいつらの境遇に同情して|定期的に贈り物をしてくれる=Someone who cares for them and sympathizes with their situation. They send them gifts pretty regularly.
-その人からの|荷物を渡したかったのだが・・・=I was just wanting to give them the latest package that arrived.
+その人からの|荷物を渡したかったのだが・・・=I just wanted to give them the latest package that arrived.
 素敵な話ですね・・・|私　そういう話あこがれます=That's so sweet. It's like a secret admirer.
 そうか？|俺には金持ちの気まぐれにしか|思えねェけどな=Really? It just seems like the whims of some rich guy to me.
 とにかく二人を見かけたら|俺の所まで来るように伝えてくれ！=In any case, if you see them, please let them know that I'm looking for them!
@@ -3540,8 +3539,8 @@
 よくわかんないけど|親切な人から|贈り物が届いてるみたいだぜ！=We don't know a whole lot, but apparently some kind mystery person sent them a gift!
 シド先生が　それを|預かってるから　取りに来るよう|伝言を頼まれたのよ=Sid asked us to let them know that he's holding on to it for them.
 なんだと！あのタワケども|まだ取りに行ってないのか！？=What!? What are they playing at? They still haven't gone to get the package!?
-・・・キッド君　そこまで|怒らなくてもいいじゃないの=... Kid, is this really a reason to get so angry?
-俺は怒ってなどいない！|ただ　その親切な人の気持ちを思い|義憤にかられているのだ！！=I'm not angry! But just thinking about how that kind stranger must feel... I can't help but succumb to righteous indignation!!
+・・・キッド君　そこまで|怒らなくてもいいじゃないの=...Kid, is this really a reason to get so angry?
+俺は怒ってなどいない！|ただ　その親切な人の気持ちを思い|義憤にかられているのだ！！=I'm not angry! But just thinking about how that kind stranger must feel... I can't help but be justifiedly indignant!#must be kept short
 言い方を変えてるけど|やっぱり怒ってるんじゃねェか=Call it what you want, but you look angry to me.
 リズとパティめ・・・|一体どうしてくれよう・・・=Liz, Patty, damn it. What the hell are you two doing?
 !FILE:EV0522_026.bscr
@@ -3587,16 +3586,16 @@
 本来　そうなんだろうな|でも　私達はそう思えないんだ=Normally, I would agree, but not this time.
 どうして？|なんで　そう思えないの？=Really? Why not?
 贈り物が微妙すぎるんだ・・・|迷惑とすら感じることもある・・・=The gifts are super weird. It's honestly annoying.
-そうなんだ=Oh, okay.
-それをキッドに　ハッキリ|伝えたんだよ贈り物は|迷惑だって・・・=Go get the gift. Go get it! He just wouldn't shut up about it...
+そうなんだ=I see...
+それをキッドに　ハッキリ|伝えたんだよ贈り物は|迷惑だって・・・="Go get the gift. Go get it!" He just wouldn't shut up about it...
 あんまりキッドのヤツが|取りにいけ　取りにいけって|うるさいから・・・=So I told Kid the truth about the gifts being annoying and everything, you know...
-そしたら　アイツ|急に落ち込んじゃってさ|さっぱり訳がわかんないよ・・・=And that's when he got all depressed. I have no idea why though.
+そしたら　アイツ|急に落ち込んじゃってさ|さっぱり訳がわかんないよ・・・=And that's when he got all depressed.|I have no idea why though.
 もしよかったら|キッドのヤツを|さがしてくれないか？=If you don't mind, do you think you could look for him for me?
 !FILE:EV0522_046.bscr
 もしよかったら|キッドのヤツを|さがしてくれないか？=If you don't mind, do you think you could look for him for me?
 !FILE:EV0522_047.bscr
-リズ　本当に|迷惑そうだったな・・・=She seemed genuinely annoyed.
-贈り物って　そんなに|微妙なのかな・・・=Those gifts must have been really weird then.
+リズ　本当に|迷惑そうだったな・・・=She seemed really put out.
+贈り物って　そんなに|微妙なのかな・・・=Those gifts must have been really weird.
 現実はお話みたいに|うまくいかないわね・・・=Something doesn't add up though...
 それよりも|今はキッド君をさがさなきゃ・・・=Anyway, for now I need to look for Kid.
 はぁ|めんどうなことになっちゃった=*Sigh* This has gotten out of hand.
@@ -3610,11 +3609,11 @@
 あはは　キッド君を|フォローするのって|想像以上に面倒くさいわね・・・=Ahaha... It's more difficult to cheer him up than I imagined.
 もし　ゴミ虫の俺に対して|一片の情があるのなら|頼みを聞いてほしい・・・=If you feel even a modicum of sympathy for a trash bug like me...
 リズとパティへの|贈り物・・・あれをマカが|受けとってほしい・・・=Liz and Patty's gift... I'd like you to go get it for me.
-今のままでは|アレがあまりに不憫だ・・・=As it is now, it's absolutely pathetic...
+今のままでは|アレがあまりに不憫だ・・・=As it is now, it's just too pitiful...
 そんなことをしちゃっていいの？|あれって　親切な人から|二人への贈り物なんでしょう？=Are you sure that's okay? It's a special gift for those two from some mystery person, isn't it?
-俺の口からは説明できない|それをしたら　ますます|落ち込んでしまう・・・=I couldn't bare to explain. My heart would sink deeper and deeper with each word...
+俺の口からは説明できない|それをしたら　ますます|落ち込んでしまう・・・=I couldn't bear to explain. My heart would sink deeper and deeper with each word...
 でも・・・=But...
-あとはシド先生に|聞いてくれ　全てを|教えてくれるだろう・・・=Ask Sid later. He'll tell you everything...
+あとはシド先生に|聞いてくれ　全てを|教えてくれるだろう・・・=Ask Sid later.|He'll tell you everything...
 !FILE:EV0522_055.bscr
 ・・・・・・・・・=.........
 !FILE:EV0522_056.bscr
@@ -3622,15 +3621,15 @@
 !FILE:EV0522_062.bscr
 キッド君から言われて来たんですけど・・・=I'm here on Kid's request, but...
 リズとパティへの贈り物を|私が受け取るようにって・・・=He asked me to receive the gift for Liz and Patty...
-キッドが　そう言ったのか・・・|わかった・・・これが贈り物だ・・・=Kid sent you, huh? Understood... Here it is.
+キッドが　そう言ったのか・・・|わかった・・・これが贈り物だ・・・=Kid sent you, huh? Understood...|Here it is.
 あはは　たしかに|微妙よね・・・=Ahaha. It's so... unique.
-でも先生　これ|私がもらってもいいんですか？=But, Sid, is it all right for me to be receiving it?
+でも先生　これ|私がもらってもいいんですか？=But, Mr. Sid, is it all right for me to be receiving it?
 キッドが言うのならば|別にかまわないだろう・・・=If Kid told you to, it shouldn't be a problem.
-親切な人とは|キッドのことなのだからな・・・=The kind mystery person... Well... It's Kid.
-そうだったんですか・・・=It all makes sense.
+親切な人とは|キッドのことなのだからな・・・=The kind mystery person... Well...|It's Kid.
+そうだったんですか・・・=Now it all makes sense.
 あいつなりに身よりのない|トンプソン姉妹を|思いやってのことだったのだろう・・・=The Thompson sisters only have each other. He was only thinking of them...
 ただ・・・問題なのは|ヤツが選ぶ贈り物のセンスが|絶望的なまでに微妙すぎるのだ・・・=But he has no talent for choosing gifts. They're all so bizarre.
-それ　わかります|私もこれをもらって|正直　困惑しています・・・=I see that. I would be totally baffled if someone gave me this.
+それ　わかります|私もこれをもらって|正直　困惑しています・・・=I see that. I would be totally baffled if someone gave me this too.
 なかなか上手く|いかないものだな・・・|人間とは本当に難しい・・・=It's a tough thing. People can be very challenging.
 !FILE:EV0522_066.bscr
 なかなか上手く|いかないものだな・・・|人間とは本当に難しい・・・=It's a tough thing. People can be very challenging.
@@ -5186,7 +5185,7 @@
 ここに来た意味は理解できているな？=Do you have any idea what coming here means?
 !FILE:EV0940_112.bscr
 さぁお前達！！|やることはわかっているな？=Well, any idea what you'll all be doing today!?
-お前達・・・|ここに来た意味はわかっているな？=You two do understand what it means coming here, don't you?
+お前達・・・|ここに来た意味はわかっているな？=You two do understand what it means to have made it here, don't you?
 俺はやることはきっちりやる|そんな男だった！|わかってるな？お前達！=When I want something done right, I do it myself! That's the kind of man I was! You follow?
 !FILE:EV0940_120.bscr
 どうぞお手柔らかに！=Please be gentle!
@@ -5927,7 +5926,7 @@
 死武専には|たくさんの生徒がいるはずでしょ=I'm pretty sure the DWMA has a lot of students.
 なのに　なんで誰にも会えないのよ！|それって　何かおかしくない？=So why can I not seem to find anybody!? Is there something weird going on that I don't know about?
 そういえば　いつも|二人で行動するのが|くせみたいになってたわね・・・=I spend so much time doing stuff with Soul that it just feels natural...
-不意に一人になると|なんだか落ち着かないわ=I almost feel uncomfortable being alone now.
+不意に一人になると|なんだか落ち着かないわ=I almost feel uncomfortable being alone now.#seen
 ・・・・・・・・・=.........
 !FILE:EV0969_030.bscr
 確かに誰かがいると|思ったんだけどな・・・=I could have sworn there was someone here...
@@ -8602,12 +8601,11 @@
 おう！|で　その繭の化け物は|なんなんだ？=Alright! Hey, that monster from the cocoon... What is it?
 フフフ　これですか？|ちょうど生まれるところを見れるなんて|あなたはラッキーですね=Hmhmhm. This? To be able to witness its very birth. How lucky you must be.
 では　教えてあげましょう=Allow me to explain...
-この繭でね|鬼神を作るのですよ=Yes, this cocoon... It creates Kishin.
+この繭でね|鬼神を作るのですよ=Yes, this cocoon... It creates kishin.
 鬼神！=Kishin!?
-鬼神！=Kishin!?
-まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Yes. It's not yet perfect however. Perhaps I should call it a pseudo-Kishin.
-繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place the flesh that will become the yorishiro in the cocoon along with innumerable souls.
-そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, the yorishiro grows and absorbs the souls until it is born with the power of a kishin.
+まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Yes. It's not yet perfect however. Perhaps I should call it a pseudo- kishin.
+繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and flesh to house them into the cocoon.
+そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
 あぁ～|なんで　そんなモノ　作るんだ？=Uhhh... Why would you make a thing like that?
 世界を手に入れるためですよ|あなたのような邪魔者を消してね=To take over the world. To rid the world of pests like you.
 邪魔者は　お前だろ！|ポネラっつ～　魔女はどこだ！=You're the pest! Where's the witch Ponera!?
@@ -8624,9 +8622,9 @@
 魔女の思いどおり？|ハハハ　ポネラにできることは|ただ繭を作ることだけですよ=Her plans? Hahaha! Ponera is merely useful for making cocoons.
 あぁ？|どういうことだ？=Huh? What do you mean?
 あの子は　この暗い地下の世界から|外へ出たいと願っていた=That child wished to emerge from this dark underground world.
-だから　私が教えてあげたんですよ|私の力と　ポネラの繭|その２つで叶えられる方法があることをね=Thus I instructed her that together, with my power and her cocoons, there existed a way in which her wish could be granted.
+だから　私が教えてあげたんですよ|私の力と　ポネラの繭|その２つで叶えられる方法があることをね=Thus I told her that together, with my power and her cocoons, there was a way her wish could be granted.
 その方法　ってのが|その化けもんか？=And that way... is this monster?
-フフフ　なかなかの出来だと思いますがね|あの子は　繭を作り続け|それを使って　私が世界を支配する・・・=Hmhmhm. Her craftsmanship is remarkable, isn't it? That child will continue making cocoons. And I will make use of them to rule the world...
+フフフ　なかなかの出来だと思いますがね|あの子は　繭を作り続け|それを使って　私が世界を支配する・・・=Hmhm. Remarkable craftsmanship, no? That child will keep making cocoons, and I'll use them to rule the world.
 結果として　あの子の望みは|叶うことになるでしょう？=Once that comes to fruition, the child will have all that she desires, don't you think?
 なに勝手いってやがる|ようは　魔女を利用してるってことだろ=What the hell are you rambling on about? It sounds to me like you're just using the witch.
 そんな小さいヤローは|俺様と話せただけでも　感謝しろ！=You little bastard! You should be thanking me for even talking to you!
@@ -8647,7 +8645,7 @@
 おい　ヤサ男|なかなかやんじゃねぇか|久々に血が　騒ぐぜ！=Hey, pretty boy! Looks like you're not bad. Good. It's been a while since I've had a real fight!
 ザコ共は任せなさい|君はヤツをやれ！=Leave these pests to us! You take care of him!
 おう！|頼まれてやるぜ！=Alright! Now we're talking!
-くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around! I'll end you!
+くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around!|I'll end you!
 !FILE:EV1501_409.bscr
 グフッ・・・|バカな　こんなところで・・・=Gakk... No, I can't lose to the likes of you...
 ・・・星族の小僧|俺は必ず戻ってくる|覚えていろ・・・=... Mark my words, Star Clan brat! I will... return...
@@ -8679,7 +8677,7 @@
 !FILE:EV1501_458.bscr
 ザコ共は任せなさい|君はヤツをやれ！=Leave these pests to us! You take care of him!
 おう！|頼まれてやるぜ！=Alright! Now we're talking!
-くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around! I'll end you!
+くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around!|I'll end you!
 !FILE:EV1520_002.bscr
 そういえば　さっき|シド先生を見かけたわよ=Did you happen to see Sid just now?
 シド先生は|何をしていたんですか？=Why? What was he doing?
@@ -14274,12 +14272,12 @@
 おっと　これは申し遅れました|私の名は　グリモア　お見知りおきを=My apologies for not introducing myself sooner. My name is Grimoire. Pleased to make your acquaintance.
 お前達|その繭で　何を企んでいる=What are you planning to do with that cocoon?
 フフフ　これですか？|ちょうど生まれるところを見れるなんて|あなたはラッキーですね=Hmhmhm. This? To be able to witness its very birth. How lucky you must be.
-・・・では　教えてあげましょう=... Allow me to explain.
+・・・では　教えてあげましょう=Allow me to explain.
 この繭でね|鬼神を作るのですよ=Yes, this cocoon... It creates Kishin.
 鬼神とは　聞き捨てならんな=Kishin. I can't allow that.
-まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Well, it's not yet perfect however. Perhaps I should call it a pseudo-kishin.
-繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place the flesh that will become the yorishiro in the cocoon along with innumerable souls.
-そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, the yorishiro grows and absorbs the souls until it is born with the power of a kishin.
+まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Well, it's not yet perfect however. Perhaps I should call it a pseudo- kishin.
+繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and flesh to house them into the cocoon.
+そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
 鬼神もどき　だと？=A pseudo-kishin?
 ククク・・・|鬼神か　もどきかは　問題ではないのです=Hehehe... Kishin or pseudo-kishin, it matters not.
 これを使って　世界を手に入れる|あなたや　死神のような　邪魔者を消してね=I will use this to gain control of this world. You, reaper, and all your meddling friends will be erased from existence.
@@ -18113,7 +18111,7 @@
 根性が足りないぞ　お前達|次は　がんばれよ=You lack guts! Try harder next time!
 わるい　わるい|一応手加減はしたんだが|やりすぎちゃったか・・・=No, it's my fault. I've tried to go easy on you, but it looks like I've been overly soft...
 !FILE:EV9981_200.bscr
-よく来ましたね　君達|さあ　好きなものを選んでください=I'm glad you guys came. Now, please choose whichever one you'd like.#Stein's mission select welcome.
+よく来ましたね　君達|さあ　好きなものを選んでください=I'm glad you could make it. Now, please choose whichever one you'd like.#Stein's mission select welcome.
 !FILE:EV9981_210.bscr
 おや？　パートナーは|どうしましたか？=Hey, where's your partner?
 パートナーがいないんじゃ|受けることはできませんよ=You won't be able to take on any missions without your partner.
@@ -18267,10 +18265,10 @@
 ムービー挿入予定シーン=Movie insertion - Planned scene
 現状　素材が未到着なので|仮でこのメッセージを流します=This is a temporary message as the material is currently unavailable.
 !FILE:SYS000_0000.bin
-持ち物ボタンを押せば持っていくアイテムを|変更できる　コレクションボタンからは|手に入れたアイテムを見られるよ=Click on the Inventory button to modify items. View the items you've obtained by clicking the Collection button.
-持ち物ボタンを押せば持っていくアイテムを|変更できるぜ　コレクションボタンからは|手に入れたアイテムが見れるな=Click on the Inventory button to modify items. View the items you've obtained by clicking the Collection button.
-持ち物ボタンを押せば持っていくアイテムを|変更できるな　コレクションボタンからは|手に入れたアイテムが見れるぞ=Click on the Inventory button to modify items. View the items you've obtained by clicking the Collection button.
-矢印でアイテムを選んで　決定ボタンで|持っていけるよ　効果が知りたいなら|アイテムにポインターを合わせるんだね=Use the arrows to browse items. You can add them to your inventory using the Set button, or hover over an item to learn more.
+持ち物ボタンを押せば持っていくアイテムを|変更できる　コレクションボタンからは|手に入れたアイテムを見られるよ=Click the Inventory button to modify equipment. View story items by clicking the Collection button.
+持ち物ボタンを押せば持っていくアイテムを|変更できるぜ　コレクションボタンからは|手に入れたアイテムが見れるな=Click the Inventory button to modify equipment. View story items by clicking the Collection button.
+持ち物ボタンを押せば持っていくアイテムを|変更できるな　コレクションボタンからは|手に入れたアイテムが見れるぞ=Click the Inventory button to modify equipment. View story items by clicking the Collection button.
+矢印でアイテムを選んで　決定ボタンで|持っていけるよ　効果が知りたいなら|アイテムにポインターを合わせるんだね=Use the arrows to browse items. You can equip them using the Set button, or hover over an item to learn more.
 残念だけどね　あんた達は|まだアイテムを持ってないんだよ|アイテムを手に入れたら　また来るんだね=How unfortunate. It looks like you don't have any items yet. You'll come again once you find some, won't you?
 矢印で手に入れたアイテムを|見ることができるよ　名前が知りたいなら|アイテムにポインターを合わせるんだね=Use the arrows to browse items. If you want to know what an item is called, hover over it with the pointer.
 残念だけどね　あんた達は|まだアイテムを持ってないんだよ|アイテムを手に入れたら　また来るんだね=How unfortunate. It looks like you don't have any items yet. You'll come again once you find some, won't you?
@@ -18546,15 +18544,15 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ４日目　挑戦　キッド編|ツギハギ研究所襲撃=Day 4 - Defiance - Kid - Raid on the Patchwork Lab
 ４日目　挑戦　キッド編|地底の一族=Day 4 - Defiance - Kid - The Underground Clan
 ４日目　挑戦　キッド編|報告=Day 4 - Defiance - Kid - Report
-５日目　反撃　マカ編|特別訓練=Day 5 - Counteroffensive - Maka - Special Training
-５日目　反撃　マカ編|反撃開始=Day 5 - Counteroffensive - Maka - Initiate Counteroffensive
-５日目　反撃　マカ編|報告=Day 5 - Counteroffensive - Maka - Report
-５日目　反撃　ブラック☆スター編|特別訓練=Day 5 - Counteroffensive - Black☆Star - Special Training
-５日目　反撃　ブラック☆スター編|反撃開始=Day 5 - Counteroffensive - Black☆Star - Initiate Counteroffensive
-５日目　反撃　ブラック☆スター編|報告=Day 5 - Counteroffensive - Black☆Star - Report
-５日目　反撃　キッド編|特別訓練=Day 5 - Counteroffensive - Kid - Special Training
-５日目　反撃　キッド編|反撃開始=Day 5 - Counteroffensive - Kid - Initiate Counteroffensive
-５日目　反撃　キッド編|報告=Day 5 - Counteroffensive - Kid - Report
+５日目　反撃　マカ編|特別訓練=Day 5 - Payback - Maka - Special Training
+５日目　反撃　マカ編|反撃開始=Day 5 - Payback - Maka - Payback Time
+５日目　反撃　マカ編|報告=Day 5 - Payback - Maka - Report
+５日目　反撃　ブラック☆スター編|特別訓練=Day 5 - Payback - Black☆Star - Special Training
+５日目　反撃　ブラック☆スター編|反撃開始=Day 5 - Payback - Black☆Star - Payback Time
+５日目　反撃　ブラック☆スター編|報告=Day 5 - Payback - Black☆Star - Report
+５日目　反撃　キッド編|特別訓練=Day 5 - Payback - Kid - Special Training
+５日目　反撃　キッド編|反撃開始=Day 5 - Payback - Kid - Payback Time
+５日目　反撃　キッド編|報告=Day 5 - Payback - Kid - Report
 ６日目　決戦　マカ編|決戦へ=Day 6 - The Final Battle - Maka - Decisive Battle
 ６日目　決戦　マカ編|最終戦=Day 6 - The Final Battle - Maka - The Battle's End
 ６日目　決戦　ブラック☆スター編|決戦へ=Day 6 - The Final Battle - Black☆Star - Decisive Battle
@@ -18660,8 +18658,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_te極悪ボウズを退治せよ！=%_teEliminate the monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious kishin egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
-怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Rasputin%_dc[199,133,84], the mysterious monk!
 %_teデスドールを退治せよ！=%_teEliminate the Dolls!
 暴走した訓練用人形|%_dc[196,0,0]デスドール%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=The practice dummies are on a rampage! Defeat %_dc[0,0,196]10 %_dc[196,0,0]Death Dolls%_dc[199,133,84]!
 デスドール%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]10 %_dc[196,0,0]Death Dolls%_dc[199,133,84]!
@@ -18678,8 +18676,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Track down the irate prankster %_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat %_dc[0,0,196]15%_dc[199,133,84] of them!
 バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Bad Eaters%_dc[199,133,84]!
 %_te極悪ボウズを退治せよ！=%_teEliminate the monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious kishin egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
-怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Rasputin%_dc[199,133,84], the mysterious monk!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
@@ -18702,8 +18700,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
 %_te極悪ボウズを退治せよ！=%_teEliminate the monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious kishin egg monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
-怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
+怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Rasputin%_dc[199,133,84], the mysterious monk!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
@@ -18864,7 +18862,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te極悪怪僧を退治せよ！=%_teEliminate the Monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]the Wicked|Monk%_dc[199,133,84] whose soul has become a kishin egg!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を|倒せ！=Defeat the wicked monk, %_dc[196,0,0]Ajhari%_dc[199,133,84]!
 怪僧アジャーリ%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84]!
 %_te魔女の道具を探せ！=%_teFind the Shard!
 怪しげな魔法のモトになる|という%_dc[0,196,0]水晶の欠片%_dc[199,133,84]を|回収してきてくれ！=Recover the %_dc[0,196,0]Crystal Shard %_dc[199,133,84]which witches use for their magic!
@@ -18876,10 +18874,10 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
-制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|   By Sid
+制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|　　　　　　　　By Sid
 制限時間内に|敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シド先生%_dc[199,133,84]に挑戦！|三つ星だってなんのその|日頃の成果を見せつけろ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Sid%_dc%_dc[199,133,84]! He's a three-star meister, so show him what your capable of!
+シド先生%_dc[199,133,84]に挑戦！|三つ星だってなんのその|日頃の成果を見せつけろ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Sid%_dc[199,133,84]! He's a three-star meister, so show him what you're capable of!
 シド先生%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sid%_dc[199,133,84]!
 %_te打倒！パラポネラ！=%_teDestroy Paraponera!
 魂を集めて何かをたくらむ|謎の集団パラポネラ！|ヤツラの悪事を阻止せよ！=The mysterious group, Paraponera is gathering souls and planning something! Prevent their evil doings!
@@ -18897,13 +18895,13 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ブーズー%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]the Baron Voodoo%_dc[199,133,84]whose soul has become a kishin egg!
 怪僧ブーズー%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]The Baron Voodoo%_dc[199,133,84]!
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
-制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|   By Sid
+制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|　　　　　　　　By Sid
 制限時間内に|敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!
 %_te死武専生なら　なっ！=%_teLost Page Recovery!
 死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my|soul studies book have gone missing...
 魂学書の破れたページ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]ページ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Torn Pages of a Soul Studies Book%_dc[199,133,84]!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シド先生%_dc[199,133,84]に挑戦！|三つ星だってなんのその|日頃の成果を見せつけろ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Sid%_dc%_dc[199,133,84]! He's a three-star meister, so show him what your capable of!
+シド先生%_dc[199,133,84]に挑戦！|三つ星だってなんのその|日頃の成果を見せつけろ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Sid%_dc[199,133,84]! He's a three-star meister, so show him what you're capable of!
 シド先生%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sid%_dc[199,133,84]!
 %_te打倒！パラポネラ！=%_teDestroy Paraponera!
 魂を集めて何かをたくらむ|謎の集団パラポネラ！|ヤツラの悪事を阻止せよ！=The mysterious group, Paraponera is gathering souls and planning something! Prevent their evil doings!
@@ -18921,13 +18919,13 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 停電被害の報告殺到！|犯人%_dc[196,0,0]マッドフント%_dc[199,133,84]を|探し出し%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Numerous Reports of Power Outages! Locate and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196] 15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
-制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|   By Sid
+制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|　　　　　　　　By Sid
 制限時間内に|敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!
 %_te訓練君を探せ？=%_teSearch for Training Buddy?
 敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Find the %_dc[0,196,0]Training Buddy Doll %_dc[199,133,84]! It looks just like the enemy.
 訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Doll%_dc[199,133,84]!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シド先生%_dc[199,133,84]に挑戦！|三つ星だってなんのその|日頃の成果を見せつけろ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Sid%_dc%_dc[199,133,84]! He's a three-star meister, so show him what your capable of!
+シド先生%_dc[199,133,84]に挑戦！|三つ星だってなんのその|日頃の成果を見せつけろ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Sid%_dc[199,133,84]! He's a three-star meister, so show him what you're capable of!
 シド先生%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sid%_dc[199,133,84]!
 %_te打倒！パラポネラ！=%_teDestroy Paraponera!
 魂を集めて何かをたくらむ|謎の集団パラポネラ！|ヤツラの悪事を阻止せよ！=The mysterious group, Paraponera is gathering souls and planning something! Prevent their evil doings!
@@ -18945,7 +18943,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]THE CAN %_dc[199,133,84]is coming! Defeat him before he can do any damage!
 制限時間内に|%_dc[196,0,0]THE・CAN%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]THE CAN %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
+シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
 パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
@@ -18960,10 +18958,10 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Find the %_dc[0,196,0]Training Buddy Doll %_dc[199,133,84]! It looks just like the enemy.
 訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Doll%_dc[199,133,84]!
 %_te極悪怪僧を速やかに倒せ！=%_teSwiftly defeat the Wicked Monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]現る！|被害が出る前に倒せ！=The wicked monk whose soul has become a kishin egg, %_dc[196,0,0]Ajarri %_dc[199,133,84]is coming! Defeat him before he can do any damage!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]現る！|被害が出る前に倒せ！=The wicked monk, %_dc[196,0,0]Ajarri %_dc[199,133,84]is coming! Defeat him before he can do any damage!
 制限時間内に|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Ajarri %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
+シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
 パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
@@ -18972,7 +18970,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te極悪怪僧を退治せよ！=%_teEliminate the Monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]the Wicked|Monk%_dc[199,133,84] whose soul has become a kishin egg!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat the wicked monk, %_dc[196,0,0]Ajhari%_dc[199,133,84]!
 怪僧アジャーリ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Ajhari, the Wicked Monk%_dc[199,133,84]!
 %_te死武専生なら　なっ！=%_teLost Page Recovery!
 死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my|soul studies book have gone missing...
@@ -18981,7 +18979,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]is coming! Defeat him before he can do any damage!
 制限時間内に|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
+シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
 パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
