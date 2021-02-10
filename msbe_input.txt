@@ -6352,7 +6352,7 @@
 すみません　博士・・・|でも　ツボなんて|あらためていわれても・・・=Sorry, Professor... |Let's start over with the jar...
 一体　死武専のどこに|ツボなんてあるんですか？=Where in the DWMA might there be a jar, exactly?
 はて　俺も知りません・・・=When it comes down to it, I don't know either...
-じゃあ　あのツボ|どっから持ってきたんだよ！=Then where'd you get that jar from?!
+じゃあ　あのツボ|どっから持ってきたんだよ！=Then where'd you get that jar from!?
 調査に出かけた帰りに|拾ってきたんですよ|興味をそそる形をしていたのでね=I picked it up on my way back from some surveying I was doing. It had a shape that piqued my interest.
 素敵な趣味ですね・・・=What a lovely hobby...
 そうだ　ツボを拾った場所を|教えてあげますから|取りにいってはどうですか？=Right? Why don't I tell you where I picked up this jar, and then you try looking there?
@@ -6442,17 +6442,17 @@
 キッド　礼の代わりに|お前を俺様の領域まで|導いてやってもいいぜ☆=Kid, as a way of saying thanks, I'll let you guide the great Black☆Star to his domain☆
 !FILE:EV1121_007.bscr
 じゃあな|先に行ってるぜ！|ひやっはははははは☆=Don't expect me to wait up for you! Yahahahahahaha☆
-あっ　待ってちょうだい・・・=Ah, wait for me...
+あっ　待ってちょうだい・・・=Ah, wait for me.
 !FILE:EV1121_010.bscr
 ブラック☆スター|アレの最新刊って・・・=Black☆Star, this new volume thing...
 おうよ！俺様の次にビッグな漢|カリスマジャスティスだぜ！！|ひやっはははははは☆=Yeah! It's the biggest man after yours truly, Charisma Justice!! Yahahahahahaha☆
 ああ　やっぱり・・・|あのマンガね・・・=Oh. That manga... Of course...
-お前も適当に本でも読んでろよ！|じゃあ俺はカリスマジャスティス|との対話に入る☆=You should do something useful too! I've got important matters to discuss with Charisma Justice☆
+お前も適当に本でも読んでろよ！|じゃあ俺はカリスマジャスティス|との対話に入る☆=I've got important matters to discuss with Charisma Justice☆ You should do something useful too!
 ・・・・・・・・・=.........
-ひやっはははははは☆|・・・ん　お前ヒマそうだな？=Yahahahahahaha☆|... Huh? You seem bored.
+ひやっはははははは☆|・・・ん　お前ヒマそうだな？=Yahahahahahaha☆|...Huh? You seem bored.
 そんなことないわよ|ブラック☆スター|楽しんでるわよ私=No. Not at all, Black☆Star. I'm having fun.
-いや　スターである|俺様は理解している・・・=Yeah, as a star, I get it...
-いつも側にいたんじゃ|後光で目が疲れて|しまうってな☆=Always being by my side,|your eyes must be tired because of my aura of light☆#後光 and halo aren't exactly the same thing
+いや　スターである|俺様は理解している・・・=Oh, I know. I've seen this before.
+いつも側にいたんじゃ|後光で目が疲れて|しまうってな☆=Always hanging out with a star this bright,|your eyes must be tired☆
 あはは・・・本当に|そんなことないんだけど・・・=Haha... But that's really not it...
 いいから椿|たまには　俺様から離れて|一人の時間を楽しんでこいよ☆=Listen up, Tsubaki. Once in a while you've got to stop fangirling over me and have fun by yourself!☆#Fangirling feels maybe a bit too strong, but I was struggling to express the idea naturally in English while still showing Black☆Star's arrogance.
 でも=But...
@@ -6464,45 +6464,45 @@
 !FILE:EV1121_017.bscr
 さてと　どうしようかしら？=What will I do now, I wonder.
 一人になるって|滅多にないことだから|何をしていいかわからないわ・・・=I'm so seldomly alone that I'm not really sure what I should do...
-とりあえず　死武専の中を|ブラブラしましょう・・・=In the meantime, maybe I'll wander around the DWMA...
+とりあえず　死武専の中を|ブラブラしましょう・・・=In the meantime, maybe I'll wander around the DWMA.
 !FILE:EV1121_022.bscr
 あのガキと一緒じゃないのか？=You're not with that punk?
 ブラック☆スターですか？|今は別行動をしています=Black☆Star? I'm on my own for right now.
-そうか・・・はぁ・・・=Is that so?... *Sigh*
+そうか・・・はぁ・・・=Is that so?|*Sigh*
 どうしたんですか？=Is something wrong?
 マカの将来のことで|気がかりな点があってな・・・=I'm a little worried about Maka's future...
 ブラック☆スターに|釘をさしておこうと思ったんだ=I was thinking I might crucify that Black☆Star.
 マカや椿くらいの歳の子は|ちょっとくらい悪いヤツにひかれるもんだろ=Girls around yours and Maka's age fall for little bad boys like him.
 ははは　私には|よくわかりませんが・・・=Hehe. I don't know anything about that, but...
-だから俺は心配になってきたんだ・・・=So I'm worried about her...
-ブラック☆スターが|マカのボーイフレンドになったら|どうしようって・・・=What'll I do if Black☆Star becomes Maka's boyfriend...?
+だから俺は心配になってきたんだ・・・=So I'm worried about her.
+ブラック☆スターが|マカのボーイフレンドになったら|どうしようって・・・=What'll I do if Black☆Star becomes Maka's boyfriend?
 マカちゃんに限って|それはないと思うけど・・・=I don't think he's necessarily interested in Maka, but...
 考えてたら　なんだか|落ち込んできちゃった=I get kind of depressed just thinking about it.
 マカ・・・|パパをあっためてくれ・・・=Maka...|You have your papa...
-おヨメになんか|行かないよね・・・=You don't need to become someone's bride...
+おヨメになんか|行かないよね・・・=You don't need to settle down with another man...
 そっとしておいたほうがよさそうね=Perhaps it would be best to leave him be.
 !FILE:EV1121_025.bscr
-考えてたら　なんだか|落ち込んできちゃった=I get kind of depressed just thinking about it.#Exact repeat of line 720. Possible change for variety's sake.
+考えてたら　なんだか|落ち込んできちゃった=I get kind of depressed just thinking about it.
 !FILE:EV1121_026.bscr
 マカ・・・|パパをあっためてくれ・・・=Maka...|You have your papa...
-おヨメになんか|行かないよね・・・=You don't need to become someone's bride...
+おヨメになんか|行かないよね・・・=You don't need to settle down with another man...
 そっとしておいたほうがよさそうね=Perhaps it would be best to leave him be.
 !FILE:EV1121_032.bscr
 あれ　ブラック☆スターと|一緒じゃないの？=Huh? You're not with Black☆Star?
 ええ　別行動をしてるんです=Not at the moment, no.
 ブラック☆スター|だれかと決闘するみたいだよ♪=I think Black☆Star is dueling someone right now♪
 はい！？=Really!?
-武器なしじゃ|やばいんじゃない|こりゃ♪=That's so silly♪ Fighting without a weapon.
+武器なしじゃ|やばいんじゃない|こりゃ♪=He's so silly♪ Fighting without a weapon.
 !FILE:EV1121_036.bscr
 ブラック☆スター|だれかと決闘するみたいだよ♪=I think Black☆Star is dueling someone right now♪
-武器なしじゃ|やばいんじゃない|こりゃ♪=That's so silly♪ Fighting without a weapon.
+武器なしじゃ|やばいんじゃない|こりゃ♪=He's so silly♪ Fighting without a weapon.
 !FILE:EV1121_037.bscr
 パティちゃん|どこで決闘してるか|教えてくれますか？=Patty, could you tell me where the duel is?
 あっちだよ！=Thataway!
 あっちね！ありがとう！=That way? Thanks!
-あれ？|あっちってどっちのことかしら？=Wait. Where is that way?
+あれ？|あっちってどっちのことかしら？=Wait. Which way is that way?
 !FILE:EV1121_042.bscr
-博士が立会人だったんですね・・・=Professor, you're overseeing the duel, right?
+博士が立会人だったんですね・・・=Professor, you were overseeing the duel, right?
 勝負はどうなりましたか？|ブラック☆スターは！？=How did it go? And how's Black☆Star!?
 ブラック☆スターの|完全勝利です|傷一つ負っていません=Flawless victory. Black☆Star didn't have a scratch on him.#Subtle nod to a perfect round in Mortal Kombat. I just couldn't resist. XD Obviously it can be changed if anyone objects to it.
 相手は上級生でしたが|武器もない状態で|たいしたものです=Even without a weapon, it was no challenge for him despite his opponent being an older student.
@@ -6514,36 +6514,36 @@
 すみません・・・|やる気はあるんですが・・・|どうもズレているようです・・・=Sorry... He has the motivation, but... it's a little misguided...
 椿に言っても仕方ないですが・・・=Telling you won't change anything, but...
 このままのペースだと|生きてる間に君は|デスサイズになれませんよ=At this rate you'll be dead before you ever become a Death Scythe.
-すみません　博士・・・=Sorry, professor...
+すみません　博士・・・=Sorry, professor.
 !FILE:EV1121_046.bscr
 椿に言っても仕方ないですが・・・=Telling you won't change anything, but...
 このままのペースだと|生きてる間に君は|デスサイズになれませんよ=At this rate you'll be dead before you ever become a Death Scythe.
-すみません　博士・・・=Sorry, professor...
+すみません　博士・・・=Sorry, professor.
 !FILE:EV1121_047.bscr
-ああ・・・また|怒られてしまった・・・=Aw... He lectured me again...
-それにしても|今日はやけに続くわね・・・|この後　何もおきませんように・・・=Things aren't going so well today... I hope nothing else happens...
+ああ・・・また|怒られてしまった・・・=Aw... He lectured me again.
+それにしても|今日はやけに続くわね・・・|この後　何もおきませんように・・・=Things aren't going so well today. I hope nothing else happens...
 !FILE:EV1121_052.bscr
 ブラック☆スターと|一緒じゃないのか？=Black☆Star isn't with you?
 すみません　シド先生！=I'm sorry, Sid!
 ん？なんでお前が|謝るんだ？=Hm? Why are you apologizing?
-多分　ブラック☆スターが|悪いことをしたんだろうから|先にあやまっておこうと思って・・・=Black☆Star probably did something wrong, so I figured I'd go ahead and apologize...
+多分　ブラック☆スターが|悪いことをしたんだろうから|先にあやまっておこうと思って・・・=Black☆Star probably did something wrong, so I figured I'd go ahead and apologize.
 おかしなヤツだな|自分がしたことでもないのに謝るなんて=You're an odd one, aren't you?|You're apologizing for something you didn't even do.
 そうですよね　私　変でしたね！=I guess that was a little strange.
 だが　椿・・・|ブラック☆スターに|言いたいことは俺にもたくさんある！=Anyway, Tsubaki...|There's a lot that I want to say to Black☆Star!
-先生|それは私じゃなくて|直接　ブラック☆スターに・・・=But sir, wouldn't it be better to say it directly to Black☆Star...
+先生|それは私じゃなくて|直接　ブラック☆スターに・・・=But, sir, wouldn't it be better to say it directly to Black☆Star?
 生前の俺は|一度言いかけたことを|最後まで言う　そんな男だった・・・=When I was alive, once I started to say something, I always finished.|That's the kind of man I was.
 そんな・・・=But...
 ふぅ・・・|今日はこれくらいにしておこう・・・=Phew...|I guess that should be about all for today...
-俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=I wasn't the kind of man who told long stories...But I guess it was an old story too...
-私の貴重な時間を|返してください・・・=Please give me my precious time back...
+俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=A man of few words. That's the kind of man I was...But I guess some things do change...
+私の貴重な時間を|返してください・・・=Please give me my precious time back.
 !FILE:EV1121_055.bscr
 ふぅ・・・|今日はこれくらいにしておこう・・・=Phew...|I guess that should be about all for today...
 !FILE:EV1121_056.bscr
-俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=I wasn't the kind of man who told long stories...But I guess it was an old story too...
-私の貴重な時間を|返してください・・・=Please give me my precious time back...
+俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=A man of few words. That's the kind of man I was...But I guess some things do change...
+私の貴重な時間を|返してください・・・=Please give me my precious time back.
 !FILE:EV1121_057.bscr
-ああ　結局また|ブラック☆スターのことで|怒られてしまった・・・=Aww. In the end I got scolded again because of Black☆Star...
-これならそばにいて|一緒に怒られたほうが|まだ気が楽だわ・・・=If it's going to be like this, I'd rather be scolded with him.
+ああ　結局また|ブラック☆スターのことで|怒られてしまった・・・=Aww. I ended up getting scolded again because of Black☆Star.
+これならそばにいて|一緒に怒られたほうが|まだ気が楽だわ・・・=If it's going to be like this, I'd rather get in trouble with him.
 !FILE:EV1121_060.bscr
 あれ　もう帰ってきたのか？=Huh? Back already?
 ええ　ブラック☆スター|あなたの側にいるのが|一番　楽だと気づいたの・・・=Yeah. I realized that I feel the most relaxed when I'm by your side, Black☆Star...
@@ -6552,90 +6552,90 @@
 ひやっはははははは☆=Yahahahahahaha☆
 そうね　ブラック☆スター・・・|あなたはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
 !FILE:EV1121_065.bscr
-改めて|俺様の偉大さに気づいたようだな☆=So you've finally come to recognize my greatness☆#Repeat of line 783.
+改めて|俺様の偉大さに気づいたようだな☆=So you've finally come to recognize my greatness☆
 !FILE:EV1121_066.bscr
 だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=Tsubaki! I'm not sure if you if can make it on your own, so you'll just have to depend on Black☆Star!
 ひやっはははははは☆=Yahahahahahaha☆
 そうね　ブラック☆スター・・・|あなたはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
 !FILE:EV1122_000.bscr#ダミースターで・・・ = Dummy☆Star... part 4
 あそこにいるのは|マカちゃんとソウル君じゃ|ないかしら？=Isn't that Maka and Soul over there?
-ほんとだ・・・ん！？|あいつらもめてないか？=You're right...|Huh? Are they arguing?
+ほんとだ・・・ん！？|あいつらもめてないか？=You're right.|...Huh? Are they arguing?
 おもしろそうだな|ちょっとのぞいてみようぜ！=Looks interesting. Let's spy on them for a bit!
 もう・・・ちょっとだけよ=Sheesh... just for a bit, okay?
 そういえば　ソウル|昔　ブレアの鎌になるとか言ってたよね=Speaking of which, didn't you say that you wanted to become Blair's scythe at some point?
-はぁ？あれは作戦だろ！？|あの作戦で　ブレアを|倒すことができたんじゃねェか=Huh? That was just a part of the plan! It's because of that tactic that we managed to defeat her, right?!
+はぁ？あれは作戦だろ！？|あの作戦で　ブレアを|倒すことができたんじゃねェか=Huh? That was just a part of the plan! It's because of that plan that we managed to defeat her, right!?
 ふん　どうだか！|たまたまじゃない！！=Hmph, I don't know. It felt like we just got lucky.
-いつの話をむしかえすんだよ|ほんとしつこいしインケンだよ　お前・・・=You keep bringin' up old topics. Why do you have to be so obstinate and underhanded, geez...
+いつの話をむしかえすんだよ|ほんとしつこいしインケンだよ　お前・・・=You keep bringing up old arguments. Why do you have to be such a stubborn nag? Geez!
 やってらんねェよ|お前とは！=I can't keep doing this with you!
 ふんだ　ソウルなんて|こっちから願い下げよ！=Hmph. Not like I want to deal with you either, Soul!
 ソウルなんか・・・ソウルなんか・・・|ソウルなんか・・・ソウルなんか・・・=Soul, you... you... you...!
-やっぱり|私　インケンなのかなぁ=Man, maybe I really am underhanded.
+やっぱり|私　インケンなのかなぁ=Man, maybe I really am a nag.
 険悪な雰囲気だったわね=Things are looking pretty tense.
 ちっ　おもしろくネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, that's no fun! I thought it was gonna get more heated than that☆
-そういうことを言ってはだめよ|ブラック☆スター・・・=You shouldn't say things like that, Black☆Star...
+そういうことを言ってはだめよ|ブラック☆スター・・・=You shouldn't say things like that, Black☆Star.
 !FILE:EV1122_005.bscr
 険悪な雰囲気だったわね=Things are looking pretty tense.
 !FILE:EV1122_006.bscr
 ちっ　おもしろくネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, that's no fun! I thought it was gonna get more heated than this☆
-そういうことを言ってはだめよ|ブラック☆スター・・・=You shouldn't say things like that, Black☆Star...
+そういうことを言ってはだめよ|ブラック☆スター・・・=You shouldn't say things like that, Black☆Star.
 !FILE:EV1122_011.bscr
 ・・・・・・・・・=.........
 !FILE:EV1122_012.bscr
-ふふふふ・・・|どうしたの？|元気がないですね？=Hehe... what's wrong? You look down.
-うん　ちょっとね=Yeah, a bit...
+ふふふふ・・・|どうしたの？|元気がないですね？=Hehe... What's wrong? You look down.
+うん　ちょっとね=Yeah, a bit.
 どうせ　ソウルと|ケンカでもしたんだろ！=I bet you got into an argument with Soul!
 ブラック☆スター！=Black☆Star!
-いいよ　椿ちゃん|だってほんとのことだもん・・・=It's fine, Tsubaki. It's true, after all...
-で　どっちが悪ィんだよ！=So, who's fault was it?!
-今回は　私かな|ちょっとインケンすぎたと思う・・・=It was probably mine this time. I think I was being a little too sleazy...
-それじゃあ　ソウル君に|あやまりましょう　ね？=Well, you should apologize to Soul then. Right?
-私って　意地っ張りだから|それもできないの・・・|どうしよう　私・・・=I'm really stubborn, so I can't even do that. What should I do...?
+いいよ　椿ちゃん|だってほんとのことだもん・・・=It's fine, Tsubaki. It's true after all.
+で　どっちが悪ィんだよ！=So who's fault was it!?
+今回は　私かな|ちょっとインケンすぎたと思う・・・=It was probably mine this time. I think I was being a little unfair.
+それじゃあ　ソウル君に|あやまりましょう　ね？=So you should apologize to Soul then.|Right?
+私って　意地っ張りだから|それもできないの・・・|どうしよう　私・・・=I'm really stubborn, so I can't even do that. What should I do?
 マカちゃん・・・=Maka...
 あーうざってェ！|こんなイジケ虫と一緒に|いらんねェよ！=Agh, so annoying! I can't hang out with someone this depressing!
 !FILE:EV1122_015.bscr
 ・・・・・・・・・=.........
 !FILE:EV1122_016.bscr
-ふふふふ・・・|どうしたの？|元気がないですね？=Hehe... what's wrong? You look down.
-うん　ちょっとね=Yeah, a bit...
+ふふふふ・・・|どうしたの？|元気がないですね？=Hehe... What's wrong? You look down.
+うん　ちょっとね=Yeah, a bit.
 !FILE:EV1122_020.bscr
 あそこにいるのは|ソウル君じゃないかしら？=Isn't that Soul over there?
-ほんとだ・・・ん！？|あいつなんか様子が|おかしいな・・・=That's right... huh!? He's acting kinda strange...
-ソウル君|すごく　怒ってたね・・・=Soul really got mad, didn't he...?
+ほんとだ・・・ん！？|あいつなんか様子が|おかしいな・・・=It is.|...Huh!? He's acting kinda strange.
+ソウル君|すごく　怒ってたね・・・=Soul looks like he's really mad this time.
 どいつもこいつも|ホントにうざってェなァ！=Geez, everyone's being so annoying!
-そうは言っても　こういうことは|簡単にはいかないのよ・・・=Still, things like this aren't simple...
+そうは言っても　こういうことは|簡単にはいかないのよ・・・=These sorts of things aren't simple, you know.
 !FILE:EV1122_025.bscr
-ソウル君|すごく　怒ってたね・・・=Soul really got mad, didn't he...?
+ソウル君|すごく　怒ってたね・・・=Soul looks like he's really mad this time.
 !FILE:EV1122_026.bscr
 どいつもこいつも|ホントにうざってェなァ！=Geez, everyone's being so annoying!
-そうは言っても　こういうことは|簡単にはいかないのよ・・・=Still, things like this aren't simple...
+そうは言っても　こういうことは|簡単にはいかないのよ・・・=These sorts of things aren't simple, you know.
 !FILE:EV1122_027.bscr
-マカとソウルのことなんだけどよ|あいつら仲直りさせようぜ！=Well, this is about Maka and Soul, after all. Let's get them to make up!
+マカとソウルのことなんだけどよ|あいつら仲直りさせようぜ！=Well, this is about Maka and Soul after all. Let's get them to make up!
 このままだと　死武専の中が|うざったくて仕方ねェや！=Otherwise I feel like everyone in the DWMA is gonna keep being a pain in the butt!
 うん！そうしよう|ブラック☆スター！=Yup! Let's do it, Black☆Star!
-私も　このままだと|マカちゃんが|かわいそうだと思うの・・・=If this goes on any further I'll feel sorry for Maka, too...
-じゃ　決まりだな！|ところで　どうやって|あいつらを仲直りさせる？=Okay, it's decided! Either way, how are we actually supposed to do it?
-あの二人を仲直りさせるのは|相当むずかしいわよ・・・=Getting them to make up is going to be pretty difficult...
-そうだな・・・あんなガンコなヤツと|あそこまで皮肉屋なヤツは・・・=True... we gotta deal with someone this stubborn, as well as with an absolute cynic...
-生まれてこの方|見たことねェよ！|ひやっはははははは☆=I've never seen anything like this before! Hyahahahaha☆
-はぁ・・・|とりあえず　キッド君達に|相談してみない？=Oh... Anyway, should we go ask Kid and the others for advice?
-椿らしい無難な線だが|とりあえず　それでいくか☆|ひやっはははははは☆=It's just like you to choose the least risky way, but I don't mind it☆ Hyahahahaha☆
+私も　このままだと|マカちゃんが|かわいそうだと思うの・・・=The longer this goes unresolved, the worse Maka's going to feel.
+じゃ　決まりだな！|ところで　どうやって|あいつらを仲直りさせる？=Well, let's get this done then! By the way, how are we actually supposed to do it?
+あの二人を仲直りさせるのは|相当むずかしいわよ・・・=Getting them to make up is going to be pretty difficult.
+そうだな・・・あんなガンコなヤツと|あそこまで皮肉屋なヤツは・・・=True... On the one hand we've got someone as stubborn as an ox, and on the other we've got a total cynic...
+生まれてこの方|見たことねェよ！|ひやっはははははは☆=This is quite the conundrum! Hyahahahaha☆
+はぁ・・・|とりあえず　キッド君達に|相談してみない？=*Sigh* So should we ask Kid and the others for advice?
+椿らしい無難な線だが|とりあえず　それでいくか☆|ひやっはははははは☆=It's just like you to choose the least risky way, but it might not be a bad idea this time☆ Hyahahahaha☆
 !FILE:EV1122_032.bscr
 マカとソウルがケンカして|うざってェんだ！=Maka and Soul are arguing, and it's pissing me off!
-仲直りする方法があったら|教えてほしいんです=What do you think we should do to help them make up?#This line is used three (875, 884), so making it flow correctly with all three responses is rather awkward. Unless they're separate lines in the code, in which case it's an easy fix.
+仲直りする方法があったら|教えてほしいんです=What do you think we should do to help them make up?
 ダメだ！|仲直りは無理～～♪|きゃはははは！=Give up! Making up is impooossible♪ Kyahahaha!
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
-他の人に聞いてみましょう・・・=Maybe we should ask somebody else...
+他の人に聞いてみましょう・・・=Maybe we should ask somebody else.
 !FILE:EV1122_036.bscr
 ダメだ！|仲直りは無理～～♪|きゃはははは！=Give up! Making up is impooossible♪ Kyahahaha!
 !FILE:EV1122_042.bscr
 マカとソウルがケンカして|うざってェんだ！=Maka and Soul are arguing, and it's pissing me off!
 仲直りする方法があったら|教えてほしいんです=What do you think we should do to help them make up?
-で　ケンカの原因は何だ|どっちが悪いんだ？=I really must know what started the fight and who's to blame.#This line is repeated at the end of the conversation (after 892) as a sort of never-ending loop, so I tried to make sure it flows decently in both contexts.
+で　ケンカの原因は何だ|どっちが悪いんだ？=I really must know what started the fight and who's to blame.
 多分マカちゃんが|悪いと思うんだけど・・・=I think Maka is probably the guilty one.
 多分とは　どういう意味だ|あいまいな表現はやめて|キッチリしてくれ！=What do you mean 'probably'? Don't be vague! Speak in precise terms!
 ごめんなさい|えっと　おそらくマカちゃんが|悪いと思うんだけど・・・=Sorry. Well... it's likely that Maka started it, but...
-おそらくとは　どういう意味だ|あいまいな表現はやめて|くれといってるだろう！！=What do you mean 'likely'? Didn't I say to stop speaking so vaguely?!
+おそらくとは　どういう意味だ|あいまいな表現はやめて|くれといってるだろう！！=What do you mean 'likely'? Didn't I say to stop speaking so vaguely!?
 ごめんなさい　えっと=Sorry. Well...
 めんどくせェなぁ！|両方　悪ィんだよ！！=What a pain in the ass! They're both guilty!!
 両方・・・これは妙なことを|いよいよ話がわからなくなってきた・・・=Both... Your story is making less and less sense. I don't understand.
@@ -6648,27 +6648,27 @@
 マカとソウルがケンカして|うざってェんだ！=Maka and Soul are arguing, and it's pissing me off!
 仲直りする方法があったら|教えてほしいんです=What do you think we should do to help them make up?
 ソウルが悪い！|はい　決定！=It's totally Soul's fault!
-えっと　でも話を聞く限りだと|マカちゃんのほうが悪そうなんだけど=Um... But from what I heard, it seemed like it was mostly Maka's fault.
+えっと　でも話を聞く限りだと|マカちゃんのほうが悪そうなんだけど=Um... From what I heard, it seemed like it was mostly Maka's fault.
 何　お子様なこと言ってんだよ|たのむぜ　椿！=What a naive thing to say. Trust me, Tsubaki!
-男と女がケンカしたら|男が悪い！男が謝る！|当然だろ！=When a guy and a girl fight, it's always the guy's fault! So naturally the guy should apologize, don't you think?
+男と女がケンカしたら|男が悪い！男が謝る！|当然だろ！=When a guy and a girl fight, it's always the guy's fault! So naturally, the guy should apologize, don't you think?
 ・・・・・・・・・=.........
 マカは謝る必要はない|ソウルが謝ってきても|まずは許すな！=Maka has no need to apologize. And even once Soul comes crawling back, she can't forgive him right away!
 そしてプレゼントなり金なりを|ふんだくれるだけ|ふんだくってしまえ！=That way he'll have to give her presents or money or something. She's got to milk it for all it's worth!
 マカにあったら|そう伝えてもらえないか？=If you see Maka, make sure you let her know what I said, okay?
 ははは　貴重な|ご意見ありがとうございます=Hehehe. Thank you for your invaluable wisdom.
 !FILE:EV1122_056.bscr
-男と女がケンカしたら|男が悪い！男が謝る！|当然だろ！=When a guy and a girl fight, it's always the guy's fault! So naturally the guy should apologize, don't you think?
+男と女がケンカしたら|男が悪い！男が謝る！|当然だろ！=When a guy and a girl fight, it's always the guy's fault! So naturally, the guy should apologize, don't you think?
 ははは　貴重な|ご意見ありがとうございます=Hehehe. Thank you for your invaluable wisdom.
 !FILE:EV1122_057.bscr
 結局　参考になりそうな|意見はなかったわね・・・=That wasn't very helpful after all.
-何か　めんどくさくなってきたな・・・|椿　もうマカ達のことは|放っておこうぜ！=This is really getting on my nerves... Tsubaki, let's just leave this whole Maka situation alone already!
+何か　めんどくさくなってきたな・・・|椿　もうマカ達のことは|放っておこうぜ！=This is really getting on my nerves. Tsubaki, let's just leave this whole Maka situation alone already!
 あなたが言い出したことでしょう！=I'm surprised to hear that from you!
-だってよ　今回のケンカ|マカが悪いんだろう？=Well this whole fight is because of Maka, right?
+だってよ　今回のケンカ|マカが悪いんだろう？=Well, this whole fight is because of Maka, right?
 ええ　そうだと思う=Yeah. It seems like it.
 だったら　マカが|謝っちまえば終わりじゃねェか=In that case, Maka just needs to apologize, and then it'll be over.
 でも　マカちゃんの性格を考えたら|謝れないと思うの=But I don't think Maka is the type to apologize so easily.
 特に自分が悪いと思っている時には|余計そうだと思うの・・・=And it'll be especially difficult for her if she feels guilty.
-だから　それが|めんどくせェんだよ・・・=That's why this is so annoying...
+だから　それが|めんどくせェんだよ・・・=That's why this is so annoying.
 もう一人の素直なマカがいて|そいつに謝らせれば解決なんだけどな・・・=If there was another Maka that was more honest with her feelings, she could just apologize, and the problem would be solved...#The wording that refers to 'another' Maka needs to stay someone consistent for a few lines.
 もう　真面目に考えてちょうだい！=Hey, please try to be serious!
 マカちゃんが|もう一人いるわけ・・・=If there was another Maka...
@@ -6679,51 +6679,51 @@
 それは　誰のせいだと|思ってるのかしら・・・=Whose fault is that, I wonder...
 !FILE:EV1122_060.bscr
 ソウルはむこうで|たそがれてるみたいだな☆=That's Soul over there looking all gloomy☆
-そうね　いよいよね|緊張してきたわ・・・=He looks worse than before. I'm nervous...
+そうね　いよいよね|緊張してきたわ・・・=He looks worse than before.|I'm nervous...
 よし　じゃあ|作戦スタートといこうぜ！=Okay! Operation Dummy☆Star is a go!
 ダミースター開始・・・=Dummy☆Star transformation...
 それじゃあ|行くとするか！=Alright! Let's go!
 まって！|ついてこないでちょうだい！=Wait! You should stay here!
-なんでダメなんだよ！=Why should I stay here?!
+なんでダメなんだよ！=Why should I stay here!?
 ソウル君はカンがいいから|ブラック☆スターが登場した瞬間|私が偽者だってことバレちゃうと思うの=Soul has a strong intuition. The moment he sees Black☆Star arrive on stage, I'll be exposed as an imposter.
 そしたら　あの二人のことだから|もっとコジれることになると思うわ=And that might complicate things between them even further.
-そりゃ　めんどくせぇな！|わかったよ　お前にまかせた！=Ugh! This is so annoying! I understand. It's all up to you!
+そりゃ　めんどくせぇな！|わかったよ　お前にまかせた！=Ugh! This is so annoying!|I understand. It's all up to you!
 ありがとう|それじゃあここで待っててね！=Thanks. Just wait here, okay?
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
-スターの俺には|客の声が聞こえる・・・椿とソウルでは|どうしても画面的に地味すぎると・・・=A star like me can hear the audience... They're saying Soul and Tsubaki are too small for all this screen time...#I'm pretty sure they're going for a subtle 4th wall break in this and the following line.
+スターの俺には|客の声が聞こえる・・・椿とソウルでは|どうしても画面的に地味すぎると・・・=A star like me can hear the audience... They're saying Soul and Tsubaki aren't important enough for all this screen time...#I'm pretty sure they're going for a subtle 4th wall break in this and the following line.
 やはりビッグな俺様が|登場してやったほうが|画面的にもしまるんじゃないか？=So I think it would be best if the camera just stayed on a big man like me, don't you agree?
 戻ったわ　ブラック☆スター=I'm back, Black☆Star.
 早かったな　椿|うまくいったのか？=That was quick, Tsubaki. Did it go well?
 作戦は成功よ♪=The mission was successful♪
-ソウル君　はじめは怒ってたけど・・・|私が謝ったとたん|逆にあたふたしちゃって・・・=He was mad at first, but... as soon as I apologized, Soul immediately apologized back...
+ソウル君　はじめは怒ってたけど・・・|私が謝ったとたん|逆にあたふたしちゃって・・・=He was mad at first, but... as soon as I apologized, Soul immediately returned the favor...
 最後には　ソウル君のほうが|謝りっぱなしだったわ=He kept apologizing over and over in the end.
 アイツ　クールとか言ってるけど|女の尻にしかれるタイプだな！=That guy likes to say he's cool, but he's totally whipped!
 将来　絶対に苦労するぞ☆=He's gonna have it rough in the future☆
 もう　何言ってるの|ブラック☆スター！=Hey, that's not nice, Black☆Star!
 この後どうすんだよ？=What should we do after this?
-後は二人にまかせる|しかないわ・・・私達の出番は|おしまいだと思う・・・=It looks like all that's left is to leave it to them... I think our time on stage is over...
+後は二人にまかせる|しかないわ・・・私達の出番は|おしまいだと思う・・・=It looks like all that's left is to leave it to them. I think our time on stage is over.
 それもそうか！|俺達の出番はここまでだな|ひやっはははははは☆=That's right! The spotlight was on us, huh? Yahahahahahaha☆
 !FILE:EV1122_065.bscr
 さてと・・・何しようか|ブラック☆スター？=Well... What should we do, Black☆Star?
 !FILE:EV1122_066.bscr
 この後どうすんだよ？=What should we do after this?
-後は二人にまかせる|しかないわ・・・私達の出番は|おしまいだと思う・・・=It looks like all that's left is to leave it to them... I think our time on stage is over...
+後は二人にまかせる|しかないわ・・・私達の出番は|おしまいだと思う・・・=It looks like all that's left is to leave it to them. I think our time on stage is over.
 それもそうか！|俺達の出番はここまでだな|ひやっはははははは☆=That's right! The spotlight was on us, huh? Yahahahahahaha☆
 !FILE:EV1122_070.bscr
 あそこにいるのは|マカちゃんとソウル君じゃ|ないかしら？=Isn't that Maka and Soul over there?
-ほんとだ・・・ん！？=Oh, yeah... Hm!?
-よかった　仲直り|できたみたいね・・・=Yay! It looks like they made up...
+ほんとだ・・・ん！？=Oh, yeah.|...Hm!?
+よかった　仲直り|できたみたいね・・・=Yay! It looks like they made up.
 今回はうまくいったけど|あいつらケンカが|趣味みてェなもんだからな=Things went well this time, but I swear fighting is their hobby.
 また　どうせやらかすに決まってるぜ！=They'll be at each other's throats again before you know it!
-考えるだけで|気が重くなってきたわ・・・=I'm bummed out just thinking about it...
+考えるだけで|気が重くなってきたわ・・・=I'm bummed out just thinking about it.
 !FILE:EV1122_075.bscr
 さてと・・・何しようか|ブラック☆スター？=Well... What should we do, Black☆Star?
 !FILE:EV1122_076.bscr
 今回はうまくいったけど|あいつらケンカが|趣味みてェなもんだからな=Things went well this time, but I swear fighting is their hobby.
 また　どうせやらかすに決まってるぜ！=They'll be at each other's throats again before you know it!
-考えるだけで|気が重くなってきたわ・・・=I'm bummed out just thinking about it...
+考えるだけで|気が重くなってきたわ・・・=I'm bummed out just thinking about it.
 !FILE:EV1200_000.bscr#morning class day 2 part 5 moved to common
 !FILE:EV1200_100.bscr
 午後の課外授業　楽しみね|ブラック☆スター=The Extracurricular Class this afternoon should be fun, don't you think, Black☆Star?
@@ -6837,7 +6837,7 @@
 !FILE:EV1220_022.bscr
 マカちゃんは　まだ|こちらに来ていないんでしょうか？=Has Maka come by here yet by any chance?
 えぇ　まだ来てないわ=No, not yet.
-アイツは　どこが|悪ィんだよ先生！=What's wrong with her, doctor?!
+アイツは　どこが|悪ィんだよ先生！=What's wrong with her, doctor!?
 詳しいことは|私から言う事ができないから|本人に聞いてみてちょうだい？=You'll have to ask the patient directly, as I'm not allowed to share private information.
 そうですね　わかりました=Thank you, doctor.
 それじゃあ|マカちゃんを見かけたら|私の所まで来るように伝えてね♪=If you see Maka, please ask her to come by and see me♪
@@ -6851,7 +6851,7 @@
 あんたは心配してくれたの|ブラック☆スター？=And you weren't worried about me, Black☆Star?
 俺様はそんなチマチマしたことは|心配していない！|心配するのは世界の平和だけだ☆=I can't worry about such small things! The only thing I'm worried about is world peace!☆
 ブラック☆スターには|直接言いたくないから|あっち行ってて=I don't want to tell you directly, Black☆Star, so you go stand over there.
-なんだと　マカのくせに！=Why won't you tell me, Maka?!
+なんだと　マカのくせに！=Why won't you tell me, Maka!?
 あはは　落ち着いて・・・|私があとで教えてあげますから=Ahaha. Calm down... I'll tell you after, okay?
 それは　構わないでしょ|マカちゃん？=Is that okay with you, Maka?
 うん|私はブラック☆スターに|直接言いたくないだけだから=Yeah. I just don't want to talk directly to Black☆Star, that's all.
@@ -6949,7 +6949,7 @@
 ただし　保健室のベッド|ねごこちはサイコーだな！=But that infirmary bed is crazy comfy!
 今度　お前も|さぼった時は寝てみろよ！=Trust me. The next time you skip, try sleeping on them!
 ひやっはぁ☆|ナイスだぜ　リズ！=Yahoo☆ Nice, Liz!
-お前は天才の思考を|完璧に理解してるじゃねェか！=Are you secretly a genius or what?!
+お前は天才の思考を|完璧に理解してるじゃねェか！=Are you secretly a genius or what!?
 あんまりブラック☆スターに|変なことを教えないでね・・・=Don't give Black☆Star any bad ideas...
 !FILE:EV1220_096.bscr
 保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・='Cause I was like, sleeping in the infirmary. So she made me pass on the message...
@@ -11507,7 +11507,7 @@
 !FILE:EV1981_000.bscr
 こんにちは　おば様=Hello, Auntie.
 来たね　あんた達|おばちゃん|ちゃんと見てたよ=You've finally come to see me, hm?|Auntie's been watching you closely.
-ひゃっはー！　おばちゃん！|ビッグな俺様にふさわしい|課題はどれだ！？=Woohoo! Auntie! What do you suppose would be a proper task|for a big star like me?!
+ひゃっはー！　おばちゃん！|ビッグな俺様にふさわしい|課題はどれだ！？=Woohoo! Auntie! What do you suppose would be a proper task|for a big star like me!?
 相変わらずだね|ブラック☆スター=You never change, do you, Black☆Star?
 先に言っとくけど|あんまり　危険な所には|行かせないよ=Don't forget that I won't let you go to any particularly dangerous places.
 どこに　魔剣や魔眼が|ひそんでるか|わからないからね=You can never be sure where the Demon Sword or the Magic Eye might be lurking!
@@ -18839,7 +18839,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te訓練君で実戦に備えろ！=%_teTrain with a Buddy!
 シュタイン博士が作った|敵にソックリな%_dc[196,0,0]訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[199,133,84]of Professor Stein's %_dc[196,0,0]Training Buddies %_dc[199,133,84]that look just like the enemy!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
-%_te噂のスゴいヤツ？！=%_teDid You Hear About that Amazing Thing?!
+%_te噂のスゴいヤツ？！=%_teDid You Hear About that Amazing Thing!?
 ホントかウソか？！|噂の%_dc[0,196,0]魂の実%_dc[199,133,84]を見つけて|願いを叶えよう！=Truth? Lie? Find a %_dc[199,133,84]Soul Seed%_dc[199,133,84] and it'll grant wishes!
 魂の実%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Soul Seed%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
