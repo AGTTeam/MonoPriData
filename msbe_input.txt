@@ -47,14 +47,14 @@
 反撃開始=Payback Time
 劣等感大爆発=Inferiority Complexplosion
 ショッキングゾンビ=Zombie Shock
-彼の親切とその反応=Generous Gifts?#or possibly "Kindness & Karma"?
+彼の親切とその反応=Kindness & Karma
 星族の秘法=The Star Clan's Secret Ways
 危険なトレーニング=Dangerous Training
 打倒マカチョップ=Overcoming the Maka Chop
 イメージチェンジ=The Makeover
 死神装束をなくした=The Missing Shinigami Robes
 姉妹の最終兵器=The Sisters' Ultimate Weapon
-決戦=The Final Battle
+決戦=Endgame#alternatives welcome, but can only be up to one letter longer. The limit is set by the ':noon/:night' save text, but alternatively if there are no other story events on day 6, "The Final Battle"/"The Decisive Battle" could be used instead. (Unless it causes a problem with the images.)
 !FILE:EV0000_000.bscr#intro conversation in the Death Room
 ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Hey! Hi! Hellooo!! Sorry for calling you all here so early♪
 おはようございます|死神様=Good morning, Lord Death.
@@ -3013,7 +3013,7 @@
 そんなことさせない！|魔女は・・・ポネラはどこにいるの！=Not while I live and breathe!|The witch! Where is Ponera?
 フフフ・・・ポネラ様は|この先の神殿にいらっしゃいますよ=Hmhmhm... Madame Ponera is in the sanctuary before you.
 ああ　でも行けませんよ|邪魔させないように言われているのでね=Ah. But you cannot enter. She told me that she was not to be disturbed.
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 やるぜ　マカ！=Maka! Let's end him!
 力ずくで　行かせてもらうわ！=I won't hold anything back!
 キャッ！=Kya!
@@ -3030,7 +3030,7 @@
 結果として　あの子の望みは|叶うことになるでしょう？=Once that comes to fruition, the child will have all that she desires, don't you think?
 ポネラを騙して利用したのね・・・|許せない　観念しなさい！=You deceived Ponera and used her... That, I can't forgive! Give up!
 フフフ|申し訳ないが　そうもいかないのでね=Hmhmhm. My apologies, but that won't be possible.
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 おおぉ・・・　力が沸いてくる=Oooohh... Power overwhelming.#Reference to the archon unit in Starcraft. As usual, feel free to change it.
 なに今の？=What is this?
 ふぅ・・・|この力を見せたくはなかったのですが|まぁ　いいでしょう=Phew... I didn't want to reveal this power... How unfortunate.
@@ -3065,11 +3065,11 @@
 ソウル！=Soul!
 おう！|クールにいくぜ！=Yeah! Let's make it cool!
 !FILE:EV0501_456.bscr
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 やるぜ　マカ！=Maka! Let's end him!
 力ずくで　行かせてもらうわ！=I won't hold anything back!
 !FILE:EV0501_457.bscr
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 おおぉ・・・　力が沸いてくる=Oooohh... Power overwhelming.
 なに今の？=What is this?
 ふぅ・・・|この力を見せたくは無かったのですが|まぁ　いいでしょう=Phew... I didn't want to reveal this power... How unfortunate.
@@ -3690,35 +3690,25 @@
 じゃあ　魔女は　ポネラって子は|騙されていたってことですね=The witch Ponera... That means he was deceiving a child.
 そうなるな=Looks like it.
 んじゃ|お話しして仲直りすればい～じゃん=So we talk to her and everything will be all better.
-そいつは無理だ|あの洞窟を見ただろ　あれだけの数の繭から|いつ化け物が生まれてもおかしくないんだ=That's not possible. You saw what was in that cave. Already, that many monsters are born in those cocoons and the party's ruined.#The Japanese doesn't mention a party. My original translation was "and we won't be having fun," but I like this version. I feel like it gives a little more flair. It feels more like Soul to me. Maybe I'm wrong though.
-ましてや　そのポネラという魔女は|今も繭を作り続けているかもしれない=Not to mention that that witch Ponera is probably continuing to make more cocoons as we speak.
+そいつは無理だ|あの洞窟を見ただろ　あれだけの数の繭から|いつ化け物が生まれてもおかしくないんだ=That's not possible. You saw what was in that cave. If all those cocoons bear monsters, the party's over.#The Japanese doesn't mention a party. My original translation was "and we won't be having fun," but I like this version. I feel like it gives a little more flair. It feels more like Soul to me. Maybe I'm wrong though.
+ましてや　そのポネラという魔女は|今も繭を作り続けているかもしれない=Not to mention that the witch Ponera is probably continuing to make more cocoons as we speak.
 げげっ|あの化け物がまだ増えるってことかよ=Urgh? There's going to be more of those monsters?
 増えていいのは　俺様の伝説だけだぜ！|ひゃっはー！=The more the merrier! I'll be a legend for sure! Yahoo!
-いよいよ|決戦のときがやってきました=It's time. This will be the Decisive Battle.#This should match the title for Day 6.
+いよいよ|決戦のときがやってきました=It's time. This will be the endgame.#This should match the title for Day 6.
 はい！=Right!
 ああ！=Yes!
 おう！=Yeah!
-はい！=Right!
-はい！=Right!
 ほい！=Okay!
 うむ！=Yeah!
 準備が　できた人達から|ツギハギ研究所へ向かってもらいます=Those that are prepared, go ahead and make your way to the Patchwork Lab.
-さぁ|準備しとかねぇとな？=Like let's get ready, okay?
-はい！=Right!
+さぁ|準備しとかねぇとな？=Guess we'd better get ready then.
+準備はできましたか？=Are you prepared?
+急いで　向かってください=Hurry and get to the lab.
 !FILE:EV0600_100.bscr
 ポネラを止めなきゃ=We have to stop Ponera!
 そうだな=Right!
-!FILE:EV0600_201.bscr
-準備が　できた人達から|ツギハギ研究所へ向かってもらいます=Those that are prepared, go ahead and make your way to the Patchwork Lab.
-!FILE:EV0600_202.bscr
-準備はできましたか？=Are you prepared?
-はい！=Yeah!
-ああ！=Yes!
-はい！=Yeah!
-!FILE:EV0600_205.bscr
-急いで　向かってください=Hurry and get to the lab.
-!FILE:EV0600_206.bscr
-いよいよ|決戦のときがやってきました=It's time. This will be the Decisive Battle.
+!FILE:EV0600_205.bscr#moved to common
+!FILE:EV0600_206.bscr#moved to common
 !FILE:EV0600_210.bscr
 いいか　決戦はもう目の前だ！|一つだけ言っておく|決して命を落とすな！=Ready? The decisive battle is before your eyes! There's only one thing to say... Don't die!
 ひゃっはぁー！|きたきたきたぁ！　行くぜ　椿！=Yahoo! It's here! It's here! It's here! Let's go, Tsubaki!
@@ -3790,7 +3780,7 @@
 　　受付停止中=Reception Desk Closed
 申し訳ないけど|ちょっと急用が入ってね|また　今度来るんだね|　　　　　おばちゃんより=Apologies, something|urgent came up.|I'll be back soon.|　　　　　　　--Auntie
 !FILE:EV0905_030.bscr
-　がんばり屋な君達へ=For the workaholics
+　がんばり屋な君達へ=　For the Workaholics
 用意しておいた訓練が|なくなっちゃいました|今日の訓練は終了です|　　　　シュタインより=There are no remaining|training sessions|planned for today.|　　　　　　　　--Stein
 !FILE:EV0905_040.bscr
 　　あのねぇ・・・=Um...
@@ -4152,7 +4142,7 @@
 !FILE:EV0931_005.bscr
 ああああ=AAaAaah!!
 !FILE:EV0932_010.bscr
-さて　はじめるよ|準備はいい？=All right. Let's get started. You ready?
+さて　はじめるよ|準備はいい？=All right. Let's get started.|You ready?
 もちろん　いつでも|オッケーだぜ！=Totally. I thought you'd never ask!
 ソウル　どう？=How about it, Soul?
 俺のほうはオッケーだ|いつでもいいぞ　マカ！=It's all systems go for me. I'm ready when you are, Maka!
@@ -4176,14 +4166,14 @@
 俺のほうはオッケーだ|いつでもいいぞ　マカ！=It's all systems go for me. I'm ready when you are, Maka!
 もう　準備はできたみたいね|じゃあはじめるよ=Looks like everything's set.|Let's get started then!
 待ちくたびれたぜ　マカ|さっさとやっちまおうぜ=I was getting tired of waiting. Let's do this, Maka!
-さて　はじめるよ|準備はいい？=All right. Let's get started. You ready?
+さて　はじめるよ|準備はいい？=All right. Let's get started.|You ready?
 もちろん　いつでも|オッケーだぜ！=Totally. I thought you'd never ask!
 あんまり良さそうな|場所じゃないね・・・=Something seems off about this place...
 そうか？どこも|こんなもんだと思うけどな？=Oh, yeah? Seems like any other place to me.
 !FILE:EV0932_020.bscr
 気のせいかしら|さっきからずいぶん緊張感が|ないみたいなんだけど・・・=Maybe it's my imagination, but I've got a really bad feeling about this.
 気のせいだぜ　マカ|あんまり考えすぎると|キッドみたいになるぞ！=It's definitely your imagination. You're starting to look like Kid with all that overthinking!
-もう！|戦闘でもその調子だったら|マカチョップだからね！=Hey! If we get into a fight there will be a Maka Chop waiting for you at the end!
+もう！|戦闘でもその調ｄったら|マカチョップだからね！=Hey! If we get into a fight there will be a Maka Chop waiting for you at the end!
 ソウル　あんた　最近たるんでるんだから|ポカしないようにね=Soul, you've been slacking off recently, so no mistakes today, okay?
 へいへい　わかりました|ご期待に添えるように|せいぜいガンバリますよ！=Yes, it is as you say, milady. I will do|all that I can to live up to your expectations!
 ずいぶんと調子がいいじゃん|期待してるよ　ソウル！=You look like you're in pretty good shape, Soul. I'm expecting a lot then!
@@ -4214,7 +4204,7 @@
 そりゃ　するだろうよ|そういう所に|来てんだからよ！=That makes sense. That's sort of why we're here!
 はぁ　もういいわ|でも　お願いだから|真面目にやってちょうだいね=Well, yeah. Just please take this seriously, okay?
 ねェ　ソウル・・・|私なんだか嫌な予感がするのよね・・・=Um, Soul... I've got sort of a bad feeling about this.
-おいおい　ずいぶん弱気だな！|らしくねェんじゃねェか！？=Come on! Where's your self- confidence! You've got it all wrong!#added space for better word-wrapping
+おいおい　ずいぶん弱気だな！|らしくねェんじゃねェか！？=Come on!|Where's your self-confidence!?|This isn't like you.
 私だってそんな時くらいあるわよ！=Even I can't be super confident all the time!
 今回は|結構面倒なことになりそうな気がするの=I feel like this one's going to be really annoying.
 マジで？！|マカ様のその偉大なる勘が|外れることを俺は心から願うよ=Really? Oh, I do so hope the great Maka and her infallible hunches might be mistaken.
@@ -4397,7 +4387,7 @@
 目標も達成したことだし|たまにはゆっくり歩いて帰ろっか？=Our tasks are all finished, so I say we take our time on the walk back.
 さてと・・・|学校に帰るぞ～！=Now then... Time to get back to school!
 でもちょっと疲れちゃった|今日は休み休み帰ろっか=But I'm kinda tired. I'm thinking about taking a nice, long, relaxing nap when we get back.
-せっかくだし|この辺りを観光しながら帰ろっか=That was tough. I think we deserve a little sightseeing on the way back.
+せっかくだし|この辺りを観光しながら帰ろっか=I think we deserve a little sightseeing on the way back.
 そうねぇ・・・|気分転換に道草しながら帰ろっか？=Yep... Why don't we have a change of pace and take the scenic root on the way home?
 そうだ！いいこと思いついた！|せっかくだしこの辺りで何かお土産に|なるようなものを持って帰らない？=Oh! I just had a great idea! Why don't we take it easy for a bit and pick up some souvenirs before we go home?
 さーてとっ！|たまには遊びながら帰ろっか？=You know what? It wouldn't hurt for us to enjoy ourselves a little before going back, would it?
@@ -5071,7 +5061,7 @@
 目標も達成したことだし|たまにはゆっくり歩いて帰ろっか？=Our tasks are all finished, so I say we take our time on the walk back.
 さてと・・・|学校に帰るぞ～！=Now then... Time to get back to school!
 でもちょっと疲れちゃった|今日は休み休み帰ろっか=But I'm kinda tired. I'm thinking about taking a nice, long, relaxing nap when we get back.
-せっかくだし|この辺りを観光しながら帰ろっか=That was tough. I think we deserve a little sightseeing on the way back.
+せっかくだし|この辺りを観光しながら帰ろっか=I think we deserve a little sightseeing on the way back.
 そうねぇ・・・|気分転換に道草しながら帰ろっか？=Yep... Why don't we have a change of pace and take the scenic root on the way home?
 そうだ！いいこと思いついた！|せっかくだしこの辺りで何かお土産に|なるようなものを持って帰らない？=Oh! I just had a great idea! Why don't we take it easy for a bit and pick up some souvenirs before we go home?
 さーてとっ！|たまには遊びながら帰ろっか？=You know what? It wouldn't hurt for us to enjoy ourselves a little before going back, would it?
@@ -8611,7 +8601,7 @@
 邪魔者は　お前だろ！|ポネラっつ～　魔女はどこだ！=You're the pest! Where's the witch Ponera!?
 フフフ・・・　ポネラ様は|この先の神殿にいらっしゃいますよ=Hmhmhm... Madame Ponera is in the sanctuary before you.
 ああ　でも行けませんよ|邪魔させないように言われているのでね=Ah. But you cannot enter. She told me that she was not to be disturbed.
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 くるわ　ブラック☆スター！=Here they come, Black☆Star!
 おう！=Right!
 うわっ！=Woah!
@@ -8629,7 +8619,7 @@
 なに勝手いってやがる|ようは　魔女を利用してるってことだろ=What the hell are you rambling on about? It sounds to me like you're just using the witch.
 そんな小さいヤローは|俺様と話せただけでも　感謝しろ！=You little bastard! You should be thanking me for even talking to you!
 フフフ|申し訳ないが　そうもいかないのでね=Hmhmhm. My apologies, but that won't be possible.
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 おおぉ・・・　力が沸いてくる=Oooohh... Power overwhelming.
 な　なんだ？=Wh-What?
 ふぅ・・・|この力を見せたくはなかったのですが|まぁ　いいでしょう=Phew... I didn't want to reveal this power... How unfortunate.
@@ -8665,11 +8655,11 @@
 ひゃっはぁ！|グダグダいってねぇーで|行くぜ　椿！=Yahoo! Don't just stand around talking about it! Let's go, Tsubaki!
 はい！=Roger!
 !FILE:EV1501_456.bscr
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 くるわ　ブラック☆スター！=Here they come, Black☆Star!
 おう！=Yeah!
 !FILE:EV1501_457.bscr
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 おおぉ・・・　力が沸いてくる=Oooohh... Power overwhelming.
 な　なんだ？=Wh-What?
 ふぅ・・・|この力を見せたくは無かったのですが|まぁ　いいでしょう=Phew... I didn't want to reveal this power... How unfortunate.
@@ -9222,17 +9212,8 @@
 !FILE:EV1600_100.bscr
 ポネラを止めないと=Ponera has to be stopped.
 止めてやるさ|この俺に任せろ　椿！=I'll stop her. Leave it to me, Tsubaki!
-!FILE:EV1600_201.bscr
-準備が　できた人達から|ツギハギ研究所へ向かってもらいます=Those that are prepared, go ahead and make your way to the Patchwork Lab.
-!FILE:EV1600_202.bscr
-準備はできましたか？=Are you prepared?
-おう！=Yeah!
-はい！=Yes!
-おう！=Yeah!
-!FILE:EV1600_205.bscr
-急いで　向かってください=Hurry and get to the lab.
-!FILE:EV1600_206.bscr
-いよいよ|決戦のときがやってきました=It's time. This will be the Decisive Battle.
+!FILE:EV1600_205.bscr#moved to common
+!FILE:EV1600_206.bscr#moved to common
 !FILE:EV1601_400.bscr
 来たな！　ここは任せろ！|蟻一匹たりとも通しはせん！=Here they come! Leave 'em to me! Not a single ant is getting past me!
 お前達は先へ進め！|魔女をしとめろ！=You guys go on ahead! Bring the witch down!
@@ -14290,7 +14271,7 @@
 だが　子供はおとなしく|大人のいいなりになってれば|いいんだよ=And children be silent and obedient in the presence of an adult.
 余計なことは　考えずにな|あの　ポネラのように=Like that Ponera who does as I say without question...
 ククク・・・|お前は　ここで消えろ=Khehehe... Your end is nigh!
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 ふん　おもしろい|死神に　ケンカを売ったこと|後悔させてやる　行くぞ！=Hmph. Interesting. You've chosen to dance with a grim reaper. I'll make you repent yet. Let's do this!
 おう！=Yeah!
 ほい！=Okay!
@@ -14303,7 +14284,7 @@
 俺は　ポネラだけが作れる繭に目をつけた|ポネラの繭に　俺の力を加えれば|新たな力を　作り出せることにな=I discovered these cocoons that only Ponera could make. And by adding my power to Ponera's cocoons, a new power can be created.
 その力とやらが|その　化け物か=And that new power... is that monster?
 フフフ・・・|その出来損ないが力だと？|勘違いするな=Hmhmhm... That worthless thing? You're quite mistaken, I'm afraid.
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 なに？=What?
 おおぉ・・・　力が沸いてくるぜ=Oooohh... Power overwhelming.
 ふぅ・・・　これが力さ|俺は　この本に　あらゆるモノを取り込み|俺のものにできるのさ=Ngh... So this is true power. I can capture it all within this book, and then this will be my power.
@@ -14329,13 +14310,13 @@
 マル～=Cirrrrclllle...
 !FILE:EV2501_456.bscr
 ククク・・・|お前は　ここで消えろ=Khehehe... Your end is nigh!
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 ふん　面白い|死神に　ケンカを売ったこと|後悔させてやる　行くぞ！=Hmph. Interesting. You've chosen to dance with a grim reaper. I'll make you repent yet. Let's do this!
 おう！=Yeah!
 ほい！=Okay!
 おう！=Yeah!
 !FILE:EV2501_457.bscr
-ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
+ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 なに？=What?
 おおぉ・・・　力が沸いてくるぜ=Oooohh... Power overwhelming.
 ポネラなどは　この俺が超魔道師として|世界を手に入れる　踏み台にすぎないのさ！=Ponera and the others are no more than stepping stones on my path to gain control of the world as an all-powerful wizard!
@@ -14820,20 +14801,10 @@
 !FILE:EV2600_000.bscr#moved to common
 !FILE:EV2600_100.bscr
 あんだけの数　マジやばいよ=How can there be so many of them?
-次期死神の名にかけて|きっちりかっちり　始末する=In the name of the Grim Reaper, I will deal with each and everyone one.
+次期死神の名にかけて|きっちりかっちり　始末する=In the name of the Grim Reaper, I will deal with each and every one.
 やるぞ～！=Leeeet's goooo!
-!FILE:EV2600_201.bscr
-準備が　できた人達から|ツギハギ研究所へ向かってもらいます=Those that are prepared, go ahead and make your way to the Patchwork Lab.
-!FILE:EV2600_202.bscr
-準備はできましたか？=Are you prepared?
-うむ！=Yeah!
-おう！=Yeah!
-ほい！=Okay!
-うむ！=Yeah!
-!FILE:EV2600_205.bscr
-急いで　向かってください=Hurry and get to the lab.
-!FILE:EV2600_206.bscr
-いよいよ|決戦のときがやってきました=It's time. This will be the Decisive Battle.
+!FILE:EV2600_205.bscr#moved to common
+!FILE:EV2600_206.bscr#moved to common
 !FILE:EV2601_400.bscr
 来たな！　ここは任せろ！|蟻一匹たりとも通しはせん！=Here they come! Leave 'em to me! Not a single ant is getting past me!
 お前達は先へ進め！|魔女をしとめろ！=You guys go on ahead! Bring the witch down!
@@ -18019,42 +17990,29 @@
 おや|こんな所にいてもいいのですか？=Um, is it all right for you to be here right now?#seen
 !FILE:EV9967_121.bscr
 おや|こんな所にいてもいいのですか？=Um, is it all right for you to be here right now?
-!FILE:EV9967_200.bscr
-バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
-あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
-誤解のないように言っとくわね♪=I'm telling you so you don't get confused♪
-ブレアは魔女じゃなくて|魔力が強い|ただのかわいいネコなんだからね♪=Blair isn't a witch. She's just an ordinary cat that happens to be super cute and have strong magical powers♪
-ネコの姿のほうが|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
-このカッコウって|そんなに魅力ないかな？=Is this look really that charming?
-嬉しい♪|大切な用を放ってまで|ブレアと遊びにきてくれたのね♪=I'm so happy♪ You wanted to play with Blair so bad you even shirked all those big important things you have to do♪
-!FILE:EV9967_201.bscr
-嬉しい♪|大切な用を放ってまで|ブレアと遊びにきてくれたのね♪=I'm so happy♪ You wanted to play with Blair so bad you even shirked all those big important things you have to do♪
-!FILE:EV9967_220.bscr
+!FILE:EV9967_200.bscr#moved to common
+!FILE:EV9967_201.bscr#moved to common
+!FILE:COMMON#Blair's lines. Some of them repeat as there are subtle differences between the Japanese lines.
 マカとソウルって|ケンカばかりしてるから|ウルサくて仕方にゃいの♪=All Maka and Soul do is argue. They're so loud and annyahing♪
 もう少しスマートに|暮らせにゃいのかにゃ？=I wonder if I could find a better place...
-死武専はゴチャゴチャしてて面白いよ♪=The DWMA is so fun, but it's really confusing♪
+死武専はゴチャゴチャしてて面白いよ♪=The DWMA is so fun, but it's really confusing♪#seen
 最近　良く遊びにくるんだけど|その度に迷子ににゃっちゃう=I've been coming here lately just to play, but I get lost every time.
-ブーたんの人気は|デス　シティーで急上昇♪=Blair's popularity has been a swift rise throughout Death City♪
-自称スターのツンツン頭とは違って|本当のスターだよ♪=I'm a real star. Not like that spiky-head that just calls himself one♪
-うれしいにゃ♪|大事な用を放っぽらかしてまで|ブレアと話しにきてくれたのね♪=I'm flattered♪ You wanted to talk to Blair so bad you even shirked all those big important things you have to do♪
-!FILE:EV9967_224.bscr
-バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
-あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
-誤解のないように言っとくわね♪=I'm telling you so you don't get confused♪
-ブレアは魔女じゃなくて|魔力が強い|ただのかわいいネコなんだからね♪=Blair isn't a witch. She's just an ordinary cat that happens to be super cute and have strong magical powers♪
-ネコの姿の方が|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
-このカッコウって|そんなに魅力ないかな？=Is this look really that charming?
-嬉しい♪|大切な用を放ってまで|ブレアと遊びにきてくれたのね♪=I'm so happy♪ You wanted to play with Blair so bad you even shirked all those big important things you have to do♪
-!FILE:EV9967_530.bscr
-マカとソウルって|ケンカばかりしてるから|ウルサくて仕方にゃいの♪=All Maka and Soul do is argue. They're so loud and annyahing♪
-もう少しスマートに|暮らせにゃいのかにゃ？=I wonder if I could find a better place...
 死武専は|ゴチャゴチャしてておもしろいよ♪=The DWMA is so fun, but it's really confusing♪
 最近　よく遊びにくるんだけど|そのたびに迷子ににゃっちゃう=I've been coming here lately just to play, but I get lost every time.
+ブーたんの人気は|デス　シティーで急上昇♪=Blair's popularity has been a swift rise throughout Death City♪
 ブーたんの人気は|デス・シティーで急上昇♪=Blair's popularity has been a swift rise throughout Death City♪
 自称スターのツンツン頭とは違って|本当のスターだよ♪=I'm a real star. Not like that spiky-head that just calls himself one♪
-うれしいにゃ♪|大事な用を放っぽらかしてまで|ブレアと話しにきてくれたのね♪=I'm flattered♪ You wanted to talk to Blair so bad you even shirked all those big important things you have to do♪
-!FILE:EV9967_531.bscr
-うれしいにゃ♪|大事な用を放っぽらかしてまで|ブレアと話しにきてくれたのね♪=I'm flattered♪ You wanted to talk to Blair so bad you even shirked all those big important things you have to do♪
+うれしいにゃ♪|大事な用を放っぽらかしてまで|ブレアと話しにきてくれたのね♪=I'm flattered♪ You wanted to talk to Blair so bad you even shirked all those big important things you have to do♪#seen
+嬉しい♪|大切な用を放ってまで|ブレアと遊びにきてくれたのね♪=I'm so happy♪ You wanted to play with Blair so bad you even shirked all those big important things you have to do♪
+誤解のないように言っとくわね♪=I'm telling you so you don't get confused♪
+ブレアは魔女じゃなくて|魔力が強い|ただのかわいいネコなんだからね♪=Blair isn't a witch. She's just an ordinary cat that happens to be super cute and have strong magical powers♪
+バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
+あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
+ネコの姿の方が|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
+ネコの姿のほうが|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
+このカッコウって|そんなに魅力ないかな？=Is this look really that charming?
+!FILE:EV9967_530.bscr#moved to common
+!FILE:EV9967_531.bscr#moved to common
 !FILE:EV9981_000.bscr
 来たね　あんた達|おばちゃん　ここから見てたよ=So you've come, huh?|Auntie's been watching you from here.
 受けたいものがあったら|おばちゃんの所に|もってくるんだよ=If you've got any items that you want Auntie to hold on to, just bring them to me, okay?
@@ -18344,10 +18302,10 @@
 %_te反撃　昼=%_tePayback: Noon
 %_te反撃　夕方=%_tePayback: Dusk
 %_te反撃　夜=%_tePayback: Night
-%_te決戦=%_teThe Final Battle
-%_te決戦　昼=%_teThe Final Battle: Noon
-%_te決戦　夕方=%_teThe Final Battle: Dusk
-%_te決戦　夜=%_teThe Final Battle: Night
+%_te決戦=%_teEndgame
+%_te決戦　昼=%_teEndgame: Noon
+%_te決戦　夕方=%_teEndgame: Dusk
+%_te決戦　夜=%_teEndgame: Night
 設定したい項目にポインターを|合わせて　Aボタンを押せば|設定を変更することができます=Hover the pointer over the settings you wish to configure and press the|A button.
 サウンド出力のモノラル/ステレオを|設定します=Set the audio output to Mono/Stereo.
 メッセージと同時に再生されるボイスの|オフ/オンを設定します　メッセージのない|ボイスやムービーには適用されません=Set the message voice playback to On/Off. Does not apply to cutscenes and speech without text.
@@ -18553,12 +18511,12 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ５日目　反撃　キッド編|特別訓練=Day 5 - Payback - Kid - Special Training
 ５日目　反撃　キッド編|反撃開始=Day 5 - Payback - Kid - Payback Time
 ５日目　反撃　キッド編|報告=Day 5 - Payback - Kid - Report
-６日目　決戦　マカ編|決戦へ=Day 6 - The Final Battle - Maka - Decisive Battle
-６日目　決戦　マカ編|最終戦=Day 6 - The Final Battle - Maka - The Battle's End
-６日目　決戦　ブラック☆スター編|決戦へ=Day 6 - The Final Battle - Black☆Star - Decisive Battle
-６日目　決戦　ブラック☆スター編|最終戦=Day 6 - The Final Battle - Black☆Star - The Battle's End
-６日目　決戦　キッド編|決戦へ=Day 6 - The Final Battle - Kid - Decisive Battle
-６日目　決戦　キッド編|最終戦=Day 6 - The Final Battle - Kid - The Battle's End
+６日目　決戦　マカ編|決戦へ=Day 6 – Endgame - Maka - Decisive Battle
+６日目　決戦　マカ編|最終戦=Day 6 - Endgame - Maka - The Battle's End
+６日目　決戦　ブラック☆スター編|決戦へ=Day 6 - Endgame - Black☆Star - Decisive Battle
+６日目　決戦　ブラック☆スター編|最終戦=Day 6 - Endgame - Black☆Star - The Battle's End
+６日目　決戦　キッド編|決戦へ=Day 6 - Endgame - Kid - Decisive Battle
+６日目　決戦　キッド編|最終戦=Day 6 - Endgame - Kid - The Battle's End
 !FILE:quest.bin
 %_teなし=%_teNone
 %_te死武専生の心得=%_teDWMA Student Guidelines
@@ -18649,7 +18607,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 危険物指定の%_dc[0,196,0]太陽石%_dc[199,133,84]が|西地区に落下しました|捜索回収してください=A %_dc[0,196,0]Sun Stone %_dc[199,133,84]fell|in the western sector. Please retrieve it.
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
-休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous! Take it on if you dare!
+休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight any more!#Doesn't match the Japanese, but because the mission hint below doesn’t actually show in-game, I tried to reword the description to make it clear that the mission doesn't end until you run out of HP
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
@@ -18745,7 +18703,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
-休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
+休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight any more!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
@@ -18841,7 +18799,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 ホントかウソか？！|噂の%_dc[0,196,0]魂の実%_dc[199,133,84]を見つけて|願いを叶えよう！=Truth? Lie? Find a %_dc[199,133,84]Soul Seed%_dc[199,133,84] and it'll grant wishes!
 魂の実%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Soul Seed%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
-休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
+休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight any more!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te毒コウモリを退治せよ！=%_teEliminate the Poisonous Bats!
 毒を持った危険なコウモリ|%_dc[196,0,0]バッドバット%_dc[199,133,84]を探し出し|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[199,133,84]of the dangerously poisonous bats, %_dc[196,0,0]Bad Bats%_dc[199,133,84]!
@@ -18921,9 +18879,9 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
 制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|　　　　　　　　By Sid
 制限時間内に|敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!
-%_te訓練君を探せ？=%_teSearch for Training Buddy?
-敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Find the %_dc[0,196,0]Training Buddy Doll %_dc[199,133,84]! It looks just like the enemy.
-訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Doll%_dc[199,133,84]!
+%_te訓練君を探せ？=%_teFind a Buddy?
+敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Locate the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]! They look just like the enemy.
+訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
 シド先生%_dc[199,133,84]に挑戦！|三つ星だってなんのその|日頃の成果を見せつけろ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Sid%_dc[199,133,84]! He's a three-star meister, so show him what you're capable of!
 シド先生%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Sid%_dc[199,133,84]!
@@ -18931,16 +18889,16 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 魂を集めて何かをたくらむ|謎の集団パラポネラ！|ヤツラの悪事を阻止せよ！=The mysterious group, Paraponera is gathering souls and planning something! Prevent their evil doings!
 全ての敵を倒して|パラポネラをぶっつぶせ！=Defeat all the enemies and crush Paraponera!
 %_teサバイバル訓練=%_teSurvival Training
-休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
+休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight any more!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
-%_te殺人鬼を退治せよ！=%_teEliminate the Cutthroat!
+%_te殺人鬼を退治せよ！=%_teStop the Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ウギーマン%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]Oogeyman%_dc[199,133,84]!
 ウギーマン%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Oogeyman%_dc[199,133,84]!
-%_te訓練君を探せ？=%_teSearch for Training Buddy?
-敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Find the %_dc[0,196,0]Training Buddy Doll %_dc[199,133,84]! It looks just like the enemy.
-訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Doll%_dc[199,133,84]!
-%_te殺人鬼を速やかに倒せ！=%_teDefeat the Cutthroat Swiftly!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]THE CAN %_dc[199,133,84]is coming! Defeat him before he can do any damage!
+%_te訓練君を探せ？=%_teFind a Buddy?
+敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Locate the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]! They look just like the enemy.
+訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]!
+%_te殺人鬼を速やかに倒せ！=%_teDefeat the Threat!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]THE CAN %_dc[199,133,84]is coming! Stop him before it's too late!
 制限時間内に|%_dc[196,0,0]THE・CAN%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]THE CAN %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
 シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
@@ -18949,14 +18907,14 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
 魔女ポネラ%_dc[199,133,84]を止めろ！=%_dc[199,133,84]Stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
-休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
+休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight any more!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te殺人鬼を退治せよ！=%_teEliminate the Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]THE CAN%_dc[199,133,84]!
 THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CAN%_dc[199,133,84]!
-%_te訓練君を探せ？=%_teSearch for Training Buddy?
-敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Find the %_dc[0,196,0]Training Buddy Doll %_dc[199,133,84]! It looks just like the enemy.
-訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Doll%_dc[199,133,84]!
+%_te訓練君を探せ？=%_teFind a Buddy?
+敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Locate the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]! They look just like the enemy.
+訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]!
 %_te極悪怪僧を速やかに倒せ！=%_teSwiftly defeat the Wicked Monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]現る！|被害が出る前に倒せ！=The wicked monk, %_dc[196,0,0]Ajarri %_dc[199,133,84]is coming! Defeat him before he can do any damage!
 制限時間内に|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Ajarri %_dc[199,133,84]within the time limit!
@@ -18967,7 +18925,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
 魔女ポネラ%_dc[199,133,84]を止めろ！=%_dc[199,133,84]Stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
-休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=This training will be especially rigorous with constant fighting! There will be no rest! Are you up to the challenge?
+休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight any more!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te極悪怪僧を退治せよ！=%_teEliminate the Monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat the wicked monk, %_dc[196,0,0]Ajhari%_dc[199,133,84]!
@@ -18975,8 +18933,8 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_te死武専生なら　なっ！=%_teLost Page Recovery!
 死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my|soul studies book have gone missing...
 魂学書の破れたページ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]ページ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Torn Pages of a Soul Studies Book%_dc[199,133,84]!
-%_te殺人鬼を速やかに倒せ！=%_teDefeat the Cutthroat Swiftly!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]is coming! Defeat him before he can do any damage!
+%_te殺人鬼を速やかに倒せ！=%_teDefeat the Threat!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]is coming! Stop him before it's too late!
 制限時間内に|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
 シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
