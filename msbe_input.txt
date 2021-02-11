@@ -205,7 +205,7 @@
 なに？=What?
 キャッ！=Kya!
 な　なんだコイツらは？=W-Who are these guys?
-ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gigi! A meister and a magic weapon... Death sent his drones, huh?#I welcome any suggestions for the laughing sound effects. –I think it sounds a bit like 'Gehehe'
+ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gigi! A meister and a magic weapon... Death sent his drones, huh?#I welcome any suggestions for the laughing sound effects. –I think it sounds a bit like 'Gehehe'#For reference, this line plays at 3:54 in the 5th video in Soul Reaper's Youtube playlist.
 あぁ？|だったらどうする=Yeah? And what if he did?
 ギギギ・・・|生かして帰さない！=Gigigi! Leave now and you'll live!
 けっ！　ザコどもが！|後悔するぜ！=Hmph! A couple of pests!|You'll regret this!
@@ -500,7 +500,7 @@
 いいところだったのに=I had them right where I wanted them.
 何か言ったか？=What are you talking about?
 いえ　なにも・・・|ところでどうしたんですか先輩？=Never mind. Nothing... Anyway, what's wrong, Spirit?
-死神様がお呼びだぜ=A summons from Lord Death.
+死神様がお呼びだぜ=You got a summons from Lord Death.#To convey the informal speech between Death Scythe and Stein
 そうそう　マカと|ソウルも一緒だとさ=ASAP! And he wants Maka and Soul immediately after.
 死神様が？|一体なんの用でしょうか？=Lord Death? What could he possibly want?
 そんなこと俺が知るか！|ツベコベいってねェで|さっさとデスルームに行け！=That, I don't know! Now quit your whining and get to the Death Room!
@@ -589,7 +589,7 @@
 戦闘で有効な道具を|簡単に集める方法を|知らないかな？=Do you know an easy way to get a hold of some tools that would be useful in combat?
 そういや　そういうものが|あったような気もするな・・・=To be honest, I don't think anything like that really exists...
 !FILE:EV0121_032.bscr
-戦闘で有効な道具を|簡単に集める方法を|知らないかな？=You know an easy way to get a hold of some tools that would be useful in combat, right?
+戦闘で有効な道具を|簡単に集める方法を|知らないかな？=Do you know an easy way to get a hold of some tools that would be useful in combat?
 あったらいいですよね|そんな方法=That would be nice, wouldn't it?|If there were an easy way...
 椿ちゃん　そんな憐れむような目で|私をみないでちょうだい・・・=Tsubaki, please don't look at me with such pity.
 !FILE:EV0121_036.bscr
@@ -2993,9 +2993,9 @@
 おい|アレなんだ？=Hey, what's that?
 え？|・・・繭？=Huh? ...A cocoon?
 にしちゃデカすぎねぇか？=Can they even get that big?
-キャッ！=Wha--?!#this line appears for both Maka and Soul
+キャッ！=Wha--!?#this line appears for both Maka and Soul
 うわっ！=Woah!#not used?
-コイツって|このあいだの！=This thing again?!
+コイツって|このあいだの！=This thing again!?
 マカ　気をつけろ！=Be careful, Maka!
 おや？|あなたはたしか・・・=Oh? You must be...
 あんたは！=Identify yourself!
@@ -3004,7 +3004,7 @@
 フフフ　これですか？|ちょうど生まれるところを見れるなんて|あなたはラッキーですね=Hmhmhm. This? To be able to witness its very birth. How lucky you must be.
 ・・・では　教えてあげましょう=Allow me to explain.
 この繭でね|鬼神を作るのですよ=Yes, this cocoon... It creates kishin.
-鬼神！=Kishin?!
+鬼神！=Kishin!?
 まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Yes. It's not yet perfect however. Perhaps I should call it a pseudo- kishin.#added space for improved word wrapping
 繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and flesh to house them into the cocoon.#This line is pretty tricky. I decided on 'we' as opposed to 'I' because Grimoire is working along with Ponera. I translated 肉体 as flesh, but it can also be translated as 'physical body' or just 'body'.
 そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
