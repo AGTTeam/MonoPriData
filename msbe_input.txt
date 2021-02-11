@@ -500,7 +500,7 @@
 いいところだったのに=I had them right where I wanted them.
 何か言ったか？=What are you talking about?
 いえ　なにも・・・|ところでどうしたんですか先輩？=Never mind. Nothing... Anyway, what's wrong, Spirit?
-死神様がお呼びだぜ=You got a summons from Lord Death.#To convey the informal speech between Death Scythe and Stein
+死神様がお呼びだぜ=A summons from Lord Death.
 そうそう　マカと|ソウルも一緒だとさ=ASAP! And he wants Maka and Soul immediately after.
 死神様が？|一体なんの用でしょうか？=Lord Death? What could he possibly want?
 そんなこと俺が知るか！|ツベコベいってねェで|さっさとデスルームに行け！=That, I don't know! Now quit your whining and get to the Death Room!
@@ -3028,7 +3028,7 @@
 その方法っていうのが|その化け物のことね！=And that monster is the way!?
 フフフ　なかなかの出来だと思いますがね|あの子は　繭を作り続け|それを使って　私が世界を支配する・・・=Hmhm. Remarkable craftsmanship, no? That child will keep making cocoons, and I'll use them to rule the world.
 結果として　あの子の望みは|叶うことになるでしょう？=Once that comes to fruition, the child will have all that she desires, don't you think?
-ポネラを騙して利用したのね・・・|許せない　観念しなさい！=You deceived Ponera and used her... That I can't forgive! Give up!
+ポネラを騙して利用したのね・・・|許せない　観念しなさい！=You deceived Ponera and used her... That, I can't forgive! Give up!
 フフフ|申し訳ないが　そうもいかないのでね=Hmhmhm. My apologies, but that won't be possible.
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Worm・Moire・Grimoire|Worm・Moire・Grimoire...
 おおぉ・・・　力が沸いてくる=Oooohh... Power overwhelming.#Reference to the archon unit in Starcraft. As usual, feel free to change it.
@@ -6737,7 +6737,7 @@
 ふむ|集めた魂を詰め込んだ繭・・・か=Hm... They collected the souls in... a cocoon?
 あの　黒い化け物が|いなければ・・・=If that shadowy creature hadn't been there...
 今度会ったら　ヤロー|タダじゃおかねぇ！=Damn! I'll get my revenge the next time we meet!
-あっ　でもあのとき・・・|なんか　獣っぽい臭いがしたような|ねぇ？　ブラック☆スター=Ah! But at that moment... there was like, an animal smell. Right, Black☆Star?
+あっ　でもあのとき・・・|なんか　獣っぽい臭いがしたような|ねぇ？　ブラック☆スター=Oh! At the time there was also like... an animal smell. Right, Black☆Star?
 え？|そうだっけ？=Huh? Really?
 ふむ|よし　もういいぞ帰って休め|明日　遅刻するなよ=Hm. Okay, thanks. Go home and get some rest. And don't be late tomorrow.
 はい=Yes!
@@ -6755,13 +6755,13 @@
 今日はもう遅いし|結果を待とうじゃないの♪=It's already getting late though, so I don't expect to hear anything today.
 !FILE:EV1201_050.bscr
 ひゃっはぁー！=Yahoo!
-俺様参上！|おい！　怪人ヤロー　出てきやがれ！=Black☆Star has arrived! Hey! Phantom guy! Show yourself!
+俺様参上！|おい！　怪人ヤロー　出てきやがれ！=Black☆Star has arrived! Yo, Phantom guy! Show yourself!
 ・・・・・・・・・=.........
 行きましょ|ブラック☆スター=Let's go, Black☆Star.
 !FILE:EV1201_400.bscr
 ギギギ・・・=Gigigi!
 あぁ？|こないだの　小物どもじゃねぇか！=Huh? You're those pests from the other day!
-ギギギ！|・・・またお前らか=Gigigi!|... You again!
+ギギギ！|・・・またお前らか=Gigigi!|...You again!
 出やがったな！　確かに|俺様はスターだが　オメェらみたいな|追っかけはお断りだぜ！椿！=The nerve of them! A star like me needs his fans, but with an ugly mug like yours I'm gonna have to decline your application! Tsubaki!
 はい！=Roger!
 !FILE:EV1201_401.bscr
@@ -6772,15 +6772,15 @@
 美しい月  美しい魂|美しいものだけが|この私にふさわしい=A face of porcelain skin...|An innocent soul, pure of sin...|'Tis only the beautiful that I cherish within.
 いやッ！！|俺にふさわしい=That's me!! The biggest star around!
 いやっ！　私だ！|ハハハハハ♪=Not quite! That would be me! Hahahahaha♪
-ちょッ　待てッ|俺だ！！=Hey, wait! It's me!
+ちょッ　待てッ|俺だ！！=Hey, wait!|It's me!
 !FILE:EV1201_403.bscr
-逃げ足のはぇぇ　ヤローだぜ！=That guy ran off quick!
+逃げ足のはぇぇ　ヤローだぜ！=He sure ran off quick!
 きっと　この中ね=He's probably in there.
-古ぼけた建物だな|ヤローのネグラには　ぴったりだぜ=A worn-out old building. It's the perfect hideout for that guy.
+古ぼけた建物だな|ヤローのネグラには　ぴったりだぜ=A worn-out old building. It's the perfect hideout for a dull guy like that.
 !FILE:EV1201_404.bscr
-ヤロー　どこに隠れやがった？|椿=Damn. Where is he hiding?|Tsubaki.
-シッ　ブラック☆スター|この音・・・　何？=Shh... Black☆Star. What's... that sound?
-何って|さっきの　ヤローだろ・・・=What do you mean? It's probably him...
+ヤロー　どこに隠れやがった？|椿=Damn. Where's he hiding?|Tsubaki.
+シッ　ブラック☆スター|この音・・・　何？=Shh...|Black☆Star, what's... that sound?
+何って|さっきの　ヤローだろ・・・=What do you mean? It's probably him.
 ありゃ・・・|この間のと　同じもんだぜ=Wha...? It's the same thing as the other time.
 うん|あれ・・・　繭ですか？=Yeah. Is it... a cocoon?
 そのとおり=Indeed.
@@ -6795,14 +6795,14 @@
 はぁ　はぁ|手ごたえのねぇ　ヤローだったぜ=*Pant*|That guy wasn't so tough.
 そ　そうね|早く　あの繭を回収しましょ=Y-Yeah. Quick, let's grab that cocoon.
 ぐるるるる・・・=Grrrr...
-なに今の？|・・・ブラック☆スター　お腹すいたの？=What's was that?|...Are you hungry, Black☆Star?
+なに今の？|・・・ブラック☆スター　お腹すいたの？=What was that?|Are you hungry, Black☆Star?
 ハラは減ったけど|俺様じゃね～ぞ？=I'm starving, but that wasn't me.
 なんだ　テメェは？=What the hell are you doing?
 コレはもらっていくぜ|ぐるるっ！=I'll be taking this. Grrr!
 あっ！|この　待ちやがれ！|・・・クソッ　またかよ！=Ah! He...! Get back here! ...Damn, not again!
 今のは・・・　一体・・・=What... was that...?
 くっそー！|帰ったら腹筋１００００回して|リベンジしてやる！=Damn it! When I get back, it's gonna be 10,000 sit-ups!
-死神様に報告しなきゃ・・・|帰りましょ　ブラック☆スター=We need to report back to Lord Death... Let's go back, Black☆Star.
+死神様に報告しなきゃ・・・|帰りましょ　ブラック☆スター=We need to report back to Lord Death. Let's go back, Black☆Star.
 !FILE:EV1201_454.bscr
 お前達の魂は美しいかどうか・・・|私が見てやろう！=I wonder if you have beautiful souls... Guess I'll have to look and see!
 知らねェよ　バカ|椿=Whatever you say.|Tsubaki.
@@ -6811,11 +6811,11 @@
 ちょうどいいところであったぜ|マカはこの辺にいなかったか？=Perfect timing. Have you seen Maka around anywhere?
 !FILE:EV1220_002.bscr
 マカはここにはいない|代わりにスターである|俺様では不足か？=Maka's gone, and she's been replaced with a star. Am I not enough for you?
-ああ　不足だ|残念ながら|お前は保健室に呼ばれてねェ=Yeah, too much. Unfortunately, you weren't the one called to the infirmary.
+ああ　不足だ|残念ながら|お前は保健室に呼ばれてねェ=Yeah, too much even. Unfortunately, you weren't the one called to the infirmary.
 マカちゃん|どこか悪いのかしら？=Is Maka hurt?
 詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=We don't know for sure yet... But after our battle with that Magic Eye, it seemed like there was something wrong...
 あれから何回か|検査のために保健室に通ってるぜ=I lost count of all the times she's gone back to the infirmary for check-ups since then.
-魔眼との戦いは|厳しいものだったから・・・|マカちゃん大丈夫かしら？=The battle with the Magic Eye was difficult... I hope Maka will be all right.
+魔眼との戦いは|厳しいものだったから・・・|マカちゃん大丈夫かしら？=The battle with the Magic Eye was difficult... I hope she'll be all right.
 そうか？あんまり|覚えてねェな？=Really? I barely even remember that fight.
 開始早々|ガス欠になって倒れていれば|覚えてないでしょうね・・・=It's normal that you don't remember anything. You ran out of gas and passed out as soon as it started...
 とにかく|あいつに会ったら|検査に行くよう伝えてくれ=Anyway, if you see her, tell her to go to the infirmary.
@@ -6836,27 +6836,27 @@
 !FILE:EV1220_022.bscr
 マカちゃんは　まだ|こちらに来ていないんでしょうか？=Has Maka come by here yet by any chance?
 えぇ　まだ来てないわ=No, not yet.
-アイツは　どこが|悪ィんだよ先生！=What's wrong with her, doctor!?
-詳しいことは|私から言う事ができないから|本人に聞いてみてちょうだい？=You'll have to ask the patient directly, as I'm not allowed to share private information.
-そうですね　わかりました=Thank you, doctor.
+アイツは　どこが|悪ィんだよ先生！=What's wrong with her, Doctor!?
+詳しいことは|私から言う事ができないから|本人に聞いてみてちょうだい？=You'll have to ask the patient directly. I'm not allowed to share private information.
+そうですね　わかりました=Thank you, Doctor.
 それじゃあ|マカちゃんを見かけたら|私の所まで来るように伝えてね♪=If you see Maka, please ask her to come by and see me♪
 !FILE:EV1220_026.bscr
 それじゃあ|マカちゃんを見かけたら|私の所まで来るように伝えてね♪=If you see Maka, please ask her to come by and see me♪
 !FILE:EV1220_032.bscr
 メデューサ先生が呼んでいましたよ|マカちゃん=Dr. Medusa wanted to see you, Maka.
-いけないスッカリ忘れてたわ|そうそう　検査の時間だったわね・・・=Oh, no! I totally forgot. I had an appointment for a check-up...
-ありがとう　二人とも|わざわざ知らせに来てくれたのね=Thanks, both of you, for coming to remind me.
-なぁ　お前　どっか悪ィのか？|魔眼戦の後になんかあったんだろ？|椿が心配してたぜ！=Hey. What's wrong with you anyway? Is it because of the fight with the Magic Eye. Tsubaki's been worried about you!
+いけないスッカリ忘れてたわ|そうそう　検査の時間だったわね・・・=Oh, no! I totally forgot. I had an appointment for a check-up.
+ありがとう　二人とも|わざわざ知らせに来てくれたのね=Thanks for coming to remind me, you two.
+なぁ　お前　どっか悪ィのか？|魔眼戦の後になんかあったんだろ？|椿が心配してたぜ！=Hey, what's wrong with you anyway? Is it because of the fight with the Magic Eye? Tsubaki's been worried about you!
 あんたは心配してくれたの|ブラック☆スター？=And you weren't worried about me, Black☆Star?
 俺様はそんなチマチマしたことは|心配していない！|心配するのは世界の平和だけだ☆=I can't worry about such small things! The only thing I'm worried about is world peace!☆
 ブラック☆スターには|直接言いたくないから|あっち行ってて=I don't want to tell you directly, Black☆Star, so you go stand over there.
 なんだと　マカのくせに！=Why won't you tell me, Maka!?
 あはは　落ち着いて・・・|私があとで教えてあげますから=Ahaha. Calm down... I'll tell you after, okay?
 それは　構わないでしょ|マカちゃん？=Is that okay with you, Maka?
-うん|私はブラック☆スターに|直接言いたくないだけだから=Yeah. I just don't want to talk directly to Black☆Star, that's all.
+うん|私はブラック☆スターに|直接言いたくないだけだから=Yeah. I just don't want to talk to him directly. That's all.
 そういうわけだから|ブラック☆スター・・・=In that case... Black☆Star...
-ちっ　わかったよ|じゃあ　後でな☆=Tsk, I get it! Later☆
-ふぅ・・・それでマカちゃん|魔眼戦のあとに何があったんです・・・=Phew... So Maka, did something happen after the fight with the Magic Eye...?
+ちっ　わかったよ|じゃあ　後でな☆=Hmph! I get it! Later☆
+ふぅ・・・それでマカちゃん|魔眼戦のあとに何があったんです・・・=Phew... So Maka? Did something happen after the fight with the Magic Eye?
 私・・・|血を吐いてしまったの・・・=I... spit up some blood...
 えっ　血を？=Huh? Blood?
 ただの血だったら|戦闘中　よくあることじゃない|でも　私が吐いた血は黒かった・・・=It's normal to spit up blood after a battle, right? But this time the blood was black...
@@ -6869,7 +6869,7 @@
 そんな深刻にならないで|一回きりだったんだし=Don't worry too much. It was only that once.
 この間　指を切った時にも|ちゃんと赤いのが出たわよ=Now when I cut my finger or something, the blood is red like normal.
 !FILE:EV1220_037.bscr
-それじゃあ私|保健室にいって|検査を受けてくるね！=Okay then. I'm going to go the infirmary for my check-up now!
+それじゃあ私|保健室にいって|検査を受けてくるね！=Okay then. I'm going to the infirmary for my check-up now!
 どうだった　椿？|アイツ・・・どこが悪いんだよ？=Well, Tsubaki? What's... wrong with her?
 ええ・・・マカちゃん|魔眼との戦いの後|黒い血を吐いたんだって・・・=Well... After the fight with the Magic Eye, Maka spit up some black blood...
 やっぱりアイツ|地球外生命体だったか！|前々から怪しいとは思ってたけどな=I knew it! She's an alien! I was sure since the beginning that there was something weird about her.
@@ -6880,38 +6880,38 @@
 ええ　見つかりました|いまごろ保健室にいるはずよ=Yeah. We found her. She should be in the infirmary right now.
 しかし　お前ェもマカも弱っちいな！|その歳で保健室通いとはよ！|ひやっはははははは☆=You and Maka are so weak! Going to the infirmary at your age! Yahahahahahaha☆
 ブラック☆スターは|健康がとりえですからね|正直　うらやましいわ=Black☆Star's health is one of his greatest strengths. It makes me a little jealous honestly.
-椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to say it, but you're pretty strong too. You've never missed a day of school, have you?
+椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're pretty strong too. You've never missed a day of school, have you?
 !FILE:EV1220_046.bscr
 ブラック☆スターは|健康がとりえですからね|正直　うらやましいわ=Black☆Star's health is one of his greatest strengths. It makes me a little jealous honestly.
-椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to say it, but you're pretty strong too. You've never missed a day of school, have you?
+椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're pretty strong too. You've never missed a day of school, have you?
 !FILE:EV1220_052.bscr
 マカには会えたのかな？=You saw Maka, right?
-ええ　会えました|今は保健室で|検査を受けているはずです=Yes, we did. She's probably in the infirmary getting a check-up now.
+ええ　会えました|今は保健室で|検査を受けているはずです=Yes, we did. She's probably in the infirmary getting her check-up now.
 なんだって|こうしては　いられない！=What? I've gotta do something!
 ・・・・・・・・・=.........
 何をしてるんですか？=What are you doing?
-見てわからないか？|早くよくなってほしい|オーラを送っているところだ=You can't tell by looking? I'm sending her 'Get well soon!' waves.
+見てわからないか？|早くよくなってほしい|オーラを送っているところだ=You can't tell!? I'm sending her 'Get well soon!' energy waves.
 !FILE:EV1220_055.bscr
 ・・・・・・・・・=.........
 !FILE:EV1220_056.bscr
 何をしてるんですか？=What are you doing?
-見てわからないか？|早くよくなってほしい|オーラを送っているところだ=You can't tell by looking? I'm sending her 'Get well soon!' waves.
+見てわからないか？|早くよくなってほしい|オーラを送っているところだ=You can't tell!? I'm sending her 'Get well soon!' energy waves.
 !FILE:EV1220_062.bscr
 二人とも　マカを見ません|でしたか？=Have either of you seen Maka?
 保健室で検査を|受けているはずですけど=She should be in the infirmary getting a check-up right now.
-マカが検査ですか・・・|聞いてませんね・・・=Maka's in the infirmary...? I hadn't heard...
+マカが検査ですか・・・|聞いてませんね・・・=Maka's in the infirmary? ...I hadn't heard.
 知らなかったんですか？=You didn't know?
-ええ　初耳です・・・|そうですか・・・後で様子を|聞いてみることにしましょう・・・=No. This is the first I'm hearing of it... Right... I should try to see how she's doing later...
+ええ　初耳です・・・|そうですか・・・後で様子を|聞いてみることにしましょう・・・=No. This is the first I'm hearing of it... Right... I should try to see how she's doing later.
 !FILE:EV1220_066.bscr
-マカが検査ですか・・・|聞いてませんね・・・=Maka's in the infirmary...? I hadn't heard...
+マカが検査ですか・・・|聞いてませんね・・・=Maka's in the infirmary? ...I hadn't heard.
 知らなかったんですか？=You didn't know?
-ええ　初耳です・・・|そうですか・・・後で様子を|聞いてみることにしましょう・・・=No. This is the first I'm hearing of it... Right... I should try to see how she's doing later...
+ええ　初耳です・・・|そうですか・・・後で様子を|聞いてみることにしましょう・・・=No. This is the first I'm hearing of it... Right... I should try to see how she's doing later.
 !FILE:EV1220_067.bscr
 そろそろマカの検査も|終わったころじゃねェか？=Maka's check-up should be finishing up pretty soon, huh?
 気になるの|ブラック☆スター？=Are you concerned, Black☆Star?
 しょうがねェだろ|魔眼の件については|俺様にも落ち度がないとはいえない=It's natural. I can't say that I'm not at all to blame for the whole Magic Eye thing.
-そのことで小物が|ポックリいったら|寝ざめが悪ィしよ・・・=Besides, if a small thing died like that, I'd have a guilty conscience...
-本当はやさしいのよね|ブラック☆スター・・・=You really do care, don't you, Black☆Star...?
+そのことで小物が|ポックリいったら|寝ざめが悪ィしよ・・・=Besides, if a small thing died like that, I'd have a guilty conscience.
+本当はやさしいのよね|ブラック☆スター・・・=You really do care, don't you, Black☆Star?
 !FILE:EV1220_070.bscr
 ・・・・・・・・・=.........
 どうしたの　そんな顔をして？|検査の結果が悪かったんですか？=Why the long face? Is something wrong? Were the results from your check-up bad?
@@ -6919,81 +6919,81 @@
 だったら|そんなに深刻な顔すんじゃねェよ！|キッドみてェになっちまうぜ☆=Stop making such a serious face then! You're starting to look like Kid☆
 いや　ちがうのよ|ちょっと妙なことがあったの=No. It's just that... there was something a little odd.
 妙なことって|何があったんですか？=A little odd? What was it?
-シュタイン博士に|薬を取り上げられたのよ・・・|メデューサ先生にもらった・・・=Professor Stein took the medicine... that Dr. Medusa gave me...
+シュタイン博士に|薬を取り上げられたのよ・・・|メデューサ先生にもらった・・・=The medicine Dr. Medusa gave me... Professor Stein took it...
 マカらしくねぇな|何でそんなことゆるしたんだ？=That's so unlike you, Maka. Why would you let him do something like that?
-だって博士が|すごく真剣だったから・・・=Because even for the professor, he looked really serious...
+だって博士が|すごく真剣だったから・・・=He looked really serious... even for the Professor.
 それに　その時の博士|すこしカッコ良かったのよ=Plus, he looked kinda cool in that moment.
 デスサイズが聞いたら|悲しむぜ　きっと・・・=Your dad would be devastated if he heard you say that. Seriously...
 !FILE:EV1220_076.bscr
-シュタイン博士に|薬を取り上げられたのよ・・・|メデューサ先生にもらった・・・=Professor Stein took the medicine... that Dr. Medusa gave me...
+シュタイン博士に|薬を取り上げられたのよ・・・|メデューサ先生にもらった・・・=The medicine Dr. Medusa gave me... Professor Stein took it...
 !FILE:EV1220_082.bscr
 マカちゃんから聞きましたよ=Maka told us!
-メデューサ先生からもらった薬を|取り上げたみてェじゃねェか！=We know you took the medicine that Dr. Medusa gave Maka!
+メデューサ先生からもらった薬を|取り上げたみてェじゃねェか！=We know you took the medicine that Dr. Medusa gave her!
 どうしてそんなことをするんですか？=Why would you do that?
 研究者の好奇心ですよ|メデューサ先生がつくった薬を|解析してみたくなったんです=Let's call it a researcher's curiosity. I wanted to try and analyze Dr. Medusa's medicine.
 大丈夫　安心してください|マカには俺の秘薬を|後で渡しておきますから=It's all right. Don't worry. I'll be giving Maka my own secret remedy.
-秘薬ですか・・・|ふふふ・・・|マカちゃんよろこぶと思います・・・=Secret remedy...? Hehehe... I'm sure that will make Maka happy.
+秘薬ですか・・・|ふふふ・・・|マカちゃんよろこぶと思います・・・=Secret remedy? Hehehe... I'm sure Maka will be glad to hear that...
 そうか！？|俺はぜってェいらねェよ=Yeah!? Well, I definitely don't want any!
 !FILE:EV1220_086.bscr
 大丈夫　安心してください|マカには俺の秘薬を|後で渡しておきますから=It's all right. Don't worry. I'll be giving Maka my own secret remedy.
 !FILE:EV1220_091.bscr
-ちょうどいいや|メデューサ先生が呼んでたぜ！=Perfect timing. Dr. Medusa was just calling for you!
+ちょうどいいや|メデューサ先生が呼んでたぜ！=Just who I was looking for. Dr. Medusa was just calling for you!
 !FILE:EV1220_092.bscr
 先生が私に？|何の用なのかしら？=Calling for me? I wonder what she wants.
 検査をしたいみてェだぜ|ま　相棒が相棒だから|先生も心配なんだろうよ！=I think she wants to give you a check-up. I mean, what are friends for? She's probably a little worried about you!
 じゃあ　ブラック☆スター|この後　保健室に行ってくるわね=Well, Black☆Star? We'll go to the infirmary after this, alright?
-おうよ　俺様は|かまわねェぜ！=Okay! It's doesn't matter to me!
-それはいいんだけど|なんでお前が呼びにくるんだ？=It's not a problem, but why did you come to call for us?
-保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・='Cause I was like, sleeping in the infirmary. So she made me pass on the message...
-ただし　保健室のベッド|ねごこちはサイコーだな！=But that infirmary bed is crazy comfy!
+おうよ　俺様は|かまわねェぜ！=That's fine! It doesn't matter to me!
+それはいいんだけど|なんでお前が呼びにくるんだ？=Not that it matters, but why did you come to call for us?
+保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・=She made me pass on the message 'cause I was like... sleeping in the infirmary.
+ただし　保健室のベッド|ねごこちはサイコーだな！=But those infirmary beds are crazy comfy!
 今度　お前も|さぼった時は寝てみろよ！=Trust me. The next time you skip, try sleeping on them!
 ひやっはぁ☆|ナイスだぜ　リズ！=Yahoo☆ Nice, Liz!
 お前は天才の思考を|完璧に理解してるじゃねェか！=Are you secretly a genius or what!?
 あんまりブラック☆スターに|変なことを教えないでね・・・=Don't give Black☆Star any bad ideas...
 !FILE:EV1220_096.bscr
-保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・='Cause I was like, sleeping in the infirmary. So she made me pass on the message...
-ただし　保健室のベッド|ねごこちはサイコーだな！=But that infirmary bed is crazy comfy!
+保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・=She made me pass on the message 'cause I was like... sleeping in the infirmary.
+ただし　保健室のベッド|ねごこちはサイコーだな！=But those infirmary beds are crazy comfy!
 !FILE:EV1220_097.bscr
 じゃあ　ブラック☆スター|検査に行ってくるからね=Well, Black☆Star, I want to go for that check-up now.
 おう　適当にその辺を|ブラブラしてるぜ！=Okay! I'm gonna wander around for a while!
-多分そんなにかからないと思うから|しばらくしたらむかえに来てちょうだい=I imagine it won't take very long, so please come back and find me after a little bit.
+多分そんなにかからないと思うから|しばらくしたらむかえに来てちょうだい=I imagine it won't take very long, so please come find me after a little bit.
 !FILE:EV1220_102.bscr
 椿はどうしたんだ？=Where's Tsubaki?
-検査だってよ|保健室にいるぜ=Check-up. She's in the infirmary.
-心配だろう|ブラック☆スター？=I bet you're worried. Huh, Black☆Star?
+検査だってよ|保健室にいるぜ=A check-up. She's in the infirmary.
+心配だろう|ブラック☆スター？=I bet you're worried, huh, Black☆Star?
 全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=Not at all! Honestly, she's way stronger than me! No matter what I try, she never breaks!
 お前　それぜってェ|椿に言うんじゃねェぞ・・・=You... Definitely don't tell Tsubaki that...
 !FILE:EV1220_106.bscr
-心配だろう|ブラック☆スター？=I bet you're worried. Huh, Black☆Star?
+心配だろう|ブラック☆スター？=I bet you're worried, huh, Black☆Star?
 全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=Not at all! Honestly, she's way stronger than me! No matter what I try, she never breaks!
 !FILE:EV1220_112.bscr
 あれ　椿ちゃんはどうしたの？=Huh? Where's Tsubaki?
-検査だってよ|保健室にいるぜ=Check-up. She's in the infirmary.
-椿ちゃんも|検査なんだ　大丈夫かな・・・=Tsubaki is getting a check-up too? Is she all right...?
+検査だってよ|保健室にいるぜ=A check-up. She's in the infirmary.
+椿ちゃんも|検査なんだ　大丈夫かな・・・=Tsubaki's getting a check-up too? Is she all right?
 ああ　大丈夫だろ|メシだってバクバクくうしな！=Yeah. She's fine. She's probably just been eating too much.
 そのせいか最近は|腹の肉がポチャポチャしてきやがった！=That's why her stomach's been getting all flabby recently!
 あんた　それ絶対|椿ちゃんに言っちゃだめよ！=If you say one word of that to Tsubaki...!
 !FILE:EV1220_116.bscr
-椿ちゃんも|検査なんだ　大丈夫かな・・・=Tsubaki is getting a check-up too? Is she all right...?
+椿ちゃんも|検査なんだ　大丈夫かな・・・=Tsubaki's getting a check-up too? Is she all right?
 ああ　大丈夫だろ|メシだってバクバクくうしな！=Yeah. She's fine. She's probably just been eating too much.
 そのせいか最近は|腹の肉がポチャポチャしてきやがった！=That's why her stomach's been getting all flabby recently!
 !FILE:EV1220_121.bscr
 おや　一人ですか|ブラック☆スター？=Oh? You're by yourself, Black☆Star?
 !FILE:EV1220_122.bscr
 椿は検査だよ|保健室にいるぜ！=Tsubaki's getting a check-up. She's in the infirmary!
-椿が・・・保健室に・・・|・・・検査ですか・・・=Tsubaki is... in the infirmary... for an examination...?
+椿が・・・保健室に・・・|・・・検査ですか・・・=Tsubaki is... in the infirmary... for an examination?
 しかし　みんな　椿に夢中だな！|さっきから　そればっかり聞かれるぜ！=Everybody is so obsessed with Tsubaki lately! That's all anybody talks about anymore!
-一応聞いておきますが|検査をするのはメデューサ先生|なんですよね？=I'll ask just to be sure, but... It's Dr. Medusa that's examining her, right?
+一応聞いておきますが|検査をするのはメデューサ先生|なんですよね？=I'll ask just to be sure, but... it's Dr. Medusa that's examining her, right?
 当たり前だろう！|博士以外にそういうことすんの|メデューサ先生しかいねェじゃねェか！=Obviously! Besides you, there's nobody except Dr. Medusa who can do that sort of thing!
 !FILE:EV1220_126.bscr
-椿が・・・保健室に・・・|・・・検査ですか・・・=Tsubaki is... in the infirmary... for an examination...?
+椿が・・・保健室に・・・|・・・検査ですか・・・=Tsubaki is... in the infirmary... for an examination?
 !FILE:EV1220_127.bscr
-さてと　そろそろ|椿の検査も終わった頃だろう・・・|保健室に迎えに行くとしますか！=Well Tsubaki's check-up should be almost over by now... I guess I'll start heading back to the infirmary!
+さてと　そろそろ|椿の検査も終わった頃だろう・・・|保健室に迎えに行くとしますか！=Well, Tsubaki's check-up should be almost over by now... I guess I'll start heading back to the infirmary!
 !FILE:EV1220_130.bscr
 ・・・・・・・・・=.........
 どうせ　なんとも|なかったんだろ？|さっさと帰ろうぜ！=So there was nothing wrong, right? Let's hurry and go home!
 それが・・・=Actually...
-何かあったのか？|先生　椿に何かあったのか|教えてくれよ！=Actually what? Doctor, tell me what's wrong with Tsubaki!
+何かあったのか？|先生　椿に何かあったのか|教えてくれよ！=Actually, what? Doctor, tell me what's wrong with Tsubaki!
 もしかすると|よくない病気かも|しれないのよ・・・=It might perhaps be a rather serious illness...
 自覚症状はまったくないんですけど|本当なんですか？=But I feel perfectly fine. Am I really sick?
 ええ　今はまだ初期段階だから|せいぜい症状としては・・・=Yes. For right now you're still in the early stages, so at most the symptoms...
@@ -7002,30 +7002,30 @@
 これは　もしかすると|もしかするわ・・・=Well, perhaps... That might work...
 お前の不摂生が|原因なんじゃねェのか？|何かウソくせェな？=It's not just because of your unhealthy lifestyle? I don't know if I believe that.
 どうすればいいんですか|メデューサ先生　教えてください！=Please, Dr. Medusa! Do you have any advice?
-そうね幸い発見が早かったから|薬でなんとかなると思うけど・・・=Luckily we discovered it early on, so I think we should be able to treat it with medication, but...
+そうね幸い発見が早かったから|薬でなんとかなると思うけど・・・=Luckily, we discovered it early on, so I think we should be able to treat it with medication, but...
 あいにく薬の材料が|切れてしまったのよ・・・=Unfortunately, I don't have all the ingredients that I'll need...
 そんな=No...
 そうだ　もしよかったら|あなた達　薬の材料を|取ってきてくれない？=But if you don't mind, you two can go and get me the ingredient that I need, can't you?
 私はここを離れるわけには|いかないからお願いできないかしら？=I would do it myself, but I can't leave my post. You understand, don't you?
-決定権は職人にあるから|まかせるけど・・・=Meisters have the right to decide, so I'm going to leave it up to you, but...
-できれば　私の健康のために|引き受けてくれないかしら・・・=If it's possible, you'll do it for my health, won't you...?
-う～ん|どうしたもんかな・・・=Unnn... What do I need to do?
+決定権は職人にあるから|まかせるけど・・・=You're the meister, so it's your decision. I can't force you, but...
+できれば　私の健康のために|引き受けてくれないかしら・・・=You'll do it, won't you? For my health...
+う～ん|どうしたもんかな・・・=Unnn... What do I need to do?#I'd like to change the 'Unnn' but I'm not sure what to change it to
 !FILE:EV1220_140.bscr
 二人とも御苦労様|これで薬を作ることができるわ♪=Thank you both for your hard work. With this I can make that medicine♪
 確かに渡したぜ|メデューサ先生！=Here! Take it, Dr. Medusa!
-先生　それでは|よろしくお願いします！=Thank you so much for this, doctor!
+先生　それでは|よろしくお願いします！=Thank you so much for this, Doctor!
 薬の調合には|少し時間がかかるから|もうしばらく待っていてちょうだい=It's going to take a little time to prepare the medicine, so please wait just a moment.
 いいところを頼むぜ先生！=Give me the best seat you've got, doctor!
 寿司屋じゃないのよ|ブラック☆スター・・・=This isn't a sushi restaurant, Black☆Star!
 寿司？なんだそれ？|椿の故郷の食い物か？=Sushi? What's sushi? Some kind of food from your home town, Tsubaki?
 二人とも　気が散るから|しばらく外に出ていてちょうだい=You two are distracting me. Would you mind waiting outside just a minute?
-すみません先生・・・=Sorry, doctor...
+すみません先生・・・=Sorry, Doctor.
 !FILE:EV1220_146.bscr
 薬の調合には|少し時間がかかるから|もうしばらく待っていてちょうだい=It's going to take a little time to prepare the medicine, so please wait just a moment.
 !FILE:EV1220_147.bscr
 二人とも御苦労様|これで薬を作る事ができるわ♪=Thank you both for your hard work. With this I can make that medicine♪
 !FILE:EV1220_152.bscr
-どうしたのマカちゃん|うかない顔をして？=What's wrong Maka? Why the long face?
+どうしたのマカちゃん|うかない顔をして？=What's wrong, Maka? Why the long face?
 ・・・・・・・・・=.........
 シュタイン博士に|薬をもらっちゃったの！=Professor Stein gave me some medicine!
 どうしよう|飲まなきゃダメかな！？=What do I do? I have to drink it, don't I?
@@ -7034,7 +7034,7 @@
 !FILE:EV1220_155.bscr
 ・・・・・・・・・=.........
 !FILE:EV1220_156.bscr
-どうしたのマカちゃん|うかない顔をして？=What's wrong Maka? Why the long face?
+どうしたのマカちゃん|うかない顔をして？=What's wrong, Maka? Why the long face?
 シュタイン博士に|薬をもらっちゃったの！=Professor Stein gave me some medicine!
 !FILE:EV1220_161.bscr
 どうしたんですか二人とも|ヒマそうですね？=What's going on, you two? You don't seem too busy.
@@ -7044,31 +7044,31 @@
 よくない病気かも|しれないんだってさ☆=It might be a pretty serious illness after all☆
 おかしいですね|俺のところには何の|報告もありませんよ？=How peculiar. I haven't been notified of anything.
 でも　たしかに|メデューサ先生が・・・=But I'm sure that Dr. Medusa...
-魂反応からすると|椿はまごうことない健康体です・・・=Judging by your soul response, Tsubaki, you're undoubtedly as healthy as normal...
+魂反応からすると|椿はまごうことない健康体です・・・=Judging by your soul response, Tsubaki, you're undoubtedly as healthy as normal.
 今の状況で薬を服用したほうが|かえって身体に害があるでしょう=Taking the medicine in your current state would do more harm than good.
-でもせっかくメデューサ先生が|薬を作ってくれているのに・・・=But Dr. Medusa is making medicine specifically for me...
-俺が　言ってあげますから|大丈夫です|椿に薬は必要ないと・・・=You can trust me when I say that it's okay. You don't need any medicine, Tsubaki...
+でもせっかくメデューサ先生が|薬を作ってくれているのに・・・=But Dr. Medusa is making medicine specifically for me.
+俺が　言ってあげますから|大丈夫です|椿に薬は必要ないと・・・=You can trust me when I say that it's okay. You don't need any medicine, Tsubaki.
 でも・・・=But...
-そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I'll give you a little present. Some of my special remedy.
-いえ　いまはいいです・・・|ふふふ・・・=No. I'm okay now... Hehehe...
+そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I'll give you a little present, some of my special remedy.
+いえ　いまはいいです・・・|ふふふ・・・=No. I'm okay now. Hehehe...
 おかしいですね|マカには好評だったのに=You sure? Maka seemed pleased when I gave it to her.
 あいつ　結構|外面いいよな・・・=She was probably just being nice...
 !FILE:EV1220_166.bscr
-そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I'll give you a little present. Some of my special remedy.
-いえ　いまはいいです・・・|ふふふ・・・=No. I'm okay now... Hehehe...
+そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I'll give you a little present, some of my special remedy.
+いえ　いまはいいです・・・|ふふふ・・・=No. I'm okay now. Hehehe...
 おかしいですね|マカには好評だったのに=You sure? Maka seemed pleased when I gave it to her.
 あいつ　結構|外面いいよな・・・=She was probably just being nice...
 !FILE:EV1220_167.bscr
-それでは　俺は|ちょっとメデューサ先生と|お話ししてきますね=Now then. I'm going to go have a little chat with Dr. Medusa.
+それでは　俺は|ちょっとメデューサ先生と|お話ししてきますね=Now then, I'm going to go have a little chat with Dr. Medusa.
 はは・・・お願いしますというか・・・|お願いするんでしょうね・・・|やっぱり・・・=Hehe... Should I thank him or... I should thank him... Of course...
 ねぇ　ブラック☆スター|博士とメデューサ先生のこと|心配だと思わない？=Hey, Black☆Star. Do you think we should be worried about Dr. Medusa and the professor?
 いや　別に|全然　思わねェ！=Nah. There's nothing to worry about!
-私は心配だわ・・・|もし二人がケンカをしてたら|それは私の責任よ・・・=I'm worried... What if those two are fighting and it's all my fault...?
+私は心配だわ・・・|もし二人がケンカをしてたら|それは私の責任よ・・・=I'm worried. What if those two are fighting and it's all my fault?
 私が体調を崩したせいで・・・=All because I got sick...
 わかったよ　やつらの|会話を聞いてきてやるよ=I understand. I'll go listen in on there conversation for you.
 それで　お前の気が|楽になるんだろ？=Will that make you stop worrying?
 ありがとう|お願いよブラック☆スター♪=Thanks, Black☆Star♪
-さて　あいつら|何を話してるんだ・・・=Now what are they talking about...?
+さて　あいつら|何を話してるんだ・・・=Now what are they talking about?
 今度は多変型の武器である|椿に興味をもったわけですか・・・=It would seem you've been showing quite the interest for the multi-form weapon, Tsubaki, recently...
 ええ　死武専の生徒で|興味のない生徒はいませんわ|保健医ですもの♪=Of course. She's a student at the DWMA, and there isn't a student here that I'm not interested in. I'm the nurse♪
 あなたがマカに渡した薬を|調べさせてもらいました=Maka let me examine the medicine you gave her.
@@ -7076,14 +7076,14 @@
 そして　あなたは　健康で|あるはずの椿にも薬を|渡そうとしていましたね？=And then you intended give the medicine to the seemingly healthy Tsubaki as well, no?
 あなたは一体何を|たくらんでいるのですか？=What exactly are you playing at?
 たくらむだなんて　博士|単なる私のミスですわ|こんどからは気をつけます=Playing? Why professor, it was just a simple little mistake of mine. I'll be sure to be more careful in the future.
-何者なんですか|あなたという存在は・・・=Who are you? Who are you really...?
-私はただの保健医|メデューサ先生ですよ♪=I'm Dr. Medusa. Just a simple nurse♪
+何者なんですか|あなたという存在は・・・=Who are you? Who are you really?
+私はただの保健医|メデューサ先生ですよ♪=I'm Dr. Medusa. Just a simple school nurse♪
 あなたがただの保健医なら|俺は無害な先生ということに|なりますね=If you're just a simple nurse, the students can start calling me Professor Harmless.
 あら　違うんですか？=Oh? Do they not?
 今は|そういうことにしておきましょう=Perhaps they will for the time being.
 どうだった？|ケンカしてなかった？=Well? Were they fighting?
 声はよく聞こえなかったけど|二人ともニコニコしてたから|大丈夫だと思うぜ！=I couldn't hear their voices too well, but they were both smiling, so I'm sure it's fine!
-そう　よかったわ|ありがとうブラック☆スター！=That's wonderful. Thanks, Black☆Star!
+そう　よかったわ|ありがとうブラック☆スター！=That's a relief. Thanks, Black☆Star!
 !FILE:EV1221_002.bscr#私の睡眠ライフ = My Life of Sleep part 8
 マカちゃん|今は一人なんですか？=Maka, are you alone right now?
 読みたい本が|あったから　今はソウルと|別行動なのよ♪=There's a book I wanted to read, so Soul's out there doing his own thing♪
