@@ -3755,7 +3755,7 @@
 だって・・・私は|グリモアの望みを叶えたかった・・・|あの人に　必要としてもらいたかった=Because... I hoped to give him what he desired... I wanted him to need me.
 お前は　間違えたのさ|必要とする相手を=How could you be so blind? Those that needed you...
 必要とする・・・　相手？=Those that... needed me?
-お前の一族は　必死にお前を守ろうとしてた|お前に必要だったのは　ヤツじゃなく|一族だったのさ=Your clan was trying desperately to protect you. It wasn't him that needed you. It was your clan. They needed you!
+お前の一族は　必死にお前を守ろうとしてた|お前に必要だったのは　ヤツじゃなく|一族だったのさ=Your clan was trying desperately to protect you. It wasn't him that needed you. It was them. They needed you!
 ポネラ　あなたは|グリモアを止める努力をするべきだったのよ=Ponera, you could have put a stop to him had you only tried.
 努力？　・・・守る？　・・・ああ|一族のみんなが　そんなことをいってたなぁ=Stop him? ...Protect me? ...Yes, of course. The clan kept telling me exactly that.
 ・・・あそっか　守られていたのは・・・|私だったっけ・・・|ごめんね・・・みんな=...I'm such a fool... They were only trying to protect me... Forgive me... everyone...
@@ -3763,7 +3763,7 @@
 ああ・・・|そうかもしれないな=Yeah... You're probably right.
 どうやら　片付いたようだな=It looks like everything is as it should be.
 おいおい|あんなのと戦ったのか=Woah, woah. You guys fought that?
-マカ　やるぅ～=Ma-Can't be beaten!
+マカ　やるぅ～=Ma-kan't be beaten!
 ほんと　すごいですね=That's amazing.
 俺様の手助けなしで|よくやったじゃねぇ～か　マカ=Maka, I'd say you didn't do half bad despite not having my help.
 !FILE:EV0601_451.bscr
@@ -4405,46 +4405,33 @@
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 !FILE:EV0934_030.bscr
 お前達は何ものだぁ～？=Who are you?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV0934_031.bscr
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 !FILE:EV0934_032.bscr
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 !FILE:EV0934_035.bscr
 お前達は何ものだぁ～？=Who are you?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV0934_040.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
@@ -4473,59 +4460,46 @@
 なんとかするよ！ソウル！=Let's do it, Soul!
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck! I don't really want to have anything to do with this guy.
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
-!FILE:EV0934_100.bscr
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
+!FILE:COMMON#Maka mini-boss lines
+鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=Fiend whose soul has become a kishin egg!|Your soul is ours!#not set on 'fiend', but I think both lines should address the enemy.
+鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=Fiend whose soul has become a kishin egg!|No more! The buffet is closed!
+鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=Fiend whose soul has become a kishin egg!|Playtime's over!
+鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=Fiend whose soul has become a kishin egg!|Your trail of violence ends here!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=Fiend whose soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=Fiend whose soul has become a kishin egg!|It's nap time! Permanently!
+鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=Fiend whose soul has become a kishin egg!|There's no going back now!
+鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=Fiend whose soul has become a kishin egg!|You've stolen your last soul!
+鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=Fiend whose soul has become a kishin egg!|This won't be fun for you!
+鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=Fiend whose soul has become a kishin egg!|This is the end for you!
 !FILE:EV0934_130.bscr
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 !FILE:EV0934_131.bscr
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 !FILE:EV0934_132.bscr
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 !FILE:EV0934_135.bscr
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 !FILE:EV0934_200.bscr
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincible!
@@ -4540,46 +4514,33 @@
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV0934_230.bscr
 私の身体は　無敵なのだぁ～=My body is invincible!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 私の身体は　無敵なのだぁ～=My body is invincible!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 私の身体は　無敵なのだぁ～=My body is invincible!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 私の身体は　無敵なのだぁ～=My body is invincible!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 !FILE:EV0934_231.bscr
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 !FILE:EV0934_232.bscr
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 !FILE:EV0934_235.bscr
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 !FILE:EV0934_300.bscr
 油断するなよ！=Don't be reckless now!
@@ -4604,46 +4565,33 @@
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_330.bscr
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 !FILE:EV0934_331.bscr
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 モット・・・|タマシイィィィィッ！！=More... soooouls!!
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 モット・・・|タマシイィィィィッ！！=More... soooouls!!
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 ウバウ・・・|チカラァァァァ！！=That power... is tempting providence!!
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 モット・・・|タマシイィィィィッ！！=More... soooouls!!
 !FILE:EV0934_332.bscr
 チカラァァァ！|タマシイイィィィ！！=Powerrrr!  Soullllls!!
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 チカラァァァ！|タマシイイィィィ！！=Powerrrr!  Soullllls!!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 チカラァァァ！|タマシイイィィィ！！=Powerrrr! Soullllls!!
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 チカラァァァ！|タマシイイィィィ！！=Powerrrr! Soullllls!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 !FILE:EV0934_335.bscr
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 !FILE:EV0934_340.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
@@ -4674,132 +4622,94 @@
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_430.bscr
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 !FILE:EV0934_431.bscr
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 !FILE:EV0934_432.bscr
 ケケケケケ・・・=Kekekekeke...
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 ケケケケケ・・・=Kekekekeke...
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 ケケケケケ・・・=Kekekekeke...
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 ケケケケケ・・・=Kekekekeke...
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 !FILE:EV0934_435.bscr
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 !FILE:EV0934_530.bscr
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 シャーーッ！！=Booooom!!
 !FILE:EV0934_531.bscr
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 チカラヲ・・・|ヨコセェェェェ！！=Welcome to the feast!!
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 チカラヲ・・・|ヨコセェェェェ！！=Welcome to the feast!!
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 チカラヲ・・・|ヨコセェェェェ！！=Welcome to the feast!!
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 チカラヲ・・・|ヨコセェェェェ！！=Welcome to the feast!!
 !FILE:EV0934_532.bscr
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 !FILE:EV0934_535.bscr
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 !FILE:EV0934_630.bscr
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 !FILE:EV0934_631.bscr
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 !FILE:EV0934_632.bscr
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV0934_635.bscr
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 !FILE:EV0934_640.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
@@ -4830,89 +4740,66 @@
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_730.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 !FILE:EV0934_731.bscr
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
 鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 !FILE:EV0934_732.bscr
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 !FILE:EV0934_735.bscr
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 !FILE:EV0934_830.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=His soul has become a kishin egg!|It's nap time! Permanently!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=His soul has become a kishin egg!|This is the end for you!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 !FILE:EV0934_831.bscr
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=His soul has become a kishin egg!|Your soul is ours!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=You're disturbing meee! Do not disturb meeeee!!
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=His soul has become a kishin egg!|No more! The buffet is closed!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=You're disturbing meee! Do not disturb meeeee!!
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=You're disturbing meee! Do not disturb meeeee!!
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=His soul has become a kishin egg!|Your trail of violence ends here!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=You're disturbing meee! Do not disturb meeeee!!
 !FILE:EV0934_832.bscr
 次はオメーらの魂くれるのかよぉ？=It would seem your souls are next.
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=His soul has become a kishin egg!|There's no going back now!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 次はオメーらの魂くれるのかよぉ？=It would seem your souls are next.
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 やりたい放題サイコーだぜぇ～♪=I will do as I desire♪
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 やりたい放題サイコーだぜぇ～♪=I will do as I desire♪
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=His soul has become a kishin egg!|Playtime's over!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 !FILE:EV0934_835.bscr
 やりたい放題サイコーだぜぇ～♪=I will do as I desire♪
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=His soul has become a kishin egg!|This won't be fun for you!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 !FILE:EV0935_030.bscr
 ぎゃぁぁぁぁぁ！=Gaaaaaah!
@@ -5147,18 +5034,9 @@
 私達だって|強くなってるんですからね！=I guess we have gotten awfully strong, huh?
 注意しろよ！マカ！=Don't get cocky, Maka!
 負けないんだからっ！！=We won't lose!!
-!FILE:EV0940_030.bscr
-君達を解体したくなってきた♪=Perhaps I'll dissect you after all♪
-さぁ　来い|解剖してやろう=Come here now. Don't worry. It's only a little autopsy♪
-さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral?
-!FILE:EV0940_031.bscr
-来い！|お前達の魂をみせてみろ！=Come here! I want to take a peek at your souls!
-さぁ　来なさい|君達がどれだけ成長したか|見てあげましょう=Well, come on now. Let me see how much you guys have improved.
-さぁ　実験を始めましょうか？=Well, shall we begin the experiment?
-!FILE:EV0940_032.bscr
-いいですか？|焦らず冷静に相手をみることも|闘いには必要なことですからね=Ready? In battle it's imperative to watch one's opponent calmly and with presence of mind.
-さて・・・さて・・・|一仕事しますかね=Well, well... You have a task to do, don't you?
-チビッコを|どつきまわせるというのは|楽しいですねぇ～♪=And who said it wasn't fun to hit kids♪?
+!FILE:EV0940_030.bscr#moved to common-Stein's three-star challenge
+!FILE:EV0940_031.bscr#moved to common-Stein's three-star challenge
+!FILE:EV0940_032.bscr#moved to common-Stein's three-star challenge
 !FILE:EV0940_040.bscr
 シュタイン！|武器をねらえ！|ソウルをギタギタにしろ！=Stein! Take out the weapon! Focus all your attacks on Soul!
 !FILE:EV0940_041.bscr
@@ -5274,9 +5152,9 @@
 やったぜ！マカ！=We did it, Maka!
 !FILE:EV0941_020.bscr
 もしかすると　君達を過小評価|していたのかもしれませんね・・・|少し考えを改めなくては・・・=Perhaps I have underestimated you... I'll have to reevaluate what I thought I knew.
-またお願いします　博士！=Thanks again, professor!
+またお願いします　博士！=Thanks again, Professor!
 こんなに急に成長するなんて・・・|君達を研究したくなっちゃいますね♪=How quickly you improve... You would make great research subjects♪
-またお願いします　博士！=Thanks again, professor!
+またお願いします　博士！=Thanks again, Professor!
 !FILE:EV0941_021.bscr
 これからの成長にも期待します|がんばってください♪=I expect to see even more improvement out of you, so keep up the hard work♪
 はい！|やったね♪ソウル！=Okay! We did it, Soul♪
@@ -5683,7 +5561,7 @@
 !FILE:EV0954_402.bscr
 つ・・・冷たいっ！=Cold... So cold!
 !FILE:EV0954_410.bscr
-俺がわかるか？マカ？=Do you understand what I'm saying? Maka?
+俺がわかるか？マカ？=Are you back with me, Maka?#on recovering from confusion
 !FILE:EV0954_411.bscr
 しっかりしろ！マカ！=Get a hold of yourself! Maka!
 !FILE:EV0954_412.bscr
@@ -10722,27 +10600,28 @@
 俺様の伝説がまた一つ|ここに刻まれることになるのか・・・=Will another of my legendary deeds be recorded here today...?
 冗談でしょ・・・=You're joking, right..?
 ひやっはぁ☆|特別に俺様の暗殺術を見せてやるぜ！！=Yahoo☆ I'll make sure to show you my assassination techniques especially!!
-!FILE:EV1940_030.bscr
+!FILE:COMMON#Stein three-star challenge
 君達を解体したくなってきた♪=Perhaps I'll dissect you after all♪
 さぁ　来い|解剖してやろう=Come here now. Don't worry. It's only a little autopsy♪
 さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral?
-!FILE:EV1940_031.bscr
 来い！|お前達の魂をみせてみろ！=Come here! I want to take a peek at your souls!
 さぁ　来なさい|君達がどれだけ成長したか|見てあげましょう=Well, come on now. Let me see how much you guys have improved.
 さぁ　実験を始めましょうか？=Well, shall we begin the experiment?
-!FILE:EV1940_032.bscr
 いいですか？|焦らず冷静に相手をみることも|闘いには必要なことですからね=Ready? In battle it's imperative to watch one's opponent calmly and with presence of mind.
 さて・・・さて・・・|一仕事しますかね=Well, well... You have a task to do, don't you?
 チビッコを|どつきまわせるというのは|楽しいですねぇ～♪=And who said it wasn't fun to hit kids♪?
-!FILE:EV1940_040.bscr
 シュタイン・・・お前の|ストッパーが外れないように|見張ってるぞ・・・=Stein... I'm keeping an eye on you to make sure you don't have a screw loose...
 いいかシュタイン|はじめに言っておく|これはトレーニングだぞ・・・=Yo, Stein, remember what you said at the start. This is TRAINING...
-!FILE:EV1940_041.bscr
 おいシュタイン|相手は生徒なんだからな|わかってるんだろうな？=Hey, Stein, you do know your opponents are just students, right?
 いいかシュタイン|あんまり本気になるんじゃねェぞ|相手は子供なんだからな！=You don't have to go so hard, Stein! Your opponents are only children, you know?
-!FILE:EV1940_042.bscr
 なんかお前のせいで|俺のポジションまで|悪役っぽくねェか？=You know, for some reason you sort of look more like a villain than a teacher to me.
 マカの　お友達だ|あんまり無茶すんじゃねェぞ=Those are Maka's friends, so try not to kill 'em, okay?
+!FILE:EV1940_030.bscr#moved to above common
+!FILE:EV1940_031.bscr#moved to above common
+!FILE:EV1940_032.bscr#moved to above common
+!FILE:EV1940_040.bscr#moved to above common
+!FILE:EV1940_041.bscr#moved to above common
+!FILE:EV1940_042.bscr#moved to above common
 !FILE:EV1940_110.bscr
 お前達がどれだけ強くなったか|俺に示してみろ！=Show me just how strong you've all gotten!
 俺は教育熱心な熱血教職人・・・|そんな男だった・・・|よって今回のお前達の相手は俺だ=I taught passionately and with dedication... That's the kind of man I was. And what better way to teach than to be your opponent.
@@ -13319,7 +13198,7 @@
 それが　お菓子を|ブラック☆スターに取られちゃったの・・・=It's just that... Black☆Star took the cake...
 そんな・・・=That...
 でぇい　ブラック☆スターのヤツ|本当にしょうがないヤツだ=Damn that Black☆Star. I really can't stand that guy.
-気にするな|非は１００％アイツにある！=Don't blame yourself. He's 100% at fault here!
+気にするな|非は１００％アイツにある！=Don't blame yourself. He's 100％ at fault here!
 ありがとう・・・リズもごめんね=Thanks... And sorry, Liz.
 うん・・・気にしないでいいよ|ははは=Hey... there's no need to worry. Hahaha.
 ごめんなさい|今度はブラック☆スターに|お菓子を取られないようにするから=I'm sorry. Black☆Star won't be getting his hands on any cake next time.
@@ -15282,100 +15161,67 @@
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
 !FILE:EV2934_030.bscr
 お前達は何ものだぁ～？=Who are you?
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV2934_031.bscr
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 !FILE:EV2934_032.bscr
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 銃弾すら効かないこの身体ぁ！|私は強いのだぁ～！=Even a bullet has no effect on this body! I'm invincible!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 ヌハハハ・・・|お前達の魂をいただくのだぁ～！=Mwahaha... I will feast on your souls!
 !FILE:EV2934_035.bscr
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 その魂！|私が貰い受けるのだぁ～=That soul! I'll take it off your hands!
 !FILE:EV2934_100.bscr
-鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 !FILE:EV2934_130.bscr
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 !FILE:EV2934_131.bscr
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 死神の手先が|何をしても無駄だぁ～！=I will not be defeated by the unenlightened!
 !FILE:EV2934_132.bscr
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 !FILE:EV2934_135.bscr
 なんだぁ～？|私に何か用なのかぁ～=Whaaat? What do you want with me?
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 無駄なあがきはやめて|私に魂をよこすのだぁ～！=Your dharma is not in accord with Rta! I will have to purify your souls!
 !FILE:EV2934_200.bscr
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=Nyet! Nyet! It is useless! I am invincible!
@@ -15390,300 +15236,217 @@
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV2934_230.bscr
 私の身体は　無敵なのだぁ～=My body is invincible!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 私の身体は　無敵なのだぁ～=My body is invincible!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 私の身体は　無敵なのだぁ～=My body is invincible!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 私の身体は　無敵なのだぁ～=My body is invincible!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 !FILE:EV2934_231.bscr
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 ムハハハハ・・・|全ての魂は　私のためにあるのだぁ～=Mwahahaha... All your souls will be mine!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 私の身体の前では|お前達は何もできないのだぁ～=You won't do nothing to stop me!
 !FILE:EV2934_232.bscr
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 頑丈な私の身体！|ほれぼれするだろ～？=My body is powerful! Perhaps you'd enjoy a doll in my image?
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ムハハハハ・・・|私には何も効かないのだぁ～！=Mwahahaha... Your attacks are useless against meee!
 ヌハハハ・・・|お前達では私を倒せないのだぁ～=Mwahaha... You cannot defeat me!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 絶望に打ちひしがれるのだぁ～！=Your despair has me on pins and needles!
 !FILE:EV2934_235.bscr
 私の身体は　無敵なのだぁ～=My body is invincible!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 !FILE:EV2934_330.bscr
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 ＨＡ！ＨＡ！=Ha! Ha!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 モット・・・|チカラァァァァ！！=More... powerrrr!!
 ＨＡ！ＨＡ！=Ha! Ha!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 モット・・・|チカラァァァァ！！=More... powerrrr!!
 !FILE:EV2934_331.bscr
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 モット・・・|タマシイィィィィッ！！=More... soooouls!!
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 モット・・・|タマシイィィィィッ！！=More... soooouls!!
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 ウバウ・・・|チカラァァァァ！！=That power... is tempting providence!!
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 モット・・・|タマシイィィィィッ！！=More... soooouls!!
 !FILE:EV2934_332.bscr
 チカラァァァ！|タマシイイィィィ！！=Powerrrr! Soullllls!!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 チカラァァァ！|タマシイイィィィ！！=Powerrrr! Soullllls!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 チカラァァァ！|タマシイイィィィ！！=Powerrrr! Soullllls!!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 チカラァァァ！|タマシイイィィィ！！=Powerrrr! Soullllls!!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 グゥゥゥゥ！！|ガッァァァァ！！=Guuhhh!! Gahhhh!!
 !FILE:EV2934_335.bscr
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 モット・・・|タマシイィィィィッ！！=More... soooouls!!
 !FILE:EV2934_430.bscr
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 !FILE:EV2934_431.bscr
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 グゥウウゥゥ・・・|ウマソウダァァァ！！=Gooood... A dream come truuue!!
 !FILE:EV2934_432.bscr
 ケケケケケ・・・=Kekekekeke...
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 ケケケケケ・・・=Kekekekeke...
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 ケケケケケ・・・=Kekekekeke...
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 ケケケケケ・・・=Kekekekeke...
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 !FILE:EV2934_435.bscr
 ケケケケケ・・・=Kekekekeke...
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 ニガサナイ・・・|タマシイ！チカラァァ！！=Yes, the souls of the children... give me strength!!
 !FILE:EV2934_530.bscr
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 シャーーッ！！=Booooom!!
 !FILE:EV2934_531.bscr
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 チカラヲ・・・|ヨコセェェェェ！！=Welcome to the feast!!
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 チカラヲ・・・|ヨコセェェェェ！！=Welcome to the feast!!
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 チカラヲ・・・|ヨコセェェェェ！！=Welcome to the feast!!
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 チカラヲ・・・|ヨコセェェェェ！！=Welcome to the feast!!
 !FILE:EV2934_532.bscr
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 オオォォォォ！|・・・オォォオオォォ！！=OOoooohh! ... OooOOooh!!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 !FILE:EV2934_535.bscr
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 シャーーッ！！=Booooom!!
 !FILE:EV2934_630.bscr
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 !FILE:EV2934_631.bscr
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 !FILE:EV2934_632.bscr
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV2934_635.bscr
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 !FILE:EV2934_730.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 !FILE:EV2934_731.bscr
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
 !FILE:EV2934_732.bscr
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 !FILE:EV2934_735.bscr
 オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
 !FILE:EV2934_830.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 !FILE:EV2934_831.bscr
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=You're disturbing meee! Do not disturb meeeee!!
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=You're disturbing meee! Do not disturb meeeee!!
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=You're disturbing meee! Do not disturb meeeee!!
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=You're disturbing meee! Do not disturb meeeee!!
 !FILE:EV2934_832.bscr
 次はオメーらの魂くれるのかよぉ？=It would seem your souls are next.
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 次はオメーらの魂くれるのかよぉ？=It would seem your souls are next.
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 やりたい放題サイコーだぜぇ～♪=I will do as I desire♪
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 やりたい放題サイコーだぜぇ～♪=I will do as I desire♪
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=I will eviscerate youuuu!! RRraaagh!!
 !FILE:EV2934_835.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
@@ -15875,39 +15638,9 @@
 モット……|モットちからヲヲヲ！=I'm... still... hungryyyy!
 チカラァァァ！|タマシイイィィィ！！=Devour! Sooouls!!
 ナン・・ダ？|オマエ・・ラ？=It's... breakfast... time!
-!FILE:EV2936_100.bscr
-鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
-鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-!FILE:EV2936_110.bscr
-鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
-鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-!FILE:EV2936_120.bscr
-鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
-鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
+!FILE:EV2936_100.bscr#moved to common
+!FILE:EV2936_110.bscr#moved to common
+!FILE:EV2936_120.bscr#moved to common
 !FILE:EV2936_200.bscr
 タマシ・・イ・・・|ウバウッ！！=I'll snatch... your... soul!!
 シャーーッ！！=Haaaaaa!!
@@ -16145,40 +15878,20 @@
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Look! Lord Death sent me some after dinner entertainment! Now dance for me!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? And where did you come from?
 次はオメーらの魂くれるのかよぉ？=It would seem your souls are next.
-!FILE:EV2938_100.bscr
-鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
+!FILE:EV2938_100.bscr#Kid's mini-boss lines
+鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=Vile murderer whose soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
 鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
+鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=Vile murderer whose soul has become a kishin egg!|The reaper is here for your soul!!
+鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=Vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
 おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
+鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=Vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
+鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=Vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
 鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-!FILE:EV2938_110.bscr
-鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
-鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-!FILE:EV2938_120.bscr
-鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=His soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
-鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
-鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=His soul has become a kishin egg!|The reaper is here for your soul!!
-鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=A vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
-鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=A vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=A vile murderer whose soul has become a kishin egg!|It's judgement day for you!
-見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
-鬼神の卵と化した魂を持つ者…|善も悪も否定するつもりは無いが|お前はやり過ぎた…=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
-!FILE:EV2938_200.bscr
+!FILE:EV2938_110.bscr#moved to common
+!FILE:EV2938_120.bscr#moved to common
+!FILE:EV2938_200.bscr#moved to common
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=What's that!? I'll turn you inside out! Oraaaaaaagh!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
@@ -16394,27 +16107,12 @@
 今回は　本気でいかせていただきます！=This time we'll show you what we're truly capable of!
 キッド！いくぜ！=Kid! Let's do it!
 やっちまうぞぉ～！！=Fire at will!!
-!FILE:EV2940_030.bscr
-君達を解体したくなってきた♪=Perhaps I'll dissect you after all♪
-さぁ　来い|解剖してやろう=Come here now. Don't worry. It's only a little autopsy♪
-さてと・・・|どこからバラそうか・・・=Now then... Where can I get some roses for your funeral?
-!FILE:EV2940_031.bscr
-来い！|お前達の魂をみせてみろ！=Come here! I want to take a peek at your souls!
-さぁ　来なさい|君達がどれだけ成長したか|見てあげましょう=Well, come on now. Let me see how much you guys have improved.
-さぁ　実験を始めましょうか？=Well, shall we begin the experiment?
-!FILE:EV2940_032.bscr
-いいですか？|焦らず冷静に相手をみることも|闘いには必要なことですからね=Ready? In battle it's imperative to watch one's opponent calmly and with presence of mind.
-さて・・・さて・・・|一仕事しますかね=Well, well... You have a task to do, don't you?
-チビッコを|どつきまわせるというのは|楽しいですねぇ～♪=And who said it wasn't fun to hit kids♪?
-!FILE:EV2940_040.bscr
-シュタイン・・・お前の|ストッパーが外れないように|見張ってるぞ・・・=Stein... I'm keeping an eye on you to make sure you don't have a screw loose...
-いいかシュタイン|はじめに言っておく|これはトレーニングだぞ・・・=Yo, Stein, remember what you said at the start. This is TRAINING...
-!FILE:EV2940_041.bscr
-おいシュタイン|相手は生徒なんだからな|わかってるんだろうな？=Hey, Stein, you do know your opponents are just students, right?
-いいかシュタイン|あんまり本気になるんじゃねェぞ|相手は子供なんだからな！=You don't have to go so hard, Stein! Your opponents are only children, you know?
-!FILE:EV2940_042.bscr
-なんかお前のせいで|俺のポジションまで|悪役っぽくねェか？=You know, for some reason you sort of look more like a villain than a teacher to me.
-マカの　お友達だ|あんまり無茶すんじゃねェぞ=Those are Maka's friends, so try not to kill 'em, okay?
+!FILE:EV2940_030.bscr#moved to common-Stein's three-star challenge
+!FILE:EV2940_031.bscr#moved to common-Stein's three-star challenge
+!FILE:EV2940_032.bscr#moved to common-Stein's three-star challenge
+!FILE:EV2940_040.bscr#moved to common-Stein's three-star challenge
+!FILE:EV2940_041.bscr#moved to common-Stein's three-star challenge
+!FILE:EV2940_042.bscr#moved to common-Stein's three-star challenge
 !FILE:EV2940_110.bscr
 お前達がどれだけ強くなったか|俺に示してみろ！=Show me just how strong you've all gotten!
 俺は教育熱心な熱血教職人・・・|そんな男だった・・・|よって今回のお前達の相手は俺だ=I taught passionately and with dedication... That's the kind of man I was. And what better way to teach than to be your opponent.
@@ -16451,7 +16149,7 @@
 !FILE:EV2940_130.bscr
 いくぞ！一撃入魂！！|俺はそんな男だったぁぁぁ！！=Go! Put all your strength into a single blow!! That's the kind of man I was!!
 いくぞ！直球勝負！！|俺はそんな男だったぁぁぁ！！=Go! Take the straightforward approach!! That's the kind of man I was!!
-いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110%!! That's the kind of man I was!!
+いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110％!! That's the kind of man I was!!
 !FILE:EV2940_131.bscr
 いくぞ！謹厳実直！！|俺はそんな男だったぁぁぁ！！=Go directly and honestly!! That's the kind of man I was!!
 いくぞ！|俺は真面目一筋！！|そんな男だったぁぁぁ！！=Go with a single-minded earnestness!! That's the kind of man I was!!
@@ -16631,7 +16329,7 @@
 あそこに魔女がいるよ！=There's a witch over there!
 あら　来たのは　あなた達なの・・・=Well, well. Look who's here...
 むう・・・こいつが|メデューサ先生を・・・=Hhaa... She's the one who took Dr. Medusa...
-ちょっと予想外だけど|これはこれでおもしろいわ♪=An unforseen obstacle, but this should be fun♪
+ちょっと予想外だけど|これはこれでおもしろいわ♪=An unforeseen obstacle, but this should be fun♪
 う～・・・おっかネェ|やっぱ戦わなきゃ　ダメ？=Waaah... Scary. Do we really have to fight?
 何　ビビってんの|お姉ちゃん？=What's got you so spooked, sis?
 死神の力|私に見せてちょうだい♪=Show me the power of a grim reaper♪
@@ -16669,7 +16367,7 @@
 !FILE:EV2951_002.bscr
 キャハハ♪キッド君やっちまぉー！=Kyahaha♪ You've got this, Kid!
 !FILE:EV2951_003.bscr
-なんだ？コイツら？=What? These guys again?#Needs further testing
+なんだ？コイツら？=What? These guys again?
 !FILE:EV2951_004.bscr
 キッド君！何か出たよぉ！=Kid, there's something there!
 !FILE:EV2951_010.bscr
@@ -18897,11 +18595,11 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_te訓練君を探せ？=%_teFind a Buddy?
 敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Locate the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]! They look just like the enemy.
 訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]!
-%_te殺人鬼を速やかに倒せ！=%_teDefeat the Threat!
+%_te殺人鬼を速やかに倒せ！=%_teMatter of Urgency!#reworded to reflect the fact it's a time-trial
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]THE CAN %_dc[199,133,84]is coming! Stop him before it's too late!
 制限時間内に|%_dc[196,0,0]THE・CAN%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]THE CAN %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
+シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to go all out!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
 パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
@@ -18919,7 +18617,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]現る！|被害が出る前に倒せ！=The wicked monk, %_dc[196,0,0]Ajarri %_dc[199,133,84]is coming! Defeat him before he can do any damage!
 制限時間内に|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Ajarri %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
+シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to go all out!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
 パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
@@ -18933,7 +18631,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_te死武専生なら　なっ！=%_teLost Page Recovery!
 死武専の秘蔵書『魂学』の|ページを紛失してしまった|悪いが回収してきてくれ=A few pages of my|soul studies book have gone missing...
 魂学書の破れたページ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]ページ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Torn Pages of a Soul Studies Book%_dc[199,133,84]!
-%_te殺人鬼を速やかに倒せ！=%_teDefeat the Threat!
+%_te殺人鬼を速やかに倒せ！=%_teMatter of Urgency!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]is coming! Stop him before it's too late!
 制限時間内に|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
