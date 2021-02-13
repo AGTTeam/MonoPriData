@@ -38,7 +38,7 @@
 4238:4302:さて|引き上げますよ=Now, let us proceed...
 4415:4536:ここは『デス・シティー』|秩序を重んじる死神様の街=This is Death City. A town created by|Death himself to preserve peace.
 4537:4653:この街のてっぺんに建っているのが|『死神武器職人専門学校』=Overlooking the town is the Death|Weapon Meister Academy.
-4654:4745:通称『死武専』=Commonly known as the 'DWMA'.
+4654:4745:通称『死武専』=Commonly known as the "DWMA".
 4746:4809:世界の秩序と平和を守る担い手として=It is a school founded for the purpose|of cultivating meisters and weapons
 4810:4930:若き『職人』と『武器』を育成することを|目的とした学校である=in order to maintain peace and order|in this world.
 !FILE:movie0001.bin
