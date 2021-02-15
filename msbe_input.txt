@@ -3,7 +3,7 @@
 まだ見ることができません=You can't view this yet.
 午前授業=Morning Class
 午後授業=Afternoon Class
-課外授業=Extracurricular classes#too long
+課外授業=Tutorial#Extracurricular classes – I thought this might work as a pun on 'classes' and being the name of Day 1, although the latter definition might possibly sound a bit strange by the time you get to the end of the full day
 明日の解剖授業=Dissection Plans
 イテムハンター=Item Hunter
 保健室のユウウツ=Clinical Depression
@@ -4461,16 +4461,16 @@
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck! I don't really want to have anything to do with this guy.
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:COMMON#Maka mini-boss lines
-鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=Fiend whose soul has become a kishin egg!|Your soul is ours!#not set on 'fiend', but I think both lines should address the enemy.
-鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=Fiend whose soul has become a kishin egg!|No more! The buffet is closed!
-鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=Fiend whose soul has become a kishin egg!|Playtime's over!
-鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=Fiend whose soul has become a kishin egg!|Your trail of violence ends here!
-鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=Fiend whose soul has become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
-鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=Fiend whose soul has become a kishin egg!|It's nap time! Permanently!
-鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=Fiend whose soul has become a kishin egg!|There's no going back now!
-鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=Fiend whose soul has become a kishin egg!|You've stolen your last soul!
-鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=Fiend whose soul has become a kishin egg!|This won't be fun for you!
-鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=Fiend whose soul has become a kishin egg!|This is the end for you!
+鬼神の卵と化した魂を持つ者！|お前の魂いただくよ！=You fiend! You've let your soul become a kishin egg! Your soul is ours!#not set on 'fiend', but I think both lines should address the enemy.
+鬼神の卵と化した魂を持つ者！|魂の乱獲はここまでよ！=You fiend! You've let your soul become a kishin egg! No more! The buffet is closed!
+鬼神の卵と化した魂を持つ者！|これ以上好きにはさせない！=You fiend! You've let your soul become a kishin egg! Playtime's over!
+鬼神の卵と化した魂を持つ者！|お前の横暴もここまでよ！=You fiend! You've let your soul become a kishin egg! Your trail of violence ends here!
+鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=You fiend! You've let your soul become a kishin egg! Well, you won't have to worry about that nasty condition of yours much longer!
+鬼神の卵と化した魂を持つ者！|すぐに倒してあげるから！=You fiend! You've let your soul become a kishin egg! It's nap time! Permanently!
+鬼神の卵と化した魂を持つ者！|お前はやり過ぎたのよっ！=You fiend! You've let your soul become a kishin egg! There's no going back now!
+鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=You fiend! You've let your soul become a kishin egg! You've stolen your last soul!
+鬼神の卵と化した魂を持つ者！|これ以上好き勝手にはさせない！=You fiend! You've let your soul become a kishin egg! This won't be fun for you!
+鬼神の卵と化した魂を持つ者！|お前はここで終わりよっ！=You fiend! You've let your soul become a kishin egg! This is the end for you!
 !FILE:EV0934_130.bscr
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
@@ -6336,8 +6336,8 @@
 そうか・・・はぁ・・・=Is that so?|*Sigh*
 どうしたんですか？=Is something wrong?
 マカの将来のことで|気がかりな点があってな・・・=I'm a little worried about Maka's future...
-ブラック☆スターに|釘をさしておこうと思ったんだ=I was thinking I might crucify that Black☆Star.
-マカや椿くらいの歳の子は|ちょっとくらい悪いヤツにひかれるもんだろ=Girls around yours and Maka's age fall for little bad boys like him.
+ブラック☆スターに|釘をさしておこうと思ったんだ=I was thinking I should warn her off that Black☆Star.
+マカや椿くらいの歳の子は|ちょっとくらい悪いヤツにひかれるもんだろ=Girls around your and Maka's age always fall for little bad boys like him.
 ははは　私には|よくわかりませんが・・・=Hehe. I don't know anything about that, but...
 だから俺は心配になってきたんだ・・・=So I'm worried about her.
 ブラック☆スターが|マカのボーイフレンドになったら|どうしようって・・・=What'll I do if Black☆Star becomes Maka's boyfriend?
@@ -6368,28 +6368,28 @@
 あれ？|あっちってどっちのことかしら？=Wait. Which way is that way?
 !FILE:EV1121_042.bscr
 博士が立会人だったんですね・・・=Professor, you were overseeing the duel, right?
-勝負はどうなりましたか？|ブラック☆スターは！？=How did it go? And how's Black☆Star!?
+勝負はどうなりましたか？|ブラック☆スターは！？=How did it go?|And how's Black☆Star!?
 ブラック☆スターの|完全勝利です|傷一つ負っていません=Flawless victory. Black☆Star didn't have a scratch on him.#Subtle nod to a perfect round in Mortal Kombat. I just couldn't resist. XD Obviously it can be changed if anyone objects to it.
 相手は上級生でしたが|武器もない状態で|たいしたものです=Even without a weapon, it was no challenge for him despite his opponent being an older student.
 そうなんです！|ブラック☆スターは|強いんです！=Really? Black☆Star really is strong, huh?
 ですが　それだけです=Shame that's all he is.
 あれだけの力を持ちながら|なぜブラック☆スターは|劣等生に甘んじているのですか？=If he's so strong, why is he so content with being such a bad student?
 ええっと　私にも|ちょっとわかりません・・・ははは・・・=Yeah, I don't really understand either... Hehe...
-集めた魂は　ほとんどゼロ・・・|テストでは　いつも０点・・・|目立とうとして遅刻を繰り返す・・・=He's gathered exactly zero souls...|He receives a zero on every test...|He constantly shows up late to get attention...
+集めた魂は　ほとんどゼロ・・・|テストでは　いつも０点・・・|目立とうとして遅刻を繰り返す・・・=He's gathered exactly zero souls...|He receives a zero on every test...|He constantly shows up late...
 すみません・・・|やる気はあるんですが・・・|どうもズレているようです・・・=Sorry... He has the motivation, but... it's a little misguided...
 椿に言っても仕方ないですが・・・=Telling you won't change anything, but...
 このままのペースだと|生きてる間に君は|デスサイズになれませんよ=At this rate you'll be dead before you ever become a Death Scythe.
-すみません　博士・・・=Sorry, professor.
+すみません　博士・・・=Sorry, Professor.
 !FILE:EV1121_046.bscr
 椿に言っても仕方ないですが・・・=Telling you won't change anything, but...
 このままのペースだと|生きてる間に君は|デスサイズになれませんよ=At this rate you'll be dead before you ever become a Death Scythe.
 すみません　博士・・・=Sorry, professor.
 !FILE:EV1121_047.bscr
 ああ・・・また|怒られてしまった・・・=Aw... He lectured me again.
-それにしても|今日はやけに続くわね・・・|この後　何もおきませんように・・・=Things aren't going so well today. I hope nothing else happens...
+それにしても|今日はやけに続くわね・・・|この後　何もおきませんように・・・=Things aren't going so well today.|I hope nothing else happens...
 !FILE:EV1121_052.bscr
 ブラック☆スターと|一緒じゃないのか？=Black☆Star isn't with you?
-すみません　シド先生！=I'm sorry, Sid!
+すみません　シド先生！=I'm sorry, Mr. Sid!
 ん？なんでお前が|謝るんだ？=Hm? Why are you apologizing?
 多分　ブラック☆スターが|悪いことをしたんだろうから|先にあやまっておこうと思って・・・=Black☆Star probably did something wrong, so I figured I'd go ahead and apologize.
 おかしなヤツだな|自分がしたことでもないのに謝るなんて=You're an odd one, aren't you?|You're apologizing for something you didn't even do.
@@ -6404,7 +6404,7 @@
 !FILE:EV1121_055.bscr
 ふぅ・・・|今日はこれくらいにしておこう・・・=Phew...|I guess that should be about all for today...
 !FILE:EV1121_056.bscr
-俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=A man of few words. That's the kind of man I was...But I guess some things do change...
+俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=A man of few words. That's the kind of man I was... But I guess some things do change...
 私の貴重な時間を|返してください・・・=Please give me my precious time back.
 !FILE:EV1121_057.bscr
 ああ　結局また|ブラック☆スターのことで|怒られてしまった・・・=Aww. I ended up getting scolded again because of Black☆Star.
@@ -6413,15 +6413,15 @@
 あれ　もう帰ってきたのか？=Huh? Back already?
 ええ　ブラック☆スター|あなたの側にいるのが|一番　楽だと気づいたの・・・=Yeah. I realized that I feel the most relaxed when I'm by your side, Black☆Star...
 改めて|俺様の偉大さに気づいたようだな☆=So you've finally come to recognize my greatness☆
-だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=Tsubaki! I'm not sure if you if can make it on your own, so you'll just have to depend on Black☆Star!
+だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=But, fyi, it's not my problem if you get so caught up in my reliableness that you forget how to be independent!#Not sure 'fyi' really fits with Black☆Star's character, 'just so you know' is too long but I thought it needed some kind of softener.
 ひやっはははははは☆=Yahahahahahaha☆
-そうね　ブラック☆スター・・・|あなたはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|あなたはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 !FILE:EV1121_065.bscr
 改めて|俺様の偉大さに気づいたようだな☆=So you've finally come to recognize my greatness☆
 !FILE:EV1121_066.bscr
-だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=Tsubaki! I'm not sure if you if can make it on your own, so you'll just have to depend on Black☆Star!
+だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=But, fyi, it's not my problem if you get so caught up in my reliableness that you forget how to be independent!
 ひやっはははははは☆=Yahahahahahaha☆
-そうね　ブラック☆スター・・・|あなたはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|あなたはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 !FILE:EV1122_000.bscr#ダミースターで・・・ = Dummy☆Star... part 4
 あそこにいるのは|マカちゃんとソウル君じゃ|ないかしら？=Isn't that Maka and Soul over there?
 ほんとだ・・・ん！？|あいつらもめてないか？=You're right.|...Huh? Are they arguing?
@@ -6464,7 +6464,7 @@
 うん　ちょっとね=Yeah, a bit.
 !FILE:EV1122_020.bscr
 あそこにいるのは|ソウル君じゃないかしら？=Isn't that Soul over there?
-ほんとだ・・・ん！？|あいつなんか様子が|おかしいな・・・=It is.|...Huh!? He's acting kinda strange.
+ほんとだ・・・ん！？|あいつなんか様子が|おかしいな・・・=It is.|...Huh? He's acting kinda strange.
 ソウル君|すごく　怒ってたね・・・=Soul looks like he's really mad this time.
 どいつもこいつも|ホントにうざってェなァ！=Geez, everyone's being so annoying!
 そうは言っても　こういうことは|簡単にはいかないのよ・・・=These sorts of things aren't simple, you know.
@@ -6481,8 +6481,8 @@
 じゃ　決まりだな！|ところで　どうやって|あいつらを仲直りさせる？=Well, let's get this done then! By the way, how are we actually supposed to do it?
 あの二人を仲直りさせるのは|相当むずかしいわよ・・・=Getting them to make up is going to be pretty difficult.
 そうだな・・・あんなガンコなヤツと|あそこまで皮肉屋なヤツは・・・=True... On the one hand we've got someone as stubborn as an ox, and on the other we've got a total cynic...
-生まれてこの方|見たことねェよ！|ひやっはははははは☆=This is quite the conundrum! Hyahahahaha☆
-はぁ・・・|とりあえず　キッド君達に|相談してみない？=*Sigh* So should we ask Kid and the others for advice?
+生まれてこの方|見たことねェよ！|ひやっはははははは☆=I've never seen anything like it! Hyahahahaha☆
+はぁ・・・|とりあえず　キッド君達に|相談してみない？=*Sigh*|So should we ask Kid and the others for advice?
 椿らしい無難な線だが|とりあえず　それでいくか☆|ひやっはははははは☆=It's just like you to choose the least risky way, but it might not be a bad idea this time☆ Hyahahahaha☆
 !FILE:EV1122_032.bscr
 マカとソウルがケンカして|うざってェんだ！=Maka and Soul are arguing, and it's pissing me off!
@@ -6498,9 +6498,9 @@
 仲直りする方法があったら|教えてほしいんです=What do you think we should do to help them make up?
 で　ケンカの原因は何だ|どっちが悪いんだ？=I really must know what started the fight and who's to blame.
 多分マカちゃんが|悪いと思うんだけど・・・=I think Maka is probably the guilty one.
-多分とは　どういう意味だ|あいまいな表現はやめて|キッチリしてくれ！=What do you mean 'probably'? Don't be vague! Speak in precise terms!
+多分とは　どういう意味だ|あいまいな表現はやめて|キッチリしてくれ！=What do you mean "probably"? Don't be vague! Speak in precise terms!
 ごめんなさい|えっと　おそらくマカちゃんが|悪いと思うんだけど・・・=Sorry. Well... it's likely that Maka started it, but...
-おそらくとは　どういう意味だ|あいまいな表現はやめて|くれといってるだろう！！=What do you mean 'likely'? Didn't I say to stop speaking so vaguely!?
+おそらくとは　どういう意味だ|あいまいな表現はやめて|くれといってるだろう！！=What do you mean "likely"? Didn't I say to stop speaking so vaguely!?
 ごめんなさい　えっと=Sorry. Well...
 めんどくせェなぁ！|両方　悪ィんだよ！！=What a pain in the ass! They're both guilty!!
 両方・・・これは妙なことを|いよいよ話がわからなくなってきた・・・=Both... Your story is making less and less sense. I don't understand.
@@ -6534,7 +6534,7 @@
 でも　マカちゃんの性格を考えたら|謝れないと思うの=But I don't think Maka is the type to apologize so easily.
 特に自分が悪いと思っている時には|余計そうだと思うの・・・=And it'll be especially difficult for her if she feels guilty.
 だから　それが|めんどくせェんだよ・・・=That's why this is so annoying.
-もう一人の素直なマカがいて|そいつに謝らせれば解決なんだけどな・・・=If there was another Maka that was more honest with her feelings, she could just apologize, and the problem would be solved...#The wording that refers to 'another' Maka needs to stay someone consistent for a few lines.
+もう一人の素直なマカがいて|そいつに謝らせれば解決なんだけどな・・・=If there was another Maka that was more honest with her feelings, she could apologize and that'd be that...#The wording that refers to 'another' Maka needs to stay someone consistent for a few lines.
 もう　真面目に考えてちょうだい！=Hey, please try to be serious!
 マカちゃんが|もう一人いるわけ・・・=If there was another Maka...
 いるわ　ブラック☆スター！|ダミースターを使いましょう！=Another Maka! Black☆Star, let's use Dummy☆Star!
@@ -6552,15 +6552,15 @@
 なんでダメなんだよ！=Why should I stay here!?
 ソウル君はカンがいいから|ブラック☆スターが登場した瞬間|私が偽者だってことバレちゃうと思うの=Soul has a strong intuition. The moment he sees Black☆Star arrive on stage, I'll be exposed as an imposter.
 そしたら　あの二人のことだから|もっとコジれることになると思うわ=And that might complicate things between them even further.
-そりゃ　めんどくせぇな！|わかったよ　お前にまかせた！=Ugh! This is so annoying!|I understand. It's all up to you!
+そりゃ　めんどくせぇな！|わかったよ　お前にまかせた！=Ugh! This is so annoying!|Fine, I'll let you handle it then.
 ありがとう|それじゃあここで待っててね！=Thanks. Just wait here, okay?
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
-スターの俺には|客の声が聞こえる・・・椿とソウルでは|どうしても画面的に地味すぎると・・・=A star like me can hear the audience... They're saying Soul and Tsubaki aren't important enough for all this screen time...#I'm pretty sure they're going for a subtle 4th wall break in this and the following line.
+スターの俺には|客の声が聞こえる・・・椿とソウルでは|どうしても画面的に地味すぎると・・・=I hear the audience... They're saying Soul and Tsubaki aren't important enough for all this screen time...#I'm pretty sure they're going for a subtle 4th wall break in this and the following line.
 やはりビッグな俺様が|登場してやったほうが|画面的にもしまるんじゃないか？=So I think it would be best if the camera just stayed on a big man like me, don't you agree?
 戻ったわ　ブラック☆スター=I'm back, Black☆Star.
-早かったな　椿|うまくいったのか？=That was quick, Tsubaki. Did it go well?
+早かったな　椿|うまくいったのか？=That was quick, Tsubaki.|Did it go well?
 作戦は成功よ♪=The mission was successful♪
 ソウル君　はじめは怒ってたけど・・・|私が謝ったとたん|逆にあたふたしちゃって・・・=He was mad at first, but... as soon as I apologized, Soul immediately returned the favor...
 最後には　ソウル君のほうが|謝りっぱなしだったわ=He kept apologizing over and over in the end.
@@ -9505,7 +9505,7 @@
 まぁまぁ・・・|たまにはこういうのもあるわよ=It's alright... That's just how it is sometimes.
 !FILE:EV1933_013.bscr
 主役は俺様っ！=I'm the one in the starring role!
-そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 俺こそ神だ！=I'm a god for sure!
 はい？=Really?
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
@@ -9519,7 +9519,7 @@
 主役は俺様っ！=I'm the one in the starring role!
 はい？=Really?
 俺こそ神だ！=I'm a god for sure!
-そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
@@ -10180,7 +10180,7 @@
 でも　ブラック☆スター？|あまりムチャし過ぎるのは良くないわ=Hey, Black☆Star? Maybe don't get too full of yourself.
 !FILE:EV1935_043.bscr
 主役は俺様っ！=I'm the one in the starring role!
-そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 俺こそ神だ！=I'm a god for sure!
 はい？=Really?
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
@@ -10194,7 +10194,7 @@
 主役は俺様っ！=I'm the one in the starring role!
 はい？=Really?
 俺こそ神だ！=I'm a god for sure!
-そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
@@ -10344,7 +10344,7 @@
 でも　ブラック☆スター？|あまりムチャし過ぎるのは良くないわ=Hey, Black☆Star? Maybe don't get too full of yourself.
 !FILE:EV1935_343.bscr
 主役は俺様っ！=I'm the one in the starring role!
-そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 俺こそ神だ！=I'm a god for sure!
 はい？=Really?
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
@@ -10358,7 +10358,7 @@
 主役は俺様っ！=I'm the one in the starring role!
 はい？=Really?
 俺こそ神だ！=I'm a god for sure!
-そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
@@ -10508,7 +10508,7 @@
 でも　ブラック☆スター？|あまりムチャし過ぎるのは良くないわ=Hey, Black☆Star? Maybe don't get too full of yourself.
 !FILE:EV1935_643.bscr
 主役は俺様っ！=I'm the one in the starring role!
-そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 俺こそ神だ！=I'm a god for sure!
 はい？=Really?
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
@@ -10522,7 +10522,7 @@
 主役は俺様っ！=I'm the one in the starring role!
 はい？=Really?
 俺こそ神だ！=I'm a god for sure!
-そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star... in a sense...
+そうね　ブラック☆スター・・・|アナタはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
@@ -11220,8 +11220,8 @@
 鏡・・・あるんだから|そっちを使おうよ♪=There's a mirror, soooo let's use it♪
 それじゃあ|気を取り直していこうか♪=Now then, where were we♪?
 !FILE:EV1966_002.bscr
-どうした？|最近　絶好調じゃねェか？=What's up? You've been looking great recently!
-なんだよ　やっとかよ|気づくのが遅ェぜ！=Huh, is that so? Took you a while to notice!
+どうした？|最近　絶好調じゃねェか？=How's it going? You've been looking great recently!
+なんだよ　やっとかよ|気づくのが遅ェぜ！=What gives? Took you a while to notice!
 これは俺の気持ちだ|受け取っておいてくれ！=Consider this a token of my appreciation. Please take it!
 ほめてもらった上に|こんなものまでもらえるなんて・・・=To think that we got praised and even received such a gift on top of that...
 この調子で|一気に駆け抜けてしまえ！=Keep dashing forward at the same pace, kids!
@@ -17046,7 +17046,7 @@
 次は職人固有の必殺技についてです|必殺技を使うには条件があります=Next, we'll discuss meister-specific Finishing Strikes. There are certain requirements to use a Finishing Strike.
 画面の左上を見てください|魂の共鳴度が上がるとソウルメーターが|表示されます=If you look at the top-left of the screen while the Soul Resonance Gauge is full, you will see the Soul Meter.
 ソウルメーターの魂１個につき必殺技を１回|出すことができます=You can use a Finishing Strike once for each soul on the Soul Meter.
-必殺技を出すと魂の共鳴度が下がり|ソウルメーターは減っていきます=Each time you use a Finishing Strike, the Resonance Gauge will deplete,|and the Soul Meter will decrease.
+必殺技を出すと魂の共鳴度が下がり|ソウルメーターは減っていきます=Each time you use a Finishing Strike, the Resonance Gauge will deplete,|and your Soul Meter will go down.
 覚えた必殺技によっては　魂を２個もしくは|３個　必要とするものもあります|覚えておいてください=Try to keep in mind that some Finishing Strikes will require two or even three souls to use.
 では実際にソウルメーターを出して|みましょう|満足したら「1ボタン」を押してください=Go ahead and familiarize yourself with the Soul Meter. Once you've had enough, press Button 1.
 !FILE:EV9907_520.bscr
@@ -17054,11 +17054,11 @@
 行くぜ！　マカ！=Let's go! Maka!
 必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
 使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the arrows shown on screen in order to use the Finishing Strike.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the prompts shown on screen to unleash the Finishing Strike.
 では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
 !FILE:EV9907_521.bscr
 では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Finishing Strike.
-いよいよね|ブラック☆スター！=No doubt about it, Black☆Star!
+いよいよね|ブラック☆スター！=It's finally time, Black☆Star!
 必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
 使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
 パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the instructions shown on screen in order to use the Finishing Strike.
@@ -17977,10 +17977,10 @@
 データがありません=No data.
 %_d[0]日目=Day %_d[0]
 %_d[0]%_d[1]/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]=   %_d[2]%_d[3]/%_d[4]%_d[5]/%_d[0]%_d[1] %_d[6]%_d[7]:%_d[8]%_d[9]
-%_te課外授業=%_teExtra Lessons
-%_te課外授業　昼=%_teDWMA: Noon
-%_te課外授業　夕方=%_teDWMA: Dusk
-%_te課外授業　夜=%_teDWMA: Night
+%_te課外授業=%_teTutorial
+%_te課外授業　昼=%_teTutorial: Noon
+%_te課外授業　夕方=%_teTutorial: Dusk
+%_te課外授業　夜=%_teTutorial: Night
 %_te繭=%_teCocoon
 %_te繭　昼=%_teCocoon: Noon
 %_te繭　夕方=%_teCocoon: Dusk
