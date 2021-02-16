@@ -7859,10 +7859,10 @@
 おお　無事だったか|よくやったぞ！=Good! Everyone's safe. Well done!
 大丈夫ですか？|メデューサ先生=Are you all right, Dr. Medusa?
 え　ええ|ブラック☆スター君　椿ちゃん|二人ともよく勝ったわね　すごいわよ=Y-Yes. Black☆Star, Tsubaki, you won handily. You really are amazing.
-へっ　そろそろ俺様に|後光がみえるんじゃねぇか？=Hey, I think someone is finally starting to see my aura of light.
+へっ　そろそろ俺様に|後光がみえるんじゃねぇか？=Hey, I think someone is finally starting to see how bright I can really shine.
 ありがとうございます=Thank you.
 ちっ　本当は　この俺が|クールに決めるとこだったのによ=Tch! And to think I'd decided to be cool for nothing.
-ひゃはははは=Hyahahahaha!
+ひゃはははは=Yahahahaha!
 椿ちゃん　ケガなかった？=Tsubaki, are you hurt?
 ええ|大丈夫です=No. I'm fine.
 終わったか=It's finished then?
@@ -7884,7 +7884,7 @@
 うわっ！=Woah!
 きゃっ！=Kyah!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ...Where's Dr. Medusa?
+・・・ということは　狙いは繭か！|・・・メデューサ先生は？=...To buy time to get the cocoon!? ...Where's Dr. Medusa?
 うざってェ　ヤツラだぜ！=They really piss me off!
 さがしましょう！=We need to find her!
 !FILE:EV1401_402.bscr
@@ -7893,17 +7893,17 @@
 メデューサ先生！|大丈夫ですか？！=Dr. Medusa, are you okay!?
 え・・・ええ|大丈夫・・・=I-I'm... okay...
 フフフ・・・|では　我々の繭を返してもらいます=Hmhmhm... I suppose I should be thanking you for returning our cocoon.
-テメー・・・|どこの　どいつだ！=Bastard... Who are you!?
+テメー・・・|どこの　どいつだ！=Bastard! Who are you!?
 パラポネラ・・・の一人=He belongs to... Paraponera.
 パラポネラ？=Paraponera?
-魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan... born of magic that nests deep underground...
+魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
 そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The witch, Ponera, is our magnificent queen.
 オメェら|魂を集めて　何がしてぇんだ！=And what the hell are you collecting all those souls for!?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
-待ちやがれ・・・|おっと！=Come back...! Damn!
+待ちやがれ・・・|おっと！=Come back! Damn!
 キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
 邪魔すんな！|オメェを倒すのは　まばたきより一瞬だ！|椿！=Get outta my way! I'll crush you in the blink of an eye! Tsubaki!
 はい！=Roger!
@@ -7922,7 +7922,7 @@
 うわっ！=Woah!
 きゃっ！=Kyah!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ...Where's Dr. Medusa?
+・・・ということは　狙いは繭か！|・・・メデューサ先生は？=...To buy time to get the cocoon!? ...Where's Dr. Medusa?
 うざってェ　ヤツラだぜ！=They really piss me off!
 探しましょう！=We need to find her!
 !FILE:EV1401_452.bscr
@@ -7931,27 +7931,27 @@
 はい！=Roger!
 !FILE:EV1420_002.bscr#彼女の思いと・・・ = A Girl and Her Thoughts part 13
 椿ちんどうしたの？|元気がないね？=Is something wrong, Tsubaki? Feeling a little down?
-大丈夫|なんでもありません・・・=Nothing like that. I'm all right...
+大丈夫|なんでもありません・・・=Nothing like that. I'm all right.
 どうせ　食いすぎか何かだろ！？|ひやっはははははは☆=You probably just ate too much! Yahahahahahaha☆
 えへへ　そうね|食べすぎかもしれないわね・・・=Ehehe... Yeah. You're probably right...
 あれ？ちげェのかよ？=What? Is that not it?
-やっちゃったね|ブラック☆スター！|きゃはははは♪=You called it, Black☆Star! Kyahahaha♪
+やっちゃったね|ブラック☆スター！|きゃはははは♪=You've done it now, Black☆Star! Kyahahaha♪
 !FILE:EV1420_006.bscr
 椿ちゃんどうしたの？|元気がないね？=Is something wrong, Tsubaki? Feeling a little down?
-大丈夫|なんでもありません・・・=Nothing like that. I'm all right...
+大丈夫|なんでもありません・・・=Nothing like that. I'm all right.
 !FILE:EV1420_007.bscr
 ブラック☆スター|お願いがあるの・・・=Black☆Star, I have a favor to ask...
 二人で話せる時間を|つくれないかな？=There's something I need to talk to you about if you could find the time.
 しょうがねェな|特別にお前のために|スターの時間を割いてやろう☆=No problem. This star can always spare some time especially for you☆
-うん・・・ありがとう|じゃあ　私　先に行ってるわね・・・=Okay... Thank you. I'll talk to you later...
+うん・・・ありがとう|じゃあ　私　先に行ってるわね・・・=Okay... Thank you. I'll talk to you later.
 !FILE:EV1420_010.bscr
 ほら　来てやったぜ☆|そんで何の話なんだ？=Welp, here I am☆ So what did you want to talk about?
 えっと　私|ちょっとの間　死武専を離れるから・・・=Um... I need to leave the DWMA for a bit...
-そのことを|みんなに黙っててちょうだい・・・=So please don't say a word about it to anybody...
+そのことを|みんなに黙っててちょうだい・・・=So please don't say a word about it to anybody.
 ひやっはぁ☆|やるじゃねェか！=Yahoo☆ You're really gonna do it!
 うんうん　お前も|ようやく小物から|抜け出しつつあるな☆=Yeah. You're finally starting to separate yourself from the rest of the little guys☆
 抜け出したり|サボったりとかは|ドンドンやったほうがいいぜ！=First you sneak out, then you'll start skipping class, and then you'll be hooked!
-つまんねェ規則なんて|チマチマ守っていると|ホントに小物になるからよ！=Following all those boring rules all the time really makes you small, you know!
+つまんねェ規則なんて|チマチマ守っていると|ホントに小物になるからよ！=Following all those boring rules all the time really stunts your growth, you know!
 ありがとう・・・|理由は聞かないでね・・・=Thanks... And please don't ask me why, okay?
 おうよ！大物である|俺様はいちいち理由なんて聞かねェ☆=Never! A big guy like me wouldn't ask you to explain every little thing you do☆
 !FILE:EV1420_015.bscr
@@ -7963,9 +7963,9 @@
 おうよ！|いちいち確認すんじゃねェよ！|わかってるぜ☆=I know! Your secret is safe with me☆
 椿が学校を|抜け出すとはな・・・=Tsubaki's sneaking out of the school, huh?
 あいつもようやく自分の殻を|やぶりつつあるようだな！=She's finally starting to break out of her shell!
-やべェ　誰かに言いたくて|しょうがねェ・・・=Damn! I can't help myself. I really want to tell someone...
-椿が戻ってくるまで|誰にも会わずにいるか・・・=Okay. Until Tsubaki gets back, I'm not talking to anybody...
-いや　ここはしゃべりたくなる状況に|自分を追い込むのが　スターである|俺様のとるべき行動だな☆=No. As a star, this is exactly the sort of thing I should be using my influence to spread the word about☆
+やべェ　誰かに言いたくて|しょうがねェ・・・=Damn! I can't help myself. I really want to tell someone.
+椿が戻ってくるまで|誰にも会わずにいるか・・・=Okay. Until Tsubaki gets back, I'm not talking to anybody.
+いや　ここはしゃべりたくなる状況に|自分を追い込むのが　スターである|俺様のとるべき行動だな☆=Arg!. As a star, this is exactly the sort of thing I should be using my influence to spread the word about☆
 !FILE:EV1420_022.bscr
 何で　そんなに|嬉しそうなの～ん♪=What's the reason for that big grin of yours, huh♪?
 椿がようやく自分の殻を|破りつつあるからだぜ　ダンナ！=Tsubaki's finally starting to break out of her shell, boss!
@@ -8005,15 +8005,15 @@
 椿は|ようやく自分の殻を破りつつある！=Tsubaki's busy breaking out of her shell!
 これだけは言っておこう☆|ひやっはははははは☆=And that's all I've got to say☆ Yahahahahahaha☆
 この頃の椿は|やけに思いつめていますが|何かあったのですか？=Tsubaki has been extremely preoccupied recently. Has something happened?
-心配なのかよ博士？=You're worried about her, aren't you, professor?
-ええ　心配です・・・=Yes, I am...
+心配なのかよ博士？=You're worried about her, aren't you, Professor?
+ええ　心配です・・・=Yes, I am.
 なんだ安心したぜ|博士にも　そういう感情が|ちゃんとあるんだな☆=What a relief! Here I was thinking you didn't even have feelings☆
 !FILE:EV1420_056.bscr
 この頃の椿は|やけに思いつめていますが|何かあったのですか？=Tsubaki has been extremely preoccupied recently. Has something happened?
 !FILE:EV1420_062.bscr
 おうブラック☆スター|一人でなんて珍しいな！|それに　何で嬉しそうなんだ=Oh, Black☆Star! Not too often I see you all alone. And yet you seem really excited.
 椿がようやく自分の殻を|破りつつあるからだぜ！=Tsubaki's finally breaking out of her shell!
-椿がどうかしたのか？=Did something happen to Tsubaki?
+椿がどうかしたのか？=Did something happen to her?
 おっと・・・なんでもねェよ|シド先生！=Oops... It's nothing, Sid!
 そういえば椿のやつ|最近やけに思いつめているが|何かあったのか？=Now that I think about it, she has been brooding over something. Are you sure nothing happened?
 知らねェよ！|あんなもんじゃねェのか？=I don't know! Does it matter?
@@ -8030,7 +8030,7 @@
 どうしたんだよ|カリスマジャスティスが|読みたくなったのか？=What's wrong? You don't want to read any Charisma Justice?
 そんなことじゃなくて・・・|あの・・・私・・・キッド君に同行して|お手伝いがしたいの・・・=It's not that... It's that... I... I was hoping we could go with Kid and lend him a hand...
 はぁ　なんでボンボンの|手伝いなんかしなきゃ|なんねェんだよ！=Huh? Why do we need to help that spoiled rich kid!?
-ダメかしら|ブラック☆スター・・・=Please, Black☆Star...
+ダメかしら|ブラック☆スター・・・=Please, Black☆Star.
 まぁ　気が向いたら|話くらい聞きにいってやるよ！=Well, if it means that much to you, I can at least go listen to him!
 !FILE:EV1420_075.bscr
 ・・・・・・・・・=.........
@@ -8046,14 +8046,14 @@
 今　俺達は博士に|任務を依頼されたので|同行チームをさがしている=The professor made a request, so I'm looking for a team to accompany us.
 どんな内容なんだよ？=What sort of request?
 簡単に言えば|ある物を取ってくるだけなのだ=To put it simply, we just need to retrieve something.
-なんだよ戦闘が|メインじゃねェのかよ！|全然興味ねェ・・・=What? That's not combat focused at all! I'm not interested...
+なんだよ戦闘が|メインじゃねェのかよ！|全然興味ねェ・・・=What? That's not combat focused at all! I'm not interested.
 そういうな|珍しい花らしいぞ|一見の価値はあるはずだ=As you say, but it looks like they're some sort of rare flowers. Should be worth a look.
-キッド君　その花って|わけてもらえますか？=Kid, would it be possible to split the flowers?
+キッド君　その花って|わけてもらえますか？=Kid, would it be possible to keep some of the flowers for ourselves?
 博士に聞いてみないと|わからないが・・・おそらくは|問題ないだろう=Won't know until you ask the professor, but I don't see why not.
-花？|花なんか取りにいくのかよ？|そんな趣味は俺様にはねェよ！=Flowers!? You want me to go pick some flowers? You can count me out!
-そんなこと言わないで|ブラック☆スター・・・|キッド君と一緒に行きましょう=Just do it for me, Black☆Star... Let's go with Kid.
+花？|花なんか取りにいくのかよ？|そんな趣味は俺様にはねェよ！=Flowers!? You want me to go pick flowers? You can count me out!
+そんなこと言わないで|ブラック☆スター・・・|キッド君と一緒に行きましょう=Just do it for me, Black☆Star. Let's go with Kid.
 なんでそんなに|こだわってんだ？|意味わかんねェ=I really don't get what the fuss is over flowers.
-正直　お前達に|手伝ってもらうほどのことではない|俺達だけでやってもいいくらいだ・・・=This honestly doesn't require your help. My team could do this on our own...
+正直　お前達に|手伝ってもらうほどのことではない|俺達だけでやってもいいくらいだ・・・=This honestly doesn't require your help. My team could do this on our own.
 キッド君は黙っててください=I didn't ask you, Kid!
 うむ・・・=Okay...
 お願いよ|キッド君達に同行して|お手伝いをしましょう=Please. I really want to go with Kid.
@@ -8061,35 +8061,35 @@
 ありがたい|おかげで助かったぞ！=Thanks. You were a great help!
 取ってきた花は|どこにあるんですか？=Where are the flowers we found?
 博士からの依頼だからな|リズとパティに頼んで届けて|もらっている=The professor requested them, so I asked Liz and Patty to deliver them.
-博士の所ですね|ありがとう　キッド君・・・=The professor. Okay. Thanks, Kid...
+博士の所ですね|ありがとう　キッド君・・・=The professor. Okay. Thanks, Kid.
 すぐに　行きましょう|ブラック☆スター！=There's no time to waste, Black☆Star!
 椿　おめェ　なんでそんなに|張り切ってんだよ・・・=Tsubaki, why are you so obsessed with this?
 !FILE:EV1420_096.bscr
 取ってきた花は|どこにあるんですか？=Where are the flowers we found?
 博士からの依頼だからな|リズとパティに頼んで届けて|もらっている=The professor requested them, so I asked Liz and Patty to deliver them.
-博士の所ですね|ありがとう　キッド君・・・=The professor. Okay. Thanks, Kid...
+博士の所ですね|ありがとう　キッド君・・・=The professor. Okay. Thanks, Kid.
 !FILE:EV1420_102.bscr
 話は聞きましたよ|君達も俺の依頼を|手伝ってくれたみたいですね=I heard. It seems you two also helped to fulfill my request.
 博士　お願いです|あの花を　わけてもらえないでしょうか？=Professor, please. Would it be possible to share some of those flowers?
-いいですよ椿・・・|よくわかりませんが|何か事情がありそうですね・・・=Of course, Tsubaki... I don't know why you want them, but you seem to have your reasons...
-遺伝子はもう採取したので|俺にはもう必要ありません|好きなだけ持っていってください・・・=I've already harvested their genes, so I no longer require them. Please help yourself to as many as you'd like...
-ありがとうございます博士=Thank you, professor.
+いいですよ椿・・・|よくわかりませんが|何か事情がありそうですね・・・=Of course, Tsubaki. I don't know why you want them, but you seem to have your reasons.
+遺伝子はもう採取したので|俺にはもう必要ありません|好きなだけ持っていってください・・・=I've already harvested their genes, so I no longer require them. Please, help yourself to as many as you'd like.
+ありがとうございます博士=Thank you, Professor.
 花は倉庫のほうに|おいてありますよ=You'll find them stored away over there.
 おいおい大丈夫かよ|悪魔と取引したようなもんだぜ！=Woah, are you sure about this? It's like making a deal with the devil!
 !FILE:EV1420_106.bscr
 話は聞きましたよ|君達も俺の依頼を|手伝ってくれたみたいですね=I heard. It seems you two also helped to fulfill my request.
 !FILE:EV1420_107.bscr
-さてと例のブツを取りにいくんだろ|どこに置いてあるんだっけ？=Well, you've got what you came for. So where are you going to put them?
+さてと例のブツを取りにいくんだろ|どこに置いてあるんだっけ？=Well, you've got what you came for.|So where are you going to put them?
 ブラック☆スター|ごめんなさい　ここから先は|私一人にやらせてちょうだい=Black☆Star, I'm sorry, but I'd like to be alone for a while.
 そりゃかまわねェけどよ|何をそんなに熱くなってんだよ？=You can do whatever you want, but what's bothering you?
 ごめんなさい・・・|でも一人でやらせてほしいの=Sorry... I just really need to be alone right now.
-それとたびたびで悪いんだけど|死武専を抜け出すから|みんなには　内緒にしててね=Also, I know I keep breaking the rule, but I'm going to be leaving the school again, so please don't tell anyone.
+それとたびたびで悪いんだけど|死武専を抜け出すから|みんなには　内緒にしててね=Also, I know I keep breaking the rules, but I'm going to be leaving the school again, so please don't tell anyone.
 あせる気持ちはわかるけどな|急には大物にはなれねェぜ☆=Don't worry. I understand your anxiousness. It takes time to get used to being one of the big guys☆
-大物は無理になろうって|するもんじゃなくて|なってるもんだからよ！=The big guys aren't worried about getting overwhelmed because that's how you get big!
+大物は無理になろうって|するもんじゃなくて|なってるもんだからよ！=You get used to it. Getting overwhelmed is how you get big!
 もしくは俺様みたいに|生まれついてとかな|ひやっはははははは☆=Or you can be born big like me! Yahahahahahaha☆
 ありがとう・・・|それじゃあ行ってくるわね=Thanks... Okay. I'll be back in a little while.
 行っちまったよ・・・|あいつ一体何やってんだ・・・=She left again... What could she be doing?
-小物の考えはわかんねェ|小物に聞いてみるしかねェな・・・=I don't know how to think like a small person, so I guess I should try asking a small person...
+小物の考えはわかんねェ|小物に聞いてみるしかねェな・・・=To think like one of the little guys, you have to be a little guy... I'll ask the others.
 !FILE:EV1420_112.bscr
 椿のヤツ|ちょっと変じゃねェか？=Tsubaki's been acting kind of weird, right?
 実は私も|そう思ってたんだ=The truth is, I've been kind of thinking the same thing.
@@ -8102,17 +8102,17 @@
 !FILE:EV1420_122.bscr
 一人なんて珍しいね|ブラック☆スター=I almost didn't recognize you by yourself, Black☆Star.
 椿のヤツ|ちょっと変じゃねェか？=Tsubaki's been acting kind of weird, right?
-そうだね椿ちん|変だね～♪=Sure is. Tsubaki's a weirdo♪
-私とお姉ちゃんのこと|ジッと見ている時があるよ♪=Sometimes she just stares at me and my sis♪
+そうだね椿ちん|変だね～♪=Sure has. Tsubaki's a weirdo♪
+私とお姉ちゃんのこと|ジッと見ている時があるよ♪=Sometimes she just stares at me and sis♪
 椿が？お前達に！？=Tsubaki? You two!?
 お姉ちゃんが欲しいんだったら|いつでもあげるって|言っておいてね♪=Tell her that I'll let her borrow sis whenever she wants, okay♪?
-リズが聞いたら|悲しむぜ　パティ・・・=Liz would be pretty sad if she heard you say that, Patty...
+リズが聞いたら|悲しむぜ　パティ・・・=Liz would be pretty sad if she heard you say that, Patty.
 !FILE:EV1420_126.bscr
 お姉ちゃんが欲しいんだったら|いつでもあげるって|言っておいてね♪=Tell her that I'll let her borrow sis whenever she wants, okay♪?
 !FILE:EV1420_132.bscr
-なぁ先生　椿のヤツ|ちょっと変じゃねェか？=Hey, doctor. Tsubaki's been acting a little strange, don't you think?
+なぁ先生　椿のヤツ|ちょっと変じゃねェか？=Hey, Doctor. Tsubaki's been acting a little strange, don't you think?
 本当？どこか体の|調子でも悪いのかしら♪=Really? Maybe she has a serious illness♪
-先生　なんか嬉しそうだな|博士みたいだぜ・・・=Why do you seem happy about that? You're starting to look like the professor...
+先生　なんか嬉しそうだな|博士みたいだぜ・・・=Why do you seem happy about that? You're starting to look like the professor.
 そんなことないわよ|ブラック☆スター君=That's not true, Black☆Star.
 でも研究者として博士と一緒にされるのは|悪い気分じゃないわ♪=Although, as a researcher myself, it doesn't feel so bad to be compared to the professor♪
 よくわかんねェよ|その感性・・・=I don't think I want to know what you're talking about...
@@ -8127,20 +8127,20 @@
 どうだったんだよ先生！？=So was there anything weird!?
 いや　まったく問題はない|いたって平和だ・・・ただ・・・=No, nothing whatsoever. It was extremely peaceful... However...
 どうしたんだよ先生=Was something wrong, Sid?
-当たり前の話だが|椿の兄　マサムネの霊を|なぐさめるようなものは何もなかった・・・=It's wholly understandable, but there was nothing there for the purpose of soothing the spirit of Tsubaki's older brother, Masamune...
+当たり前の話だが|椿の兄　マサムネの霊を|なぐさめるようなものは何もなかった・・・=It's wholly understandable, but there was nothing there for the purpose of soothing the spirit of Tsubaki's older brother, Masamune.
 なんにもなしかよ・・・=Nothing, huh?
 そうだ　社や慰霊碑や墓|何もない・・・=Not a shrine or a memorial. Not even a simple tombstone...
-無理もない話かもしれん|村人にとっては忌むべき|存在だったのだから・・・=It's probably to be expected. After all, he was shunned by the villagers...
+無理もない話かもしれん|村人にとっては忌むべき|存在だったのだから・・・=It's probably to be expected. He was shunned by the villagers.
 ったく　だから小物はダメだぜ！|あの村にはロクなヤツがいねェな！=Honestly, that's why I hate the weak and cowardly! There isn't a decent person in that village!
 そういうな|ブラック☆スター|村人の気持ちもわかってやれ！=Careful what you say, Black☆Star. You must try to understand how the villagers must feel!
-しかし　何もないというのは|さみしいものだ・・・俺も昔はさみしがりや|そんな男だった・・・=But nothing... It must have been a life of incredible solitude... I was lonely once. That's the kind of man I was.
+しかし　何もないというのは|さみしいものだ・・・俺も昔はさみしがりや|そんな男だった・・・=But nothing... It must have been a life of incredible solitude. I, too, was lonely once. That's the kind of man I was.
 !FILE:EV1420_146.bscr
 ったく　だから小物はダメだぜ！|あの村にはロクなヤツがいねェな！=Honestly, that's why I hate the weak and cowardly! There isn't a decent person in that village!
 そういうな|ブラック☆スター|村人の気持ちもわかってやれ！=Careful what you say, Black☆Star. You must try to understand how the villagers must feel!
-しかし　何もないというのは|さみしいものだ・・・俺も昔はさみしがりや|そんな男だった・・・=But nothing... It must have been a life of incredible solitude... I was lonely once. That's the kind of man I was.
+しかし　何もないというのは|さみしいものだ・・・俺も昔はさみしがりや|そんな男だった・・・=But nothing... It must have been a life of incredible solitude. I, too,  was lonely once. That's the kind of man I was.
 !FILE:EV1420_147.bscr
-ようやくわかったぜ|椿のヤツ　まだアニキのこと|ひきずってやがるな・・・=I understand now. Tsubaki's been carrying around the thought of her brother...
-いいかげんアイツも|帰ってきた頃だろう・・・=I think she should be getting back any time now...
+ようやくわかったぜ|椿のヤツ　まだアニキのこと|ひきずってやがるな・・・=I understand now. Tsubaki's been carrying around the thought of her brother.
+いいかげんアイツも|帰ってきた頃だろう・・・=I think she should be getting back any time now.
 しょうがねェ！|小物のフォローも　スターの役割だからな！|ひやっはははははは☆=That's it then! Sometimes the star's role is to go along with the supporting actors! Yahahahahahaha☆
 !FILE:EV1420_150.bscr
 こんな所にいたのかよ=There you are, Tsubaki.
@@ -8150,12 +8150,12 @@
 でもよ　お前のアニキの身体は・・・=But... your brother's body...
 ええ|私との戦いに敗れたので消滅したわ=Yes. His body disappeared when I defeated him.
 じゃあ　その墓には|何が入ってるんだ？=Then what do you put in the grave?
-何も入ってないわ　カラッポよ・・・=Nothing. It would be empty...
+何も入ってないわ　カラッポよ・・・=Nothing. It would be empty.
 でも　何もないからって|お墓までないのはさみしすぎるから|自分でお墓作っちゃったの=But his spirit must be so lonely with nothing, not even a tombstone. So I made him one myself.
 椿・・・=Tsubaki...
-今日　キッド君達の|手伝いをせがんだのは|お花が欲しかったから・・・=I was so insistent about helping Kid today because I wanted the flowers...
-あのお花は兄さんの|好きなお花に似てるの=Those flowers would remind him of his favorite flower.
-だから　どうしても|兄さんの墓前に供えたかった・・・=So I had to have them to put on his grave no matter what...
+今日　キッド君達の|手伝いをせがんだのは|お花が欲しかったから・・・=I was so insistent about helping Kid today because I wanted the flowers.
+あのお花は兄さんの|好きなお花に似てるの=They would remind him of his favorite flower...
+だから　どうしても|兄さんの墓前に供えたかった・・・=So I had to have them to put on his grave no matter what.
 ・・・・・・・・・=.........
 ありがとう　ブラック☆スター|私のワガママを聞いてくれて・・・|兄さんも喜んでくれたと思うわ=Thanks, Black☆Star. You followed along with me even though I was being selfish, and... I think my brother is happy too now.
 大丈夫か？|ホントに平気か？=Are you gonna be okay? Really, you can talk to me.
