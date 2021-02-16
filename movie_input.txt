@@ -46,8 +46,8 @@
 86:144:いよいよメインステージだぜ！=We're finally on the main stage!
 152:181:行くぜ　椿！=And action, Tsubaki!
 182:225:はい　ブラック☆スター=Let's do it, Black☆Star!
-372:420:お　オデの大事な=My pr-precious...
-421:477:た　宝物=Tr-Treasure.
+372:420:お　オデの大事な=372:477:My pr-precious tr-treasure...
+421:477:た　宝物=!
 531:568:お　おお・・・=Y-Yes...
 569:604:ま　まっデろ=I kn-know!
 605:666:もっとタンと魂　ああ=Even more souls... Yes.
@@ -64,8 +64,8 @@
 1260:1342:こ　これはオデの宝物ダで！=Th-This is my treasure!
 1427:1458:うぐぁおぉ！=UrgrooOoh!
 1459:1551:お　オデの魂集めの邪魔は|さ　させね～ど！= I'll gather as many souls as it t-takes!|A-And I won't let anyone get in my way!
-1580:1606:宝？=Treasure?
-1607:1659:この俺様との出会いこそが=Meeting me...
+1580:1606:宝？=1580:1608:Treasure?
+1607:1659:この俺様との出会いこそが=1607:1661:Meeting me...
 1660:1727:お前にとっての本当の宝なんだぜ！=Now that's the real treasure!
 1747:1804:ブラック☆スター！　床が！=Black☆Star! The floor!
 1805:1892:ウオオオオオオオ=Uuooooogh!

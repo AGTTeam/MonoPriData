@@ -18,7 +18,7 @@
 黒血　その後の二人=In Black Blood
 マカが欲しいもの=What a Girl Desires
 直せ死武専=DWMA Renovation
-椿は健康が心配=Tsubaki's Health Concerns
+椿は健康が心配=Health Concerns
 私の睡眠ライフ=My Life of Sleep
 おばちゃんの秘密=Auntie's Secret
 こだわりの二丁拳銃=Neurosis Akimbo#Twin Pistol Neurosis would be another possibility.
@@ -205,9 +205,9 @@
 なに？=What?
 キャッ！=Kya!
 な　なんだコイツらは？=W-Who are these guys?
-ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gigi! A meister and a magic weapon... Death sent his drones, huh?#I welcome any suggestions for the laughing sound effects. –I think it sounds a bit like 'Gehehe'#For reference, this line plays at 3:54 in the 5th video in Soul Reaper's Youtube playlist.
+ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gehe! A meister and a magic weapon... Death sent his drones, huh?#I welcome any suggestions for the laughing sound effects. –I think it sounds a bit like 'Gehehe'#For reference, this line plays at 3:54 in the 5th video in Soul Reaper's Youtube playlist.
 あぁ？|だったらどうする=Yeah? And what if he did?
-ギギギ・・・|生かして帰さない！=Gigigi! Leave now and you'll live!
+ギギギ・・・|生かして帰さない！=Gehehe! Leave now and you'll live!
 けっ！　ザコどもが！|後悔するぜ！=Hmph! A couple of pests!|You'll regret this!
 ソウル！=Soul!
 おう！|クールにいくぜ！=Yeah! Let's make it cool!
@@ -917,9 +917,9 @@
 めんどくさいから|ちゃっちゃと片付けようぜ=Let's just get this over with...
 うん|行こっ　ソウル=Yeah. Let's get going, Soul!
 !FILE:EV0201_400.bscr
-ギギギ・・・=Gigigi!
+ギギギ・・・=Gehehe!
 あ！|コイツらは こないだの！=Hm, those guys from the other day?
-ギギギ！|・・・またお前らか=Gigigi!|...You again!?
+ギギギ！|・・・またお前らか=Gehehe!|...You again!?
 そりゃ　こっちの台詞だ！=That's my line!
 ソウル！=Soul!
 わかってるって！=I know. I know.
@@ -1593,10 +1593,10 @@
 ソウル！=Soul!
 おおよ！=Yeah!
 !FILE:EV0301_400.bscr#Alone mission end of day 3
-ギギギ・・・=Gigigi!
+ギギギ・・・=Gehehe!
 やっぱり出たわね=I figured you'd show up.
 職人！|魔武器だ！|死神の手先！=A meister! And a magic weapon! Death's drones!
-ギギギ・・・|お前らも我々の邪魔をするのか=Gigigi! Are you going to try to get in our way?
+ギギギ・・・|お前らも我々の邪魔をするのか=Gehehe! Are you going to try to get in our way?
 お前らも？　ってことは|こいつらも　城に向かってるのか？=Get in their way? Does that mean they're going to the castle too?
 行くよ　ソウル！=Let's do this, Soul!
 ああ！=Yeah!
@@ -2331,7 +2331,7 @@
 お前・・・　何モンだ！=You... Who are you!?
 パラポネラ・・・の一人=He belongs to... Paraponera.
 パラポネラ？=Paraponera?
-魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan... born of magic that nests deep underground...
+魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
 そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The witch, Ponera, is our magnificent queen.
@@ -2966,7 +2966,7 @@
 はい=Yes, sir.
 魔女は　シド先生と生徒達に任せましょ♪=We'll entrust the witch to Sid and the students♪
 !FILE:EV0500_502.bscr
-ギギィ|ポネラ様・・・　これを・・・=Gigi! Madame Ponera... This...
+ギギィ|ポネラ様・・・　これを・・・=Gehe! Madame Ponera... This...
 南の洞窟に落ちておりました・・・=It was found in the southern cave.
 それって・・・=That's...
 そんなっ・・・　グリモアが|私のグリモアが・・・　いやよ|いやああぁぁぁ！=That means... Grimoire is... My Grimoire is... No... Nooooooo!
@@ -5974,7 +5974,7 @@
 ♪　相変わらず　トッポいね～=Still as cocky as ever♪
 最近　この手の事件が急増して|人手が足りなくてな=There's been a recent surge in the number of disappearances, and we're a little short on help.
 でも　目立つチャンスじゃない？|ブラック☆スター=You know, this might be a good chance to get some attention, Black☆Star.
-まぁ　不満だが|椿をデスサイズにしてやるためにゃ|しょーがねーか=I'm not that interested, but if we're going to turn Tsubaki into a Death Scythe, I guess we don't have a choice.
+まぁ　不満だが|椿をデスサイズにしてやるためにゃ|しょーがねーか=I'm not that interested, but if we're going to turn Tsubaki into a Death Scythe, I guess we have to help.
 !FILE:EV1100_311.bscr
 うい～すっ！！　おつかれさ～ん|君たちが引き受けてくれるのね～♪=Wazzaaa!! Thanks for coming. I could reeeally use your help♪
 !FILE:EV1100_312.bscr
@@ -5984,7 +5984,7 @@
 うっすうーっす♪|二人とも　ご苦労さ～ん♪|で　どう調査の成果は？=Whaaat is up♪? You two all right♪? How did the investigation go?
 スターの成果は|計り知れないに　決まってんだろ！=Isn't it obvious? You put a star on the case and the bad guy gets caught!
 あの|犯人の男は　仕留めたんです=The culprit was brought down.
-うじゃうじゃいた　小物ともども|俺のビッグさに　耐え切れず|ペチャンコだぜ！=My teammates were a little small, but my bigness totally crushed him!
+うじゃうじゃいた　小物ともども|俺のビッグさに　耐え切れず|ペチャンコだぜ！=There were some small fry that showed up too, but my bigness totally crushed them!
 でも|男が集めた魂が　見つからなくて=But we were unable to locate the souls that were in his possession.
 ん？　魂が見つからない？|その犯人は　魂を食べていたわけじゃ|ないんですか？=Huh? Souls in his possession? You mean to say that he didn't eat them?
 はい|自分で集めたって　言ってたんですけど=No. He mentioned collecting them himself.
@@ -5997,7 +5997,7 @@
 ソウルとマカは寝て待ってろ！|いくぜ　椿！=Soul, Maka, just wait here and relax! Let's go, Tsubaki!
 ちょっ・・・=Wai...
 もう　ブラック☆スター|みんな呆れてたじゃない=Hey! Why'd you run off on your own?
-俺様のオーラに　ビビッてんのさ|それより椿　あの建物からビンビン感じるぜ|怪しいムードがよ=Everyone would just be intimidated by my aura. But more importantly, Tsubaki, I've got a really weird feeling about that building over there. Something seems strange about it.
+俺様のオーラに　ビビッてんのさ|それより椿　あの建物からビンビン感じるぜ|怪しいムードがよ=They'd just be intimidated by my aura. More importantly, that building is giving me a weird feeling. It's strange.#must be kept short
 特に怪しいところも　ないようだけど|ブラック☆スターは　何か感じるの？=I don't sense anything particularly strange. Are you sure you really sense something, Black☆Star?
 ああ！|俺様のカンが　そういっている！=Yeah! It's like a sixth sense of mine!
 はいはい　そうよね|じゃあ　行きましょ=Right, a sixth sense. Well, should we check it out?
@@ -6007,9 +6007,9 @@
 !FILE:EV1101_401.bscr
 な　なんなの？=Wh-What?
 俺様の前に立ちはだかるとは|一億年はえぇ！=You're still light years from blocking my path!#Basically impossible to translate both directly and naturally, so I went with a slight reference to Brock's gym in gen 1 Pokémon which shares the idea.
-ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gigi! A meister and a magic weapon... Death sent his drones, huh?
+ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gehe! A meister and a magic weapon... Death sent his drones, huh?
 そういう　おメェらは|どっから見ても　ザコだな=What did you say? I couldn't hear you over the drone of my fans.
-ギギギ・・・|生かして帰さない！=Gigigi! Leave now and you'll live!
+ギギギ・・・|生かして帰さない！=Gehehe! Leave now and you'll live!
 わかってねぇな|お前達が　俺のステージから|帰りたくなくなるのさ！　椿！=This stage isn't big enough for all of us! Tsubaki!
 はい！=Roger!
 おらァァ！|俺ステージの　始まりだァァ！！=All right! Keep the spotlight on me!!
@@ -6413,13 +6413,13 @@
 あれ　もう帰ってきたのか？=Huh? Back already?
 ええ　ブラック☆スター|あなたの側にいるのが|一番　楽だと気づいたの・・・=Yeah. I realized that I feel the most relaxed when I'm by your side, Black☆Star...
 改めて|俺様の偉大さに気づいたようだな☆=So you've finally come to recognize my greatness☆
-だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=But, fyi, it's not my problem if you get so caught up in my reliableness that you forget how to be independent!#Not sure 'fyi' really fits with Black☆Star's character, 'just so you know' is too long but I thought it needed some kind of softener.
+だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=Just don't rely on me too much and forget how to be independent!
 ひやっはははははは☆=Yahahahahahaha☆
 そうね　ブラック☆スター・・・|あなたはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 !FILE:EV1121_065.bscr
 改めて|俺様の偉大さに気づいたようだな☆=So you've finally come to recognize my greatness☆
 !FILE:EV1121_066.bscr
-だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=But, fyi, it's not my problem if you get so caught up in my reliableness that you forget how to be independent!
+だけど椿！俺様に頼りきりで|独り立ちできなくなっても|しらないからな！=Just don't rely on me too much and forget how to be independent!
 ひやっはははははは☆=Yahahahahahaha☆
 そうね　ブラック☆スター・・・|あなたはある意味　偉大だわ・・・=You really are amazing, Black☆Star...|in a sense...
 !FILE:EV1122_000.bscr#ダミースターで・・・ = Dummy☆Star... part 4
@@ -6591,7 +6591,7 @@
 考えるだけで|気が重くなってきたわ・・・=I'm bummed out just thinking about it.
 !FILE:EV1200_000.bscr#morning class day 2 part 5 moved to common
 !FILE:EV1200_100.bscr
-午後の課外授業　楽しみね|ブラック☆スター=The Extracurricular Class this afternoon should be fun, don't you think, Black☆Star?
+午後の課外授業　楽しみね|ブラック☆スター=The extracurricular class this afternoon should be fun, don't you think, Black☆Star?
 ビッグな　俺様に|ふさわしい授業にしてやるぜ=Finally! A class worthy of a big man like me!
 !FILE:EV1200_200.bscr#afternoon class Nars mission, mostly moved to Maka common (EV0200_200)
 んあ？|博士じゃねぇのか？=Huh? You aren't the professor.
@@ -6625,9 +6625,9 @@
 ・・・・・・・・・=.........
 行きましょ|ブラック☆スター=Let's go, Black☆Star.
 !FILE:EV1201_400.bscr
-ギギギ・・・=Gigigi!
+ギギギ・・・=Gehehe!
 あぁ？|こないだの　小物どもじゃねぇか！=Huh? You're those pests from the other day!
-ギギギ！|・・・またお前らか=Gigigi!|...You again!
+ギギギ！|・・・またお前らか=Gehehe!|...You again!
 出やがったな！　確かに|俺様はスターだが　オメェらみたいな|追っかけはお断りだぜ！椿！=The nerve of them! A star like me needs his fans, but with an ugly mug like yours I'm gonna have to decline your application! Tsubaki!
 はい！=Roger!
 !FILE:EV1201_401.bscr
@@ -6679,30 +6679,30 @@
 マカはここにはいない|代わりにスターである|俺様では不足か？=Maka's gone, and she's been replaced with a star. Am I not enough for you?
 ああ　不足だ|残念ながら|お前は保健室に呼ばれてねェ=Yeah, too much even. Unfortunately, you weren't the one called to the infirmary.
 マカちゃん|どこか悪いのかしら？=Is Maka hurt?
-詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=We don't know for sure yet... But after our battle with that Magic Eye, it seemed like there was something wrong...
-あれから何回か|検査のために保健室に通ってるぜ=I lost count of all the times she's gone back to the infirmary for check-ups since then.
+詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=I don't know the details, but after our battle with that Magic Eye, it seemed like there was something wrong...
+あれから何回か|検査のために保健室に通ってるぜ=I've lost count of all the times she's gone back to the infirmary for check-ups since then.
 魔眼との戦いは|厳しいものだったから・・・|マカちゃん大丈夫かしら？=The battle with the Magic Eye was difficult... I hope she'll be all right.
 そうか？あんまり|覚えてねェな？=Really? I barely even remember that fight.
 開始早々|ガス欠になって倒れていれば|覚えてないでしょうね・・・=It's normal that you don't remember anything. You ran out of gas and passed out as soon as it started...
 とにかく|あいつに会ったら|検査に行くよう伝えてくれ=Anyway, if you see her, tell her to go to the infirmary.
 !FILE:EV1220_006.bscr
 マカちゃん|どこか悪いのかしら？=Is Maka hurt?
-詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=We don't know for sure yet... But after our battle with that Magic Eye, it seemed like there was something wrong...
-あれから何回か|検査のために保健室に通ってるぜ=I lost count of all the times she's gone back to the infirmary for check-ups since then.
+詳しくは教えてくれねェけど・・・|魔眼との戦いの後で|どこか悪くしたみたいなんだ・・・=I don't know the details, but after our battle with that Magic Eye, it seemed like there was something wrong...
+あれから何回か|検査のために保健室に通ってるぜ=I've lost count of all the times she's gone back to the infirmary for check-ups since then.
 !FILE:EV1220_007.bscr
 マカちゃんに|伝言を伝えに行きましょう|ブラック☆スター=Let's go pass on the message to Maka, Black☆Star.
 わかったぜ|小物達のフォローも|スターの役目だからな！=Okay. Sometimes the role of a star is to follow the nobodies!
 !FILE:EV1220_012.bscr
-マカちゃんを知りませんか=You know Maka pretty well, don't you?
-この時間帯は屋上にいると思うぞ？=I suspect she'd be on the roof at this time of day.
-ありがとうございます|ところで何でマカちゃんの|居場所がわかるんですか？=Thank you very much, but how do you know where Maka is all the time?
-マカの行動は大体把握している|後をつけて調べたからな！=Her usual routine is easy to grasp when you follow her closely!
+マカちゃんを知りませんか=Do you know where Maka is?
+この時間帯は屋上にいると思うぞ？=I suspect she'll be on the roof at this time of day.
+ありがとうございます|ところで何でマカちゃんの|居場所がわかるんですか？=Thank you very much. But, how do you know where Maka is all the time?
+マカの行動は大体把握している|後をつけて調べたからな！=Her usual routine is easy to grasp when you follow her around!
 !FILE:EV1220_016.bscr
-マカの行動は大体把握している|後をつけて調べたからな！=Her usual routine is easy to grasp when you follow her closely!
+マカの行動は大体把握している|後をつけて調べたからな！=Her usual routine is easy to grasp when you follow her around!
 !FILE:EV1220_022.bscr
-マカちゃんは　まだ|こちらに来ていないんでしょうか？=Has Maka come by here yet by any chance?
+マカちゃんは　まだ|こちらに来ていないんでしょうか？=Has Maka come by here, by any chance?
 えぇ　まだ来てないわ=No, not yet.
-アイツは　どこが|悪ィんだよ先生！=What's wrong with her, Doctor!?
+アイツは　どこが|悪ィんだよ先生！=What's wrong with her, Doctor?
 詳しいことは|私から言う事ができないから|本人に聞いてみてちょうだい？=You'll have to ask the patient directly. I'm not allowed to share private information.
 そうですね　わかりました=Thank you, Doctor.
 それじゃあ|マカちゃんを見かけたら|私の所まで来るように伝えてね♪=If you see Maka, please ask her to come by and see me♪
@@ -6712,9 +6712,9 @@
 メデューサ先生が呼んでいましたよ|マカちゃん=Dr. Medusa wanted to see you, Maka.
 いけないスッカリ忘れてたわ|そうそう　検査の時間だったわね・・・=Oh, no! I totally forgot. I had an appointment for a check-up.
 ありがとう　二人とも|わざわざ知らせに来てくれたのね=Thanks for coming to remind me, you two.
-なぁ　お前　どっか悪ィのか？|魔眼戦の後になんかあったんだろ？|椿が心配してたぜ！=Hey, what's wrong with you anyway? Is it because of the fight with the Magic Eye? Tsubaki's been worried about you!
+なぁ　お前　どっか悪ィのか？|魔眼戦の後になんかあったんだろ？|椿が心配してたぜ！=Hey, what's wrong with you anyway? Is it because of the fight with the Magic Eye? Tsubaki's been worried!
 あんたは心配してくれたの|ブラック☆スター？=And you weren't worried about me, Black☆Star?
-俺様はそんなチマチマしたことは|心配していない！|心配するのは世界の平和だけだ☆=I can't worry about such small things! The only thing I'm worried about is world peace!☆
+俺様はそんなチマチマしたことは|心配していない！|心配するのは世界の平和だけだ☆=I can't worry about such small things! The only thing I'm worried about is world peace☆
 ブラック☆スターには|直接言いたくないから|あっち行ってて=I don't want to tell you directly, Black☆Star, so you go stand over there.
 なんだと　マカのくせに！=Why won't you tell me, Maka!?
 あはは　落ち着いて・・・|私があとで教えてあげますから=Ahaha. Calm down... I'll tell you after, okay?
@@ -6722,7 +6722,7 @@
 うん|私はブラック☆スターに|直接言いたくないだけだから=Yeah. I just don't want to talk to him directly. That's all.
 そういうわけだから|ブラック☆スター・・・=In that case... Black☆Star...
 ちっ　わかったよ|じゃあ　後でな☆=Hmph! I get it! Later☆
-ふぅ・・・それでマカちゃん|魔眼戦のあとに何があったんです・・・=Phew... So Maka? Did something happen after the fight with the Magic Eye?
+ふぅ・・・それでマカちゃん|魔眼戦のあとに何があったんです・・・=Phew... So Maka? Did something happen after the fight with the|Magic Eye?
 私・・・|血を吐いてしまったの・・・=I... spit up some blood...
 えっ　血を？=Huh? Blood?
 ただの血だったら|戦闘中　よくあることじゃない|でも　私が吐いた血は黒かった・・・=It's normal to spit up blood after a battle, right? But this time the blood was black...
@@ -6736,7 +6736,7 @@
 この間　指を切った時にも|ちゃんと赤いのが出たわよ=Now when I cut my finger or something, the blood is red like normal.
 !FILE:EV1220_037.bscr
 それじゃあ私|保健室にいって|検査を受けてくるね！=Okay then. I'm going to the infirmary for my check-up now!
-どうだった　椿？|アイツ・・・どこが悪いんだよ？=Well, Tsubaki? What's... wrong with her?
+どうだった　椿？|アイツ・・・どこが悪いんだよ？=Well, Tsubaki? What's wrong with her?
 ええ・・・マカちゃん|魔眼との戦いの後|黒い血を吐いたんだって・・・=Well... After the fight with the Magic Eye, Maka spit up some black blood...
 やっぱりアイツ|地球外生命体だったか！|前々から怪しいとは思ってたけどな=I knew it! She's an alien! I was sure since the beginning that there was something weird about her.
 もう　ブラック☆スター！=That's not nice, Black☆Star!
@@ -6745,35 +6745,35 @@
 マカは見つかったか？=Did you find Maka?
 ええ　見つかりました|いまごろ保健室にいるはずよ=Yeah. We found her. She should be in the infirmary right now.
 しかし　お前ェもマカも弱っちいな！|その歳で保健室通いとはよ！|ひやっはははははは☆=You and Maka are so weak! Going to the infirmary at your age! Yahahahahahaha☆
-ブラック☆スターは|健康がとりえですからね|正直　うらやましいわ=Black☆Star's health is one of his greatest strengths. It makes me a little jealous honestly.
-椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're pretty strong too. You've never missed a day of school, have you?
+ブラック☆スターは|健康がとりえですからね|正直　うらやましいわ=Black☆Star's health is one of his greatest strengths. It makes me a little jealous, honestly.
+椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're strong too. You've never missed a day of school, have you?
 !FILE:EV1220_046.bscr
-ブラック☆スターは|健康がとりえですからね|正直　うらやましいわ=Black☆Star's health is one of his greatest strengths. It makes me a little jealous honestly.
-椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're pretty strong too. You've never missed a day of school, have you?
+ブラック☆スターは|健康がとりえですからね|正直　うらやましいわ=Black☆Star's health is one of his greatest strengths. It makes me a little jealous, honestly.
+椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're strong too. You've never missed a day of school, right?
 !FILE:EV1220_052.bscr
 マカには会えたのかな？=You saw Maka, right?
 ええ　会えました|今は保健室で|検査を受けているはずです=Yes, we did. She's probably in the infirmary getting her check-up now.
 なんだって|こうしては　いられない！=What? I've gotta do something!
 ・・・・・・・・・=.........
 何をしてるんですか？=What are you doing?
-見てわからないか？|早くよくなってほしい|オーラを送っているところだ=You can't tell!? I'm sending her 'Get well soon!' energy waves.
+見てわからないか？|早くよくなってほしい|オーラを送っているところだ=You can't tell!? I'm sending her "Get well soon!" energy waves.
 !FILE:EV1220_055.bscr
 ・・・・・・・・・=.........
 !FILE:EV1220_056.bscr
 何をしてるんですか？=What are you doing?
-見てわからないか？|早くよくなってほしい|オーラを送っているところだ=You can't tell!? I'm sending her 'Get well soon!' energy waves.
+見てわからないか？|早くよくなってほしい|オーラを送っているところだ=You can't tell!? I'm sending her "Get well soon!" energy waves.
 !FILE:EV1220_062.bscr
 二人とも　マカを見ません|でしたか？=Have either of you seen Maka?
 保健室で検査を|受けているはずですけど=She should be in the infirmary getting a check-up right now.
-マカが検査ですか・・・|聞いてませんね・・・=Maka's in the infirmary? ...I hadn't heard.
+マカが検査ですか・・・|聞いてませんね・・・=Maka's in the infirmary?|...I hadn't heard.
 知らなかったんですか？=You didn't know?
 ええ　初耳です・・・|そうですか・・・後で様子を|聞いてみることにしましょう・・・=No. This is the first I'm hearing of it... Right... I should try to see how she's doing later.
 !FILE:EV1220_066.bscr
-マカが検査ですか・・・|聞いてませんね・・・=Maka's in the infirmary? ...I hadn't heard.
+マカが検査ですか・・・|聞いてませんね・・・=Maka's in the infirmary?|...I hadn't heard.
 知らなかったんですか？=You didn't know?
 ええ　初耳です・・・|そうですか・・・後で様子を|聞いてみることにしましょう・・・=No. This is the first I'm hearing of it... Right... I should try to see how she's doing later.
 !FILE:EV1220_067.bscr
-そろそろマカの検査も|終わったころじゃねェか？=Maka's check-up should be finishing up pretty soon, huh?
+そろそろマカの検査も|終わったころじゃねェか？=Maka's check-up should be finished pretty soon, huh?
 気になるの|ブラック☆スター？=Are you concerned, Black☆Star?
 しょうがねェだろ|魔眼の件については|俺様にも落ち度がないとはいえない=It's natural. I can't say that I'm not at all to blame for the whole Magic Eye thing.
 そのことで小物が|ポックリいったら|寝ざめが悪ィしよ・・・=Besides, if a small thing died like that, I'd have a guilty conscience.
@@ -6796,18 +6796,18 @@
 マカちゃんから聞きましたよ=Maka told us!
 メデューサ先生からもらった薬を|取り上げたみてェじゃねェか！=We know you took the medicine that Dr. Medusa gave her!
 どうしてそんなことをするんですか？=Why would you do that?
-研究者の好奇心ですよ|メデューサ先生がつくった薬を|解析してみたくなったんです=Let's call it a researcher's curiosity. I wanted to try and analyze Dr. Medusa's medicine.
+研究者の好奇心ですよ|メデューサ先生がつくった薬を|解析してみたくなったんです=Let's call it a researcher's curiosity.|I wanted to try and analyze Dr. Medusa's medicine.
 大丈夫　安心してください|マカには俺の秘薬を|後で渡しておきますから=It's all right. Don't worry. I'll be giving Maka my own secret remedy.
 秘薬ですか・・・|ふふふ・・・|マカちゃんよろこぶと思います・・・=Secret remedy? Hehehe... I'm sure Maka will be glad to hear that...
 そうか！？|俺はぜってェいらねェよ=Yeah!? Well, I definitely don't want any!
 !FILE:EV1220_086.bscr
 大丈夫　安心してください|マカには俺の秘薬を|後で渡しておきますから=It's all right. Don't worry. I'll be giving Maka my own secret remedy.
 !FILE:EV1220_091.bscr
-ちょうどいいや|メデューサ先生が呼んでたぜ！=Just who I was looking for. Dr. Medusa was just calling for you!
+ちょうどいいや|メデューサ先生が呼んでたぜ！=Just who I was looking for. Dr. Medusa was calling for you!
 !FILE:EV1220_092.bscr
 先生が私に？|何の用なのかしら？=Calling for me? I wonder what she wants.
-検査をしたいみてェだぜ|ま　相棒が相棒だから|先生も心配なんだろうよ！=I think she wants to give you a check-up. I mean, what are friends for? She's probably a little worried about you!
-じゃあ　ブラック☆スター|この後　保健室に行ってくるわね=Well, Black☆Star? We'll go to the infirmary after this, alright?
+検査をしたいみてェだぜ|ま　相棒が相棒だから|先生も心配なんだろうよ！=I think she wants to give you a check- up. I mean, what are friends for? She's probably a little worried about you!#added space for improved word wrapping
+じゃあ　ブラック☆スター|この後　保健室に行ってくるわね=Well, Black☆Star? I'm going to go to the infirmary after this, okay?
 おうよ　俺様は|かまわねェぜ！=That's fine! It doesn't matter to me!
 それはいいんだけど|なんでお前が呼びにくるんだ？=Not that it matters, but why did you come to call for us?
 保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・=She made me pass on the message 'cause I was like... sleeping in the infirmary.
@@ -7257,10 +7257,10 @@
 おらァァ！|俺ステージの　始まりだァァ！！=All right! Keep the spotlight on me!!
 はい！=Roger!
 !FILE:EV1301_400.bscr
-ギギギ・・・=Gigigi!
+ギギギ・・・=Gehehe!
 やっぱり　出たな|この脇役集団が！=Looks like the supporting cast finally showed up!
 職人！|魔武器だ！|死神の手先！=Meister! Magic Weapon! Death's drones!
-ギギギ・・・|お前らも我々の邪魔をするのか=Gigigi! Are you going to try to get in our way?
+ギギギ・・・|お前らも我々の邪魔をするのか=Gehehe! Are you going to try to get in our way?
 も？　|ってことは　行く先は同じ・・・|お城ね？=But that would mean... You're headed to the castle too?
 オメェらが行くのは　あさっての世だ！|椿！=You guys can go straight to the day after tomorrow! Tsubaki!
 はい！=Roger!
@@ -7965,7 +7965,7 @@
 あいつもようやく自分の殻を|やぶりつつあるようだな！=She's finally starting to break out of her shell!
 やべェ　誰かに言いたくて|しょうがねェ・・・=Damn! I can't help myself. I really want to tell someone.
 椿が戻ってくるまで|誰にも会わずにいるか・・・=Okay. Until Tsubaki gets back, I'm not talking to anybody.
-いや　ここはしゃべりたくなる状況に|自分を追い込むのが　スターである|俺様のとるべき行動だな☆=Arg!. As a star, this is exactly the sort of thing I should be using my influence to spread the word about☆
+いや　ここはしゃべりたくなる状況に|自分を追い込むのが　スターである|俺様のとるべき行動だな☆=Argh! As a star, this is exactly the sort of thing I should be using my influence to spread the word about☆
 !FILE:EV1420_022.bscr
 何で　そんなに|嬉しそうなの～ん♪=What's the reason for that big grin of yours, huh♪?
 椿がようやく自分の殻を|破りつつあるからだぜ　ダンナ！=Tsubaki's finally starting to break out of her shell, boss!
@@ -9328,11 +9328,11 @@
 あなたならどこでも大丈夫よ・・・|気にしないで・・・=As long as you're here it's okay... Don't worry about it...
 !FILE:EV1932_020.bscr
 まぁ　見てな！|小物達と俺様の違いを|ハッキリと証明してやるぜ！=Oh, look at that! I'm going to prove the difference between the little guys and me!
-すっかり油断してる|大丈夫なのかしら？=I wonder if you'll be all right (this one was hard to translate too)
+すっかり油断してる|大丈夫なのかしら？=You're completely off guard. I wonder if you'll be all right.#this one was hard to translate too
 伝説の目撃者となれることを|喜ぶんだな　椿！|ひやっはははははは☆=You must be pleased to be witnessing a legend, Tsubaki! Yahahahahahaha☆
-しかし　俺様が来たことで|ようやくこのステージも|見栄えがするってもんだな！=At last, the big star has arrived to give the audience something worth watching! Tsubaki!
+しかし　俺様が来たことで|ようやくこのステージも|見栄えがするってもんだな！=At last, the big star has arrived to give the audience something worth watching!
 ハイハイそうね=Yeah, yeah. On stage.
-さてと　そろそろ|スターの責務を果たしにいくとするか！=I mean, I came to fulfill my responsabilities as the star!
+さてと　そろそろ|スターの責務を果たしにいくとするか！=I mean, I came to fulfill my responsibilities as the star!
 しかし　俺様が来てやったのに|出迎えは誰もいねェのかよ！=Hold on! I didn't come all this way to perform in front of empty seats!
 大丈夫よ　すぐに|たくさん迎えが出てくると思うわ=Don't worry. I'm sure you'll have an audience in no time.
 やべぇ　ボヤボヤしてると老いぼれちまう！|さっさと先に進むぞ！=Darn it. If I don't watch it, I'll end up old without realizing it! Quick, let's keep going!
@@ -9479,7 +9479,7 @@
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
 なんか納得できねェな！=I don't get what the deal is with these!
 お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
-ちっ　納得いかねェ・・・=Tch! Do you even have to ask?
+ちっ　納得いかねェ・・・=Tch! That sucked...#needs further testing
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
@@ -9491,7 +9491,7 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
 なんか納得できねェな！=I don't get what the deal is with these!
 今回はちょっと大変だったわね=I think this mission was pretty tough.
-ちっ　納得いかねェ・・・=Tch! Do you even have to ask?
+ちっ　納得いかねェ・・・=Tch! That sucked...
 お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
 俺こそ神だ！=I'm a god for sure!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
@@ -10154,7 +10154,7 @@
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
 なんか納得できねェな！=I don't get what the deal is with these!
 お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
-ちっ　納得いかねェ・・・=Tch! Do you even have to ask?
+ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
@@ -10318,7 +10318,7 @@
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
 なんか納得できねェな！=I don't get what the deal is with these!
 お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
-ちっ　納得いかねェ・・・=Tch! Do you even have to ask?
+ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
@@ -10482,7 +10482,7 @@
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
 なんか納得できねェな！=I don't get what the deal is with these!
 お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
-ちっ　納得いかねェ・・・=Tch! Do you even have to ask?
+ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
@@ -11398,13 +11398,13 @@
 がんばりましょ|ブラック☆スター=Let's give it our best, Black☆Star!
 行きましょ|ブラック☆スター=Let's go, Black☆Star.
 真面目にやってね|ブラック☆スター=Let's take this seriously, Black☆Star.
-ブラック☆スターの実力なら|きっと達成できるよ=If it's with Black☆Star's true strength, we can definitely accomplish it.
+ブラック☆スターの実力なら|きっと達成できるよ=With your capabilities Black☆Star, I'm sure we can succeed.
 !FILE:EV1981_610.bscr
 さて　誰を誘っていくか=So who are we going to invite?
 ブラック☆スター|マカちゃん達がいますよ・・・=Black☆Star, Maka's team is here...
 ブラック☆スター|キッド君達がいますよ・・・=Black☆Star. There's Kid's group...
-アレって・・・まさか=Really... what thing?
-より好みしてても仕方ねェな・・・|とっとと誘って出かけようぜ！=Even if it's not my favorite, it can't be helped... let's just invite them and go!
+アレって・・・まさか=That's... You can't mean--#I'm guessing this would be if Ox appeared
+より好みしてても仕方ねェな・・・|とっとと誘って出かけようぜ！=They wouldn't be my first choice, but it can't be helped... let's just invite them and go!
 !FILE:EV1981_700.bscr
 こんにちは=Hello.
 ひゃっはー！　俺様参上！=Yahoo! Black☆Star has arrived!
@@ -11494,12 +11494,12 @@
 わっ　わっ！　わっ？=Ah! Aah! AAahh!
 む！|お前達の顔は！=*Gulp* Your faces!
 見事な　シンメトリーだ！=Marvelous! They're symmetrical!
-ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gigi! A meister and a magic weapon... Death sent his drones, huh?
+ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gehe! A meister and a magic weapon... Death sent his drones, huh?
 よく見ると　シンメトリーじゃないな|・・・虫酸が走るわ=Now that I look closer, they're not symmetrical... How repulsive.#虫酸が走る is an expression that means "to be disgusted; to be repulsed; to get the creeps" But the kanji for insect is contained within it, which leads to Liz's realization that they're bugs in the following line. I couldn't come up with a natural way to make that connection in English. I thought about "creepy crawlies", but it seemed like an odd choice for Kid to say.
 ああ・・・|虫だけにね=Oh... They're just bugs.
 うわっ|くだらねェー=Wah! Yucky!
 いや　そういうつもりじゃ・・・|くそ・・・ダメだ・・・死のう=No, they're totally asymmetrical... Damn... It's no good... This is the end.
-ギギギ・・・|生かして帰さない！=Gigigi! Leave now and you'll live!
+ギギギ・・・|生かして帰さない！=Gehehe! Leave now and you'll live!
 リズ！　パティ！=Liz! Patty!
 変ー身！=Transform!
 変ー身！=Transform!
@@ -12239,7 +12239,7 @@
 あっ　ちょっと|待ってよ～=Ah! Wait a minute!
 !FILE:EV2201_400.bscr
 おぉ　出た！|やばやば！=They're heeere! Crap!
-ギギギ！|・・・またお前らか=Gigigi!|... You again!
+ギギギ！|・・・またお前らか=Gehehe!|... You again!
 また来たか　虫酸軍団！|今夜は　逃がさん！=You again? The creepy crawlony! Tonight you won't be getting away!#Play on creepy crawlies and ant colony. The Japanese makes a similar pun with army of heartburn/disgust, the second word containing the word for insect.
 変ー身！=Transform!
 変ー身！=Transform!
@@ -12893,10 +12893,10 @@
 よし|行くぞ=Alright, let's go.
 ＧＯ！　ＧＯ！=Go! Go!
 !FILE:EV2301_400.bscr
-ギギギ・・・=Gigigi!
+ギギギ・・・=Gehehe!
 ザワザワと　虫酸が走ると思ったら|また　お前らか=I thought I saw a bug crawling around, but it was just you again.
 職人！|魔武器だ！|死神の手先！=Meister! Magic Weapon! Death's drones!
-ギギギ・・・|お前らも我々の邪魔をするのか=Gigigi! Are you going to try to get in our way?
+ギギギ・・・|お前らも我々の邪魔をするのか=Gehehe! Are you going to try to get in our way?
 お前ら？|はは～ん　コイツらも行き先は　城か？=Get in your way? Hahaa. Looks like these guys are headed to the castle as well.
 邪魔なのは|お前達のほうだ！=Then that means you are in the way!
 やろうぜ！=Let's do it!
@@ -13501,7 +13501,7 @@
 むぅ！=Ngh!
 キャー！=Kyaaa!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ...Where's Dr. Medusa?
+・・・ということは　狙いは繭か！|・・・メデューサ先生は？=...To buy time to get the cocoon!? ...Where's Dr. Medusa?
 まずい！！=This is bad!!
 早くさがさなきゃ！=We have to hurry and look for her!
 !FILE:EV2401_402.bscr
@@ -13513,7 +13513,7 @@
 わっ！|な　なんだよ　お前？=Wah! Wh-Who are you?
 パラポネラ・・・の一人=He belongs to... Paraponera.
 パラポネラ？=Paraponera?
-魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan... born of magic that nests deep underground...
+魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
 そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The witch, Ponera, is our magnificent queen.
@@ -13553,7 +13553,7 @@
 むぅ！=Ngh!
 キャー！=Kyaaa!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
-・・・ということは　狙いは繭か！|・・・メデューサ先生は？=... To buy time to get the cocoon!? ...Where's Dr. Medusa?
+・・・ということは　狙いは繭か！|・・・メデューサ先生は？=...To buy time to get the cocoon!? ...Where's Dr. Medusa?
 まずい！！=This is bad!!
 早く探さなきゃ！=We have to hurry and look for her!
 !FILE:EV2401_452.bscr
@@ -17701,9 +17701,9 @@
 嬉しい♪|大切な用を放ってまで|ブレアと遊びにきてくれたのね♪=I'm so happy♪ You wanted to play with Blair so bad you even shirked all those big important things you have to do♪
 誤解のないように言っとくわね♪=I'm telling you so you don't get confused♪
 ブレアは魔女じゃなくて|魔力が強い|ただのかわいいネコなんだからね♪=Blair isn't a witch. She's just an ordinary cat that happens to be super cute and have strong magical powers♪
-バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪
+バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪#seen
 あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
-ネコの姿の方が|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
+ネコの姿の方が|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪#seen
 ネコの姿のほうが|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
 このカッコウって|そんなに魅力ないかな？=Is this look really that charming?
 !FILE:EV9967_530.bscr#moved to common
@@ -18023,7 +18023,7 @@
 目的の場所に向かうみたいだな|クールな感じがするぜ=Looks like we'll be heading toward a destination. Should be cool.
 先生と戦うみたいだな=It looks like we're gonna be fighting a teacher.
 マジかよ・・・=Seriously?
-戻るの？　ブラック☆スター？=You want to go back, Black☆Star?
+戻るの？　ブラック☆スター？=I don't know the details, but after our battle with that Magic Eye, it seemed like there was something wrong.
 鬼神の卵と化した魂を持つ者を|退治するみたいよ|私達には簡単かも=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It should be rather simple.
 鬼神の卵と化した魂を持つ者を|退治するみたいよ|腕試しにはちょうどよさそうよ=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It should be a great way to test our abilities.
 鬼神の卵と化した魂を持つ者を|退治するみたいよ|全力で挑まないと危ないかも=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It might be dangerous.#must be kept short
@@ -18161,15 +18161,15 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 メデューサ先生　ブラック☆スター編=Dr. Medusa - Black☆Star
 メデューサ先生　キッド編=Dr. Medusa - Kid
 フィルムのコマを押すとシナリオが|再生されます|矢印を押せば　フィルムがスライドします=Use the arrows to cycle through the cinematics. Click on an image to view it.
-１日目　課外授業　マカ編|始まり=Day 1 - Extracurricular Class - Maka - Beginning
-１日目　課外授業　マカ編|大量失踪事件の調査=Day 1 - Extracurricular Class - Maka - Investigate the Case of Mass Disappearances
-１日目　課外授業　マカ編|調査報告=Day 1 - Extracurricular Class - Maka - Investigation Report
-１日目　課外授業　ブラック☆スター編|始まり=Day 1 - Extracurricular Class - Black☆Star - Beginning
-１日目　課外授業　ブラック☆スター編|大量失踪事件の調査=Day 1 - Extracurricular Class - Black☆Star - Investigate the Case of Mass Disappearances
-１日目　課外授業　ブラック☆スター編|調査報告=Day 1 - Extracurricular Class - Black☆Star - Investigation Report
-１日目　課外授業　キッド編|始まり=Day 1 - Extracurricular Class - Kid - Beginning
-１日目　課外授業　キッド編|大量失踪事件の調査=Day 1 - Extracurricular Class - Kid - Investigate the Case of Mass Disappearances
-１日目　課外授業　キッド編|調査報告=Day 1 - Extracurricular Class - Kid - Investigation Report
+１日目　課外授業　マカ編|始まり=Day 1 - Tutorial - Maka - Beginning
+１日目　課外授業　マカ編|大量失踪事件の調査=Day 1 - Tutorial - Maka - Investigate the Case of Mass Disappearances
+１日目　課外授業　マカ編|調査報告=Day 1 - Tutorial - Maka - Investigation Report
+１日目　課外授業　ブラック☆スター編|始まり=Day 1 - Tutorial - Black☆Star - Beginning
+１日目　課外授業　ブラック☆スター編|大量失踪事件の調査=Day 1 - Tutorial - Black☆Star - Investigate the Case of Mass Disappearances
+１日目　課外授業　ブラック☆スター編|調査報告=Day 1 - Tutorial - Black☆Star - Investigation Report
+１日目　課外授業　キッド編|始まり=Day 1 - Tutorial - Kid - Beginning
+１日目　課外授業　キッド編|大量失踪事件の調査=Day 1 - Tutorial - Kid - Investigate the Case of Mass Disappearances
+１日目　課外授業　キッド編|調査報告=Day 1 - Tutorial - Kid - Investigation Report
 ２日目　繭　マカ編|怪人事件の噂=Day 2 - Cocoon - Maka - Phantom Rumors
 ２日目　繭　マカ編|怪人事件の調査=Day 2 - Cocoon - Maka - Investigate the Phantom Case
 ２日目　繭　マカ編|調査報告=Day 2 - Cocoon - Maka - Investigation Report
@@ -18258,7 +18258,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
 気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Track down the irate prankster %_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat %_dc[0,0,196]10%_dc[199,133,84] of them!
-バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=Defeat%_dc[0,0,196] 10%_dc[196,0,0] Bad Eaters%_dc[199,133,84]!
+バッドイーター%_dc[199,133,84]を|%_dc[0,0,196]１０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 10%_dc[196,0,0] Bad Eaters%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
@@ -18295,7 +18295,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause of the disappearances that have been occurring worldwide!
 大量失踪事件の|犯人を倒せ！=Defeat the culprit|behind the mass disappearances!
-%_teトライアル訓練の心得=%_teTrial Practice Guide
+%_teトライアル訓練の心得=%_teTime Trial Practice
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_te指令『危険物の回収』=%_teHazardous Material
@@ -18308,7 +18308,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
 補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Can ya get 'em back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_te極悪ボウズを退治せよ！=%_teEliminate the monk!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
@@ -18319,7 +18319,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te怪人事件を調査せよ！=%_teFind the Phantom!
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat them!
-%_teトライアル訓練の心得=%_teTrial Practice Guide
+%_teトライアル訓練の心得=%_teTime Trial Practice
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_te薬の材料を調達だ！=%_teProcure the Medicinal Ingredients!
@@ -18332,7 +18332,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=Defeat the mysterious monk, %_dc[196,0,0]Rasputin%_dc[199,133,84]!
 怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Rasputin%_dc[199,133,84], the mysterious monk!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Can ya get 'em back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]of the escaped dummies that have settled in town!
@@ -18343,7 +18343,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_te怪人事件を調査せよ！=%_teFind the Phantom!
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat them!
-%_teトライアル訓練の心得=%_teTrial Practice Guide
+%_teトライアル訓練の心得=%_teTime Trial Practice
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
 %_teマッドドッグを退治せよ！=%_teEliminate the Mad Dogs!
@@ -18362,7 +18362,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
-ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Could you get them back?
+ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Can ya get 'em back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
 %_te怪人事件を調査せよ！=%_teFind the Phantom!
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!

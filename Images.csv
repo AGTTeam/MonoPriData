@@ -90,11 +90,11 @@ SP010_0040_T00.png,Level Up (レベルアップ)
 SP010_0160_T00.png,Clear Time (クリアタイム)
 SP010_0161_T00.png,Battle Time (バトルタイム)
 SP010_0162_T00.png,Sync Time (シンクロタイム)
-SP010_0163_T00.png,Damage Taken (ダメージ回数)
+SP010_0163_T00.png,Damage Received (ダメージ回数)#times you took damage, basically
 SP010_0164_T00.png,№ of Kills (退治数)
-SP010_0165_T00.png,№ of Finishers (必殺技退治数)#
-SP010_0166_T00.png,Finishing Strike Hits (必殺技ヒット数)#
-SP010_0167_T00.png,Combos (連続ヒット数)
+SP010_0165_T00.png,№ of Finishers (必殺技退治数)#kills by finishing strike
+SP010_0166_T00.png,Finishing Strike Hits (必殺技ヒット数)#number of finishing strikes landed- too long
+SP010_0167_T00.png,Combos (連続ヒット数)#combos Landed
 SP010_0168_T00.png,Level Bonus (レベルボーナス)
 SP010_0050_T00.png,Retired (リタイア)
 SP010_0051_T00.png,Time Up (タイムアップ)
