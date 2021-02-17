@@ -6746,7 +6746,7 @@
 ええ　見つかりました|いまごろ保健室にいるはずよ=Yeah. We found her. She should be in the infirmary right now.
 しかし　お前ェもマカも弱っちいな！|その歳で保健室通いとはよ！|ひやっはははははは☆=You and Maka are so weak! Going to the infirmary at your age! Yahahahahahaha☆
 ブラック☆スターは|健康がとりえですからね|正直　うらやましいわ=Black☆Star's health is one of his greatest strengths. It makes me a little jealous, honestly.
-椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're strong too. You've never missed a day of school, have you?
+椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're strong too. You've never missed a day of school, right?
 !FILE:EV1220_046.bscr
 ブラック☆スターは|健康がとりえですからね|正直　うらやましいわ=Black☆Star's health is one of his greatest strengths. It makes me a little jealous, honestly.
 椿　いいたくねェけど|お前も結構じょうぶだぜ|学校休んだことねェじゃねェか？=Tsubaki, I know you don't want to admit it, but you're strong too. You've never missed a day of school, right?
@@ -6803,7 +6803,7 @@
 !FILE:EV1220_086.bscr
 大丈夫　安心してください|マカには俺の秘薬を|後で渡しておきますから=It's all right. Don't worry. I'll be giving Maka my own secret remedy.
 !FILE:EV1220_091.bscr
-ちょうどいいや|メデューサ先生が呼んでたぜ！=Just who I was looking for. Dr. Medusa was calling for you!
+ちょうどいいや|メデューサ先生が呼んでたぜ！=Just who I was looking for.|Dr. Medusa was calling for you!
 !FILE:EV1220_092.bscr
 先生が私に？|何の用なのかしら？=Calling for me? I wonder what she wants.
 検査をしたいみてェだぜ|ま　相棒が相棒だから|先生も心配なんだろうよ！=I think she wants to give you a check- up. I mean, what are friends for? She's probably a little worried about you!#added space for improved word wrapping
@@ -6820,22 +6820,22 @@
 保健室で寝ていたからさ|伝言をたのまれちまったんだよ|ついてねぇぜ・・・=She made me pass on the message 'cause I was like... sleeping in the infirmary.
 ただし　保健室のベッド|ねごこちはサイコーだな！=But those infirmary beds are crazy comfy!
 !FILE:EV1220_097.bscr
-じゃあ　ブラック☆スター|検査に行ってくるからね=Well, Black☆Star, I want to go for that check-up now.
+じゃあ　ブラック☆スター|検査に行ってくるからね=Well, Black☆Star, I'm going to go for that check-up now.
 おう　適当にその辺を|ブラブラしてるぜ！=Okay! I'm gonna wander around for a while!
 多分そんなにかからないと思うから|しばらくしたらむかえに来てちょうだい=I imagine it won't take very long, so please come find me after a little bit.
 !FILE:EV1220_102.bscr
 椿はどうしたんだ？=Where's Tsubaki?
 検査だってよ|保健室にいるぜ=A check-up. She's in the infirmary.
 心配だろう|ブラック☆スター？=I bet you're worried, huh, Black☆Star?
-全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=Not at all! Honestly, she's way stronger than me! No matter what I try, she never breaks!
+全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=Not at all! Honestly, she's way more staunch than me! No matter what I try, she never breaks!#tried to find a word that sounded like it could also be insulting, but I'm not sure if staunch is too uncommon
 お前　それぜってェ|椿に言うんじゃねェぞ・・・=You... Definitely don't tell Tsubaki that...
 !FILE:EV1220_106.bscr
 心配だろう|ブラック☆スター？=I bet you're worried, huh, Black☆Star?
-全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=Not at all! Honestly, she's way stronger than me! No matter what I try, she never breaks!
+全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=Not at all! Honestly, she's way more staunch than me! No matter what I try, she never breaks!
 !FILE:EV1220_112.bscr
 あれ　椿ちゃんはどうしたの？=Huh? Where's Tsubaki?
 検査だってよ|保健室にいるぜ=A check-up. She's in the infirmary.
-椿ちゃんも|検査なんだ　大丈夫かな・・・=Tsubaki's getting a check-up too? Is she all right?
+椿ちゃんも|検査なんだ　大丈夫かな・・・=Tsubaki's getting a check-up too?|Is she all right?
 ああ　大丈夫だろ|メシだってバクバクくうしな！=Yeah. She's fine. She's probably just been eating too much.
 そのせいか最近は|腹の肉がポチャポチャしてきやがった！=That's why her stomach's been getting all flabby recently!
 あんた　それ絶対|椿ちゃんに言っちゃだめよ！=If you say one word of that to Tsubaki...!
@@ -6846,11 +6846,11 @@
 !FILE:EV1220_121.bscr
 おや　一人ですか|ブラック☆スター？=Oh? You're by yourself, Black☆Star?
 !FILE:EV1220_122.bscr
-椿は検査だよ|保健室にいるぜ！=Tsubaki's getting a check-up. She's in the infirmary!
+椿は検査だよ|保健室にいるぜ！=Tsubaki's getting a check-up. She's in the infirmary.
 椿が・・・保健室に・・・|・・・検査ですか・・・=Tsubaki is... in the infirmary... for an examination?
-しかし　みんな　椿に夢中だな！|さっきから　そればっかり聞かれるぜ！=Everybody is so obsessed with Tsubaki lately! That's all anybody talks about anymore!
+しかし　みんな　椿に夢中だな！|さっきから　そればっかり聞かれるぜ！=Everybody is so obsessed with Tsubaki lately! That's all anybody|talks about anymore!
 一応聞いておきますが|検査をするのはメデューサ先生|なんですよね？=I'll ask just to be sure, but... it's Dr. Medusa that's examining her, right?
-当たり前だろう！|博士以外にそういうことすんの|メデューサ先生しかいねェじゃねェか！=Obviously! Besides you, there's nobody except Dr. Medusa who can do that sort of thing!
+当たり前だろう！|博士以外にそういうことすんの|メデューサ先生しかいねェじゃねェか！=Obviously! Besides you, there's nobody except Dr. Medusa who|can do that sort of thing!
 !FILE:EV1220_126.bscr
 椿が・・・保健室に・・・|・・・検査ですか・・・=Tsubaki is... in the infirmary... for an examination?
 !FILE:EV1220_127.bscr
@@ -11181,7 +11181,7 @@
 !FILE:EV1960_011.bscr
 ったく頭にくるぜ！|次だ次！=All right, now I'm mad! Who's next!?
 !FILE:EV1960_012.bscr
-ちょっと体がなまってきたかもしんねェな！|腕試しもいいかもしれねェ☆=Have I been getting a little flabby? Well, it can't hurt to get in a little work out☆
+ちょっと体がなまってきたかもしんねェな！|腕試しもいいかもしれねェ☆=Have I been getting a little rusty?|Well, it can't hurt to get in a little work out☆
 !FILE:EV1960_013.bscr
 なんかモヤモヤすんなァ|気持ち悪ィ・・・=Something doesn't feel right. I'm off my game...
 !FILE:EV1960_040.bscr
@@ -17643,7 +17643,7 @@
 今日はとてもよい|魂の輝きをしていますね=They have such a glow about them today.
 もしよかったら|俺の研究に付き合って|もらえませんか？=If you don't mind, I'd like your help with a little experiment of mine.#seen – edited to make it more apparent it's not actually a game event, but just Stein being creepy.
 俺はツギハギ研究所で|待っています　学校が|終わったらきてください=I'll be waiting at the Patchwork Lab. Why don't you stop by once school is over～?
-学生課には|おばちゃんがいます=Auntie is in the Student Affairs Office.#seen
+学生課には|おばちゃんがいます=Auntie is over in the hallway.#seen
 掲示板から腕試しをする際には|おばちゃんが色々と|サポートしてくれるはずです=She'll be able to aid you if you ever want to take on any missions from the Mission Bulletin.
 あっ　すみません|今はクローズ|されているのでしたね・・・=Ah! My apologies. It's closed for the time being...
 ソウルの胸の傷は|大丈夫なのでしょうか？=And how is that chest wound of yours, Soul?
@@ -18023,7 +18023,7 @@
 目的の場所に向かうみたいだな|クールな感じがするぜ=Looks like we'll be heading toward a destination. Should be cool.
 先生と戦うみたいだな=It looks like we're gonna be fighting a teacher.
 マジかよ・・・=Seriously?
-戻るの？　ブラック☆スター？=I don't know the details, but after our battle with that Magic Eye, it seemed like there was something wrong.
+戻るの？　ブラック☆スター？=You want to go back, Black☆Star?
 鬼神の卵と化した魂を持つ者を|退治するみたいよ|私達には簡単かも=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It should be rather simple.
 鬼神の卵と化した魂を持つ者を|退治するみたいよ|腕試しにはちょうどよさそうよ=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It should be a great way to test our abilities.
 鬼神の卵と化した魂を持つ者を|退治するみたいよ|全力で挑まないと危ないかも=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It might be dangerous.#must be kept short
