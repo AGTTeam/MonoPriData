@@ -6695,7 +6695,7 @@
 !FILE:EV1220_012.bscr
 マカちゃんを知りませんか=Do you know where Maka is?
 この時間帯は屋上にいると思うぞ？=I suspect she'll be on the roof at this time of day.
-ありがとうございます|ところで何でマカちゃんの|居場所がわかるんですか？=Thank you very much. But, how do you know where Maka is all the time?
+ありがとうございます|ところで何でマカちゃんの|居場所がわかるんですか？=Thank you very much. Hey, how do you know where Maka is all the time?
 マカの行動は大体把握している|後をつけて調べたからな！=Her usual routine is easy to grasp when you follow her around!
 !FILE:EV1220_016.bscr
 マカの行動は大体把握している|後をつけて調べたからな！=Her usual routine is easy to grasp when you follow her around!
@@ -8183,30 +8183,30 @@
 げっ！大丈夫なのかよ！！|やべェんじゃねェのか？=Oh, no! She's okay, right!? Is it serious?
 今　マカちゃんは|どこにいるんですか？=Where is she now?
 とりあえず保健室に運んだけどよ|メデューサ先生がいねェんだ！=I carried her straight to the infirmary, but Dr. Medusa wasn't there!
-俺はメデューサ先生を探してくるから|マカについててやってくれ！=I'm looking for Dr. Medusa, so you to go look after Maka!
+俺はメデューサ先生を探してくるから|マカについててやってくれ！=I'm looking for the doctor, so you to go watch over Maka!
 マカのヤツは|この俺様にまかせておけ☆=Don't worry! Maka will be in good hands☆
 !FILE:EV1421_006.bscr
-俺はメデューサ先生を探してくるから|マカについててやってくれ！=I'm looking for Dr. Medusa, so you to go look after Maka!
+俺はメデューサ先生を探してくるから|マカについててやってくれ！=I'm looking for the doctor, so you to go watch over Maka!
 !FILE:EV1421_012.bscr
 起きてて大丈夫なんですか？=You're conscious. Are you okay?
-ええ　気分は悪いけど|起きているくらいなら大丈夫よ！=Yeah. I don't feel great, but I'm able to stand, so I'm sure I'm fine!
+ええ　気分は悪いけど|起きているくらいなら大丈夫よ！=Yeah. I don't feel great, but I can stand, so I'm sure I'm fine!
 そう　よかった・・・|でもあまり無理はしないでくださいね・・・=That's true. Thank goodness... But don't try to do too much too quickly, okay?
 でも　なんで倒れたんだよ？|どっか具合でも悪ィのか？=So why'd you faint in the first place? Are you sick or something?
-うん　夕べあんまり寝てなかったから|それが原因だと思うんだけど・・・=Right. I couldn't really sleep last night, so I think it was probably that...
-何か気になることが|あるんですか　マカちゃん？=Is there something bothering you, keeping you up all night?
-誰かが変な|オーラを送ってきてるの・・・=Someone has been sending me a bizarre aura...
-どう表現したらいいのかな・・・|そう　サイテーでヒワイな|感じのオーラ・・・=How can I describe it...? It's like this terrible, obscene aura...
-なんだ　ソレ？|意味わかんねェよ！？=What are you talking about? You're just making that up!
+うん　夕べあんまり寝てなかったから|それが原因だと思うんだけど・・・=Right. I couldn't really sleep last night, so I think it was probably that.
+何か気になることが|あるんですか　マカちゃん？=Is there something bothering you and keeping you up all night?
+誰かが変な|オーラを送ってきてるの・・・=Someone's been sending me a bizarre aura...
+どう表現したらいいのかな・・・|そう　サイテーでヒワイな|感じのオーラ・・・=How can I describe it? It's like this terrible, obscene wave.
+なんだ　ソレ？|意味わかんねェよ！？=What are you talking about? You're just making stuff up!
 感知能力の高いマカちゃんが|言うんだから　笑えないわよ=You're talking about Maka. She has a really heightened perception of these sorts of things, so don't laugh.
 どこから|そのオーラが送られてくるかわかります？=Do you know where the aura was being sent from?
-死武専内から|送られてくるのはわかるんだけど・・・|それ以上はわからないの・・・=I know it was coming from somewhere inside the DWMA, but I couldn't narrow it down any more than that...
+死武専内から|送られてくるのはわかるんだけど・・・|それ以上はわからないの・・・=I know it was coming from somewhere inside the DWMA, but I couldn't narrow it down any more than that.
 そうなんですか・・・=Is that so...?
 ソウルがお前についてろって言ったからよ！|俺達がそばにいてやるぜ！=Soul told us to look after you! We're gonna take good care of you, Maka!
 ありがとう　ブラック☆スター|でも　私なら大丈夫だから|もう行っていいわよ=Thanks, Black☆Star. But I'm fine now, so you guys don't have to stick around.
 !FILE:EV1421_016.bscr
 ありがとう　ブラック☆スター|でも　私なら大丈夫だから|もう行っていいわよ=Thanks, Black☆Star. But I'm fine now, so you guys don't have to stick around.
 !FILE:EV1421_017.bscr
-マカちゃん心配ね・・・=I'm worried about her...
+マカちゃん心配ね・・・=I'm worried about her.
 俺達でマカに変なオーラを|送ったヤツを捕まえようぜ！=What do you say we go catch whoever sent that weird aura!?
 いい案だと思うけど|どうやって捕まえるの？=That sounds like a good idea, but how are we going to catch them?
 ブラック☆スター|感知能力はほとんどないじゃないの？=You're not exactly the most perceptive of us, Black☆Star.
@@ -8215,11 +8215,11 @@
 !FILE:EV1421_022.bscr
 死神様|マカちゃんが倒れてしまったんです=Lord Death, Maka fainted.
 死武専の中の誰かが|よくないオーラを送ってる|らしいぜ！=Apparently somebody has been sending her some sort of nasty aura from inside the DWMA!
-えっ　それ本当なの？|大丈夫かな・・・=Eh? Really? That's not good...
+えっ　それ本当なの？|大丈夫かな・・・=Eh? Really? That's not good.
 たしか死神様の魂って|デスシティーを覆ってるんですよね？=Of course, your soul covers all of Death City, doesn't it, Lord Death?
 なんか怪しいこととか|感知できなかったのかよ！=So if there was something fishy going on, you'd be able to sense it, right!?
 とくに　異常は|感じなかったよ～ん♪=I didn't really notice anything out of the ordinary♪
-なんだよ　ダンナ|意外と使えねェな・・・=Seriously, boss? You're surprisingly useless...
+なんだよ　ダンナ|意外と使えねェな・・・=Seriously, boss? You're surprisingly useless.
 !FILE:EV1421_026.bscr
 とくに　異常は|感じなかったよ～ん♪=I didn't really notice anything out of the ordinary♪
 !FILE:EV1421_032.bscr
@@ -8227,49 +8227,49 @@
 それは　本当ですか？=Is that true?
 死武専の中の誰かが|よくないオーラを送ってるらしいぜ！=Apparently somebody has been sending her some sort of nasty aura from inside the DWMA!
 アレの目的は黒血の進化・・・|ソウルがターゲットだとばかり|思ってましたが・・・=Intended to progress the black blood, no doubt... But I thought Soul would be the only target...
-一体　マカに何をしようと|いうのでしょうか・・・=Then why Maka? What does this mean...?
-博士　何ブツブツ|言ってんだよ！=What are you mumbling about, professor!?
-・・・なんでもありません|ただの独り言です=... Nothing. Just talking to myself.
+一体　マカに何をしようと|いうのでしょうか・・・=Then why Maka? What does this mean?
+博士　何ブツブツ|言ってんだよ！=What are you mumbling about, Professor!?
+・・・なんでもありません|ただの独り言です=...Nothing. Just talking to myself.
 マカは保健室で|メデューサ先生に|診てもらっているんですね？=And I imagine Maka is currently in the infirmary receiving an examination from Dr. Medusa?
-それが・・・メデューサ先生|席をはずしてまして・・・=Actually... she wasn't at her post...
-そうですか・・・よかった|俺の考えすぎのようです=Really...? Good. I guess I was imagining things.
+それが・・・メデューサ先生|席をはずしてまして・・・=Actually, she wasn't at her post.
+そうですか・・・よかった|俺の考えすぎのようです=Really? Good. I guess I was imagining things.
 ちっとも良くねェよ|シュタイン博士=Professor Stein, there's nothing good about that!
 !FILE:EV1421_036.bscr
 マカは保健室で|メデューサ先生に|診てもらっているんですね？=And I imagine Maka is currently in the infirmary receiving an examination from Dr. Medusa?
-それが・・・メデューサ先生|席をはずしてまして・・・=Actually... she wasn't at her post...
-そうですか・・・よかった|俺の考えすぎのようです=Really...? Good. I guess I was imagining things.
+それが・・・メデューサ先生|席をはずしてまして・・・=Actually, she wasn't at her post.
+そうですか・・・よかった|俺の考えすぎのようです=Really? Good. I guess I was imagining things.
 !FILE:EV1421_040.bscr
 なんだよお前達！|マカについててくれたんじゃ|なかったのかよ！=What are you two doing!? I told you to look after Maka, didn't I!?
 えっと　マカちゃんが|もういいっていったから・・・=Um... Maka said she felt okay, so...
-悪ィ　そうだよな|お前らがそんな薄情なこと|するはずねェもんな！=Okay. Sorry about that. I shouldn't have blown up at you two like that.
+悪ィ　そうだよな|お前らがそんな薄情なこと|するはずねェもんな！=Okay. Sorry. I shouldn't have blown up at you two like that.
 心配しすぎだぜ　お前は！=You worry too much!
 ところで|メデューサ先生は見つかったんですか？=What about you? Were you able to find Dr. Medusa?
 それが　どこにもいねェんだ|ったく　どこ行ったんだか！=I can't find her anywhere. Damn it, where'd she go!?
 博士に頼むのは　どうよ？=Have you tried asking the professor?
-博士に頼むのは|最後にとっておこうぜ・・・=The professor's the last person I want to ask...
+博士に頼むのは|最後にとっておこうぜ・・・=The professor's the last person I want to ask.
 !FILE:EV1421_046.bscr
-博士に頼むのは|最後にとっておこうぜ・・・=The professor's the last person I want to ask...
+博士に頼むのは|最後にとっておこうぜ・・・=The professor's the last person I want to ask.
 !FILE:EV1421_047.bscr
 忘れてたわ　ブラック☆スター！=I forgot, Black☆Star!
 まだデスサイズさんに|マカちゃんが倒れたことを|伝えてなかったわ=We haven't even told Mr. Albarn that Maka fainted yet!
 マカのヤツが嫌がりそうだから|やめたほうがいいんじゃねェの？=Maka doesn't seem to like him all that much, so why bother?
-いけないわ|状況が状況なんだもん・・・|親御さんには知らせないと=We have to. The fact of the matter is... he's her father, and he should know!
+いけないわ|状況が状況なんだもん・・・|親御さんには知らせないと=We have to. The fact of the matter is... he's her father, and he deserves to know!
 ったく　しょうがねェなァ|デスサイズを探しに行くとするか☆=Fine! You win. Let's go find Spirit☆
 !FILE:EV1421_052.bscr
 あの～・・・|何してるんですか？=Umm... What are you doing?
-見てわからないか？|マカにがんばれオーラを|送ってるんだ・・・=You can't tell? I'm sending Maka a good luck aura...
-俺にはよくわかる|マカが倒れたのはコイツのせいだ・・・=Looks like we found our guy. He's the reason Maka passed out...
+見てわからないか？|マカにがんばれオーラを|送ってるんだ・・・=You can't tell? I'm sending Maka a good luck aura.
+俺にはよくわかる|マカが倒れたのはコイツのせいだ・・・=Looks like we found our guy. He's the reason Maka passed out.
 そうかしら　マカちゃんが|倒れるほどのものとは|とても思えないけど・・・=I'm not so sure. I find it hard to believe that this could do enough to make her faint, but...
 二人とも　邪魔だから|あっちに行っててくれないかな・・・=You two are killing my concentration! Why don't you go chatter over there?
 ・・・・・・・・・=.........
-どうしよう・・・|デスサイズさん妙に真剣だわ・・・=What do we do? ... He's unusually serious...
-わかった！|俺様にまかせとけ！=I got it! Leave it to me!
+どうしよう・・・|デスサイズさん妙に真剣だわ・・・=What do we do? He's unusually serious.
+わかった！|俺様にまかせとけ！=I've got it! Leave it to me!
 ブラック☆スター！|それは　やめて！！！=Black☆Star! Don't!!!
 他に手はなかったの|ブラック☆スター？=There wasn't another way, Black☆Star?
 しょうがねェよ|これが一番手っとり早ェ！！=Who cares!? This one was the fastest!!
 デスサイズさん　大丈夫かしら|それに　これがマカちゃんの|不調の原因じゃなかったら・・・=I hope he'll be all right. And if he wasn't actually the cause for Maka's condition...
 大丈夫だよ|絶対これが原因だって！=Don't worry! He was definitely the cause!
-さぁ　マカの様子を|見に行こうぜ！|もうよくなってるだろ！=Now let's go check up on Maka! She should be in tip-top shape now!
+さぁ　マカの様子を|見に行こうぜ！|もうよくなってるだろ！=Let's go check up on Maka! She should be in tip-top shape now!
 !FILE:EV1421_055.bscr
 ・・・・・・・・・=.........
 !FILE:EV1421_056.bscr
@@ -8279,23 +8279,23 @@
 マカちゃん|気分はどうですか？=How are you feeling, Maka?
 もうスッカリいいわ|心配かけたわね♪=I feel great! Sorry for making you worry♪
 それでサイテーで|ヒワイなオーラのほうは・・・=And the terrible, obscene aura...
-そういえばやんでるわね・・・|でも　それがどうかしたの？=Yeah, that went away... But that doesn't matter.
+そういえばやんでるわね・・・|でも　それがどうかしたの？=Yeah, that went away. But that doesn't matter.
 なんだよ　それ|それが不調の原因じゃ|なかったのかよ！=What do you mean it doesn't matter!? Are you saying that wasn't the cause?
-ごめんなさい　誤解させちゃったみたいね|たしかにアレは不快だったけど|不調の原因じゃないわ=Sorry. It looks like a was mistaken. It was bothersome, but it didn't cause me to faint.
-そうなんですか|ふへへ・・・悪いことしちゃったかな|デスサイズさんに？=Well, that's good to hear. Hehehe... Mr. Albarn's not going to happy about that...
+ごめんなさい　誤解させちゃったみたいね|たしかにアレは不快だったけど|不調の原因じゃないわ=Sorry. It looks like I was mistaken. It was annoying, but it didn't cause me to faint.
+そうなんですか|ふへへ・・・悪いことしちゃったかな|デスサイズさんに？=Well, that's good to hear. Hehehe... Mr. Albarn's not going to happy about that.
 まったく　とんだ|骨折り損だぜ！！=I can't believe I wasted my time with that guy!!
-パパが何かしたの？=Did papa do something?
-いえ　なんでもないわ・・・|こっちの話です・・・=No, it's nothing... Just a little inside joke...
+パパが何かしたの？=Did Papa do something?
+いえ　なんでもないわ・・・|こっちの話です・・・=No, it's nothing... Just a little inside joke.
 !FILE:EV1421_066.bscr
-パパが何かしたの？=Did papa do something?
+パパが何かしたの？=Did Papa do something?
 !FILE:EV1421_067.bscr
-後でデスサイズさんに|謝っておかないと・・・=We really need to apologize to Mr. Albarn after this...
+後でデスサイズさんに|謝っておかないと・・・=We really need to apologize to Mr. Albarn after this.
 別にいいんじゃねェか|誤解されるような行動をとってたほうが|悪いんだしよ！=It's fine. You can't blame us for acting on someone else's mistakes!
-誤解したのは|私達のほうだと思うけど・・・=Except I think we're the ones that made the mistake...
-細かいことは気にすんなよ！|ますます小物じみてくるぜ！|ひやっはははははは☆=Stop sweating the little thing! It makes you sound like one the little guys! Yahahahahahaha☆
+誤解したのは|私達のほうだと思うけど・・・=Except I think we're the ones that made the mistake.
+細かいことは気にすんなよ！|ますます小物じみてくるぜ！|ひやっはははははは☆=Stop sweating the little things! It makes you sound like one the small fry! Yahahahahahaha☆
 !FILE:EV1422_002.bscr#うれしい罰ゲーム = Happy Penalty Game part 14
 ブラック☆スター|シド先生が探してたわよ=Black☆Star, Sid was looking for you.
-ゾンビが俺に何の用だよ？|マカ　聞いてねェか？=The zombie was looking for me? Do you know what for, Maka?
+ゾンビが俺に何の用だよ？|マカ　聞いてねェか？=The zombie was looking for me? What for?
 あんた　この間　オックス君と|決闘をしたでしょ？=It probably has to do with that duel you had with Ox.
 えっ　それ|私は知らないわよ！|本当なのブラック☆スター？=Eh!? I didn't know about that! Is that true, Black☆Star?
 あんまり楽勝だったから|つい言うのを忘れてた！=It was over so quickly that I forgot to even tell you about it!
@@ -8305,7 +8305,7 @@
 なるほどな・・・教えてくれて|サンキューだぜ　マカ！|知らなかったらやばかったぜ☆=That makes sense... Thanks for filling me in, Maka! I hadn't even noticed☆
 あんたのために|教えたんじゃないわ|椿ちゃんがかわいそうだからよ=I'm not telling you for your sake. I'm telling you because I feel bad for Tsubaki.
 最近　ちょっとあんた|乱暴すぎるわよ！=You've been a little too wild lately!
-そうですよね|乱暴すぎますよね・・・=That's true. He has been really wild, hasn't he...?
+そうですよね|乱暴すぎますよね・・・=That's true. He has been really wild, hasn't he?
 !FILE:EV1422_006.bscr
 最近　ちょっとあんた|乱暴すぎるわよ！=You've been a little too wild lately!
 !FILE:EV1422_007.bscr
@@ -8317,23 +8317,23 @@
 どうしたらいいと思う？=What do you think I should do?
 そうね・・・=Good question...
 今度　乱暴なことしたら|罰ゲームをするのは　どう？=How about, from now on, we play the Penalty Game whenever you do something reckless?
-そういうのがあれば|あなたの行動のストッパーになるでしょ=That way there we'll be able to put a stop to your actions before they get too out of control.
+そういうのがあれば|あなたの行動のストッパーになるでしょ=That way we'll be able to put a stop to your actions before they get too out of control.
 今度　乱暴なことをしたら|腹筋３０００回ね♪=Let's make it 3000 sit-ups the next time you do something reckless, okay♪?
 !FILE:EV1422_012.bscr
 ブラック☆スター|お前　こんな所で何やってんだ？=Black☆Star... Don't you have something you're supposed to be doing?
-常に行動を求められる・・・|これもスターの宿命か・・・|お前達の期待が痛い・・・=Always asked to act... Is this too the fate of a star? ... Your expectations pain me...
+常に行動を求められる・・・|これもスターの宿命か・・・|お前達の期待が痛い・・・=Always asked to act... Is this, too, the fate of a star? ...Your expectations pain me.
 ちげェよ　お前　決闘|するんじゃなかったのか？=No, I mean, didn't you have a duel or something?
 やべェ　すっかり忘れてたぜ☆|ありがとな！=Crap! I completely forgot☆ Thanks!
 決闘の相手はもう|待ってるぜ！=Your dueling partner is already waiting for you!
-ブラック☆スター|乱暴なことはだめよ=Black☆Star, remember, no reckless behaviour!
+ブラック☆スター|乱暴なことはだめよ=Black☆Star, remember, no reckless behavior!
 やべェ　すっかり|忘れてたぜ・・・|そうだったな　椿=Crap! I completely forgot that too... You're right, Tsubaki.
 !FILE:EV1422_016.bscr
 決闘の相手はもう|待ってるぜ！=Your dueling partner is already waiting for you!
 !FILE:EV1422_017.bscr
 ダメだ|やっぱりガマンできねェ！=I can't do it! I can't resist any longer!
 待ってちょうだい|乱暴はだめよ！=Wait! Please! No more reckless actions!
-もう・・・約束したばかりなのに・・・=Aww... He just promised too...
-見つけたらどうしようかしら・・・|すごくネチネチしてやるんだから=I don't even know what I should if I find him... He's so stubborn.
+もう・・・約束したばかりなのに・・・=Aww... He just promised too.
+見つけたらどうしようかしら・・・|すごくネチネチしてやるんだから=I don't even know what I should do if I find him... He's so stubborn.
 !FILE:EV1422_022.bscr
 あれ　メデューサ先生が|立会人だったんですか？=Oh? Were you the observer for the duel, Dr. Medusa?
 そうなのよ|他に人がいないから駆り出されちゃって♪=I was. There was no one else, so they recruited me♪
@@ -8344,29 +8344,29 @@
 それにしても強いわね　彼|同世代の中では圧倒的じゃないかしら=Even so, he's really strong, that one. To think he was able to overwhelm someone his own age like that.
 今は　ほめられても|あんまり　うれしくありません・・・=Strong or not, I'm disappointed in him...
 そういえば|バトルの相手はどうしたんですか？=By the way, how's his opponent doing?
-保健室に運ばれたわ・・・=They were carried to the infirmary...
-そうですか・・・御手数かけます=I see... Sorry for bothering you.
+保健室に運ばれたわ・・・=They were carried to the infirmary.
+そうですか・・・御手数かけます=I see. Sorry for bothering you.
 !FILE:EV1422_026.bscr
 それにしても強いわね　彼|同世代の中では圧倒的じゃないかしら=Even so, he's really strong, that one. To think he was able to overwhelm someone his own age like that.
 !FILE:EV1422_032.bscr
 マカちゃん|ブラック☆スターを見ませんでしたか？=Maka, have you seen Black☆Star?
-ブラック☆スターなら|しばらくここでハァハァ|何かやってたけど・・・=Black☆Star? I saw him just a little bit ago. He was panting for some reason...
+ブラック☆スターなら|しばらくここでハァハァ|何かやってたけど・・・=Black☆Star? I saw him just a little bit ago. He was panting for some reason.
 どこへ行ったかわかりますか？=Do you know where he went?
-それは　わからないけど|変なことは言ってたわよ|残りは２０００回だって・・・=I don't but he was saying something weird. Something about 2000 left...
+それは　わからないけど|変なことは言ってたわよ|残りは２０００回だって・・・=I don't know, but he was saying something weird. Something about 2000 left...
 椿ちゃん　何が|２０００回なのかしら？=2000 what? You have any idea, Tsubaki?
 !FILE:EV1422_036.bscr
 マカちゃん|ブラック☆スターを見ませんでしたか？=Maka, have you seen Black☆Star?
-ブラック☆スターなら|しばらくここでハァハァ|何かやってたけど・・・=Black☆Star? I saw him just a little bit ago. He was panting for some reason...
+ブラック☆スターなら|しばらくここでハァハァ|何かやってたけど・・・=Black☆Star? I saw him just a little bit ago. He was panting for some reason.
 !FILE:EV1422_042.bscr
 パティちゃん|ブラック☆スターを見ませんでしたか？=Patty, have you seen Black☆Star?
-しばらくここでハァハァ|何かやってたよ・・・=He was just here. And he was panting...
+しばらくここでハァハァ|何かやってたよ・・・=He was just here. And he was panting.
 犬みたいだったな|きゃはははは♪=He looked like a dog! Kyahahaha♪
 そう　ありがとう|それで　ブラック☆スターが|どこへ行ったかわかりますか？=Okay. Thanks. Do you happen to know where he went?
 わかんないけど|変なこと言ってたよ|残りは１０００回だって！=I don't. But he was saying something weird about only needing to do 1000 more!
 １０００回も何する気なんだ|あのワンちゃんは！|きゃはははは♪=Why would he want to do something 1000 times? That silly Bark☆Star! Kyahahaha♪
 !FILE:EV1422_046.bscr
 パティちゃん|ブラック☆スターを見ませんでしたか？=Patty, have you seen Black☆Star?
-しばらくここでハァハァ|何かやってたよ・・・=He was just here. And he was panting...
+しばらくここでハァハァ|何かやってたよ・・・=He was just here. And he was panting.
 !FILE:EV1422_050.bscr
 椿か！ちょうどいいや！！|今　罰ゲームの腹筋|３０００回が終わったところだぜ！=Tsubaki! Perfect timing!! I just finished my 3000 sit-ups for the Penalty Game!
 もう　終わったんだ・・・=You sure did...
@@ -8374,61 +8374,61 @@
 かんべんだ！|罰ゲームもやったじゃねェか☆=I'm sorry! I played the Penalty Game, didn't I?
 仕方ないわね|ゆるしてあげるわ=I guess you're right. I'll forgive you.
 じゃあ|次の罰ゲームのお題を教えてくれ！=Now tell me the rules for the next Penalty Game!
-楽しんでないかしら|ブラック☆スター・・・=You're not supposed to enjoy it, Black☆Star...
+楽しんでないかしら|ブラック☆スター・・・=You're not supposed to enjoy it, Black☆Star.
 !FILE:EV1422_056.bscr
 仕方ないわね|ゆるしてあげるわ=I guess you're right. I'll forgive you.
 じゃあ|次の罰ゲームのお題を教えてくれ！=Now tell me the rules for the next Penalty Game!
-楽しんでないかしら|ブラック☆スター・・・=You're not supposed to enjoy it, Black☆Star...
+楽しんでないかしら|ブラック☆スター・・・=You're not supposed to enjoy it, Black☆Star.
 !FILE:EV1422_057.bscr
-ブラック☆スター|次に乱暴なことしたら|ヒンズースクワットを・・・=Black☆Star, the next time you act recklessly, it'll be Hindu squats...
+ブラック☆スター|次に乱暴なことしたら|ヒンズースクワットを・・・=The next time you act recklessly, it'll be Hindu squats.
 １００００回やってもらうわ|それが今度の罰ゲームよ=And you'll give me 10,000 of them. That will be the next Penalty Game!
 ひやっはぁ☆|万いきましたか万！=Yahoo☆ 10,000, baby! 10,000!
 死武専が|俺の汗で洪水になりそうだぜ☆=Evacuate the DWMA! I'm going to sweat up a flood☆
 こいつはおもしれェ事に|なってきたな☆|ひやっはははははは☆=This is finally starting to be a challenge☆ Yahahahahahaha☆
-やっぱり　楽しんでるのね・・・=He's definitely enjoying it...
+やっぱり　楽しんでるのね・・・=He's definitely enjoying it.
 !FILE:EV1422_062.bscr
 キッド君うれしそうですよね？=You look pretty happy, Kid.
 ああ　わかるか|正面玄関の材質がリニューアル|されたのだ！=Yeah. Know why? I got the school's main gate totally renovated!
-最近　荒れが目立ってきたので|父上にお願いしていたのだ・・・|これで何人も壊すことはできまい　=I noticed it was in pretty bad shape and spoke to father about it... A thousand men couldn't destroy it now.
+最近　荒れが目立ってきたので|父上にお願いしていたのだ・・・|これで何人も壊すことはできまい　=I noticed it was in pretty bad shape and spoke to father about it. A thousand men couldn't destroy it now.
 そんなに丈夫なんですか？=That sturdy, huh?
 うむ　傷一つでもつけられたら|三つ星職人にしてもいいと|父上が言っているほどだ！=Yeah. Father said that anyone who could put even a single scratch in it would be promoted to a three-star meister!
 ははは|それはすごいですね=Hahaha... That's impressive.
 ・・・・・・・・・=.........
 !FILE:EV1422_066.bscr
-最近　荒れが目立ってきたので|父上にお願いしていたのだ・・・|これで何人も壊すことはできまい　=I noticed it was in pretty bad shape and spoke to father about it... A thousand men couldn't destroy it now.
+最近　荒れが目立ってきたので|父上にお願いしていたのだ・・・|これで何人も壊すことはできまい　=I noticed it was in pretty bad shape and spoke to father about it. A thousand men couldn't destroy it now.
 そんなに丈夫なんですか？=That sturdy, huh?
 うむ　傷一つでもつけられたら|三つ星職人にしてもいいと|父上が言っているほどだ！=Yeah. Father said that anyone who could put even a single scratch in it would be promoted to a three-star meister!
 !FILE:EV1422_067.bscr
 ブラック☆スター|どうして黙ってるの？=What are you being all quiet for, Black☆Star?
 椿　やっぱり|挑戦にはのらないとな・・・=Tsubaki, you know I never back down from a challenge...
 はい？=Yes?
-やはり　俺様はこれから|正面玄関のヤツと|戦わなければならない・・・=So I have no choice but to challenge that main gate to a fight to the death...
+やはり　俺様はこれから|正面玄関のヤツと|戦わなければならない・・・=So I have no choice but to challenge that main gate to a fight to the death.
 どうして　そうなるの|ブラック☆スター！=Why? Why do you have no choice, Black☆Star!?
-罰ゲームだろ　わかってるぜ・・・|死武専を俺の汗で沈めてやるぜ☆=Don't worry about the Penalty Game... I'll sink the DWMA in sweat☆
-行っちゃったわ・・・|やっぱり罰ゲームを楽しんでる・・・=There he goes... He's having way too much fun with the Penalty Game...
+罰ゲームだろ　わかってるぜ・・・|死武専を俺の汗で沈めてやるぜ☆=Don't worry about the Penalty Game. I'll sink the DWMA in sweat☆
+行っちゃったわ・・・|やっぱり罰ゲームを楽しんでる・・・=There he goes... He's having way too much fun with the Penalty Game.
 これじゃあ罰になんか|なるはずないわ・・・=It's not much of a penalty in that case, is it?
-いけない！そんなことよりも|ブラック☆スターを止めないと=What am I doing!? I need to hurry and stop Black☆Star!
+いけない！そんなことよりも|ブラック☆スターを止めないと=What am I doing!? I need to hurry and stop him!
 !FILE:EV1422_070.bscr
 ノーー！=Noooo!
 ブラック☆スター！|しっかりして！？=Black☆Star, hold on!
-やべェ　やべェ|なんだよこの材質は・・・俺様の|頭突きにもビクともしねェ・・・・・・=Damn it! What's this thing made of? ... My headbutt didn't even leave a dent...
-大変なことにならなくて|ほんとうによかったわ・・・=I'm so glad neither side was hurt...
+やべェ　やべェ|なんだよこの材質は・・・俺様の|頭突きにもビクともしねェ・・・・・・=Damn it! What's this thing made of? My headbutt didn't even leave a dent.
+大変なことにならなくて|ほんとうによかったわ・・・=I'm so glad neither side was hurt.
 まったく　ついてねェぜ|結局　傷一つ|つけられなかったしよ！=That didn't do a thing! I couldn't even peel any paint!
 そうだ|罰ゲームがあったか！=Oh, yeah! I've still got the Penalty Game!
-じゃあ　さっそく|ヒンズースクワットを|１００００回・・・=All right! 10,000 Hindu squats coming right up...
-やっぱりやらなくていいわ|罰ゲームは・・・=You don't really need to do it. The Penalty Game, I mean...
+じゃあ　さっそく|ヒンズースクワットを|１００００回・・・=All right! 10,000 Hindu squats coming right up.
+やっぱりやらなくていいわ|罰ゲームは・・・=You don't really need to do it. The Penalty Game, I mean.
 はぁ　なんでだよ|いいじゃねェか|俺様を罰してくれよ！=Huh? Why not? It's fine. Please penalize me!
 だって　あなた|楽しんじゃってるじゃないの|こんな罰ゲームってないわよ=But you're enjoying it. What kind of Penalty Game is that?
 そんなことねェよ|俺様は罰ゲームが|いやでいやでしょうがねェ！=That's not true! I hate the Penalty Game! I hate it! Please don't make me play!
 とにかく　もう|罰ゲームはやめにしましょう=Fine. We can stop the Penalty Game if you really want to.
 チェッ　せっかくおもしろく|なってきたってのによ！=Tch! Just when things were starting to get good too!
-やっぱり楽しんでたのね・・・=He was seriously having fun...
+やっぱり楽しんでたのね・・・=He was seriously having fun.
 !FILE:EV1422_076.bscr
 チェッ　せっかくおもしろく|なってきたってのによ！=Tch! Just when things were starting to get good too!
-やっぱり楽しんでたのね・・・=He was seriously having fun...
+やっぱり楽しんでたのね・・・=He was seriously having fun.
 !FILE:EV1422_077.bscr
 頼むから|俺様に罰ゲームを課してくれ！=Do it for me. Make me play the Penalty Game!
-受難がねェと|スターとしていまいちしまらねェんだ！=I can't be a true star without overcome great ordeals and suffering!
+受難がねェと|スターとしていまいちしまらねェんだ！=I can't be a true star without overcoming great ordeals and suffering!
 私からもお願いよ|もう　これ以上　罰ゲームを|せがまないでちょうだい・・・=I have a request as well. No more pestering me about the Penalty Game, okay?
 !FILE:EV1500_000.bscr#moved to common
 !FILE:EV1500_100.bscr
@@ -11398,7 +11398,7 @@
 がんばりましょ|ブラック☆スター=Let's give it our best, Black☆Star!
 行きましょ|ブラック☆スター=Let's go, Black☆Star.
 真面目にやってね|ブラック☆スター=Let's take this seriously, Black☆Star.
-ブラック☆スターの実力なら|きっと達成できるよ=With your capabilities Black☆Star, I'm sure we can succeed.
+ブラック☆スターの実力なら|きっと達成できるよ=With your capabilities, Black☆Star, I'm sure we can succeed.
 !FILE:EV1981_610.bscr
 さて　誰を誘っていくか=So who are we going to invite?
 ブラック☆スター|マカちゃん達がいますよ・・・=Black☆Star, Maka's team is here...
