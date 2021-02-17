@@ -2,6 +2,8 @@ extract*
 repack*
 out_*
 info*
+brlyt/benzin.exe
+brlyt/cygwin1.dll
 *_output.txt
 *.iso
 msbe_output_rearranged.csv
