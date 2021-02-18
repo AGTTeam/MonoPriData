@@ -6860,22 +6860,22 @@
 どうせ　なんとも|なかったんだろ？|さっさと帰ろうぜ！=So there was nothing wrong, right? Let's hurry and go home!
 それが・・・=Actually...
 何かあったのか？|先生　椿に何かあったのか|教えてくれよ！=Actually, what? Doctor, tell me what's wrong with Tsubaki!
-もしかすると|よくない病気かも|しれないのよ・・・=It might perhaps be a rather serious illness...
+もしかすると|よくない病気かも|しれないのよ・・・=It might be a rather serious illness...
 自覚症状はまったくないんですけど|本当なんですか？=But I feel perfectly fine. Am I really sick?
 ええ　今はまだ初期段階だから|せいぜい症状としては・・・=Yes. For right now you're still in the early stages, so at most the symptoms...
-過食　鼻づまり　肌あれ|階段をのぼるとハァハァする|といったところかしら？=Tell me. Have you been having problems with overeating, nasal congestion, dry skin? Shortness of breath, maybe?
+過食　鼻づまり　肌あれ|階段をのぼるとハァハァする|といったところかしら？=Have you been having problems with overeating, nasal congestion, dry skin? Shortness of breath, maybe?
 全部　あたってます|どうしよう？=All of them. What should I do?
 これは　もしかすると|もしかするわ・・・=Well, perhaps... That might work...
 お前の不摂生が|原因なんじゃねェのか？|何かウソくせェな？=It's not just because of your unhealthy lifestyle? I don't know if I believe that.
 どうすればいいんですか|メデューサ先生　教えてください！=Please, Dr. Medusa! Do you have any advice?
 そうね幸い発見が早かったから|薬でなんとかなると思うけど・・・=Luckily, we discovered it early on, so I think we should be able to treat it with medication, but...
-あいにく薬の材料が|切れてしまったのよ・・・=Unfortunately, I don't have all the ingredients that I'll need...
+あいにく薬の材料が|切れてしまったのよ・・・=Unfortunately, I don't have all the ingredients that I need...
 そんな=No...
 そうだ　もしよかったら|あなた達　薬の材料を|取ってきてくれない？=But if you don't mind, you two can go and get me the ingredient that I need, can't you?
 私はここを離れるわけには|いかないからお願いできないかしら？=I would do it myself, but I can't leave my post. You understand, don't you?
 決定権は職人にあるから|まかせるけど・・・=You're the meister, so it's your decision. I can't force you, but...
 できれば　私の健康のために|引き受けてくれないかしら・・・=You'll do it, won't you? For my health...
-う～ん|どうしたもんかな・・・=Unnn... What do I need to do?#I'd like to change the 'Unnn' but I'm not sure what to change it to
+う～ん|どうしたもんかな・・・=Mmmn... What do I need to do?#I'd like to change the 'Unnn' but I'm not sure what to change it to
 !FILE:EV1220_140.bscr
 二人とも御苦労様|これで薬を作ることができるわ♪=Thank you both for your hard work. With this I can make that medicine♪
 確かに渡したぜ|メデューサ先生！=Here! Take it, Dr. Medusa!
@@ -6884,7 +6884,7 @@
 いいところを頼むぜ先生！=Give me the best seat you've got, doctor!
 寿司屋じゃないのよ|ブラック☆スター・・・=This isn't a sushi restaurant, Black☆Star!
 寿司？なんだそれ？|椿の故郷の食い物か？=Sushi? What's sushi? Some kind of food from your home town, Tsubaki?
-二人とも　気が散るから|しばらく外に出ていてちょうだい=You two are distracting me. Would you mind waiting outside just a minute?
+二人とも　気が散るから|しばらく外に出ていてちょうだい=You two are distracting me. Would you mind waiting outside for a minute?
 すみません先生・・・=Sorry, Doctor.
 !FILE:EV1220_146.bscr
 薬の調合には|少し時間がかかるから|もうしばらく待っていてちょうだい=It's going to take a little time to prepare the medicine, so please wait just a moment.
@@ -6907,7 +6907,7 @@
 !FILE:EV1220_162.bscr
 薬が出来るのを|待っているんです=We're waiting while my medicine is being made.
 そういえば椿は|検査をうけたのですよね|結果はどうでしたか？=That reminds me. Tsubaki, you had a medical exam done, right? What were the results?
-よくない病気かも|しれないんだってさ☆=It might be a pretty serious illness after all☆
+よくない病気かも|しれないんだってさ☆=It might be a pretty serious illness after all.
 おかしいですね|俺のところには何の|報告もありませんよ？=How peculiar. I haven't been notified of anything.
 でも　たしかに|メデューサ先生が・・・=But I'm sure that Dr. Medusa...
 魂反応からすると|椿はまごうことない健康体です・・・=Judging by your soul response, Tsubaki, you're undoubtedly as healthy as normal.
@@ -6915,38 +6915,38 @@
 でもせっかくメデューサ先生が|薬を作ってくれているのに・・・=But Dr. Medusa is making medicine specifically for me.
 俺が　言ってあげますから|大丈夫です|椿に薬は必要ないと・・・=You can trust me when I say that it's okay. You don't need any medicine, Tsubaki.
 でも・・・=But...
-そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I'll give you a little present, some of my special remedy.
+そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking anything worries you, I'll give you a little present, some of my special remedy.
 いえ　いまはいいです・・・|ふふふ・・・=No. I'm okay now. Hehehe...
 おかしいですね|マカには好評だったのに=You sure? Maka seemed pleased when I gave it to her.
 あいつ　結構|外面いいよな・・・=She was probably just being nice...
 !FILE:EV1220_166.bscr
-そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking any medicine worries you, I'll give you a little present, some of my special remedy.
+そうだ　薬がないことが|心配なのならば　俺が秘薬を|プレゼントしましょう=Tell you what. If not taking anything worries you, I'll give you a little present, some of my special remedy.
 いえ　いまはいいです・・・|ふふふ・・・=No. I'm okay now. Hehehe...
 おかしいですね|マカには好評だったのに=You sure? Maka seemed pleased when I gave it to her.
 あいつ　結構|外面いいよな・・・=She was probably just being nice...
 !FILE:EV1220_167.bscr
 それでは　俺は|ちょっとメデューサ先生と|お話ししてきますね=Now then, I'm going to go have a little chat with Dr. Medusa.
-はは・・・お願いしますというか・・・|お願いするんでしょうね・・・|やっぱり・・・=Hehe... Should I thank him or... I should thank him... Of course...
+はは・・・お願いしますというか・・・|お願いするんでしょうね・・・|やっぱり・・・=Hehe... I don't know if I should say thanks, or... No, I mean, thank you... Of course...
 ねぇ　ブラック☆スター|博士とメデューサ先生のこと|心配だと思わない？=Hey, Black☆Star. Do you think we should be worried about Dr. Medusa and the professor?
 いや　別に|全然　思わねェ！=Nah. There's nothing to worry about!
 私は心配だわ・・・|もし二人がケンカをしてたら|それは私の責任よ・・・=I'm worried. What if those two are fighting and it's all my fault?
 私が体調を崩したせいで・・・=All because I got sick...
-わかったよ　やつらの|会話を聞いてきてやるよ=I understand. I'll go listen in on there conversation for you.
+わかったよ　やつらの|会話を聞いてきてやるよ=I understand. I'll go listen in on their conversation for you.
 それで　お前の気が|楽になるんだろ？=Will that make you stop worrying?
 ありがとう|お願いよブラック☆スター♪=Thanks, Black☆Star♪
 さて　あいつら|何を話してるんだ・・・=Now what are they talking about?
-今度は多変型の武器である|椿に興味をもったわけですか・・・=It would seem you've been showing quite the interest for the multi-form weapon, Tsubaki, recently...
-ええ　死武専の生徒で|興味のない生徒はいませんわ|保健医ですもの♪=Of course. She's a student at the DWMA, and there isn't a student here that I'm not interested in. I'm the nurse♪
+今度は多変型の武器である|椿に興味をもったわけですか・・・=It would seem you've been showing quite the interest in the multi-form weapon, Tsubaki, recently...
+ええ　死武専の生徒で|興味のない生徒はいませんわ|保健医ですもの♪=Of course. She's a student here, and there isn't a student that I'm not interested in. I'm the nurse♪
 あなたがマカに渡した薬を|調べさせてもらいました=Maka let me examine the medicine you gave her.
-データが少なくハッキリとは|わかりませんが・・・あの薬を飲むと|黒血が促進される可能性があります=The data is incomplete, and I don't understand it completely, but... there's a possibility that drinking that medicine will accelerate the black blood.
-そして　あなたは　健康で|あるはずの椿にも薬を|渡そうとしていましたね？=And then you intended give the medicine to the seemingly healthy Tsubaki as well, no?
+データが少なくハッキリとは|わかりませんが・・・あの薬を飲むと|黒血が促進される可能性があります=I don't have the full data, but there's a possibility that drinking that medicine will accelerate the black blood.
+そして　あなたは　健康で|あるはずの椿にも薬を|渡そうとしていましたね？=And then you intended to give the medicine to the seemingly healthy Tsubaki as well, no?
 あなたは一体何を|たくらんでいるのですか？=What exactly are you playing at?
-たくらむだなんて　博士|単なる私のミスですわ|こんどからは気をつけます=Playing? Why professor, it was just a simple little mistake of mine. I'll be sure to be more careful in the future.
-何者なんですか|あなたという存在は・・・=Who are you? Who are you really?
+たくらむだなんて　博士|単なる私のミスですわ|こんどからは気をつけます=Playing? Why Professor, it was just a simple little mistake of mine. I'll be sure to be more careful in the future.
+何者なんですか|あなたという存在は・・・=Who are you?|Who are you really?
 私はただの保健医|メデューサ先生ですよ♪=I'm Dr. Medusa. Just a simple school nurse♪
-あなたがただの保健医なら|俺は無害な先生ということに|なりますね=If you're just a simple nurse, the students can start calling me Professor Harmless.
+あなたがただの保健医なら|俺は無害な先生ということに|なりますね=If you're just a simple nurse, the students might as well start calling me Professor Harmless.
 あら　違うんですか？=Oh? Do they not?
-今は|そういうことにしておきましょう=Perhaps they will for the time being.
+今は|そういうことにしておきましょう=It's just some food for thought. I'll leave it at that for the time being.
 どうだった？|ケンカしてなかった？=Well? Were they fighting?
 声はよく聞こえなかったけど|二人ともニコニコしてたから|大丈夫だと思うぜ！=I couldn't hear their voices too well, but they were both smiling, so I'm sure it's fine!
 そう　よかったわ|ありがとうブラック☆スター！=That's a relief. Thanks, Black☆Star!
@@ -6962,16 +6962,16 @@
 !FILE:EV1221_007.bscr
 なぁ　今から|マカ達みたいに|別行動といかねェか？=Hey, you wanna split up for a bit like Maka and Soul?
 ちょっと一人で|特訓がしてェんだよ！=I wanna go train on my own for a while.
-私は別にかまわないわよ=I'm fine with it, really.
+私は別にかまわないわよ=I'm don't mind, really.
 じゃあ決まりだな！|またあとでな　椿！|ひやっはははははは☆=Awesome! Smell ya later, Tsubaki! Hyahahahaha☆
-ブラック☆スターいっちゃったね・・・|私は何しようかしら・・・=Looks like I'm on my own... What should I do?
-そうだ　昨日　遅くまで起きてたから|少し頭痛がするのよね・・・|一眠りしてリフレッシュしよう！=That's right, I stayed up late last night so I've got a bit of a headache, so I should go take a nap and refresh myself!
+ブラック☆スターいっちゃったね・・・|私は何しようかしら・・・=Looks like I'm on my own...|What should I do?
+そうだ　昨日　遅くまで起きてたから|少し頭痛がするのよね・・・|一眠りしてリフレッシュしよう！=That's right, I stayed up late last night so I've got a bit of a headache, so I'll go take a nap to refresh myself!
 さてと　どこに行こうかな？=Alright, where could I go to rest my eyes?
 !FILE:EV1221_012.bscr
 どこかで　仮眠が|できそうな場所を知りませんか=You wouldn't happen know a good place to take a nap, would you?
 寝る場所か・・・正面玄関が|いいんじゃないか？=A place to sleep, huh?|How about the front entrance?
 騒がしそうな|感じがしますけど・・・=It seems somewhat noisy, though...
-そんなことないぜ|この時間帯は人通りも|少なくて　結構穴場なんだぜ=Not at all. There're few people walking around there at this time of day, so it's actually a pretty nice spot.
+そんなことないぜ|この時間帯は人通りも|少なくて　結構穴場なんだぜ=Not at all. Not many people walk around there at this time of day, so it's actually a pretty nice spot.
 とにかく仮眠なら|正面玄関が一番だって=You do as you please, but I think the front entrance is the best place for a nap.
 !FILE:EV1221_016.bscr
 とにかく仮眠なら|正面玄関が一番だって=You do as you please, but I think the front entrance is the best place for a nap.
@@ -6980,7 +6980,7 @@
 !FILE:EV1221_020.bscr
 あれ　何してるんですか？=Huh, what are you doing?
 おお|ちょっと寝ようと|思ってここに来たんだ！=Ah, I came here to catch some Z's!
-結構な穴場なんだぜ|この時間帯は|意外に人通りも少ねェからな！=It's my secret spot. There are surprisingly few people here around at this hour!
+結構な穴場なんだぜ|この時間帯は|意外に人通りも少ねェからな！=It's my secret spot. There are surprisingly few people around at this hour!
 ところで椿は|何しに来たんだ？=So what did you come here for, Tsubaki?
 私も仮眠に来たんです|昨日夜ふかしをしたから|少し頭痛がして・・・=I came to take a nap, too. I stayed up late last night so I've got a bit of a headache.
 そうか　じゃあこの場所|ゆずってやるよ=Is that so? I'll leave this spot to you then.
@@ -7007,10 +7007,10 @@
 他の場所に|行くことをお勧めするぜ・・・=I suggest you move somewhere else.
 !FILE:EV1221_027.bscr
 あ～あ|せっかくいい場所だと|思ったのに・・・=*Sigh* And I was just starting to get comfortable...
-あれ以上の仮眠ポイントって|他にないのかしら？=I wonder if there's any other place I could go to take a nap.
+あれ以上の仮眠ポイントって|他にないのかしら？=I wonder if there's anywhere else I could go to take a nap.
 !FILE:EV1221_032.bscr
-あれ　椿は一人なのか|ブラック☆スターはどうした？=Huh? Are you alone, Tsubaki? Where's Black☆Star?
-特訓でも|してるんじゃないですか=Don't know. He's probably doing his special training somewhere.
+あれ　椿は一人なのか|ブラック☆スターはどうした？=Huh? Are you alone, Tsubaki?|Where's Black☆Star?
+特訓でも|してるんじゃないですか=He's probably off doing his special training somewhere.
 機嫌が悪いようだな・・・=You seem to be in a bad mood.
 そんなことよりも|キッド君も一人なんですか？=What about you? Are you by yourself too, Kid?
 ああ　今は一人だ|久しぶりに勝手ができる=Yeah, I am for now. It's the first time in a while that I get to do what I want.
@@ -7087,22 +7087,22 @@
 椿が　そこまで|言うなら仕方ねェか・・・|特訓は終わりにしとこう=I guess I have no choice if you're going to grovel like that... We'll end the special training for now.
 !FILE:EV1222_002.bscr#おばちゃんの秘密 = Auntie's Secret part 8
 さっきシド先生に|会ったんだけど|元気がなかったよ～=I ran into Sid a little while ago. He had a big frowny face.
-シド先生が・・・|何かあったんでしょうか？=Sid? Did something happen?
+シド先生が・・・|何かあったんでしょうか？=Mr. Sid? Did something happen?
 知らな～い|ゾンビに興味ないもん！|きゃはははは♪=I doooon't know. I'm not interested in zombies! Kyahahahaha♪
 ったく　しょうがねェ|ゾンビ君だぜ！=Geez. Mr. Zombie is so helpless!
 スターである俺様が|いっちょカツを入れてやるか！|ひやっはははははは☆=I guess it's up to a star like me to give him a pep-talk! Yahahahahahaha☆
 !FILE:EV1222_006.bscr
-シド先生が・・・|何かあったんでしょうか？=Sid? Did something happen?
+シド先生が・・・|何かあったんでしょうか？=Mr. Sid? Did something happen?
 知らな～い|ゾンビに興味ないもん！|きゃはははは♪=I doooon't know. I'm not interested in zombies! Kyahahahaha♪
 !FILE:EV1222_012.bscr
-シド先生|元気がないですね？|どうかしたんですか？=Are you upset about something, Sid? What's wrong?
+シド先生|元気がないですね？|どうかしたんですか？=Are you upset about something,|Mr. Sid? What's wrong?
 ああ　久し振りに|怒られてしまった・・・=Yeah. It's been a long time since I've been scolded like that.
 死神様に怒られたぐらいで|ヘコまないでください=If it's just Lord Death scolding you, try not to let it get to you too much.
 いや　死神様じゃないんだ・・・=No, it wasn't Lord Death.
 誰に怒られたんだよ？=Who was it then?
 学生課のおばちゃんだ=Auntie, the school secretary.
 おばちゃんが|シド先生を怒ったんですか？=Auntie scolded you?
-ああ　熱い魂が足りないと|それはもうすごい剣幕でな|子供の頃を思い出した・・・=Yeah. If my soul isn't burning bright enough, she gets that angry look that sends shivers down your spine. Reminds me of when I was a kid.
+ああ　熱い魂が足りないと|それはもうすごい剣幕でな|子供の頃を思い出した・・・=Yeah. If my soul isn't burning bright enough, she gets a scarily angry look. Reminds me of when I was a kid.
 そういえば　先生|ここの卒業生なんだよな！=Come to think of it, you graduated from the DWMA, right, Sid?
 俺はここの学生だった|そしておばちゃんは|おばちゃんだった・・・=I was a student here. And Auntie... was Auntie...
 おばちゃんは|本当に変わらない・・・=She hasn't changed at all.
@@ -7111,13 +7111,13 @@
 おばちゃんは|本当に変わらない・・・=She hasn't changed at all.
 !FILE:EV1222_017.bscr
 ・・・・・・・・・=.........
-何　考えてるの？|どうせくだらないことだと思うけど・・・=What's on your mind? It was probably some silly misunderstanding.
+何　考えてるの？|どうせくだらないことだと思うけど・・・=What's on your mind? I'm sure it's probably something silly, but...
 おばちゃんのことが|気になってな・・・=Auntie is suddenly very intriguing...
 ああ　やっぱり・・・=Yeah. I thought so.
-椿は気にならねェのかよ？|あのシド先生を叱れるんだぜ！|ただ者じゃねェよ☆=How are you not intrigued, Tsubaki? She scolded Sid! That's no ordinary person☆
+椿は気にならねェのかよ？|あのシド先生を叱れるんだぜ！|ただ者じゃねェよ☆=How are you not intrigued, Tsubaki? She scolded Sid! That's not something any ordinary person could manage☆
 決めた！|おばちゃんをさぐろうぜ|暗殺者らしくな！=I've got it! We'll spy on Auntie. Just like an assassin would!
 はいはい　わかりました|ブラック☆スター・・・=Orders received, Black☆Star...
-マカやソウルに聞いたって|俺達と同じことくらいしか|知らねェと思うからよ=No point asking Soul or Maka. They probably won't know any more than we do.
+マカやソウルに聞いたって|俺達と同じことくらいしか|知らねェと思うからよ=No point asking Soul or Maka. They probably won't know any more than|we do.
 先生たちに　おばちゃんのことを|聞いてみようぜ！|ひやっはははははは☆=Let's try asking the teachers about her! Yahahahahahaha☆
 !FILE:EV1222_022.bscr
 おばちゃんって|博士が生徒の時からいたんですか？=Professor, was Auntie here when you were a student?
@@ -7129,7 +7129,7 @@
 俺が子供の頃から|まったくかわっていません=She hasn't changed at all since I was a kid.
 いつまでも|お若いんですね！=She looks as young as ever!
 ええ　シワや白髪も|増えもしなければ|減りもしない・・・=Yes. Not a single wrinkle or grey hair more or less...
-コピーしたように|俺が子供の頃と|まったくかわっていません=She hasn't changed at all since I was a kid. Like a copy.
+コピーしたように|俺が子供の頃と|まったくかわっていません=She really hasn't changed at all since I was a kid. Like a copy.
 あれは本当に|生物なのでしょうか？=Makes you wonder if she's a real living organism.
 は　はぁ|私にはよくわかりませんが・・・=Hehe... I don't know anything about that, but...
 そうだ　せっかくだから|これをあげましょう=Right. Let me give you this.
@@ -7143,7 +7143,7 @@
 !FILE:EV1222_032.bscr
 おばちゃんって昔から変わってないって|本当ですか？=Is it true that Auntie hasn't changed for a long time?
 本当だよ|まったく変わってないなおばちゃん・・・=It's true. Auntie looks the same as she always has.
-昔　俺の先輩に聞いたんだが|その人が子供の頃からも|まったく変わってなかったらしい・・・=When I was around your age, I also asked one of the adults about Auntie. Apparently, she hasn't changed even since he was a kid...
+昔　俺の先輩に聞いたんだが|その人が子供の頃からも|まったく変わってなかったらしい・・・=When I was young, I also asked one of the adults about her. Apparently, she hasn't changed since he was a kid.
 そうなんですか=Is that so?
 だからこういう噂が流れたもんだ|今のおばちゃんは四代目だ=That's where the rumor started. This is the fourth Auntie.
 どういうことですか？=What rumor?
@@ -7166,12 +7166,12 @@
 よく知らないのよ・・・|ここに来てから日が浅いから・・・|むしろ私が聞きたいわ=I don't know much. It hasn't been that long since I came here. I should be asking you instead.
 おばちゃんって|どういう人なの？=What kind of person is this Auntie?
 よく　わかんねェ|ミステリーな女としか言えねェな！=We don't know a thing. All we can say is that she's a mystery woman!
-だが　いつか俺様が|正体を暴いてやるぜ！|ひやっはははははは☆=But I'll one day reveal her true identity for all to see! Yahahahahahaha☆
+だが　いつか俺様が|正体を暴いてやるぜ！|ひやっはははははは☆=But one day I'll reveal her true identity for all to see! Yahahahahahaha☆
 そう　そんな人がいるの|知らなかったわ・・・先生も|注意しておくわね♪=Really? I had no idea there were people like that here... I'll keep my eyes peeled♪
 !FILE:EV1222_046.bscr
 おばちゃんって|どういう人なの？=What kind of person is this Auntie?
 よく　わかんねェ|ミステリーな女としか言えねェな！=We don't know a thing. All we can say is that she's a mystery woman!
-だが　いつか俺様が|正体を暴いてやるぜ！|ひやっはははははは☆=But I'll one day reveal her true identity for all to see! Yahahahahahaha☆
+だが　いつか俺様が|正体を暴いてやるぜ！|ひやっはははははは☆=But one day I'll reveal her true identity for all to see! Yahahahahahaha☆
 そう　そんな人がいるの|知らなかったわ・・・先生も|注意しておくわね♪=Really? I had no idea there were people like that here... I'll keep my eyes peeled♪
 !FILE:EV1222_052.bscr
 おばちゃんのことについて知りたいんです|どのくらい昔から死武専にいるんですか？=We'd like to know a little about Auntie. How long ago did she come to the DWMA?
@@ -7180,16 +7180,16 @@
 忘れるくらい昔から|いたってことかよ？=She's been here so long that you don't even remember when she came?
 どうもそういうことになるみたいだね・・・|すまないねぇ　お役に立てなくて・・・=It would seem so, yep... Sorry I couldn't be more helpful.
 こちらこそ　すみません|くだらない質問をしてしまって=We should be the ones to apologize for wasting your time with such trivial questions.
-いや|なかなかナイスな情報だったぜ|ありがとよダンナ☆=Are you kidding? That was some great information. Thanks, boss☆
+いや|なかなかナイスな情報だったぜ|ありがとよダンナ☆=Are you kidding? That was some great information. Thanks, Boss☆
 !FILE:EV1222_056.bscr
 おばちゃんのことについて知りたいんです|どのくらい昔から死武専にいるんですか？=We'd like to know a little about Auntie. How long ago did she come to the DWMA?
 おばちゃん？|そういえば昔からいるね？=Auntie? It must have been quite a while ago, huh?
 !FILE:EV1222_057.bscr
 怪しいってことは|わかってきたんだが|どの情報もいまいちパンチがねェ・・・=I'm certain there's something weird going on, but none of this information is quite what we need...
-もうやめましょうよ|私なんだか怖くなってきたわ・・・=Let's stop already. I'm really starting to freak out a little.
+もうやめましょうよ|私なんだか怖くなってきたわ・・・=Let's stop already. I'm really starting to get freaked out.
 そうだ　図書館に行けば|死武専の職員名簿があるだろう？=I've got an idea! If we go to the library, we might come across the DWMA's staff registry, right?
 それを調べれば|おばちゃんの秘密も　まる裸だぜ！=And if we take a peek at that, Auntie's secrets will be blown wide open!
-でも　私達じゃ多分閲覧できないわよ|上級職人じゃないと・・・=But we probably won't be allowed to look at it. You have to be a high-ranking meister...
+でも　私達じゃ多分閲覧できないわよ|上級職人じゃないと・・・=But we probably won't be allowed to look at it. You have to be a high- ranking meister...#added space for improved word-wrap
 ボンボンに頼んでみようぜ|あいつならば　親のコネで|何とかなるかもしれねェ=Let's try asking the spoiled brat. He might be able pull some strings thanks to his dad.
 えっ　キッド君|そういうのいやがるんじゃないかな？=Huh? Kid? Doesn't he hate it when you call him that?
 聞いてみなきゃわかんねェよ|とにかくボンボンをさがそうぜ☆=Won't know until we ask him. In any case, let's find Mr. Holier-Than-Thou☆
@@ -7197,17 +7197,17 @@
 教職員名簿を見たいって|ブラック☆スターがうるさいんです・・・=Black☆Star keeps saying that he wants to see the staff registry, and...
 協力してくれ頼む！=Lend me a hand! Please!
 無理だ　ブラック☆スター=No way, Black☆Star.
-俺達は　まだ一つ星職人|レベル１までの本しか|閲覧する事はできん=We're still one-star meisters, so we can only access level 1 books.
-教職員名簿はレベル３だ|先生がたでないと閲覧できん=The staff registry is level 3. Only teachers have access to it.
+俺達は　まだ一つ星職人|レベル１までの本しか|閲覧する事はできん=We're still one-star meisters, so we can only access level one books.
+教職員名簿はレベル３だ|先生がたでないと閲覧できん=The staff registry is level three.|Only teachers have access to it.
 お前　ダンナの息子だろ|裏ワザかなんかあんだろ？=Aren't you the boss's son? Don't you have any tricks to get around it?
 たわけ　俺が|そういうのを一番嫌うのを|知ってて　まだ言うのか？=You fool! You ask this of me even though you know that things like this are what I hate the most?
 いいじゃねェか|そこをなんとか|頼むぜ　キッド！=Come on, it'll be fine. I'm desperate, Kid!
 この男は　何をそんなに|知りたがっているのだ=What is it that this idiot wants to know so badly?
 おばちゃんのことを|知りたがってるんです・・・=He wants to learn more about Auntie.
-おばちゃんか・・・|うむ・・・=Auntie, huh? Hm...
-わかった協力してやろう|俺もおばちゃんのことが知りたい=Alright, I'll see what I can do. I'm curious about her too.
-やるな　キッド！|チマチマしてばかりだと思ったけど|正直　みなおしたぜ！=Nice, Kid! I thought you were just a petty guy, but you've honestly changed my mind!
-俺もまだ一つ星の職人|できれば皆とフェアな立場で|いたかったんだが・・・仕方ない=I'm just a one-star meister myself. I wanted to be in an equal position to everyone else if possible, but... It can't be helped.
+おばちゃんか・・・|うむ・・・=Auntie, huh?|Hm...
+わかった協力してやろう|俺もおばちゃんのことが知りたい=Alright, I'll see what I can do.|I'm curious about her too.
+やるな　キッド！|チマチマしてばかりだと思ったけど|正直　みなおしたぜ！=Nice, Kid! I thought you were just some small-bore, but you've honestly changed my mind!
+俺もまだ一つ星の職人|できれば皆とフェアな立場で|いたかったんだが・・・仕方ない=I'm only one-star myself. I wanted to be in an equal position to everyone if possible, but... It can't be helped.
 キッド君　本当に|調べにいってくれちゃった・・・=He's really going to go check it out.
 どうだった！|バッチリわかったかよ！=Well!? Did you find anything out!?
 だめだ・・・=It's no use...
@@ -7229,20 +7229,20 @@
 いえ　そういうのではなくて・・・=No, that's not...
 おばちゃん見ていたよ|後ろからね・・・=Auntie was watching you, you know. From just out of sight...
 ・・・・・・・・・=.........
-若い子が　人のことを|こそこそかぎまわるのは|おばちゃん感心しないよ=You know, I'm not really a fan of young children who stick their noses into other people's business behind their backs.
+若い子が　人のことを|こそこそかぎまわるのは|おばちゃん感心しないよ=You know, I'm not really a fan of kids who stick their noses into other people's business behind their backs.
 そんなことをしてるヒマが|あったら　もっと魂を|みがくんだね=If you have the time to be doing something like this, you should focus on strengthening your souls.
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
 ちょっと　脅かしすぎたかね|・・・そうだサービスしておこう=Did I scare you too much?|That's all right. Let me help you out.
-あんた達　もってるだろう|おばちゃんの写真=You kids have it, right? My picture, that is...
+あんた達　もってるだろう|おばちゃんの写真=You kids have it, right?|My picture, that is...
 なんでわかんだよ・・・=How did you know?
 早く出しな！=Cough it up! Quickly now!
-は　はい　これです=A-Alright, there you go.
+は　はい　これです=A-Alright, here it is.
 ちょっと待ってな|おばちゃんも乙女だからね・・・=Be patient now.|I'm not ignorant of my good looks.
 ま　こんなところだろう|ほら　あんた達に返すよ|せいぜい大事にするんだね=Well, that should do it. It's all yours. Take good care of it now.
 キスマークが入ってる|ありがたいのかしら・・・=There's a kiss mark on it. I don't know if I should feel grateful, or...
-きったねェなぁ=Man, that's filthy.
-もういいよ　あんた達行きな！=That's enough fun for today. On your way, kids!
+きったねェなぁ=Man, that's grim.
+もういいよ　あんた達行きな！=That's enough fun for today. On your way, kids!#not used
 おばちゃんいつでも|あんた達のことを見ているよ|後ろからね・・・=Auntie is always watching you... from just off screen...
 !FILE:EV1300_000.bscr#moved to common
 !FILE:EV1300_100.bscr
@@ -9306,15 +9306,15 @@
 ええ　ブラック☆スター|いつでもいいわよ！=Yeah. I'm always ready, Black☆Star!
 ひやっはぁ☆|ここが今回のステージか！=Yahoo☆ The stage is set for the next act!
 がんばりましょうね|ブラック☆スター！=Let's give it our best, Black☆Star!
-俺様　イン・・・|ここ　どこだっけ？=I am here! ... Where's here again?
-あなたならどこでも大丈夫よ・・・|気にしないで・・・=As long as you're here it's okay... Don't worry about it...
+俺様　イン・・・|ここ　どこだっけ？=I am here! ...Where's here again?
+あなたならどこでも大丈夫よ・・・|気にしないで・・・=You'll be fine no matter where you end up. Don't worry about it...#alternatives welcome. This pairs with the above "I am here!" line.
 !FILE:EV1932_011.bscr
 ひやっはぁ☆|俺だ　いわゆる一つの|ブラック☆スターだ！=Yahoo☆ It's me! The one and only, Black☆Star!
 ええ　もちろん|わかってるわよ=Yeah, of course. We know already.
 時は来た！|ただ　それだけだ！=The time has come! That's all!
-いよいよ　はじまりね|ブラック☆スター！=It's finally starting, Black☆Star!
-俺様　イン・・・|ここ　どこだっけ？=I am here! ... Where's here again?
-あなたならどこでも大丈夫よ・・・|気にしないで・・・=As long as you're here it's okay... Don't worry about it...
+いよいよ　はじまりね|ブラック☆スター！=It's finally here, Black☆Star!
+俺様　イン・・・|ここ　どこだっけ？=I am here! ...Where's here again?
+あなたならどこでも大丈夫よ・・・|気にしないで・・・=You'll be fine no matter where you end up. Don't worry about it...
 どうやら|目的のステージについたみてェだな！=I don't know how, but it looks like we finally made it to the right stage!
 ここなのね・・・|なんだか|緊張してきちゃったわ・・・=This is the place... You were really dialed in mentally...
 !FILE:EV1932_012.bscr
@@ -9323,11 +9323,11 @@
 俺だぁ！俺様だぁ！|ブラック☆スターだぁ！|ひやっはははははは☆=It's me! The one and only! Black☆Star! Yahahahahahaha☆
 いよいよね|ブラック☆スター！=No doubt about it, Black☆Star!
 時は来た！|ただ　それだけだ！=The time has come! That's all!
-いよいよ　はじまりね|ブラック☆スター！=It's finally starting, Black☆Star!
-俺様　イン・・・|ここ　どこだっけ？=I am here! ... Where's here again?
-あなたならどこでも大丈夫よ・・・|気にしないで・・・=As long as you're here it's okay... Don't worry about it...
+いよいよ　はじまりね|ブラック☆スター！=It's finally here, Black☆Star!
+俺様　イン・・・|ここ　どこだっけ？=I am here! ...Where's here again?
+あなたならどこでも大丈夫よ・・・|気にしないで・・・=You'll be fine no matter where you end up. Don't worry about it...
 !FILE:EV1932_020.bscr
-まぁ　見てな！|小物達と俺様の違いを|ハッキリと証明してやるぜ！=Oh, look at that! I'm going to prove the difference between the little guys and me!
+まぁ　見てな！|小物達と俺様の違いを|ハッキリと証明してやるぜ！=Just you watch! I'm going to prove the difference between the little guys and me!
 すっかり油断してる|大丈夫なのかしら？=You're completely off guard. I wonder if you'll be all right.#this one was hard to translate too
 伝説の目撃者となれることを|喜ぶんだな　椿！|ひやっはははははは☆=You must be pleased to be witnessing a legend, Tsubaki! Yahahahahahaha☆
 しかし　俺様が来たことで|ようやくこのステージも|見栄えがするってもんだな！=At last, the big star has arrived to give the audience something worth watching!
@@ -9346,9 +9346,9 @@
 しかし　俺様が来てやったのに|出迎えは誰もいねェのかよ！=Hold on! I didn't come all this way to perform in front of empty seats!
 大丈夫よ　すぐに|たくさん迎えが出てくると思うわ=Don't worry. I'm sure you'll have an audience in no time.
 やべぇ　ボヤボヤしてると老いぼれちまう！|さっさと先に進むぞ！=Darn it. If I don't watch it, I'll end up old without realizing it! Quick, let's keep going!
-しかし　誰もいねェな・・・|俺様の存在に圧倒されて|出てこれねェのかよ！=But there's no one here... My presence must have frightened them too much to come out!
+しかし　誰もいねェな・・・|俺様の存在に圧倒されて|出てこれねェのかよ！=But there's no one here...|My presence must have frightened them too much to come out!
 本当にそうだったら|どんなにいいか・・・=If only that were really true...
-まぁ　見てな！|小物達と俺様の違いを|ハッキリと証明してやるぜ！=Oh, look at that! I'm going to prove the difference between the little guys and me!
+まぁ　見てな！|小物達と俺様の違いを|ハッキリと証明してやるぜ！=Just you watch! I'm going to prove the difference between the little guys and me!
 さて　俺様に釣り合うだけの|出来事に　遭遇できるかな！|ひやっはははははは☆=Now it's time to see if this thing can manage to challenge me! Yahahahahahaha☆
 あんまり面倒なことが|おきないといいんだけど=It wouldn't be so bad if it wasn't too troublesome though, would it?
 スターである俺様には|あんまり時間がねェ！|さっさと　片付けるぞ！=A star like me doesn't have a lot of time, so let's get this taken care of fast!
@@ -9477,22 +9477,22 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!#油断大敵 is a yojijukugo.
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
-なんか納得できねェな！=I don't get what the deal is with these!
-お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
+なんか納得できねェな！=We did it but, I'm not exactly happy.
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...#needs further testing
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
 まぁ　ちょっとは疲れたかな=I'm actually a little tired.
-お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 目標達成！|さすが俺様だな☆=Mission complete! As expected from me☆
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
-なんか納得できねェな！=I don't get what the deal is with these!
+なんか納得できねェな！=We did it but, I'm not exactly happy.
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 ちっ　納得いかねェ・・・=Tch! That sucked...
-お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 俺こそ神だ！=I'm a god for sure!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
 まぁ　ちょっとは疲れたかな=I'm actually a little tired.
@@ -9501,7 +9501,7 @@
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
-なんか納得できねェな！=I don't get what the deal is with these!
+なんか納得できねェな！=We did it but, I'm not exactly happy.
 まぁまぁ・・・|たまにはこういうのもあるわよ=It's alright... That's just how it is sometimes.
 !FILE:EV1933_013.bscr
 主役は俺様っ！=I'm the one in the starring role!
@@ -10152,8 +10152,8 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
-なんか納得できねェな！=I don't get what the deal is with these!
-お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
+なんか納得できねェな！=We did it but, I'm not exactly happy.
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
@@ -10316,8 +10316,8 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
-なんか納得できねェな！=I don't get what the deal is with these!
-お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
+なんか納得できねェな！=We did it but, I'm not exactly happy.
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
@@ -10480,8 +10480,8 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
-なんか納得できねェな！=I don't get what the deal is with these!
-お疲れ様　ブラック☆スター|大丈夫？=Good job, Black☆Star. Do you feel okay?
+なんか納得できねェな！=We did it but, I'm not exactly happy.
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
@@ -10938,7 +10938,7 @@
 !FILE:EV1951_062.bscr
 共鳴度が不安定よ！=Our resonance is unstable!
 !FILE:EV1951_070.bscr
-ブラック☆スター！！|無理しないで・・・|一旦戻りましょ=Black☆Star!! Don't overdo it... We'll come back later.
+ブラック☆スター！！|無理しないで・・・|一旦戻りましょ=Black☆Star!! Don't overdo it...|Let's go back.
 !FILE:EV1951_071.bscr
 大丈夫？ブラック☆スター？|ここは一旦引き上げましょ！=Are you all right, Black☆Star? We need to retreat for now!
 !FILE:EV1951_072.bscr
@@ -11403,7 +11403,7 @@
 さて　誰を誘っていくか=So who are we going to invite?
 ブラック☆スター|マカちゃん達がいますよ・・・=Black☆Star, Maka's team is here...
 ブラック☆スター|キッド君達がいますよ・・・=Black☆Star. There's Kid's group...
-アレって・・・まさか=That's... You can't mean--#I'm guessing this would be if Ox appeared
+アレって・・・まさか=That's... You can't mean--#when Ox appears
 より好みしてても仕方ねェな・・・|とっとと誘って出かけようぜ！=They wouldn't be my first choice, but it can't be helped... let's just invite them and go!
 !FILE:EV1981_700.bscr
 こんにちは=Hello.
@@ -17736,7 +17736,7 @@
 決まったようだね|きっちり　魂を鍛えておいで|おばちゃん　応援してるからね=Good choice. Steel that soul, and Auntie will be cheering you on!
 それにするんだね|な～に　あんた達なら|きっとやれるよ　がんばりな！=So that's what you're going to do. Well, if it's you kids, you can do it.|Good luck!
 !FILE:EV9981_050.bscr
-大丈夫かい　あんた達|次はがんばるんだよ|おばちゃん　応援するからね=Not too hurt, I hope. Auntie will be rooting for you, so you kids will get it next time for sure.
+大丈夫かい　あんた達|次はがんばるんだよ|おばちゃん　応援するからね=Not too hurt, I hope. Auntie will be rooting for you, so you kids will get|it next time for sure.
 !FILE:EV9981_100.bscr
 おっ　来たな|用意したのはこんなところだが|どれを選ぶんだ？=Oh, if you're looking to prepare for the fighting ahead, you've come to the right place. Now what did you have in mind?
 !FILE:EV9981_110.bscr
@@ -18322,8 +18322,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teトライアル訓練の心得=%_teTime Trial Practice
 制限時間内に全ての敵を|やっつけてください|　　　BY　シュタイン=Defeat all enemies within the time limit.|　　　　　　　By Stein
 制限時間内に全ての|敵を倒せ！=Defeat all enemies within the time limit!
-%_te薬の材料を調達だ！=%_teProcure the Medicinal Ingredients!
-椿のために薬の材料|%_dc[0,196,0]ダブルムーンの花%_dc[199,133,84]を|探し出せ！=Track down a %_dc[0,196,0]Gemooni Flower %_dc[199,133,84]that I can use to make remedy for Tsubaki!
+%_te薬の材料を調達だ！=%_teProcure the Ingredient!
+椿のために薬の材料|%_dc[0,196,0]ダブルムーンの花%_dc[199,133,84]を|探し出せ！=Track down a %_dc[0,196,0]Gemooni Flower %_dc[199,133,84]so I can make a remedy for Tsubaki!
 ダブルムーンの花%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find a %_dc[0,196,0]Gemooni Flower%_dc[199,133,84]!
 %_teコウモリを退治せよ！=%_teEliminate the Bats!
 気の立った悪戯コウモリ|%_dc[196,0,0]バッドイーター%_dc[199,133,84]を探し出し|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Track down the irate prankster %_dc[196,0,0]Bad Eaters%_dc[199,133,84] and defeat %_dc[0,0,196]15%_dc[199,133,84] of them!
