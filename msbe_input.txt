@@ -318,7 +318,7 @@
 博士　デスサイズに|何をしたんだよ？=Professor, what did you do to Death Scythe?
 身に覚えがありすぎて|何のことを言われているのか|まったくわかりません？=I've done far too many things to remember them all, so I haven't the faintest idea what you're talking about.
 ありすぎてって・・・=When you say "too many things"...
-でも博士　なんで|パパばかりなんですか？=But, professor, why only to Papa?
+でも博士　なんで|パパばかりなんですか？=But, Professor, why only to Papa?
 俺と先輩が積み重ねてきた|日々には　それくらいの|重さがあるんですよ・・・=Well, Spirit and I have known each other for so very long. An unbreakable bond has been made between us...
 それは先輩の娘である|君ですら立ち入れない|領域なのです=An unbreakable bond that even his own daughter can't touch.
 俺の言っていることが|わかりますね？=Do you understand what I'm trying to tell you?
@@ -4739,37 +4739,37 @@
 うへぇ・・・|あんまり相手にしたくねぇな・・・=Bleck! I don't really want to have anything to do with this guy.
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_730.bscr
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 !FILE:EV0934_731.bscr
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 鬼神の卵と化した魂を持つ者！|もう誰の魂も奪わせない！=His soul has become a kishin egg!|You've stolen your last soul!
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
 !FILE:EV0934_732.bscr
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
 !FILE:EV0934_735.bscr
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
 !FILE:EV0934_830.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
@@ -4990,11 +4990,11 @@
 !FILE:EV0935_632.bscr
 ミンチにし損ねたよぉぉ～～=But... then they're still there...
 !FILE:EV0935_730.bscr
-や・・・やられちまったよぉぉぉ！！！=I... I'm finiiished!!!
+や・・・やられちまったよぉぉぉ！！！=Yaah! Yrrooaaaaah!!!
 !FILE:EV0935_731.bscr
-ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... The nerve of youuuuu...
+ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... Look what you did...
 !FILE:EV0935_732.bscr
-細切れにされちまったよぉぉぉぉぉ！！=I've been shreddeeeeed!!
+細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
 !FILE:EV0935_830.bscr
 足りネェ・・・|まだやりたりねェヨォォォォォ！！=My hunger... has not been satiateeeed!!
 !FILE:EV0935_831.bscr
@@ -6875,7 +6875,7 @@
 私はここを離れるわけには|いかないからお願いできないかしら？=I would do it myself, but I can't leave my post. You understand, don't you?
 決定権は職人にあるから|まかせるけど・・・=You're the meister, so it's your decision. I can't force you, but...
 できれば　私の健康のために|引き受けてくれないかしら・・・=You'll do it, won't you? For my health...
-う～ん|どうしたもんかな・・・=Mmmn... What do I need to do?#I'd like to change the 'Unnn' but I'm not sure what to change it to
+う～ん|どうしたもんかな・・・=Mmmn... What do I need to do?
 !FILE:EV1220_140.bscr
 二人とも御苦労様|これで薬を作ることができるわ♪=Thank you both for your hard work. With this I can make that medicine♪
 確かに渡したぜ|メデューサ先生！=Here! Take it, Dr. Medusa!
@@ -6962,7 +6962,7 @@
 !FILE:EV1221_007.bscr
 なぁ　今から|マカ達みたいに|別行動といかねェか？=Hey, you wanna split up for a bit like Maka and Soul?
 ちょっと一人で|特訓がしてェんだよ！=I wanna go train on my own for a while.
-私は別にかまわないわよ=I'm don't mind, really.
+私は別にかまわないわよ=I don't mind, really.
 じゃあ決まりだな！|またあとでな　椿！|ひやっはははははは☆=Awesome! Smell ya later, Tsubaki! Hyahahahaha☆
 ブラック☆スターいっちゃったね・・・|私は何しようかしら・・・=Looks like I'm on my own...|What should I do?
 そうだ　昨日　遅くまで起きてたから|少し頭痛がするのよね・・・|一眠りしてリフレッシュしよう！=That's right, I stayed up late last night so I've got a bit of a headache, so I'll go take a nap to refresh myself!
@@ -6994,7 +6994,7 @@
 これから俺様は|特訓を開始する！=And it's time for me to commence my special training!
 ブラック☆スター・・・|相変わらず騒々しいな・・・=Black☆Star... You're just as loud as usual...
 俺は神を超越する・・・|いやすでにしかかっている！！=I am the man who shall surpass God... Nay, I am already in the process of doing so!!
-凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! It's normal for your minds to be blown!#This is Black☆Star's speech from the first time he arrived at the DWMA. Funimation translated it as follows. "Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!" (ep 11 8:40 ish)
+凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!#This is Black☆Star's speech from the first time he arrived at the DWMA (ep 11 8:40 ish)
 天上天下　唯我独尊|明日の俺には後光が|差すだろう！=Holy am I alone throughout heaven and earth. My future self shall be wrapped in a halo!#first part is from the dub
 うるさくて　とても眠れやしない=It's so noisy. I can't sleep.
 ひやっはははははは☆=Yahahahahahaha☆
@@ -7102,7 +7102,7 @@
 誰に怒られたんだよ？=Who was it then?
 学生課のおばちゃんだ=Auntie, the school secretary.
 おばちゃんが|シド先生を怒ったんですか？=Auntie scolded you?
-ああ　熱い魂が足りないと|それはもうすごい剣幕でな|子供の頃を思い出した・・・=Yeah. If my soul isn't burning bright enough, she gets a scarily angry look. Reminds me of when I was a kid.
+ああ　熱い魂が足りないと|それはもうすごい剣幕でな|子供の頃を思い出した・・・=Yeah. If my soul isn't burning bright enough, she gets scary. Reminds me of when I was a kid.
 そういえば　先生|ここの卒業生なんだよな！=Come to think of it, you graduated from the DWMA, right, Sid?
 俺はここの学生だった|そしておばちゃんは|おばちゃんだった・・・=I was a student here. And Auntie... was Auntie...
 おばちゃんは|本当に変わらない・・・=She hasn't changed at all.
@@ -7207,7 +7207,7 @@
 おばちゃんか・・・|うむ・・・=Auntie, huh?|Hm...
 わかった協力してやろう|俺もおばちゃんのことが知りたい=Alright, I'll see what I can do.|I'm curious about her too.
 やるな　キッド！|チマチマしてばかりだと思ったけど|正直　みなおしたぜ！=Nice, Kid! I thought you were just some small-bore, but you've honestly changed my mind!
-俺もまだ一つ星の職人|できれば皆とフェアな立場で|いたかったんだが・・・仕方ない=I'm only one-star myself. I wanted to be in an equal position to everyone if possible, but... It can't be helped.
+俺もまだ一つ星の職人|できれば皆とフェアな立場で|いたかったんだが・・・仕方ない=I'm only one star myself. I wanted to be in an equal position to everyone if possible, but... It can't be helped.
 キッド君　本当に|調べにいってくれちゃった・・・=He's really going to go check it out.
 どうだった！|バッチリわかったかよ！=Well!? Did you find anything out!?
 だめだ・・・=It's no use...
@@ -7324,7 +7324,7 @@
 はい！=Roger!
 グゥオォ！=Guuooh!
 !FILE:EV1320_002.bscr#一人旅へ出かけよう - Solo Mission - part 11
-もしかして　これから|どこかに出かけるんですか？|何か　そういう雰囲気だけど？=Tell me if I'm wrong, but I get the feeling you're heading somewhere?
+もしかして　これから|どこかに出かけるんですか？|何か　そういう雰囲気だけど？=Tell me if I'm wrong, but I get the feeling you're heading somewhere.
 うむ　ここだけの話にして|ほしいのだが　父上からの指令なのだ=Yeah. I'd like to keep this on the down low, but I've got orders from my father.
 キッド君達だけでなの？=Just your group, Kid?
 そうだ　リズとパティが到着次第|出かけることになる=Yeah. I should be leaving as soon as Liz and Patty arrive.
@@ -9477,7 +9477,7 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!#油断大敵 is a yojijukugo.
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
-なんか納得できねェな！=We did it but, I'm not exactly happy.
+なんか納得できねェな！=We did it, but I'm not exactly happy.
 お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...#needs further testing
 今回はちょっと大変だったわね=I think this mission was pretty tough.
@@ -9489,7 +9489,7 @@
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
-なんか納得できねェな！=We did it but, I'm not exactly happy.
+なんか納得できねェな！=We did it, but I'm not exactly happy.
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 ちっ　納得いかねェ・・・=Tch! That sucked...
 お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
@@ -9501,7 +9501,7 @@
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
-なんか納得できねェな！=We did it but, I'm not exactly happy.
+なんか納得できねェな！=We did it, but I'm not exactly happy.
 まぁまぁ・・・|たまにはこういうのもあるわよ=It's alright... That's just how it is sometimes.
 !FILE:EV1933_013.bscr
 主役は俺様っ！=I'm the one in the starring role!
@@ -9573,7 +9573,7 @@
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
-凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
+凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 !FILE:EV1934_031.bscr
 何者も私を　止められないのだぁ～=No one can stop me, not even a Tsar!
@@ -9654,7 +9654,7 @@
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
+凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 !FILE:EV1934_131.bscr
 なんだぁ～？|死神の手先かぁ～=What? The reaper's acolytes!?
@@ -9772,7 +9772,7 @@
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 モット・・・|チカラァァァァ！！=More... powerrrr!!
 ＨＡ！ＨＡ！=Ha! Ha!
-凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
+凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
 モット・・・|チカラァァァァ！！=More... powerrrr!!
 !FILE:EV1934_331.bscr
 チカラ・・・|チカラァァァ！！=Power... Powerrrr!
@@ -9842,7 +9842,7 @@
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
+凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 !FILE:EV1934_431.bscr
 タマシ・・・イ・・・|ヨコ・・・セ！！=One, two, guess who's coming for you!!
@@ -9885,7 +9885,7 @@
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
+凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
 シャーーッ！！=Booooom!!
 !FILE:EV1934_531.bscr
 ナニ・・・|・・・シニ・・・|キタ・・・？=What...? A reaper... came to breakfast...?
@@ -9988,46 +9988,46 @@
 注意してね！ブラック☆スター！=Careful, Black☆Star!
 へっ！？=Huh!?
 !FILE:EV1934_730.bscr
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
-凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
+凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 !FILE:EV1934_731.bscr
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 ビッグなスターの輝きに|目が眩むだろ！=You must be starstruck running into a star as big as me!
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 ひゃっはぁ～！|暗殺されたいヤツはどいつだー？！=Yahoo! Are you the one that wants to be assassinated!?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 スターである俺様が|いっちょカツを入れてやるか！|ひやっはははははは☆=I guess it's up to a star like me to give him a pep-talk! Yahahahahahaha☆
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 まったく　しょうがねェヤツだぜ！|ひやっはははははは☆=This guy is totally hopeless! Yahahahahahaha☆
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
 !FILE:EV1934_732.bscr
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
 鬼神の卵と化した魂を持つ者が|俺様より目立つんじゃねーぜ！=Nobody whose soul has become a kishin egg is going to take over my spotlight!
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
 小物稼ぎしやがって！|気にいらねェよ！小物が！！=Another weakling! I couldn't care less about these small fry.
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
 よわっちそうなヤツだな！|俺様の敵じゃねーぜ！=This guy looks like a weakling! Definitely not a threat to me!
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
 何いってんだ　お前ェ？=What did you say?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
 !FILE:EV1934_735.bscr
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 !FILE:EV1934_830.bscr
@@ -10041,7 +10041,7 @@
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
-凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=No need to fret, mortals! After all, I'm just too mindblowing!
+凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 !FILE:EV1934_831.bscr
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
@@ -10152,7 +10152,7 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
-なんか納得できねェな！=We did it but, I'm not exactly happy.
+なんか納得できねェな！=We did it, but I'm not exactly happy.
 お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
@@ -10316,7 +10316,7 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
-なんか納得できねェな！=We did it but, I'm not exactly happy.
+なんか納得できねェな！=We did it, but I'm not exactly happy.
 お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
@@ -10480,7 +10480,7 @@
 でも油断は大敵よ！|ブラック☆スター？=But carelessness is the greatest enemy, Black☆Star!
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Ye... Yeah... But don't let your guard down.
-なんか納得できねェな！=We did it but, I'm not exactly happy.
+なんか納得できねェな！=We did it, but I'm not exactly happy.
 お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
@@ -10554,11 +10554,11 @@
 まっ　きばった分|休みながら帰るか　椿！=Yeah! I went all out, so why don't we take it easy on the way back, Tsubaki?
 そうだな・・・|この俺様が小物達に土産を持って|帰ってやるか！椿！=I have an idea! Why don't we get some souvenirs for all the little guys waiting for us back home?
 !FILE:EV1935_730.bscr
-や・・・やられちまったよぉぉぉ！！！=I... I'm finiiished!!!
+や・・・やられちまったよぉぉぉ！！！=Yaah! Yrrooaaaaah!!!
 !FILE:EV1935_731.bscr
-ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... How dare youuuuu...
+ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... Look what you did...
 !FILE:EV1935_732.bscr
-細切れにされちまったよぉぉぉぉぉ！！=I've been shreddeeeeed!!
+細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
 !FILE:EV1935_830.bscr
 足りネェ・・・|まだやりたりねェヨォォォォォ！！=My hunger... has not been satiateeeed!!
 !FILE:EV1935_831.bscr
@@ -14846,7 +14846,7 @@
 それって自慢じゃねェか？|きゃはははは♪=Sounds like boasting to me. Kyahahaha♪
 いや　別に自慢を|していたわけではないのですが・・・=No, it really doesn't have anything to do with me wanting to boast...
 すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget about what I was just saying...
-別にかまいませんが|本当に博士はここで何をしていたのですか=Yeah, that's fine by me, but, professor, what were you really doing here?
+別にかまいませんが|本当に博士はここで何をしていたのですか=Yeah, that's fine by me, but, Professor, what were you really doing here?
 ええ|やっと尻尾が見えてきました|その喜びに　うち震えていたところです=Right. I finally saw what she really is. And I'm trembling with excitement.
 おっかないから|その顔はやめてくれよ博士=Can you please stop making that face, professor? You're freaking me out.
 ほんとビビってるね|お姉ちゃん♪=Sis, you're a big sissy♪
@@ -14899,7 +14899,7 @@
 !FILE:EV2931_004.bscr
 これでシド先生にも|喜んでもらえるだろう！=This should make Sid happy too!
 仇はうったど～♪=Consider us even♪
-細切れにされちまったよぉぉぉぉぉ！！=I've been shreddeeeeed!!
+細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
 !FILE:EV2932_010.bscr
 いいか　お前達|けっして気を抜くんじゃないぞ！=Ready, you two? Don't lose focus for even a second!
 言われなくてもわかってるよ|ごちゃごちゃ　うるせェな=You don't need to remind us every single time. You're so annoying.
@@ -15389,36 +15389,36 @@
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 !FILE:EV2934_730.bscr
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged...
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-なんだぁ？|俺になんかよーかよぉ～？=What? What do you want with me?
+なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
 !FILE:EV2934_731.bscr
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
 !FILE:EV2934_732.bscr
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
 !FILE:EV2934_735.bscr
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
 !FILE:EV2934_830.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
@@ -15593,11 +15593,11 @@
 !FILE:EV2935_632.bscr
 ミンチにし損ねたよぉぉ～～=But... then they're still there...
 !FILE:EV2935_730.bscr
-や・・・やられちまったよぉぉぉ！！！=I... I'm finiiished!!!
+や・・・やられちまったよぉぉぉ！！！=Yaah! Yrrooaaaaah!!!
 !FILE:EV2935_731.bscr
-ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... How dare youuuuu...
+ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... Look what you did...
 !FILE:EV2935_732.bscr
-細切れにされちまったよぉぉぉぉぉ！！=I've been shreddeeeeed!!
+細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
 !FILE:EV2935_830.bscr
 足りネェ・・・|まだやりたりねェヨォォォォォ！！=My hunger... has not been satiateeeed!!
 !FILE:EV2935_831.bscr
@@ -15846,7 +15846,7 @@
 気分が悪い…|今日はさっさと引き上げるぞ！=I don't feel well... Let's not waste any time going back today!
 !FILE:EV2938_000.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=You bastards! Get out of my way!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 なんだぁ？|オレになんかよーかよぉ～？=What? What're youuu looking at?
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 死神の手先かよぉ～？|何しに来やがったぁ～？=You're the messengers of the reaper? You're doomed if you stay here.
@@ -15857,20 +15857,20 @@
 次はオメーらの魂くれるのかよぉ？=Looks like it'll be your souls for dessert!
 !FILE:EV2938_010.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=You bastards! Get out of my way!
-なんだ？|オメーらも魂奪われたいのかァ？=What? You want me to take your souls as well?
-なんだぁ？|オレになんかよーかよぉ～？=What? What're you looking aaat?
-死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Do you intend to follow through with your plans? How unfortunate for you! You must be devastated!!
-死神の手先かよぉ～？|何しに来やがったぁ～？=Ain't you them Death stooges? What the hell d'ya waaant!?
-やりたい放題サイコーだぜぇ～♪=I'll kill as much as I want♪
-オメーらの魂はどんな味がするんだよぉぉ？=What will yooour souls taste liiike?
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=That crafty Death sent his stooges!? What for!?
+なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
+なんだぁ？|オレになんかよーかよぉ～？=What? You like this can?
+死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=There's just some things you gotta do. Don't mean you have to like it.
+死神の手先かよぉ～？|何しに来やがったぁ～？=Ain't you them death stooges? What the hell d'ya want!?
+やりたい放題サイコーだぜぇ～♪=You could have dinner with us♪
+オメーらの魂はどんな味がするんだよぉぉ？=What will your souls taste like?
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You don't wanna go messin' 'round here!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
 次はオメーらの魂くれるのかよぉ？=Looks like it'll be your souls for dessert!
 !FILE:EV2938_020.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
 なんだ？|オメーらも魂奪われたいのかァ？=What? I hadn't anticipated taking devouring a reaper's soul today.
 なんだぁ？|オレになんかよーかよぉ～？=Huh? You must have a death wish.
-死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Do you intend to follow through with your plans? How unfortunate for you! You must be devastated!!
+死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=There's just some things you gotta do. Don't mean you have to like it.
 死神の手先かよぉ～？|何しに来やがったぁ～？=Reapers, huh? Have you come to slay me?
 やりたい放題サイコーだぜぇ～♪=I will do as I desire♪
 オメーらの魂はどんな味がするんだよぉぉ？=Perhaps I'll eat your souls with some fava beansss.
@@ -15893,7 +15893,7 @@
 !FILE:EV2938_200.bscr#moved to common
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=What's that!? I'll turn you inside out! Oraaaaaaagh!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=Out of my waaaay!! Get out of my waaaaay!!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=You can't hide! No place to hiiiide!! Urruaaaaagh!!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're doooomed!!
@@ -15902,15 +15902,15 @@
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'll drown youuu!! I'll watch the life vanish from your eyesss!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV2938_210.bscr
-なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=What's that!? I'll turn you inside out! Oraaaaaaagh!
+なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=What's that!? I'll turn you inside out! Yrooaaaaaah!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=Death's stinkin' stooges! Stay outta my waaaay!
-そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=That's irrelevant! They're so tastyyyyyyy!
+そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=Outta my waaaay!! Get outta my waaaaay!!
-ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=This is gonna be a pummeling!! Urrruaaaagh!!
+ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=This is gonna be a pummeling!! Yrrooaaaah!!
 オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
-うるせぇよぉ～！|そこをどけえぇぇぇ～～！=Shut up and step asiiiide!
-っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
-ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=I'm going to send you to the afterlife!! Prepaaare yourseeelves!
+うるせぇよぉ～！|そこをどけえぇぇぇ～～！=Shut your mouth! Shut your mouth!
+っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you say!? Eat this!!
+ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=Minced! Shredded!! I'll tear you apaaaaart!!
 !FILE:EV2938_220.bscr
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
@@ -15940,14 +15940,14 @@
 !FILE:EV2939_010.bscr
 足りネェ…|まだやりたりねェヨォォォォォ！！=More... I need mooooooore!!
 くそぅっ！くそぉぉぉっぉ！|お前らずっちぃぜぇぇぇぇっ！=Damn! Daaamn! You rotten bastaaards!
-ウギャァァァァァァァ！=Ugguaaaaah!
-ぐぅぅ…|なにしやがんだぁぁぁぁぁぁ…=Nnghh... How dare youuuuu...
-グォォァァアァ…=Guooaaaah...
+ウギャァァァァァァァ！=Yrooaaaaah!
+ぐぅぅ…|なにしやがんだぁぁぁぁぁぁ…=Nnghh... Look what you did...
+グォォァァアァ…=Yrooaaaah...
 ミンチにし損ねたよぉぉ～～……=You're still in one pieeece...
-いてぇ！　いてぇよぉぉぉぉぉぉ～～！！=It hurts! It huuuuuuurts!!
-死神の手先なんかによぉぉぉぉぉ……=How did Death's stoogessss...
-細切れにされちまったよぉぉぉぉぉ！！=I've been shreddeeeeed!!
-や…やられちまったよぉぉぉ！！！=I... I'm finiiished!!!
+いてぇ！　いてぇよぉぉぉぉぉぉ～～！！=Yaah! Yaaaaah!!
+死神の手先なんかによぉぉぉぉぉ……=How did Death's stooges...
+細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
+や…やられちまったよぉぉぉ！！！=Yaah! Yrrooaaaaah!!!
 !FILE:EV2939_020.bscr
 足りネェ…|まだやりたりねェヨォォォォォ！！=My hunger... has not been satiateeeed!!
 くそぅっ！くそぉぉぉっぉ！|お前らずっちぃぜぇぇぇぇっ！=Nooo! Inconceivableeee! Damn youuuu!
@@ -17709,7 +17709,7 @@
 !FILE:EV9967_530.bscr#moved to common
 !FILE:EV9967_531.bscr#moved to common
 !FILE:EV9981_000.bscr
-来たね　あんた達|おばちゃん　ここから見てたよ=Back for more? A star needs his fans, but with those ugly mugs I'm gonna have to turn you down! Tsubaki!
+来たね　あんた達|おばちゃん　ここから見てたよ=So you've come, huh?|Auntie's been watching you from here.
 受けたいものがあったら|おばちゃんの所に|もってくるんだよ=If you've got any items that you want Auntie to hold on to, just bring them to me, okay?
 !FILE:EV9981_010.bscr
 おばちゃんね　ずっと見てたよ|後ろからね・・・=You know, Auntie has always been watching you from behind...
