@@ -1,0 +1,1 @@
+ffmpeg -i movie1000.thp -vf fps=24000/1001 -q:v 1 frames_1000/movie1000_%04d.jpg

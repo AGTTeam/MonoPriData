@@ -10,5 +10,11 @@ msbe_output_rearranged.csv
 msbe_events.csv
 msbe_system.csv
 movie.csv
+~$noPri_Credits.odt
 *.po
 patch
+movie/*.exe
+movie/*.mkv
+movie/*.mp4
+movie/frames_*
+movie/Adobe After Effects Auto-Save
