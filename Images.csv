@@ -78,10 +78,10 @@ SP003_0034_T00.png,Speak (話す),Tbd
 SP003_0035_T00.png,Yes (はい),Tbd
 SP003_0036_T00.png,No (いいえ),Tbd
 SP003_0040_T00.png,End (おしまい),Tbd
-SP009_0000_P01.png,KILL (Already in English),Done
+SP009_0000_P01.png,DING (KILL - Already in English),Needs updating – note order has been rearranged to sound better in translation
 SP009_0000_P02.png,DONG (コーン),Done
-SP009_0000_P03.png,DANG (カーン),Done
-SP009_0000_P04.png,KILL (Already in English),Done
+SP009_0000_P03.png,DEAD (カーン),Needs updating
+SP009_0000_P04.png,DEAD (KILL Already in English),Needs updating – note this is the final image used in the sequence which appears on its own, hence has been changed to 'dead'.
 SP010_0070_T01.png,Lock On (ロックオン),Done
 SP010_0070_T01.png,Lock On (ロックオン),Done
 SP010_0070_T01.png,Lock On (ロックオン),Done
