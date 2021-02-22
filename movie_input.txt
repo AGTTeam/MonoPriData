@@ -357,20 +357,20 @@
 3488:3528:ボッコボコだぁ！=She's in for such a beating!
 3563:3595:執行する=You reap what you sow.
 !FILE:movie1000.bin#these are song lyrics so the punctuation will be strange.
-256:370:|飢えた鼓動　重ねて=The hunger pangs are here again.
-372:502:|交差する想いが　目指してる=We strive toward our intersecting desires.
-504:639:|すれ違う生命の奥に=Inside our passing existences,
-641:762:|それぞれの夢　絡み合う=Our individual dreams become intertwined
-764:884:|この場所で=In this place.
-930:1060:|所々剥がれてきて　安く見られる=Here and there it wears away, easy to|brush off.
-1062:1193:|真っさらより上等だろ？　誇りも払わない=Ain't it better than new?|Who cares about pride!
-1195:1328:|麻酔のように効いた夜に　痛さ忘れて=Forget the pain in the night that sets in|like anesthesia,
-1330:1456:|躊躇いさえ奪う時が 来るの待っている=Waiting for time to steal away even the|hesitation.
-1458:1568:|外せない　タマを込めて=It's unavoidable. Load the bullet.
-1570:1687:|飢えた鼓動　重ねて=The hunger pangs are here again.
-1689:1820:|交差する想いが　目指してる=We strive toward our intersecting desires.
-1822:1957:|すれ違う生命の奥に=Inside our passing existences,
-1959:2150:|それぞれの夢　絡み合う　この場所で=Every dream becomes intertwined in this place.
+256:370:|飢えた鼓動　重ねて=|The hunger pangs are here again.
+372:502:|交差する想いが　目指してる=|We strive toward our intersecting desires.
+504:639:|すれ違う生命の奥に=|Inside our passing existences,
+641:762:|それぞれの夢　絡み合う=|Our individual dreams become intertwined
+764:884:|この場所で=|In this place.
+930:1060:|所々剥がれてきて　安く見られる=|Here and there it wears away, easy to|brush off.
+1062:1193:|真っさらより上等だろ？　誇りも払わない=|Ain't it better than new?|Who cares about pride!
+1195:1328:|麻酔のように効いた夜に　痛さ忘れて=|Forget the pain in the night that sets in|like anesthesia,
+1330:1456:|躊躇いさえ奪う時が 来るの待っている=|Waiting for time to steal away even the|hesitation.
+1458:1568:|外せない　タマを込めて=|It's unavoidable. Load the bullet.
+1570:1687:|飢えた鼓動　重ねて=|The hunger pangs are here again.
+1689:1820:|交差する想いが　目指してる=|We strive toward our intersecting desires.
+1822:1957:|すれ違う生命の奥に=|Inside our passing existences,
+1959:2150:|それぞれの夢　絡み合う　この場所で=|Every dream becomes intertwined in this place.
 !FILE:movie1001.bin#note: Japanese transcript is approximated
 うぃ～っす！|シド君 研究所はどうよ♪|もとにもどったの？=1680:1890:|Yoooo! Sid, how's it going at the lab♪?|Everything back to normal?
 はい　修理は順調です=1918:1980:|Yes. Repairs are in progress.
