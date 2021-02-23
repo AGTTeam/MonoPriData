@@ -30,7 +30,7 @@
 資格がない=Unqualified
 一人旅へ出かけよう=Solo Mission
 いつわりのママ=Mother Faker
-怒ってください=Please Be Mad at Me
+怒ってください=Please Be Mad
 死神のお茶会=Reaper Tea Party
 キング　オブ　不幸=King of Misfortune
 死神三者面談=Reaper-Teacher Meeting
@@ -3772,7 +3772,7 @@
 操作チームを選択してください%_dc[255,255,255]=Please select the team you wish to control.
 !FILE:EV0905_000.bscr
 　　暇そうな君達へ=　　　Time to kill?
-授業が始まらない時には|学生課で暇つぶしをして|ください|　　　　シュタインより=Why not spend some|of it at the student|affairs office?|　　　　　　　　--Stein
+授業が始まらない時には|学生課で暇つぶしをして|ください|　　　　シュタインより=Why not visit the|bulletin board in|the hallway?|　　　　　　　　--Stein
 !FILE:EV0905_010.bscr
 　おばちゃん旅に出るよ=　 Auntie's on vacay.
 でも安心しな　いつでも|あんた達を見守ってるよ|後ろからね！|　　　　　おばちゃんより=But no need to worry.|She's always watching|over you from behind!|　　　　　　　--Auntie
@@ -7451,16 +7451,16 @@
 ははは・・・|色々ありまして・・・=Haha... Quite a lot, actually...
 ふ～ん♪|ま　ちょうどいいのが|あるんだけどね～♪=Oh♪ Well, I think I have just the thing♪
 どう　君達で|やってみちゃう？=Think you're up to it?
-もちろんだぜダンナ|じらさねェで早く紹介してくれよ！=Of course, boss! Don't keep me in suspense! Tell us what it is already!
-じゃあさ　君達に|ちょうどよさそうなやつを|紹介しちゃうよ～ん♪=Well, then I'll introduce you kids to just the guy you need♪
+もちろんだぜダンナ|じらさねェで早く紹介してくれよ！=Of course, Boss! Don't keep me in suspense! Tell us what it is already!
+じゃあさ　君達に|ちょうどよさそうなやつを|紹介しちゃうよ～ん♪=Well, then let me introduce you kids to this lil guy♪#the blood bijoux mission
 !FILE:EV1320_090.bscr
 それとブラック☆スター|一人で出かけちゃだめだよ♪=Also, Black☆Star, you must not go out alone♪
-もちろんさダンナ|マカを誘っていくことにするぜ！=Of course not, boss! I was thinking about inviting Maka along!
+もちろんさダンナ|マカを誘っていくことにするぜ！=Of course not, Boss! I was thinking about inviting Maka along!
 うんうん♪|マカちゃん達と一緒に行くのね|りょうか～い♪='Kay-'kay♪ You're going together with Maka's team. Understood♪
 あの死神様！|お話ししたいことがあります！=Um, Lord Death! There's something I need to tell you!
 ・・・・・・・・・=.........
 何かな　椿ちゃん|言ってごらん！|さあ♪さあ♪=What is it, Tsubaki? Go ahead and tell me! Come on♪ Come on♪
-えっと　その・・・何でもありません|忘れてください・・・=That is... Well... It's nothing. Please forgot I said anything.
+えっと　その・・・何でもありません|忘れてください・・・=That is... Well... It's nothing.|Please forget I said anything.
 ・・・・・・・・・=.........
 あらら　しぼんじゃった♪|まぁ　言いたくなったら|いつでもオーケーだよ～ん♪=Oh well♪ If you change your mind, I'm still ready to listen, okay♪?
 それじゃあ依頼のほう|がんばってね～♪=Now then, good luck with the mission♪
@@ -7473,35 +7473,35 @@
 ああ　全然かみあってないわ・・・=*Sigh* You're not listening to me one bit.
 !FILE:EV1320_110.bscr
 ミッションクリア|お疲れさ～ん♪=Mission clear! Welcome back♪
-楽勝だったぜ　ダンナ！|もっとすげェのは|ねェのかよ！=That was too easy, boss! Tell me you've got something more my speed!
+楽勝だったぜ　ダンナ！|もっとすげェのは|ねェのかよ！=That was too easy, Boss! Tell me you've got something more my speed!
 その前にお説教だよ|君達単独で出かけたよね？=The sermon comes first! You went out without another team, right?#Translated 説教 as sermon as opposed to lecture or preaching due to Lord Death's god status, but it might be a bit much.
 あはは・・・|やっぱりバレてましたか・・・=Ahaha... We got caught after all?
 キッドはよくて|どうして俺達がダメなんだよ！|納得いかねェよ　ダンナ！=Why is it okay for Kid, but we're not allowed? It's not fair!
-確かにブラック☆スターの実力ならば|許してあげてもいいんじゃないの|とは思うよ♪=You're certainly very competent, so I think it'll be okay to excuse it♪
-じゃあ　どうして|許してくれないんですか？=But why would you excuse it?
-・・・単独行動を許したら|すぐに勝手な行動をとる|でしょう　君達の場合♪=If I excuse the independent movement, he's off straight away to do it again. Is that what you're getting at?
+確かにブラック☆スターの実力ならば|許してあげてもいいんじゃないの|とは思うよ♪=You're certainly very competent, so I think it would be okay to excuse it♪
+じゃあ　どうして|許してくれないんですか？=But, we're still getting a lecture?
+・・・単独行動を許したら|すぐに勝手な行動をとる|でしょう　君達の場合♪=If I excuse the independent movement, he'll be off straight away to do it again, no?
 あはは・・・|たしかにそうですね・・・=Ahaha... Probably so.
 とにかく今回だけは|許してあげちゃう|もうやっちゃだめだよ～ん♪=Anyway, this is the only time I'm excusing it. Don't do it again♪
-すみませんでした　死神様・・・|ほらブラック☆スターも！=I'm very sorry, Lord Death... Hey, you too, Black☆Star!
-わかったよ！|・・・もうしねェよダンナ=Okay, okay! It won't happen again, boss.
+すみませんでした　死神様・・・|ほらブラック☆スターも！=I'm very sorry, Lord Death...|Hey, you too, Black☆Star!
+わかったよ！|・・・もうしねェよダンナ=Okay, okay! It won't happen again, Boss.
 もし今度　勝手に|出かけたりしたら|お仕置きだよ～ん♪=The next time you go out without permission you will be punished♪
 それとマカちゃん|名前を使われて怒ってたよ・・・|ちゃんと謝っといたほうがいいね！=Also, you used Maka's name and made her angry, so it would be best to apologize right away!
 !FILE:EV1320_116.bscr
 もし今度　勝手に|出かけたりしたら|お仕置きだよ～ん♪=The next time you go out without permission you will be punished♪
 それとマカちゃん|名前を使われて怒ってたよ・・・|ちゃんと謝っといたほうがいいね！=Also, you used Maka's name and made her angry, so it would be best to apologize right away!
 !FILE:EV1320_117.bscr
-意外とあっけなかったわね？|もっと怒られると思ったけど・・・=That was unexpectedly short. I thought we would have been scolded more, but...
+意外とあっけなかったわね？|もっと怒られると思ったけど・・・=That was unexpectedly short.|I thought we would have been scolded more, but...
 ダンナくらいの大物になると|誰が正しいのかわかるもんさ！=You'll understand once you're as big as the boss and me!
 ははは・・・そうね・・・=Hahahah... Right...
 でも　マカちゃんには|謝りにいかないと・・・|怒っていたみたいだし・・・=But we need to apologize to Maka. He seemed pretty serious about that.
-しょうがねェな　まったく|あれくらいのことで怒るなんて|小物は本当にめんどくせェな☆=I guess you're right. It's so annoying! Why get so angry about little things like that☆
+しょうがねェな　まったく|あれくらいのことで怒るなんて|小物は本当にめんどくせェな☆=I guess you're right. It's so annoying! Why get so angry about little things like that?
 !FILE:EV1320_120.bscr
 やべェ　隠れろ！=Crap! Hide!
 え？どうしたの！？=Huh? What's wrong?
-すごく怒ってたわね|とても人間とは思えない=She was really angry, huh? You'd think she wasn't even human.
-どうしよう　ブラック☆スター|とりつくしまがないみたいよ・・・=What should we do, Black☆Star? This looks hopeless.
+すごく怒ってたわね|とても人間とは思えない=She is really angry, huh? You'd think she wasn't even human.
+どうしよう　ブラック☆スター|とりつくしまがないみたいよ・・・=What should we do, Black☆Star?|This looks hopeless.
 ひやっはははははは☆|小物はこれだから困るぜ！=Yahahahahahaha☆ This problem is too small for me to deal with!
-何も思いつかないのね・・・|ソウル君に間に入ってもらおうか？=I can't think of anything... Maybe we could ask Soul step in.
+何も思いつかないのね・・・|ソウル君に間に入ってもらおうか？=I can't think of anything... Maybe we could ask Soul to step in.
 ったく　小物はしょうがねェ|そんなことしか思いつかねェのかよ=Geez. Small people are so hopeless. That's all you could come up with?
 じゃあ　やめる？=Should we give up?
 いや　それも小物っぽい！|せっかくだから椿の意見を|採用させてもらうぜ☆=Nah. Only weaklings give up! I'm feeling generous, so we'll go through with your plan, Tsubaki☆
@@ -7513,7 +7513,7 @@
 ひやっはははははは☆|小物はこれだから困るぜ！=Yahahahahahaha☆ This problem is too small for me to deal with!
 !FILE:EV1320_132.bscr
 ごめんなさい・・・|あなた達をダシに使って|二組ルールを破ってしまったんです・・・=I'm sorry... We used you and Maka as an excuse to break the team-up rule.
-ああ　いいよ|俺は気にしてねェぜ|・・・それよりも問題はマカだ=Okay. That's fine. I don't care... Maka might be a problem though.
+ああ　いいよ|俺は気にしてねェぜ|・・・それよりも問題はマカだ=Ah, that's fine. I don't mind... Maka might be a problem though.
 私達のこと|とりなしてもらえませんか？=Do you think you could be a mediator?
 悪いけど断らせてもらう=Sorry, but I'm gonna have to turn you down.
 そんな・・・=But...
@@ -7523,27 +7523,27 @@
 悪いけど断らせてもらう=Sorry, but I'm gonna have to turn you down.
 !FILE:EV1320_142.bscr
 お前達|一体　何をやったのだ？=You two! What the hell did you do?
-シド先生　ごめんなさい=I'm sorry, Sid.
+シド先生　ごめんなさい=I'm sorry, Mr. Sid.
 私達　二組ルールを|破って単独で出かけてしまいました・・・=We broke the team-up rule and went out on our own.
 そうか・・・シュタインの|ターゲットはお前達か・・・=That means... you two are Stein's target.
-えっ　ターゲットって|一体・・・=Huh? Target? I don't understand.
-実はシュタインが|生徒をお仕置きできると|張り切っているのだ・・・=The truth is that Stein can get a little overly excited when he gets to punish the students...
-まさか　そのお仕置きをする|生徒というのが　お前達だったとは・・・=To think that you two were the students he was talking about punishing.
-そういえば　博士|そういうこと言ってました・・・=Now that you mention it, the professor did mention punishment.
+えっ　ターゲットって|一体・・・=Huh? Target?|I don't understand.
+実はシュタインが|生徒をお仕置きできると|張り切っているのだ・・・=The truth is that Stein can get a little overly excited when he gets to punish the students.
+まさか　そのお仕置きをする|生徒というのが　お前達だったとは・・・=To think that you two were the students he was talking about punishing...
+そういえば　博士|そういうこと言ってました・・・=Now that you mention it, the professor did say something about a punishment.
 どうしよう・・・|マカちゃんだけでなく|シュタイン博士までなんて・・・=What are we going to do? It's not just Maka, but even Professor Stein.
 !FILE:EV1320_146.bscr
 実はシュタインが|生徒をお仕置きできると|張り切っているのだ・・・=The truth is that Stein can get a little overly excited when he gets to punish the students...
 まさか　そのお仕置きをする|生徒というのが　お前達だったとは・・・=To think that you two were the students he was talking about punishing.
 !FILE:EV1320_147.bscr
 あ～もう　めんどくせェ！|両方　実力で黙らせてやるよ！=Argh! I'm so done! I'll use all my strength and shut them both up!
-そんな乱暴な・・・=Violence won't...
-とりあえず大物ねらいだ！|まずは博士と白黒つけてくるぜ！=For now I'll hunt the big game! First, I'm going to settle this with the professor!
-シド先生|ブラック☆スターを止めてください！=Sid, please stop Black☆Star!
-俺は生徒の自主性を重んじる|そんな男だった・・・|ヤツを止めることはできない・・・=I respect the students' autonomy. That's the kind of man I was. I can't stop him.
+そんな乱暴な・・・=Violence won't--
+とりあえず大物ねらいだ！|まずは博士と白黒つけてくるぜ！=For now I'll hunt the big game!|First, I'm going to settle this with the professor!
+シド先生|ブラック☆スターを止めてください！=Mr. Sid, please stop Black☆Star!
+俺は生徒の自主性を重んじる|そんな男だった・・・|ヤツを止めることはできない・・・=I respect the students' autonomy. That's the kind of man I was.|I can't stop him.
 先生|そういう問題ではないと思います・・・=Sir, I don't think that's the problem here.
 !FILE:EV1320_150.bscr
 ノーーー！！=Nooooo!!
-博士・・・|ここまでやらなくても・・・=Professor, he can't take anymore.
+博士・・・|ここまでやらなくても・・・=Professor, surely this is going too far?
 ブラック☆スターは単独で|外出したんですよ・・・=Black☆Star left without another team...
 俺はルールをやぶったら|お仕置きをすると言っていましたよね？=I said I would punish any rule breaking, did I not?
 そうでした=You did.
@@ -7551,7 +7551,7 @@
 えへへ・・・|お礼を言うべきなんでしょうか・・・=Ehehe... Should I be thanking you then?
 悲しんでください|きめきれなかった俺を・・・=I want you to pity me... I hadn't let out all my rage yet.
 !FILE:EV1320_155.bscr
-さあ　お仕置きは済みました|ブラック☆スターをつれていってください=Well, the punishment is over. Please escort Black☆Star home.
+さあ　お仕置きは済みました|ブラック☆スターをつれていってください=Well, the punishment is over. Please see to Black☆Star.
 !FILE:EV1320_156.bscr
 しかし　彼は腕をあげました|俺は本気できめるつもり|だったのですが・・・=He has gotten stronger though. I was really going to let him have it this time...
 えへへ・・・|お礼を言うべきなんでしょうか・・・=Ehehe... Should I be thanking you then?
@@ -7569,14 +7569,14 @@
 神を超越する男に|貸しを作るなんて|マカも案外たいしたタマかもな！=It's probably kind of unexpected for someone like you to have anything to loan to the man that will surpass God!
 ははは・・・|後でちゃんと言っておくから|怒らないでね　マカちゃん=Hehehe... I'll give him a stern talking-to later, so there's no need to get angry.
 !FILE:EV1321_002.bscr#いつわりのママ - Mother Faker - part 12
-そういえばさっき|キッドのヤツが|イライラしてるのを見たぜ=By the way, I saw Kid just now. He looked irritated.
+そういえばさっき|キッドのヤツが|イライラしてるのを見たぜ=By the way, I saw Kid just now.|He looked irritated.
 キッド君が？|何があったんですか？=Kid? Why? What happened?
 どうせいつもの病気だよ|わかってるのに聞くなよ=Who knows? That guy's always irritated, so I don't ask anymore.
 ひやっはぁ☆|椿！キッドの小物ぶりを|見に行ってやろうぜ！=Yahoo☆ Tsubaki, let's go see what Kid's throwing a tantrum about this time!
 !FILE:EV1321_006.bscr
-そういえばさっき|キッドのヤツが|イライラしてるのを見たぜ=By the way, I saw Kid just now. He looked irritated.
+そういえばさっき|キッドのヤツが|イライラしてるのを見たぜ=By the way, I saw Kid just now.|He looked irritated.
 !FILE:EV1321_012.bscr
-イライラしてるみたいだけど|何かあったんですか　キッド君？=You look a little frustrated, Kid. Did something happen?
+イライラしてるみたいだけど|何かあったんですか　キッド君？=You look a little frustrated, Kid.|Did something happen?
 いや　リズとパティと|待ち合わせをしているのだが|一向に現れんのだ・・・=Yeah. I was supposed to meet with Liz and Patty, but they haven't shown up at all.
 まったく勝手をして|アイツらにも困ったものだ|これでは予定がなりたたん・・・=They're so inconsiderate. They ask for your help, and then they don't even show up.
 お前のほうが　普段は|勝手をしてると思うぜ！|ひやっはははははは☆=I think it's usually you who's being inconsiderate of others! Yahahahahahaha☆
@@ -7592,9 +7592,9 @@
 パティちゃん|キッド君が待ってましたよ=Patty, Kid was waiting for you.
 ほぇ？そうだったね|すっかり　わすれてたよ！|きゃはははは♪=Huh? Oh, yeah. I totally spaced! Kyahahaha♪
 ところで　リズちゃんがいそうな場所に|心当たりはないですか？=By the way, you wouldn't happen to have a clue as to where Liz is, would you?
-ん～よく　わかんない|最近　なんか一人で|コソコソしてるみたいだしね♪=Hmmm. No idea. Lately, she's been sneaking around by herself♪
+ん～よく　わかんない|最近　なんか一人で|コソコソしてるみたいだしね♪=Hmmm. No idea. She's been sneaking around by herself lately♪
 そう・・・ありがとう|それとキッド君が待ってますから|早く行ってあげてください=Hm... Thanks. Now, Kid is waiting for you, so please go and find him.
-遅れていって|わざと目立とうとすんじゃねェぞ！=When you're late, don't try to stand out on purpose!
+遅れていって|わざと目立とうとすんじゃねェぞ！=Don't try to stand out by purposely showing up late!
 あれは　スターの俺様のみが|使える高等テクニックだ☆=That's a high level technique that only a star like me can perform☆
 どこが高等テクニックなのよ・・・|それに　もう充分すぎるほど|遅れていると思うわ・・・=I'm not sure I see the high level technique... Besides, I think she's late enough as it is.
 !FILE:EV1321_026.bscr
@@ -7632,20 +7632,20 @@
 ひやっはぁ☆|そんなことが人生に三度ある|チャンスだっていうのか！？=Yahoo☆ Is that the once in a lifetime opportunity she was talking about!?
 小物の考えることは|まったく理解できねェぜ☆=I really don't understand how small people think☆
 ほんと大げさだよね♪=This is really huge♪
-もしかしてお姉ちゃん|口ばっかで男をおとしたこと|なんてないんじゃないかな？=I'm thinking sis is all talk and she's never made a guy fall for her, like ever.
+もしかしてお姉ちゃん|口ばっかで男をおとしたこと|なんてないんじゃないかな？=I was thinking sis is all talk and she's never made a guy fall for her, you know?
 まったく　しょうがねェヤツだぜ！|ひやっはははははは☆=This guy must have something wrong in the head! Yahahahahahaha☆
 あの・・・|静かにリズちゃんの幸運を|願いましょう・・・=Um... Why don't we wish Liz good luck from afar?
 !FILE:EV1321_055.bscr
 どうやってデートを|ジャマしてやろうかな・・・=How about we go bother her on her date?
 !FILE:EV1321_056.bscr
-もしかしてお姉ちゃん|口ばっかで男をおとしたこと|なんてないんじゃないかな？=I'm thinking sis is all talk and she's never made a guy fall for her, like ever.
+もしかしてお姉ちゃん|口ばっかで男をおとしたこと|なんてないんじゃないかな？=I was thinking sis is all talk and she's never made a guy fall for her, you know?
 !FILE:EV1321_057.bscr
 早速だけど|リズ達のデートを|ジャマしてくるぜ☆=We've got to hurry if we're going to crash Liz's date☆
 やめてあげましょうよ・・・=You really shouldn't bother her.
 なんでだよ|こんなおもしれェこと|放っておけるかよ！=Why not? I can't miss out on something this fun!
 それに俺様のジャマで|ダメになるようだったら|それまでだってことだぜ！=If their relationship is ruined by my prank, it wasn't going to last long anyway!
 いいこと言ってるつもりなのかしら・・・=Is he trying to imply that he's helping her somehow?
-とにかく　早く止めないと|リズちゃんがかわいそう・・・=I need to stop him, and quick! Poor Liz...
+とにかく　早く止めないと|リズちゃんがかわいそう・・・=I need to stop him, and quick!|Poor Liz...
 !FILE:EV1321_060.bscr
 ひやっはははははは☆=Yahahahahahaha☆
 リズちゃんの|ジャマをしちゃったの？=So the deed is done?
@@ -7654,7 +7654,7 @@
 リズとデートしていた男|ありゃ　相当にバカだぜ！=Liz and her date had this stupid look on their faces! They were like "Huh?"
 俺様がリズの子供のふりをしたら|あっさり信じやがった！=I pretended to be Liz's son, and that sucker bought it instantly!
 リズに俺様みてェな|でっけェ子供がいるはず|ないのにな☆=Even though I look nothing like her and there's no way Liz could have a kid as big as me☆
-それともリズのヤツ老けてるから|しょうがねェのか？|ひやっはははははは☆=Or else Liz is older than she said. There's no other way! Yahahahahahaha☆
+それともリズのヤツ老けてるから|しょうがねェのか？|ひやっはははははは☆=Maybe since she looks so old he figured it must be true! Yahahahahahaha☆
 それでブラック☆スター|リズちゃんは　どうしたの？=So what did Liz do?
 必死で　その場を|とりつくろいながら|逃げていったぜ！=She ran off somewhere to hide her shame!
 俺様の追撃をかわしたことは|ほめてやるが・・・=I commend her for dodging my follow-up attack, but...
@@ -7708,7 +7708,7 @@
 !FILE:EV1322_002.bscr#怒ってください = Please Be Mad at Me part 12
 さっき屋上へ行って|みたんだけどよ|空がスッゲーきれいだったぜ=I was on the roof just a little bit ago, and the sky was breathtakingly beautiful.
 よかったら　お前らも|屋上へ行ってみろよ！=You two should totally go to the roof and enjoy the view!
-私もお空が見たいです|屋上へ行きませんか？=I want to see the pretty sky. Do you want to go to the roof?
+私もお空が見たいです|屋上へ行きませんか？=I want to see the pretty sky.|What say we head to the roof?
 おうよ！死武専を|俺様の後光で照らしに行くか！|ひやっはははははは☆=Definitely! My aura of light will be able to shine over all the DWMA! Yahahahahahaha☆
 お前は幸せだな・・・=You're really happy, huh?
 !FILE:EV1322_006.bscr
@@ -7730,8 +7730,8 @@
 よし！もう済んだな|とっとと行くぜ☆=Okay! Waiting's over! Now let's go!☆
 あ　ブラック☆スター|ちょっと待ってちょうだい！=Ah, Black☆Star! Hold on a second!
 !FILE:EV1322_022.bscr
-よう一人なのかよ！？=Yo! You by yourself!?
-ん！？|そういえば　椿がいねェな☆=Huh!? I didn't even notice Tsubaki wasn't with me☆
+よう一人なのかよ！？=Yo! You by yourself?
+ん！？|そういえば　椿がいねェな☆=Huh? I didn't even notice Tsubaki wasn't with me☆
 まぁ根性のあるヤツだから|そのうち追いついてくるだろう！|ひやっはははははは☆=Well, she's a tough one, that Tsubaki, so I'm sure she'll catch up in no time! Yahahahahahaha☆
 しかし　椿は|よくお前みたいなのとやってるぜ・・・=But usually Tsubaki just does whatever you do.
 スターである俺様の|武器なんだぜ！|不満なんてあるはずねェだろ☆=She's the weapon for a great star, so what's not to like about doing what I do☆?
@@ -7754,10 +7754,10 @@
 もうおそらく|椿は怒っているはずだ・・・=It's possible she might already be angry.
 今　あいつがいないってことは|俺様が置き去りにしてしまった|可能性が非常に高い！=She's not with me right now, so chances are she feels like I totally abandoned her!
 そういう時の|椿はすごく怒る！=And Tsubaki gets super mad when that happens!
-もうネタは仕込んであったのかよ・・・=You had everything prepared in advance or what?
+もうネタは仕込んであったのかよ・・・=Were you already prepared for this or something?
 さっさと椿をさがしに行こうぜ！|ひやっはははははは☆=Come on! Let's go find her! Yahahahahahaha☆
-いや　俺は他の場所で|待ってることにするぜ・・・=Nah. I think I'll let you bring her to me.
-ちっノリが悪いなぁ・・・ま　いいか|大成果を聞かせてやるぜ！=Tch! You never play along.|Fine. Whatever. Just wait and see!
+いや　俺は他の場所で|待ってることにするぜ・・・=Nah. I'm gonna wait this out somewhere else.
+ちっノリが悪いなぁ・・・ま　いいか|大成果を聞かせてやるぜ！=Tch! You never play along.|Fine. Whatever. I'll tell you all about how great it went after!
 !FILE:EV1322_030.bscr
 おっと椿がいるぜ！|さてと今から椿を激怒させてやるか☆=Oh, there she is! All right, let's bring out the rage☆
 よう　元気か！=Yo! How's it going!?
@@ -7780,7 +7780,7 @@
 椿は怒ったのか|ブラック☆スター？=So? Was she mad?
 やべェぜ！|椿のヤツ耐性が|つきやがった！=Not at all! She's built up a huge resistance to my power!
 今のアイツは|パワーアップした|モンスターだぜ・・・=She's become a monster! She's totally powered up.
-いいじゃねェか|怒らねェなら　それでよ=That's a good thing, isn't it? That she isn't angry, I mean.
+いいじゃねェか|怒らねェなら　それでよ=That's a good thing, isn't it?|That she isn't angry, I mean.
 こうなったら仕方ない|小物達の意見を聞いてみることにしよう☆=I have no choice. I need to get some advice from the other little guys☆
 大物である俺様にはない発想が|あるかもしれねェからよ！=They'll come up with some ideas that a big guy like me would never think of!
 お前　人の話　全然聞いてねェな・・・=You never hear a word that anybody says, do you?
@@ -7799,7 +7799,7 @@
 頼む　女子が嫌いそうな男を|教えてくれ！=I was wondering what sort of guy girls absolutely hate.
 ケチなやつかな|こないだの男・・・サイテーだったぜ=Cheapskates. That guy from the other day, he was the worst!
 お前　また失敗したのか・・・|男を見る目がぜんぜんねェな・・・=Another loser, huh? You really don't know how to pick them.
-そんなこと聞くから|思い出しちゃったじゃないか！|ああ　腹たってきた！=I thought of him as soon as you asked me. Ah! I'm so mad!
+そんなこと聞くから|思い出しちゃったじゃないか！|ああ　腹たってきた！=Now you've got me thinking of him again. Ah! I'm so mad!
 !FILE:EV1322_066.bscr
 頼む　女子が嫌いそうな男を|教えてくれ！=I was wondering what sort of guy girls absolutely hate.
 ケチなやつかな|こないだの男・・・サイテーだったぜ=Cheapskates. That guy from the other day, he was the worst!
@@ -7835,15 +7835,15 @@
 ブラック☆スター|もうやめようぜ・・・=Black☆Star, just give it up already.
 !FILE:EV1322_090.bscr
 ブラック☆スター|どこに行ってたの？=Where'd you run off to, Black☆Star?
-それに　さっきから|様子がおかしいんだけど・・・|どこか具合でも悪いの？=You've been acting really weird. Is something bothering you?
+それに　さっきから|様子がおかしいんだけど・・・|どこか具合でも悪いの？=You've been acting really weird.|Is something bothering you?
 俺様の負けだぜ・・・=You win, Tsubaki.
 どういうことかしら|ブラック☆スター？=What are you talking about?
 いやよ　さっきから|お前を怒らせようとしてたんだけどよ・・・=It's nothing. I've just been trying to make you angry, but...
 お前　全然|怒んねェからよ！|俺様の負けってわけだ☆=You didn't get mad one bit! So you win☆
 ・・・・・・・・・=.........
 どうしたんだ　椿？=Is something wrong, Tsubaki?
-あなたって人は！|もう　ゆるしませんよ！=I can't believe you would do that! I'll never forgive you!
-ひやっはぁ☆|ソウルを呼んでくるぜ！|椿がやっと怒ってくれた☆=Yahoo☆ I've got to get Soul! I finally made Tsubaki angry☆
+あなたって人は！|もう　ゆるしませんよ！=I can't believe you would do that!|I'll never forgive you!
+ひやっはぁ☆|ソウルを呼んでくるぜ！|椿がやっと怒ってくれた☆=Yahoo☆ I've got to get Soul! I finally made you angry☆
 !FILE:EV1322_095.bscr
 本当に怒りますよ|ブラック☆スター！=I'm really mad, Black☆Star!
 !FILE:EV1322_096.bscr
@@ -9366,16 +9366,16 @@
 とほほ|今回は面倒なことになりそうなのね=Awww. That makes me worry even more.
 スターである俺様には|あんまり時間がねェ！|さっさと　片付けるぞ！=A star like me doesn't have a lot of time, so let's get this taken care of fast!
 !FILE:EV1932_030.bscr
-ところで　椿|マカ達はどこに行ったんだよ！=By the way, Tsubaki, where the hell has Maka gone off to!?
-あなたが置き去りにしたんじゃないの=Didn't you leave her?
+ところで　椿|マカ達はどこに行ったんだよ！=By the way, Tsubaki, where the hell have Maka and Soul gone off to!?
+あなたが置き去りにしたんじゃないの=Aren't you the one who left them behind?
 まっ　天才である俺様に|ついて来れなかったってことか・・・|まったく凡人はしょうがねェな☆=I mean, they wouldn't be able to keep up with my genius anyway... There's nothing to be done for mediocrity☆
-ところで　椿|マカ達はどこに行ったんだよ！=By the way, Tsubaki, where the hell has Maka gone off to!?
+ところで　椿|マカ達はどこに行ったんだよ！=By the way, Tsubaki, where the hell have Maka and Soul gone off to!?
 おかしいわね・・・|どこかでケンカでもしているのかしら？=That's odd... I wonder if they're around here somewhere arguing.
 ヤツらを出し抜くチャンスだな|椿　先を急ぐぞ！=This is our chance to lose them. Tsubaki, let's hurry up!
-ところで　椿|マカ達はどこに行ったんだよ！=By the way, Tsubaki, where the hell has Maka gone off to!?
+ところで　椿|マカ達はどこに行ったんだよ！=By the way, Tsubaki, where the hell have Maka and Soul gone off to!?
 さぼったソウル君をマカちゃんが|さがしているんじゃないかしら？=I wonder if Soul was trying to get out of going and Maka had to go look for him.
 まっ　天才である俺様に|ついて来れなかったってことか・・・|まったく凡人はしょうがねェな☆=I mean, they wouldn't be able to keep up with my genius anyway... There's nothing to be done for mediocrity☆
-ところで　椿|マカ達はどこに行ったんだよ！=By the way, Tsubaki, where the hell has Maka gone off to!?
+ところで　椿|マカ達はどこに行ったんだよ！=By the way, Tsubaki, where the hell have Maka and Soul gone off to!?
 マカちゃん達なら|間違いはないと思うから|先に進みましょ=It's Maka and Soul, so they should be fine. Let's just keep going, and maybe they'll catch up later.
 ヤツらを出し抜くチャンスだな|椿　先を急ぐぞ！=This is our chance to lose them. Tsubaki, let's hurry up!
 !FILE:EV1932_031.bscr
@@ -9383,7 +9383,7 @@
 別ルートで目標に|向かっているはずよ=They probably decided to take a different path.
 まっ　天才である俺様に|ついて来れなかったってことか・・・|まったく凡人はしょうがねェな☆=I mean, they wouldn't be able to keep up with my genius anyway... There's honestly nothing to be done for mediocrity☆
 ところで　椿|キッドのヤツらはどこに行ったんだよ！=By the way, Tsubaki, where did Kid and the others run off to?
-あはは・・・|いつもの病気じゃないかしら・・・=Ahaha... He's probably sick like always.
+あはは・・・|いつもの病気じゃないかしら・・・=Ahaha... It's probably the usual story...
 ヤツらを出し抜くチャンスだな|椿　先を急ぐぞ！=This is our chance to lose them. Tsubaki, let's hurry up!
 ところで　椿|キッドのヤツらはどこに行ったんだよ！=By the way, Tsubaki, where did Kid and the others run off to?
 キッド君は死神だから|心配しなくても　大丈夫だと思うわ♪=Kid is a grim reaper, so there's no need to worry. I'm sure they'll be all right♪
@@ -9478,13 +9478,13 @@
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Y-Yeah... But don't let your guard down.
 なんか納得できねェな！=We did it, but I'm not exactly happy.
-お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star.|Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...#needs further testing
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
 そうなの？おめでとう♪=Oh, yeah? Congrats♪
 まぁ　ちょっとは疲れたかな=I'm actually a little tired.
-お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star.|Do you feel okay?
 目標達成！|さすが俺様だな☆=Mission complete! As expected from me☆
 そ・・・そうね・・・|でもこれからも油断しないでね？=Y-Yeah... But don't let your guard down.
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
@@ -9492,7 +9492,7 @@
 なんか納得できねェな！=We did it, but I'm not exactly happy.
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 ちっ　納得いかねェ・・・=Tch! That sucked...
-お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star.|Do you feel okay?
 俺こそ神だ！=I'm a god for sure!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Y-Yeah... But don't let your guard down.
 まぁ　ちょっとは疲れたかな=I'm actually a little tired.
@@ -9513,7 +9513,7 @@
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
 はい？=Really?
 はっ！俺はなにしてたんだ！？=Huh!? What am I doing!?
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 ちっ面白くネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, boooring! I thought I would have at least broken a sweat☆
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 主役は俺様っ！=I'm the one in the starring role!
@@ -9523,11 +9523,11 @@
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 はっ！俺はなにしてたんだ！？=Huh!? What am I doing!?
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 ちっ面白くネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, boooring! I thought I would have at least broken a sweat☆
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 主役は俺様っ！=I'm the one in the starring role!
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 俺こそ神だ！=I'm a god for sure!
@@ -10153,7 +10153,7 @@
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Y-Yeah... But don't let your guard down.
 なんか納得できねェな！=We did it, but I'm not exactly happy.
-お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star.|Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
@@ -10188,7 +10188,7 @@
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
 はい？=Really?
 ハァ・・・ハァ・・・小物が・・・|意外とがんばったじゃネェか･･･=*Pant* *Pant* Those small fry... really gave it their all, huh?
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 ちっ面白くネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, boooring! I thought I would have at least broken a sweat☆
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 主役は俺様っ！=I'm the one in the starring role!
@@ -10198,17 +10198,17 @@
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 ハァ・・・ハァ・・・小物が・・・|意外とがんばったじゃネェか･･･=*Pant* *Pant* Those small fry... really gave it their all, huh?
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 ちっ面白くネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, boooring! I thought I would have at least broken a sweat☆
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 主役は俺様っ！=I'm the one in the starring role!
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 俺こそ神だ！=I'm a god for sure!
 はぁ・・・困った事に|なったわね・・・=*Pant* Things were starting to look hopeless.
 ハァ・・・ハァ・・・　|俺様としたことが|この程度で息切れするとはな・・・=*Pant* *Pant* You know I did something amazing when even I'm this out of breath...
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 !FILE:EV1935_044.bscr
@@ -10317,7 +10317,7 @@
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Y-Yeah... But don't let your guard down.
 なんか納得できねェな！=We did it, but I'm not exactly happy.
-お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star.|Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
@@ -10352,7 +10352,7 @@
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
 はい？=Really?
 ハァ・・・ハァ・・・小物が・・・|意外とがんばったじゃネェか･･･=*Pant* *Pant* Those small fry... really gave it their all, huh?
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 ちっ面白くネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, boooring! I thought I would have at least broken a sweat☆
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 主役は俺様っ！=I'm the one in the starring role!
@@ -10362,17 +10362,17 @@
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 ハァ・・・ハァ・・・小物が・・・|意外とがんばったじゃネェか･･･=*Pant* *Pant* Those small fry... really gave it their all, huh?
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 ちっ面白くネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, boooring! I thought I would have at least broken a sweat☆
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 主役は俺様っ！=I'm the one in the starring role!
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 俺こそ神だ！=I'm a god for sure!
 はぁ・・・困った事に|なったわね・・・=*Pant* Things were starting to look hopeless.
 ハァ・・・ハァ・・・　|俺様としたことが|この程度で息切れするとはな・・・=*Pant* *Pant* You know I did something amazing when even I'm this out of breath...
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 !FILE:EV1935_344.bscr
@@ -10481,7 +10481,7 @@
 はっはっは！|この俺様に掛かれば　朝飯前だぜ！=Ha ha ha! This is child's play for me!
 そ・・・そうね・・・|でもこれからも油断しないでね？=Y-Yeah... But don't let your guard down.
 なんか納得できねェな！=We did it, but I'm not exactly happy.
-お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star. Do you feel okay?
+お疲れ様　ブラック☆スター|大丈夫？=You worked hard, Black☆Star.|Do you feel okay?
 ちっ　納得いかねェ・・・=Tch! That sucked...
 今回はちょっと大変だったわね=I think this mission was pretty tough.
 俺こそ神だ！=I'm a god for sure!
@@ -10516,7 +10516,7 @@
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
 はい？=Really?
 ハァ・・・ハァ・・・小物が・・・|意外とがんばったじゃネェか･･･=*Pant* *Pant* Those small fry... really gave it their all, huh?
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 ちっ面白くネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, boooring! I thought I would have at least broken a sweat☆
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 主役は俺様っ！=I'm the one in the starring role!
@@ -10526,17 +10526,17 @@
 このままでは　俺様の伝説に　|汚点が残されてしまう・・・=It has been a stain on the legend of Black☆Star... until now...
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 ハァ・・・ハァ・・・小物が・・・|意外とがんばったじゃネェか･･･=*Pant* *Pant* Those small fry... really gave it their all, huh?
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 ちっ面白くネェ！|もっとヒートするかと思ったんだけどよ☆=Tsk, boooring! I thought I would have at least broken a sweat☆
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 主役は俺様っ！=I'm the one in the starring role!
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 俺こそ神だ！=I'm a god for sure!
 はぁ・・・困った事に|なったわね・・・=*Pant* Things were starting to look hopeless.
 ハァ・・・ハァ・・・　|俺様としたことが|この程度で息切れするとはな・・・=*Pant* *Pant* You know I did something amazing when even I'm this out of breath...
-大丈夫？|ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？|ブラック☆スター？=Are you okay, Black☆Star?
 小物が|俺様の手を煩わすんじゃねぇよ！=These small fry aren't a challenge for me!
 はぁ・・・どうしていつも|こうなっちゃうのかしら・・・=*Sigh* Why does this always happen?
 !FILE:EV1935_644.bscr
@@ -10908,7 +10908,7 @@
 !FILE:EV1951_021.bscr
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 !FILE:EV1951_022.bscr
-大丈夫？ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？ブラック☆スター？=Are you okay, Black☆Star?
 !FILE:EV1951_023.bscr
 ブラック☆スターが無事でよかった・・・=I'm glad you're okay.
 !FILE:EV1951_024.bscr
@@ -11047,7 +11047,7 @@
 !FILE:EV1953_310.bscr
 マヒを受けたみたいね・・・=I think you've been shocked.
 !FILE:EV1953_311.bscr
-大丈夫？ブラック☆スター？=Are you okay? Black☆Star?
+大丈夫？ブラック☆スター？=Are you okay, Black☆Star?
 !FILE:EV1953_312.bscr
 マヒだわ！ブラック☆スター！=You've been shocked! Black☆Star!
 !FILE:EV1953_400.bscr
@@ -17356,7 +17356,7 @@
 やる気になってくれたかな？|でもその前に・・・=You're finally motivated, huh?|But before that...
 もう一度　詳しい内容を|説明するよ～ん♪=Let me explain the finer details of the assignment again♪
 !FILE:EV9963_071.bscr
-まったく君達は・・・|困ったもんだね・・・=You all really struggled, huh...?
+まったく君達は・・・|困ったもんだね・・・=You really struggled, huh...?
 ま　これにこりずに|またやってみようよ=Well, don't let it discourage you. Give it another go.
 !FILE:EV9963_080.bscr
 それじゃあ　もう一度|内容を詳しく説明するわよ♪=Okay. I'll provide you the details once more, more detailed this time♪
@@ -17465,7 +17465,7 @@
 入学してからずいぶんたつんだけど|まだ迷いそうになる時があるわ=I've been studying here for a long time now, but I still get lost sometimes.
 休み時間って|実はあんまり|落ち着かないの・・・=Even during vacation, I really don't know how to take it easy...#seen
 私って常に|動いてないとダメみたい・・・=I feel like I have to be constantly moving...#seen
-最近　マカチョップの|威力が増している気がするわ・・・=I feel like people have been respecting the Maka Chop a lot more recently...
+最近　マカチョップの|威力が増している気がするわ・・・=I feel like my Maka Chop has gotten a lot stronger recently...
 もしかしたら私|本職人かもしれない・・・=Maybe I'd have a future as a librarian...
 パパを見かけたら|教えてちょうだい=If you see my papa, please let me know.
 全力でそこから|遠ざかるようにするから！=I'm doing everything I can to stay away from him right now!#seen
@@ -17501,10 +17501,10 @@
 !FILE:EV9967_021.bscr
 今のお前達には|他にやるべきことがあるだろう！|さっさと本分に戻れ！！=I know you guys have something else you're supposed to be doing right now, so go and get it done!!#seen
 !FILE:EV9967_030.bscr
-そういや　俺の周りの武器で|純粋な鎌ってデスサイズだけ|なんだよな・・・=Come to think of it, besides me, the only other scythe weapon around here is Spirit...
+そういや　俺の周りの武器で|純粋な鎌ってデスサイズだけ|なんだよな・・・=Come to think of it, besides me, the only other scythe weapon around here is Maka's dad...#seen
 なんか　あんまりいい気分がしねェな・・・=That doesn't really make me feel great about myself...
 もう少しマカも|大人になってくんねェかな・・・=I wish Maka could grow up a little...
-デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Spirit or Blair...
+デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Death Scythe or Blair...
 ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our apartment, I've totally lost my cool while at home...
 誰か　あのネコ|もらってくれねェかな・・・=Does anybody want to take a cat off my hands?
 何回行っても|保健室って所は落ち着かねェぜ=No matter how many times I go there, I always feel terrible while I'm in the infirmary.
@@ -17560,8 +17560,8 @@
 正直どっちも|あんまりかわんないよ♪=Honestly, I don't really like one more than the other♪
 ほぇ～♪あんな所に|変なカエルがいるよ！=Woah♪ There's a weird frog over there!#seen
 うわ　こっち見んな！|きゃはははは♪=Wah! It's looking right at us! Kyahahaha♪
-あれ|遠くのほうで|ワンちゃんの声がしない？=Listen. That sounds like a dog barking in the distance.
-・・・おかしいな|私の空耳だったのかな？=... Weird. I must have been imagining it...
+あれ|遠くのほうで|ワンちゃんの声がしない？=Listen. That sounds like a dog barking in the distance.#seen
+・・・おかしいな|私の空耳だったのかな？=...Weird. I must have been imagining it...
 ほぇ　何やってんの？|やらなきゃいけない事がなかったっけ？=Huh? What are you doing here? Didn't you have something you had to do?
 久しぶりにお姉ちゃんと|テッポーの練習を|していたところなんだよ！=I haven't practiced with a gun in a long time!#seen
 ねェ　お姉ちゃん♪=Isn't that right, sis♪?
@@ -17609,7 +17609,7 @@
 !FILE:EV9967_081.bscr
 こんな時に保健室なんて|怖気づいたのかしら？=Were you so frightened you had to come to the infirmary?
 !FILE:EV9967_090.bscr
-これから　ちょっと|ヤボ用で外出してくるからよ=I'll be leaving to take care of a few small errands.
+これから　ちょっと|ヤボ用で外出してくるからよ=I'll be leaving to take care of a few small errands.#seen
 死神様とかには|内緒にしてくれよな！|もちろんマカにもだぜ！=Just don't mention it to Lord Death! And not a word about it to Maka either!
 マカの様子はどうだ！|俺のことを何か話してなかったか？=What's going on with Maka? You haven't told me a thing about her!
 とにかくなんでもいい|変わったことがあったら俺に報告してくれ！=I don't care how small it seems, I need you to report back to me about every move she makes!
@@ -17676,7 +17676,7 @@
 !FILE:EV9967_111.bscr
 こんな所で何をしているのだ！|今のお前達には|やるべきことが他にあるだろう！？=What are you doing around here!? I know you have something you're supposed to be doing right now!
 !FILE:EV9967_120.bscr
-申し訳ないのですが|私は忙しいのです=Not to be rude, but I'm very busy.
+申し訳ないのですが|私は忙しいのです=Not to be rude, but I'm very busy.#seen
 次の試験で首位を奪還するため|勉学に励まなければならないのです=I have to really hit the books so I can reclaim the top spot on the next exam.
 屋内では私は|ただのガリ勉かもしれません・・・=Indoors I might be a bit of a bookworm...#seen
 ただし　外での私は違います|いずれその姿を|ハッキリとお見せする機会があるでしょう=But I'm a different person in the field. One of these days you'll get to see what that side of me is really like.#must be kept short
@@ -17700,12 +17700,12 @@
 うれしいにゃ♪|大事な用を放っぽらかしてまで|ブレアと話しにきてくれたのね♪=I'm flattered♪ You wanted to talk to Blair so bad you even shirked all those big important things you have to do♪#seen
 嬉しい♪|大切な用を放ってまで|ブレアと遊びにきてくれたのね♪=I'm so happy♪ You wanted to play with Blair so bad you even shirked all those big important things you have to do♪
 誤解のないように言っとくわね♪=I'm telling you so you don't get confused♪
-ブレアは魔女じゃなくて|魔力が強い|ただのかわいいネコなんだからね♪=Blair isn't a witch. She's just an ordinary cat that happens to be super cute and have strong magical powers♪
+ブレアは魔女じゃなくて|魔力が強い|ただのかわいいネコなんだからね♪=I'm not a witch. I'm just an ordinary cat that happens to be super cute and have strong magical powers♪#changed to first person to make it shorter
 バイトがはじまるまで|ブレア　すごくヒマなの♪=I've got lots of free time until my new part-time job starts♪#seen
 あんまりヒマだから|死武専に遊びにきちゃった♪=And since I've got so much free time,|I figured I'd come and play at the DWMA♪
 ネコの姿の方が|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪#seen
 ネコの姿のほうが|町のみんなから人気があるのよ=All the people in town love Blair when I'm in my cat form♪
-このカッコウって|そんなに魅力ないかな？=Is this look really that charming?
+このカッコウって|そんなに魅力ないかな？=Is it really that charming?
 !FILE:EV9967_530.bscr#moved to common
 !FILE:EV9967_531.bscr#moved to common
 !FILE:EV9981_000.bscr
