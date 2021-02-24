@@ -1615,7 +1615,7 @@
 グアハハハッ=Gwahahaha!
 笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　お嬢チャン=Don't make me laugh! I'm nothing like that poor little witch of yours, missy!
 魔女？=A witch?
-ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn witch who's always creeping and crawling around. I'll devour these souls myself.#must be kept short
+ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn squirmy little witch. I'll devour these souls and become a kishin myself.#must be kept short
 この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will transcend the werewolves of legend!#I don't know if these are legendary werewolves or just one legendary werewolf.
 こいつ|もしかしたら黒幕じゃないかも？=Maybe he isn't the one behind everything.
 あぁ|でもやるしかない！=Maybe not, but we still have to take him out!
@@ -2214,7 +2214,7 @@
 え！　これって・・・|見て　ソウル=Eh? That's...|Look, Soul.
 おい　コレ|あの仮面の奴らに　そっくりじゃねぇか=Hey, this looks just like those guys with the masks, doesn't it?
 このところの事情は|みな大体知っていると思います=I assume everyone has a rough idea of the current situation.
-今後　予想される戦いに備えて|みんなからの情報をもとに|訓練用の敵を作りました=In anticipation of the upcoming battle, I made this practice enemy based off the information that everyone gave me.
+今後　予想される戦いに備えて|みんなからの情報をもとに|訓練用の敵を作りました=In anticipation of the upcoming battle, I made this practice enemy based off the information that you all gave me.
 名付けて『訓練君』です♪=I call him "Training Buddy"♪
 まんまじゃん=Makes sense.
 !FILE:EV0400_010.bscr
@@ -4700,13 +4700,13 @@
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 !FILE:EV0934_632.bscr
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
-ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!#Anything would be okay for '死神の手先', I just think it should be directly addressing them.
+ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!#Can this be made to 'you' or would it ruin the reference?
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV0934_635.bscr
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
@@ -5872,7 +5872,7 @@
 ええ　正式に君達を|どつきまわせるってことです♪=Yes, that means I will be permitted to pummel you... officially♪
 ・・・・・・・・・=.........
 どうです？|特別って感じがしてきたでしょう=Stunned? You must feel very special.
-さあ　受けたいものを選んでください=Now go ahead and choose the training you'd like.
+さあ　受けたいものを選んでください=Now go ahead and pick whatever you'd like.
 ・・・マカ|気合入れていこうぜ=...Maka, let's just get this over with.
 !FILE:EV0981_710.bscr
 シド先生が相手か・・・=We're going to be fighting Sid?
@@ -6827,11 +6827,11 @@
 椿はどうしたんだ？=Where's Tsubaki?
 検査だってよ|保健室にいるぜ=A check-up. She's in the infirmary.
 心配だろう|ブラック☆スター？=I bet you're worried, huh Black☆Star?
-全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=Not at all! Honestly, she's way more staunch than me! No matter what I try, she never breaks!#tried to find a word that sounded like it could also be insulting, but I'm not sure if staunch is too uncommon
+全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=No way! Honestly, she can work up a bigger sweat than me! No matter what I try, she never breaks!
 お前　それぜってェ|椿に言うんじゃねェぞ・・・=You... Definitely don't tell Tsubaki that...
 !FILE:EV1220_106.bscr
 心配だろう|ブラック☆スター？=I bet you're worried, huh Black☆Star?
-全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=Not at all! Honestly, she's way more staunch than me! No matter what I try, she never breaks!
+全然！はっきり言って|アイツは俺より全然頑丈だぜ！|何やったって壊れやしねェよ！=No way! Honestly, she can work up a bigger sweat than me! No matter what I try, she never breaks!
 !FILE:EV1220_112.bscr
 あれ　椿ちゃんはどうしたの？=Huh? Where's Tsubaki?
 検査だってよ|保健室にいるぜ=A check-up. She's in the infirmary.
@@ -7259,15 +7259,15 @@
 !FILE:EV1301_400.bscr
 ギギギ・・・=Gehehe!
 やっぱり　出たな|この脇役集団が！=Looks like the supporting cast finally showed up!
-職人！|魔武器だ！|死神の手先！=Meister! Magic Weapon! Death's drones!
+職人！|魔武器だ！|死神の手先！=Meister! Magic Weapon!|Death's drones!
 ギギギ・・・|お前らも我々の邪魔をするのか=Gehehe! Are you going to try to get in our way?
 も？　|ってことは　行く先は同じ・・・|お城ね？=But that would mean... You're headed to the castle too?
-オメェらが行くのは　あさっての世だ！|椿！=You guys can go straight to the day after tomorrow! Tsubaki!
+オメェらが行くのは　あさっての世だ！|椿！=The only place you're going is straight to the next world! Tsubaki!
 はい！=Roger!
 !FILE:EV1301_401.bscr
 ここだな=This is the place, right?
-俺の五感が　感じるぜ|・・・今までよりも　強ぇ=I can feel it with my five senses. They're stronger now than ever!
-ブラック☆スターなら　大丈夫！|腕の見せどころよ=Knowing you, I believe it, Black☆Star! You always know a place to show off when you see it.
+俺の五感が　感じるぜ|・・・今までよりも　強ぇ=I can feel it with my five senses. They're stronger than anything we've ever faced before.
+ブラック☆スターなら　大丈夫！|腕の見せどころよ=Knowing you, it'll be fine, Black☆Star! It's a chance to show off your skills.
 おう！|生まれながらにして|スターだってとこを　見せてやる！=All right! Let's show the world what a natural-born star really is!
 !FILE:EV1301_402.bscr
 おわっ！|なんじゃこりゃ！=Woah! What is this place!?
@@ -7275,12 +7275,12 @@
 ぐるる・・・|噂ほどの味じゃねぇな|魂ってやつは=Grrr... These souls don't taste like the rumors said at all.
 いやがった|・・・あそこの後ろだ=It's there... Behind that altar.
 ん？|おやおや　また客か　今日は忙しいな|俺になんか用かい？=Hm? Look what we've got here. Another visitor. Today's been quite the busy day. What can I do for you?
-おう！　まっくろ黒幕ヤロー！|このブラック☆スター様が|退治しにきてやったぞ！=Listen up, jerk! We know you're the one pulling the strings! And now the great Black☆Star has come to end you!
+おう！　まっくろ黒幕ヤロー！|このブラック☆スター様が|退治しにきてやったぞ！=We know you're the one pulling the strings! And now the great Black☆Star has come to end you!
 あぁ　黒幕？=Huh? Me pulling the strings?
 グアハハハッ=Gwahahaha!
 笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　小僧=Don't make me laugh, brat! I'm nothing like that poor little witch of yours!
 あ？　魔女？|なんの話だ？=What? A witch? What are you talking about?
-ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn witch who's always creeping and crawling around. I'll devour these souls myself.
+ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn squirmy little witch. I'll devour these souls and become a kishin myself.
 この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will transcend the werewolves of legend!
 ブラック☆スター|もしかしたら黒幕じゃないのかも？=He might not be the one behind everything after all.
 黒白はカンケーねぇ！|伝説は俺様から生まれ|俺様で終わるんだ！=There's no arguing with the truth! And the truth is that this legend begins and ends with me!
@@ -7290,7 +7290,7 @@
 !FILE:EV1301_403.bscr
 ぐるる・・・|やる・・・な=Grrr... I can't... lose...
 へっ！|て　手間かけやがって！=Hmph! Th-That's that then!
-やった！=We won!
+やった！=We did it!
 グオオァ！=Gguuuoooooaaaahh!
 ブラック☆スター！|危ない！=Black☆Star! Watch out!
 うおっ！|マジか！=Whoa! Seriously!?
@@ -7299,7 +7299,7 @@
 あっ！|あれ最後の繭よ！=Ah! That's the last cocoon!
 そうはさせねぇぜ！=Not on my watch!
 ぐぉぉぉぉぉ！=Guuooooh!
-シド先生！=Sid!
+シド先生！=Mr. Sid!
 今だ！|やれ！=Do it now!
 黒☆星！ビッグウェーブ！=Black☆Star Big Wave!!
 ぐあぁ！|バ・・・バカな・・・　この俺がぁ・・・=Guaa! H-How could I... lose... to you...?
@@ -7309,14 +7309,14 @@
 魂を食らった時から|ヤツは　不死じゃなくなったんだろ=He became mortal the moment he ate his first soul.
 自分の力を信じないヤローは|消える運命なんだよ=He didn't believe in his own power, so it was his fate to be defeated.
 狼男は|黒幕じゃなかったんですね=In the end the werewolf wasn't the one pulling the strings.
-情報は確かなはずだったんだがな・・・|だが繭は手に入れた|ひとまず死武専に戻るぞ=But our intel should have been good... Nevertheless, we've acquired the cocoon, so let's return to the DWMA for the time being.
+情報は確かなはずだったんだがな・・・|だが繭は手に入れた|ひとまず死武専に戻るぞ=But our intel should have been good... Still, we've acquired the cocoon, so let's head back for the time being.#must be kept short
 おう！=Yeah!
 はい！=Roger!
 ちょっと遅かったわね=We were a little late, huh?
 そのようですね=It would appear so.
-まぁいいわ|邪魔な犬コロを片付けてくれたわけだし=Well, no matter. At least they took care of that annoying pup for us.
-ですが・・・|大事な繭がヤツラに=However... It seems the cocoon was taken...
-そうね　繭は取り戻さなくちゃね|お願いできるかしら？=Yes. You'll take back our cocoon, won't you? I'm begging you.
+まぁいいわ|邪魔な犬コロを片付けてくれたわけだし=Well, no matter. At least they took|care of that annoying pup for us.
+ですが・・・|大事な繭がヤツラに=However... The cocoon is in their possession now.
+そうね　繭は取り戻さなくちゃね|お願いできるかしら？=Right. And we have no choice but to get it back. I trust you'll take care of it?
 かしこまりました=You have my word.
 !FILE:EV1301_452.bscr
 この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will transcend the werewolves of legend!
@@ -7672,8 +7672,8 @@
 うん　バッチリ|ジャマしちゃったよ！=I did. I was the biggest nuisance ever!
 遅かったんですね・・・=I'm too late.
 それにしても|あの男はダメだね♪=That guy was no good anyway♪
-私が借金取りの振りをして|金返せ～って|お姉ちゃんに言ったら=I pretended like he owed me money and told him he better pay me back.
-ボクには関係ないとかいって|逃げてっちゃった！=Then he tried to tell my sister that he didn't even know me and ran away!
+私が借金取りの振りをして|金返せ～って|お姉ちゃんに言ったら=I pretended to be a loan shark and told sis that she better pay back the debt she owed.
+ボクには関係ないとかいって|逃げてっちゃった！=Then he tried to tell me that he had nothing to do with it and ran away!
 ありゃ　そうとうにケチだな|きゃはははは♪=What a cheapskate! Kyahahaha♪
 あいかわらず|お姉ちゃんは|男を見る目がないね！=As usual, sis really doesn't know how to choose her men!
 俺達むしろ|いいことしたんじゃねェのか？|ひやっはははははは☆=If you think about it, we actually did her a favor. Yahahahahahaha☆
@@ -7684,21 +7684,21 @@
 あ～おもしろかった♪=Ahhh! That was so much fun♪
 !FILE:EV1321_076.bscr
 それにしても|あの男はダメだね♪=That guy was no good anyway♪
-私が借金取りの振りをして|金返せ～って|お姉ちゃんに言ったら=I pretended like he owed me money and told him he better pay me back.
-ボクには関係ないとかいって|逃げてっちゃった！=Then he tried to tell my sister that he didn't even know me and ran away!
+私が借金取りの振りをして|金返せ～って|お姉ちゃんに言ったら=I pretended to be a loan shark and told sis that she better pay back the debt she owed.
+ボクには関係ないとかいって|逃げてっちゃった！=Then he tried to tell me that he had nothing to do with it and ran away!
 !FILE:EV1321_080.bscr
-あ　キッド君|リズちゃんはその・・・=Oh, Kid. Liz... She's...
-うむ　来るには来たのだが・・・|どうにも様子がおかしい|まるで使い物にならんのだ=Yeah. She's here now, but... she's acting strange like she isn't all there.
-予定は中止することにした|迷惑をかけてすまなかったな=I'm afraid I'll have to cancel our plans. Sorry for the inconvenience.
+あ　キッド君|リズちゃんはその・・・=Oh, Kid, Liz... You're...
+うむ　来るには来たのだが・・・|どうにも様子がおかしい|まるで使い物にならんのだ=Yeah. She just got here, but... she's acting so strange, I don't think we'll be able to get anything done.
+予定は中止することにした|迷惑をかけてすまなかったな=I'm afraid I'll have to cancel my plans. Sorry I troubled you for nothing.
 いえいえ　お役に立てませんで・・・|というか　すみませんでした・・・=Don't apologize. We weren't very helpful, so... we should apologize.
-気にすんなよ|コッチは結構楽しませてもらったぜ☆=Don't worry too much. She had a great time☆
+気にすんなよ|コッチは結構楽しませてもらったぜ☆=Don't worry too much. I, for one, had a great time☆
 ブラック☆スターは|何を言ってるんだ？=What do you mean, Black☆Star?
 いえ　何でもありません・・・|すみませんでした・・・=No, nothing... Sorry again...
 あの・・・リズちゃん・・・=Um... Liz?
 私を笑いに来たのか？=Did you come to laugh at me too?
 私のことは放っておいてくれないか|お願いだから・・・=Just leave me alone. Please.
 あんま気にすんなよリズ|あの男　全然だめだ！=Don't get so worked up over it, Liz. That guy was a total loser!
-むしろダメになって|よかったのかもな！？|ひやっはははははは☆=You should be glad that that loser's gone! Yahahahahahaha☆
+むしろダメになって|よかったのかもな！？|ひやっはははははは☆=You should be glad that he's gone! Yahahahahahaha☆
 ・・・・・・・・・=.........
 ブラック☆スター|もうやめてあげましょう・・・=Black☆Star, let's leave her alone for a while.
 !FILE:EV1321_085.bscr
@@ -7850,7 +7850,7 @@
 ひやっはぁ☆|ソウルを呼んでくるぜ！|椿がやっと怒ってくれた☆=Yahoo☆ I've got to get Soul! I finally made Tsubaki angry☆
 !FILE:EV1400_000.bscr
 とっても|強かったです=He was really strong.
-俺様にかかれば|しょせん　犬コロだ=If you ask me, it wasn't anything a but a whiny dog.#missing lines can be found in Maka common following EV0400_000
+俺様にかかれば|しょせん　犬コロだ=If you ask me, he was nothing more than a mangy mutt.#missing lines can be found in Maka common following EV0400_000
 !FILE:EV1400_100.bscr
 そういや|あの繭は　どうしたんだ？=Come to think of it, what happened with that cocoon?
 シュタイン博士が　ツギハギ研究所で|調べる　って聞きましたけど=I heard Professor Stein is examining it back at the Patchwork Lab.
@@ -9944,20 +9944,20 @@
 まったく　しょうがねェヤツだぜ！|ひやっはははははは☆=This guy is totally hopeless! Yahahahahahaha☆
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 !FILE:EV1934_632.bscr
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 鬼神の卵と化した魂を持つ者が|俺様より目立つんじゃねーぜ！=Nobody whose soul has become a kishin egg is going to take over my spotlight!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 小物稼ぎしやがって！|気にいらねェよ！小物が！！=Another weakling! I couldn't care less about these small fry.
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 よわっちそうなヤツだな！|俺様の敵じゃねーぜ！=This guy looks like a weakling! Definitely not a threat to me!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 何いってんだ　お前ェ？=What did you say?
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV1934_635.bscr
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 何いってんだ　お前ェ？=What did you say?
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV1934_640.bscr
@@ -10134,7 +10134,7 @@
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright! Another page added to my legendary tale!
 今後も油断しないでいきましょうね|ブラック☆スター！=Let's not get careless in the future though, Black☆Star!
 ブラック☆スター|あまり無茶はしないで！=Black☆Star, please don't overdo it!
-無茶するまでもねェ|何しろ俺はスターだからな！=Danger won't know what hit him!|I'm a star after all!
+無茶するまでもねェ|何しろ俺はスターだからな！=I don't even have to try!|I'm a star after all!
 ひゃっはぁ～♪|目標達成だぜ！！=Yahoo♪ Mission complete!!
 これからも|この調子でいきましょう♪=Let's keep going like this.
 小物にぴったりなほど楽な仕事は|俺様に似合わないぜ・・・=These pathetic little jobs are perfect for the little guys back home, but they don't really suit me.
@@ -10298,7 +10298,7 @@
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright! Another page added to my legendary tale!
 今後も油断しないでいきましょうね|ブラック☆スター！=Let's not get careless in the future though, Black☆Star!
 ブラック☆スター|あまり無茶はしないで！=Black☆Star, please don't overdo it!
-無茶するまでもねェ|何しろ俺はスターだからな！=Danger won't know what hit him!|I'm a star after all!
+無茶するまでもねェ|何しろ俺はスターだからな！=I don't even have to try!|I'm a star after all!
 ひゃっはぁ～♪|目標達成だぜ！！=Yahoo♪ Mission complete!!
 これからも|この調子でいきましょう♪=Let's keep going like this.
 小物にぴったりなほど楽な仕事は|俺様に似合わないぜ・・・=These pathetic little jobs are perfect for the little guys back home, but they don't really suit me.
@@ -10462,7 +10462,7 @@
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright! Another page added to my legendary tale!
 今後も油断しないでいきましょうね|ブラック☆スター！=Let's not get careless in the future though, Black☆Star!
 ブラック☆スター|あまり無茶はしないで！=Black☆Star, please don't overdo it!
-無茶するまでもねェ|何しろ俺はスターだからな！=Danger won't know what hit him!|I'm a star after all!
+無茶するまでもねェ|何しろ俺はスターだからな！=I don't even have to try!|I'm a star after all!
 ひゃっはぁ～♪|目標達成だぜ！！=Yahoo♪ Mission complete!!
 これからも|この調子でいきましょう♪=Let's keep going like this.
 小物にぴったりなほど楽な仕事は|俺様に似合わないぜ・・・=These pathetic little jobs are perfect for the little guys back home, but they don't really suit me.
@@ -11421,7 +11421,7 @@
 う　うん　そうね・・・=O-Oh... Yeah...
 それと・・・　内容によっては|俺達が|直接　君達の相手をします=It means that... depending on the content of the training, we may be acting as your opponents personally.
 お！|先生達が相手してくれんのか|派手で　おもしろそーだな=Oh! We're really gonna get to fight the teachers? This is gonna be awesome!
-さあ　受けたいものを選んでください=Now go ahead and choose the training you'd like.
+さあ　受けたいものを選んでください=Now go ahead and pick whatever you'd like.
 ブ　ブラック☆スター|いつもより　ちょっとでいいから|真剣に行きましょう=B-Black☆Star, they're a little stronger than what we normally fight, so let's really take this seriously.
 !FILE:EV1981_710.bscr
 ブラック☆スター|シド先生が相手なんだから|真剣に行きましょう=Black☆Star. Our opponent is Sid, so let's take this seriously.
@@ -12895,7 +12895,7 @@
 !FILE:EV2301_400.bscr
 ギギギ・・・=Gehehe!
 ザワザワと　虫酸が走ると思ったら|また　お前らか=I thought I saw a bug crawling around, but it was just you again.
-職人！|魔武器だ！|死神の手先！=Meister! Magic Weapon! Death's drones!
+職人！|魔武器だ！|死神の手先！=Meister! Magic Weapon!|Death's drones!
 ギギギ・・・|お前らも我々の邪魔をするのか=Gehehe! Are you going to try to get in our way?
 お前ら？|はは～ん　コイツらも行き先は　城か？=Get in your way? Hahaa. Looks like these guys are headed to the castle as well.
 邪魔なのは|お前達のほうだ！=Then that means you are in the way!
@@ -12919,7 +12919,7 @@
 グアハハハッ=Gwahahaha!
 笑わせるな　この俺様をちんけな魔女と|一緒にするなよ　小僧=Don't make me laugh, brat! I'm nothing like that poor little witch of yours!
 魔女だと？=There's a witch?
-ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn witch who's always creeping and crawling around. I'll devour these souls myself.
+ちょこまかと　地べたをはいずり回ってる|魔女にくれてやるぐらいなら　俺様が魂を|食らって鬼神とやらになってやるさ=Like I'd help that damn squirmy little witch. I'll devour these souls and become a kishin myself.
 この俺様が|伝説の狼男を超える伝説になってやる！=I, who stand before you now, will transcend the werewolves of legend!
 キッド　こいつもしかして|黒幕じゃないかも=Kid, I'm thinking this probably isn't the guy behind it all.
 うむ！|だがヤツの魂は　裁かねばならない！=I agree! But his soul must still be judged!
@@ -12953,15 +12953,15 @@
 さすが　キッド君|アタマいぃ～=Wow. You're so smart, Kid.
 鬼神になろうとしたばっかりに|自分の力を奪われちまったのか=So just by trying to become a kishin his natural powers were taken from him.
 黒幕は　別にいる=The real mastermind is elsewhere.
-情報は確かなはずだったんだがな・・・|だが繭は手に入れた|ひとまず死武専に戻るぞ=But our intel should have been good... Nevertheless, we've acquired the cocoon, so let's return to the DWMA for the time being.
+情報は確かなはずだったんだがな・・・|だが繭は手に入れた|ひとまず死武専に戻るぞ=But our intel should have been good... Still, we've acquired the cocoon, so let's head back for the time being.
 うむ！=Yeah!
 はい！=Right!
 ほい！=Okay!
 ちょっと遅かったわね=We were a little late, huh?
 そのようですね=It would appear so.
-まぁいいわ|邪魔な犬コロを片付けてくれたわけだし=Well, no matter. At least they took care of that annoying pup for us.
-ですが・・・|大事な繭がヤツラに=However... It seems the cocoon was taken...
-そうね　繭は取り戻さなくちゃね|お願いできるかしら？=Yes. You'll take back our cocoon, won't you? I'm begging you.
+まぁいいわ|邪魔な犬コロを片付けてくれたわけだし=Well, no matter. At least they took|care of that annoying pup for us.
+ですが・・・|大事な繭がヤツラに=However... The cocoon is in their possession now.
+そうね　繭は取り戻さなくちゃね|お願いできるかしら？=Right. And we have no choice but to get it back. I trust you'll take care of it?
 かしこまりました=You have my word.
 ３　２　１　・・・=3... 2... 1...
 うむ！=Yeah!
@@ -15377,13 +15377,13 @@
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 !FILE:EV2934_632.bscr
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV2934_635.bscr
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
@@ -15852,7 +15852,7 @@
 死神の手先かよぉ～？|何しに来やがったぁ～？=You're the messengers of the reaper? You're doomed if you stay here.
 やりたい放題サイコーだぜぇ～♪=I'll kill as much as I want♪
 オメーらの魂はどんな味がするんだよぉぉ？=If your soul was a flavor of ice cream, would it be rocky road?
-ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Those cursed reapers! You're doomed if you stay here!
+ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
 次はオメーらの魂くれるのかよぉ？=Looks like it'll be your souls for dessert!
 !FILE:EV2938_010.bscr
@@ -16936,7 +16936,7 @@
 いい研究ができそうで・・・=I'm sure you'll make for a great research subject...
 今　ボソッと何か言わなかったか？=What are whispering about now?
 いやいや　何も言っていませんよ♪=No no. I wasn't saying anything♪
-さあ　受けたいものを選んでください=Now go ahead and choose the training you'd like.
+さあ　受けたいものを選んでください=Now go ahead and pick whatever you'd like.
 何にせよ　充実した訓練になりそうだな|リズ　パティ|気を引き締めていくぞ=At any rate, this seems like substantial training. Liz, Patty, you'll have to stay focused for these.
 !FILE:EV2981_710.bscr
 シド先生は|三つ星職人だからな|めちゃくちゃ強いぞ　きっと=Sid is a three-star meister, so he's gonna be ridiculously tough.
@@ -17738,7 +17738,7 @@
 !FILE:EV9981_050.bscr
 大丈夫かい　あんた達|次はがんばるんだよ|おばちゃん　応援するからね=Not too hurt, I hope. Auntie will be rooting for you, so you kids will get|it next time for sure.
 !FILE:EV9981_100.bscr
-おっ　来たな|用意したのはこんなところだが|どれを選ぶんだ？=Oh, if you're looking to prepare for the fighting ahead, you've come to the right place. Now what did you have in mind?
+おっ　来たな|用意したのはこんなところだが|どれを選ぶんだ？=Oh, if you're looking to prepare for the fighting ahead, you've come to the right place. Now what do you fancy?
 !FILE:EV9981_110.bscr
 おいおい　パートナーは|どうしたんだ？=Woah, woah, where's your partner?
 全員　揃ってないと|受けることはできないぞ=I can't let you take on any missions until you're all here.
@@ -18406,7 +18406,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teデスノワールを退治せよ！=%_teDeath to Death Noirs!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
-%_te危険物の回収=%_teHazardous Materials
+%_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]. Please retrieve it.
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_te連続殺人魔を退治せよ！=%_teStop the Bloodlust!
@@ -18433,7 +18433,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専からノラ人形が|%_dc[0,0,196]４０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]40 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]40 %_dc[199,133,84]enemies within the time limit!
-%_te危険物の回収=%_teHazardous Materials
+%_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]. Please retrieve it.
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teシド先生からのSOS！=%_teSOS from Sid!
@@ -18472,7 +18472,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
-%_te危険物の回収=%_teHazardous Materials
+%_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]! Retrieve it posthaste!
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_te迷惑ドッグを退治せよ！=%_teEliminate the Pesky Dogs!
@@ -18502,7 +18502,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
-%_te危険物の回収=%_teHazardous Materials
+%_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]! Retrieve it posthaste!
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!

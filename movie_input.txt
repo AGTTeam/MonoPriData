@@ -1,4 +1,4 @@
-﻿!FILE:movie0000.bin
+!FILE:movie0000.bin
 712:767:ワーム・モワール=Wormoire...
 784:832:グリモワール=Grimoire...
 861:915:ワーム・モワール=Wormoire...
@@ -168,9 +168,9 @@
 2903:3031:情報は確かなはずだったんだがな・・・|だが繭は手に入れた=It seems our reconnaissance wasn't entirely reliable...|But we were able to recover the cocoon.
 3048:3088:ひとまず死武専に戻るぞ=For now let's head back to the DWMA.
 3092:3112:はい！|おう！=Yes, sir!|Alright!
-3165:3210:ちょっと遅かったわね=We were a little late.
+3165:3210:ちょっと遅かったわね=We were a little late, huh?
 3211:3257:そのようですね=It would appear so.
-3278:3387:まぁいいわ|邪魔な犬コロを片付けてくれたわけだし=On the bright side, at least they took|care of that annoying pup for us.
+3278:3387:まぁいいわ|邪魔な犬コロを片付けてくれたわけだし=Well, no matter. At least they took|care of that annoying pup for us.
 3397:3472:ですが・・・|大事な繭がヤツラに=However... The cocoon is in their possession now.
 3493:3567:そうね　繭は取り戻さなくちゃね=Right. And we have no choice but to get it back.
 3588:3629:お願いできるかしら？=I trust you'll take care of it?
