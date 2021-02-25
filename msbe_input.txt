@@ -38,7 +38,7 @@
 父へのプレゼント=A Present for Papa
 俺様ステージ=Black☆Star's Show
 家族の肖像=A Family Photo
-彼女の思いと・・・=A Girl and Her Thoughts
+彼女の思いと・・・=Her Thoughts
 マカが倒れた=Maka Fainted
 うれしい罰ゲーム=The Happy Penalty Game
 最近のリズは・・・=Where Liz Belongs...
@@ -4705,7 +4705,7 @@
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=You're doomed! You're all dooooomed!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!#Anything would be okay for '死神の手先', I just think it should be directly addressing them.
-ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!#Can this be made to 'you' or would it ruin the reference?
+ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=You cursed brats! You're doomed if you stay here!
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV0934_635.bscr
@@ -5563,7 +5563,7 @@
 !FILE:EV0954_411.bscr
 しっかりしろ！マカ！=Get a hold of yourself! Maka!
 !FILE:EV0954_412.bscr
-マカ！バケツの水だ！=Maka! The Bucket of Water!
+マカ！バケツの水だ！=Maka! The Water Bucket!
 !FILE:EV0954_500.bscr
 備えあれば！ね！=Better safe than sorry! Right!?
 !FILE:EV0954_501.bscr
@@ -7930,22 +7930,22 @@
 邪魔すんな！|オメェを倒すのは　まばたきより一瞬だ！|椿！=Get outta my way! I'll crush you in the blink of an eye! Tsubaki!
 はい！=Roger!
 !FILE:EV1420_002.bscr#彼女の思いと・・・ = A Girl and Her Thoughts part 13
-椿ちんどうしたの？|元気がないね？=Is something wrong, Tsubaki? Feeling a little down?
-大丈夫|なんでもありません・・・=Nothing like that. I'm all right.
+椿ちんどうしたの？|元気がないね？=Is something wrong, Tsubaki?|You look a little down.
+大丈夫|なんでもありません・・・=It's nothing like that. I'm all right.
 どうせ　食いすぎか何かだろ！？|ひやっはははははは☆=You probably just ate too much! Yahahahahahaha☆
 えへへ　そうね|食べすぎかもしれないわね・・・=Ehehe... Yeah. You're probably right...
 あれ？ちげェのかよ？=What? Is that not it?
 やっちゃったね|ブラック☆スター！|きゃはははは♪=You've done it now, Black☆Star! Kyahahaha♪
 !FILE:EV1420_006.bscr
-椿ちゃんどうしたの？|元気がないね？=Is something wrong, Tsubaki? Feeling a little down?
-大丈夫|なんでもありません・・・=Nothing like that. I'm all right.
+椿ちゃんどうしたの？|元気がないね？=Is something wrong, Tsubaki?|You look a little down.
+大丈夫|なんでもありません・・・=It's nothing like that. I'm all right.
 !FILE:EV1420_007.bscr
 ブラック☆スター|お願いがあるの・・・=Black☆Star, I have a favor to ask...
 二人で話せる時間を|つくれないかな？=There's something I need to talk to you about if you could find the time.
-しょうがねェな|特別にお前のために|スターの時間を割いてやろう☆=No problem. This star can always spare some time especially for you☆
-うん・・・ありがとう|じゃあ　私　先に行ってるわね・・・=Okay... Thank you. I'll talk to you later.
+しょうがねェな|特別にお前のために|スターの時間を割いてやろう☆=No problem. This star can always spare some time if it's for you☆
+うん・・・ありがとう|じゃあ　私　先に行ってるわね・・・=Okay... Thank you. Please come and find me when you have a minute then.#she leaves the team for this
 !FILE:EV1420_010.bscr
-ほら　来てやったぜ☆|そんで何の話なんだ？=Welp, here I am☆ So what did you want to talk about?
+ほら　来てやったぜ☆|そんで何の話なんだ？=Welp, here I am☆|So what did you want to talk about?
 えっと　私|ちょっとの間　死武専を離れるから・・・=Um... I need to leave the DWMA for a bit...
 そのことを|みんなに黙っててちょうだい・・・=So please don't say a word about it to anybody.
 ひやっはぁ☆|やるじゃねェか！=Yahoo☆ You're really gonna do it!
@@ -7965,10 +7965,10 @@
 あいつもようやく自分の殻を|やぶりつつあるようだな！=She's finally starting to break out of her shell!
 やべェ　誰かに言いたくて|しょうがねェ・・・=Damn! I can't help myself. I really want to tell someone.
 椿が戻ってくるまで|誰にも会わずにいるか・・・=Okay. Until Tsubaki gets back, I'm not talking to anybody.
-いや　ここはしゃべりたくなる状況に|自分を追い込むのが　スターである|俺様のとるべき行動だな☆=Argh! As a star, this is exactly the sort of thing I should be using my influence to spread the word about☆
+いや　ここはしゃべりたくなる状況に|自分を追い込むのが　スターである|俺様のとるべき行動だな☆=No, as a star, this is exactly the sort of thing I should be using my influence to spread the word about☆
 !FILE:EV1420_022.bscr
 何で　そんなに|嬉しそうなの～ん♪=What's the reason for that big grin of yours, huh♪?
-椿がようやく自分の殻を|破りつつあるからだぜ　ダンナ！=Tsubaki's finally starting to break out of her shell, boss!
+椿がようやく自分の殻を|破りつつあるからだぜ　ダンナ！=Tsubaki's finally starting to break out of her shell, Boss!
 椿ちゃんが|どうかしたの？=And she's doing that how exactly?
 おっと・・・なんでもねェよ！=Oops... I forget!
 あぶねェ　あぶねェ|一番　言っちゃいけねェのに|言っちまうところだったぜ☆=That was close. There's one thing I can't say, and it almost just slipped out☆
@@ -8001,7 +8001,7 @@
 椿の奴|なんだか最近|やけに思いつめてねェか？=It feels like she's had some pretty heavy stuff on her mind lately.
 ときどき死武専から|コッソリ抜け出てるみたいだしよ・・・=And it seems like she's been sneaking out of the DWMA...
 !FILE:EV1420_052.bscr
-ブラック☆スターが|一人なんて珍しいですね？=You're by yourself, Black☆Star? That's rare.
+ブラック☆スターが|一人なんて珍しいですね？=You're by yourself, Black☆Star?|That's rare.
 椿は|ようやく自分の殻を破りつつある！=Tsubaki's busy breaking out of her shell!
 これだけは言っておこう☆|ひやっはははははは☆=And that's all I've got to say☆ Yahahahahahaha☆
 この頃の椿は|やけに思いつめていますが|何かあったのですか？=Tsubaki has been extremely preoccupied recently. Has something happened?
@@ -11109,7 +11109,7 @@
 !FILE:EV1954_411.bscr
 しっかりして！ブラック☆スター！=Focus! Black☆Star!
 !FILE:EV1954_412.bscr
-ブラック☆スター！バケツの水よ！=Black☆Star! The Bucket of Water!
+ブラック☆スター！バケツの水よ！=Black☆Star! The Water Bucket!
 !FILE:EV1954_500.bscr
 そろそろ本気でやってやるか！=Finally time to be serious, huh!?
 !FILE:EV1954_501.bscr
@@ -16592,7 +16592,7 @@
 !FILE:EV2954_411.bscr
 しっかりしろ！キッド！=Snap out of it! Kid!
 !FILE:EV2954_412.bscr
-キッド君！バケツの水だよ～！=Kid! The Bucket of Water!
+キッド君！バケツの水だよ～！=Kid! The Water Bucket!
 !FILE:EV2954_500.bscr
 備えあれば・・・だな！=Better safe than sorry... Right!?
 !FILE:EV2954_501.bscr
@@ -17387,11 +17387,11 @@
 !FILE:EV9966_103.bscr
 強壮剤%_dc[255,255,255]を手に入れた=Stimulant%_dc[255,255,255] obtained!
 !FILE:EV9966_104.bscr
-バケツの水%_dc[255,255,255]を手に入れた=Bucket of Water%_dc[255,255,255] obtained!
+バケツの水%_dc[255,255,255]を手に入れた=Water Bucket%_dc[255,255,255] obtained!
 !FILE:EV9966_105.bscr
-実験霊体%_dc[255,255,255]を手に入れた=Experimental Spirit%_dc[255,255,255] obtained!
+実験霊体%_dc[255,255,255]を手に入れた=Soul Sub%_dc[255,255,255] obtained!
 !FILE:EV9966_106.bscr
-２個目の魂%_dc[255,255,255]を手に入れた=Second Life Soul%_dc[255,255,255] obtained!#This is referring to Blair's soul, but since she's a cat she has nine lives, and therefore nine souls.
+２個目の魂%_dc[255,255,255]を手に入れた=Second Life Soul%_dc[255,255,255] obtained!#This is referring to Blair's soul, but since she's a cat she has nine lives, and therefore nine souls. I left this as is, but feel free to change it to "2nd Life Soul" to match the image if preferred
 !FILE:EV9966_200.bscr
 パーティードレス%_dc[255,255,255]を手に入れた=Party Dress%_dc[255,255,255] obtained!
 !FILE:EV9966_201.bscr
@@ -17738,7 +17738,7 @@
 !FILE:EV9981_050.bscr
 大丈夫かい　あんた達|次はがんばるんだよ|おばちゃん　応援するからね=Not too hurt, I hope. Auntie will be rooting for you, so you kids will get|it next time for sure.
 !FILE:EV9981_100.bscr
-おっ　来たな|用意したのはこんなところだが|どれを選ぶんだ？=Oh, if you're looking to prepare for the fighting ahead, you've come to the right place. Now what do you fancy?
+おっ　来たな|用意したのはこんなところだが|どれを選ぶんだ？=Oh, if you're looking to prepare for the fighting ahead, you've come to the right place. So, what do you fancy?
 !FILE:EV9981_110.bscr
 おいおい　パートナーは|どうしたんだ？=Woah, woah, where's your partner?
 全員　揃ってないと|受けることはできないぞ=I can't let you take on any missions until you're all here.
@@ -17751,10 +17751,10 @@
 これにするのか？=So this is the one you want?
 今のお前達には簡単かもな・・・|で　どうする？=This one might be kind of simple for you guys now... So what's it gonna be?
 なるほど　これは|お前達にピッタリだな=Yeah, that one looks perfectly suited for you guys.
-お前達にはきついかもしれないが・・・|どうする？=This ones looks like it'll be pretty demanding for you guys, but... it's up to you.
+お前達にはきついかもしれないが・・・|どうする？=This one looks like it'll be pretty demanding for you guys, but... it's up to you.
 !FILE:EV9981_130.bscr
 そうだな　訓練とはいえ|慎重に選んだほうがいいぞ=Right. It's only training, but you should still choose carefully.
-やめるのか？|そうだな|よく考えて選んだほうがいいぞ=You're giving up? All right. We all of your options before you choose.
+やめるのか？|そうだな|よく考えて選んだほうがいいぞ=You're giving up? All right. Weigh out all of your options before you choose.
 ああ　あせらなくていいぞ|自分にあってるのを選びな=Yes, take as much time as you need. Choose what feels right to you.
 !FILE:EV9981_140.bscr
 よし！|しっかりとやるんだぞ　お前達=Alright! Fight hard till the end everyone!
@@ -17927,10 +17927,10 @@
 残念だけどね　あんた達は|まだアイテムを持ってないんだよ|アイテムを手に入れたら　また来るんだね=How unfortunate. It looks like you don't have any items yet. You'll come again once you find some, won't you?
 アイテムを持たないってことだね|特にいいことはないと思うけどね|おばちゃんは=There's nothing here. I don't think it's anything to worry about, though.
 目覚まし時計だね|いつもより早く睡眠状態が治るよ=It's an Alarm Clock. With this you'll wake up faster than usual from a sleep status.
-実験霊体だね|一度だけバトルで倒れても復活できるよ=It's an Experimental Spirit. With this, just once, you'll be revived even if you fall in battle.
+実験霊体だね|一度だけバトルで倒れても復活できるよ=It's an Soul Sub. With this, just once, you'll be revived even if you fall in battle.
 毒消しだね|いつもより早く毒状態が治るよ=It's an Antidote. With this you'll be cured faster than usual from a poison status.
 強壮剤だね|いつもより早くマヒ状態が治るよ=It's a Stimulant. With this you'll be cured faster than usual from numbness after a shock.
-バケツの水だね|いつもより早く混乱状態が治るよ=It's a Bucket of Water. With this you'll recover faster than usual from confusion.
+バケツの水だね|いつもより早く混乱状態が治るよ=It's a Water Bucket. With this you'll recover faster than usual from confusion.
 ２個目の魂だね|バトルのときブレアが手助けしてくれるよ=It's a Second Life Soul. With this Blair will come to your aid in battle.
 『パーティードレス』だね|デス・シティーの女の子に凄い人気なんだよ|ちょっぴりセクシーなドレスだね=It's a Party Dress. It's amazingly popular with the girls of Death City. Just a tiny bit sexy too, isn't it?
 『ブラック☆スターのサイン』だね|トメとハネに迷いが見えるねぇ・・・|あの子はまだスターの器じゃないね=It's Black☆Star's Autograph. His handwriting is as crazy as he is, isn't it... That boy isn't star caliber just yet.#トメ is the abrupt stop at the end of a kanji stroke, and similarly, ハネ is the hook ending on vertical strokes. Literally the sentence says something along the lines of 'It can be seen that he hesitates between 'tome' and 'hane', but obviously that won't make any sense to the majority of people. Hence the comment about his bad handwriting.
@@ -18473,10 +18473,10 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
 %_te危険物の回収=%_teHazardous Material
-危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]! Retrieve it posthaste!
+危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=A hazardous %_dc[0,196,0]Sun Stone|%_dc[199,133,84]was spotted. Retrieve it posthaste!
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
-%_te迷惑ドッグを退治せよ！=%_teEliminate the Pesky Dogs!
-停電被害の報告殺到！|%_dc[196,0,0]マッドフント%_dc[199,133,84]%_dc[0,0,196]１５%_dc[199,133,84]匹を|すみやかに倒せ！=Numerous Reports of Power Outages! Hurry and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
+%_te迷惑ドッグを退治せよ！=%_teStop the Pesky Dogs!
+停電被害の報告殺到！|%_dc[196,0,0]マッドフント%_dc[199,133,84]%_dc[0,0,196]１５%_dc[199,133,84]匹を|すみやかに倒せ！=It's chaos out there! Hurry and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 制限時間内に|%_dc[196,0,0]マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds %_dc[199,133,84]within the time limit!
 %_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
@@ -18503,7 +18503,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Material
-危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=Reports have come in of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]! Retrieve it posthaste!
+危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという情報が入った|至急回収してきてくれ！=A hazardous %_dc[0,196,0]Sun Stone|%_dc[199,133,84]was spotted. Retrieve it posthaste!
 危険物指定%_dc[0,196,0]太陽石%_dc[199,133,84]を|見つけ出せ！=Find the potentially hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
 猫魔女ブレア%_dc[199,133,84]に挑戦！|猫なんかに負けるわけ|にはいかない！=%_dc[199,133,84]Challenge %_dc[196,0,0]Blair the witch cat%_dc[199,133,84]! Don't lose|to a little cat!
@@ -18568,8 +18568,8 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_te魔女の道具を探せ！=%_teFind the Shard!
 怪しげな魔法のモトになる|という%_dc[0,196,0]水晶の欠片%_dc[199,133,84]を|回収してきてくれ！=Recover the %_dc[0,196,0]Crystal Shard %_dc[199,133,84]which witches use for their magic!
 水晶の欠片%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Crystal Shard%_dc[199,133,84]!
-%_te迷惑ドッグを退治せよ！=%_teEliminate the Pesky Dogs!
-停電被害の報告殺到！|犯人%_dc[196,0,0]マッドフント%_dc[199,133,84]を|探し出し%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Numerous Reports of Power Outages! Locate and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
+%_te迷惑ドッグを退治せよ！=%_teStop the Pesky Dogs!
+停電被害の報告殺到！|犯人%_dc[196,0,0]マッドフント%_dc[199,133,84]を|探し出し%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=It's chaos out there! Hurry and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196] 15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
 制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|　　　　　　　　By Sid
