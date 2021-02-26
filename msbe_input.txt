@@ -7965,7 +7965,7 @@
 あいつもようやく自分の殻を|やぶりつつあるようだな！=She's finally starting to break out of her shell!
 やべェ　誰かに言いたくて|しょうがねェ・・・=Damn! I can't help myself. I really want to tell someone.
 椿が戻ってくるまで|誰にも会わずにいるか・・・=Okay. Until Tsubaki gets back, I'm not talking to anybody.
-いや　ここはしゃべりたくなる状況に|自分を追い込むのが　スターである|俺様のとるべき行動だな☆=No, as a star, this is exactly the sort of thing I should be using my influence to spread the word about☆
+いや　ここはしゃべりたくなる状況に|自分を追い込むのが　スターである|俺様のとるべき行動だな☆=No, as a star, this is exactly the sort|of thing I should be using my influence to spread the word about☆
 !FILE:EV1420_022.bscr
 何で　そんなに|嬉しそうなの～ん♪=What's the reason for that big grin of yours, huh♪?
 椿がようやく自分の殻を|破りつつあるからだぜ　ダンナ！=Tsubaki's finally starting to break out of her shell, Boss!
@@ -7981,7 +7981,7 @@
 何言ってるかわからないけど・・・=I have no idea what you're rambling about, but...
 椿ちゃんのことが出たから|ついでに話しとくわ=While we're on the subject of Tsubaki, I'll ask you.
 椿ちゃん|最近なんか元気ないわね=Has she been upset about something lately?
-そうか　あんなもんじゃねェのか？|まぁ　新しい自分になるための|苦しみってやつじゃねェのか？=Has she? I don't think so. Well, that's probably just the growing pains that come with becoming a new self.
+そうか　あんなもんじゃねェのか？|まぁ　新しい自分になるための|苦しみってやつじゃねェのか？=Has she? I don't think so. Well, she's probably just suffering for the art, the art of becoming a new self!#rephrased to make Black☆Star's suggestion sound more absurd
 あんたに相談している|私がバカみたいだけど・・・=I can feel myself losing IQ points just talking to you...
 いい　ブラック☆スター！|椿ちゃんのこと|ちゃんと見てあげなきゃダメだからね！=Forget it, Black☆Star! But you need to make sure you're keeping a close eye on her!
 !FILE:EV1420_036.bscr
@@ -8015,7 +8015,7 @@
 椿がようやく自分の殻を|破りつつあるからだぜ！=Tsubaki's finally breaking out of her shell!
 椿がどうかしたのか？=Did something happen to her?
 おっと・・・なんでもねェよ|シド先生！=Oops... It's nothing, Sid!
-そういえば椿のやつ|最近やけに思いつめているが|何かあったのか？=Now that I think about it, she has been brooding over something. Are you sure nothing happened?
+そういえば椿のやつ|最近やけに思いつめているが|何かあったのか？=Now that I think about it, she has been brooding over something lately. Are you sure nothing happened?
 知らねェよ！|あんなもんじゃねェのか？=I don't know! Does it matter?
 椿はストイックすぎるから心配なのだ・・・=I'm worried for her. Sometimes Tsubaki can be too prideful to ask for help...
 頼むぞブラック☆スター|椿をしっかりフォローしてやってくれ！=This is important, Black☆Star. You follow her closely and don't let her out of your sight!
@@ -8061,18 +8061,18 @@
 ありがたい|おかげで助かったぞ！=Thanks. You were a great help!
 取ってきた花は|どこにあるんですか？=Where are the flowers we found?
 博士からの依頼だからな|リズとパティに頼んで届けて|もらっている=The professor requested them, so I asked Liz and Patty to deliver them.
-博士の所ですね|ありがとう　キッド君・・・=The professor. Okay. Thanks, Kid.
+博士の所ですね|ありがとう　キッド君・・・=The professor. Okay.|Thanks, Kid.
 すぐに　行きましょう|ブラック☆スター！=There's no time to waste, Black☆Star!
 椿　おめェ　なんでそんなに|張り切ってんだよ・・・=Tsubaki, why are you so obsessed with this?
 !FILE:EV1420_096.bscr
 取ってきた花は|どこにあるんですか？=Where are the flowers we found?
 博士からの依頼だからな|リズとパティに頼んで届けて|もらっている=The professor requested them, so I asked Liz and Patty to deliver them.
-博士の所ですね|ありがとう　キッド君・・・=The professor. Okay. Thanks, Kid.
+博士の所ですね|ありがとう　キッド君・・・=The professor. Okay.|Thanks, Kid.
 !FILE:EV1420_102.bscr
 話は聞きましたよ|君達も俺の依頼を|手伝ってくれたみたいですね=I heard. It seems you two also helped to fulfill my request.
 博士　お願いです|あの花を　わけてもらえないでしょうか？=Professor, please. Would it be possible to share some of those flowers?
 いいですよ椿・・・|よくわかりませんが|何か事情がありそうですね・・・=Of course, Tsubaki. I don't know why you want them, but you seem to have your reasons.
-遺伝子はもう採取したので|俺にはもう必要ありません|好きなだけ持っていってください・・・=I've already harvested their genes, so I no longer require them. Please, help yourself to as many as you'd like.
+遺伝子はもう採取したので|俺にはもう必要ありません|好きなだけ持っていってください・・・=I've already harvested their genes, so|I no longer require them. Please, help yourself to as many as you'd like.
 ありがとうございます博士=Thank you, Professor.
 花は倉庫のほうに|おいてありますよ=You'll find them stored away over there.
 おいおい大丈夫かよ|悪魔と取引したようなもんだぜ！=Woah, are you sure about this? It's like making a deal with the devil!
@@ -8085,7 +8085,7 @@
 ごめんなさい・・・|でも一人でやらせてほしいの=Sorry... I just really need to be alone right now.
 それとたびたびで悪いんだけど|死武専を抜け出すから|みんなには　内緒にしててね=Also, I know I keep breaking the rules, but I'm going to be leaving the school again, so please don't tell anyone.
 あせる気持ちはわかるけどな|急には大物にはなれねェぜ☆=Don't worry. I understand your anxiousness. It takes time to get used to being one of the big guys☆
-大物は無理になろうって|するもんじゃなくて|なってるもんだからよ！=You get used to it. Getting overwhelmed is how you get big!
+大物は無理になろうって|するもんじゃなくて|なってるもんだからよ！=You get used to it. Putting yourself out there is how you get big!
 もしくは俺様みたいに|生まれついてとかな|ひやっはははははは☆=Or you can be born big like me! Yahahahahahaha☆
 ありがとう・・・|それじゃあ行ってくるわね=Thanks... Okay. I'll be back in a little while.
 行っちまったよ・・・|あいつ一体何やってんだ・・・=She left again... What could she be doing?
@@ -8121,13 +8121,13 @@
 椿ちゃんに伝えてちょうだい|いつでもいいから保健室に|検査にきてねって♪=Tsubaki can come to the infirmary and get a check-up whenever she wants♪ You'll tell her that, won't you?
 !FILE:EV1420_142.bscr
 なぁ先生　椿のヤツ|ちょっと変じゃねェか？=Hey, Sid. Tsubaki's been acting a little strange, don't you think?
-椿で思い出したんだが|俺はこの間遠出をしてきた・・・|極東にある針の村にだ=You bring her up and that reminds me of the trip I took the other day... to the Village of Needles far to the East.
-椿のアニキと|戦った　あそこかよ！=That's where we fought Tsubaki's big brother, right!?
+椿で思い出したんだが|俺はこの間遠出をしてきた・・・|極東にある針の村にだ=Speaking of Tsubaki, that reminds me of the trip I took the other day... to the Village of Needles far to the East.
+椿のアニキと|戦った　あそこかよ！=That's where we fought her big brother, right!?
 そうだ　あの後|異常がないか調査に|行っていた！=Indeed. I went there afterward in order to investigate for any abnormalities!
 どうだったんだよ先生！？=So was there anything weird!?
 いや　まったく問題はない|いたって平和だ・・・ただ・・・=No, nothing whatsoever. It was extremely peaceful... However...
 どうしたんだよ先生=Was something wrong, Sid?
-当たり前の話だが|椿の兄　マサムネの霊を|なぐさめるようなものは何もなかった・・・=It's wholly understandable, but there was nothing there for the purpose of soothing the spirit of Tsubaki's older brother, Masamune.
+当たり前の話だが|椿の兄　マサムネの霊を|なぐさめるようなものは何もなかった・・・=It's wholly understandable, but there was nothing there to honor Tsubaki's older brother, Masamune.#must be kept short
 なんにもなしかよ・・・=Nothing, huh?
 そうだ　社や慰霊碑や墓|何もない・・・=Not a shrine or a memorial. Not even a simple tombstone...
 無理もない話かもしれん|村人にとっては忌むべき|存在だったのだから・・・=It's probably to be expected. He was shunned by the villagers.
@@ -8149,15 +8149,15 @@
 私　兄さんの墓に行ってたの・・・=I went to my brother's grave...
 でもよ　お前のアニキの身体は・・・=But... your brother's body...
 ええ|私との戦いに敗れたので消滅したわ=Yes. His body disappeared when I defeated him.
-じゃあ　その墓には|何が入ってるんだ？=Then what do you put in the grave?
-何も入ってないわ　カラッポよ・・・=Nothing. It would be empty.
+じゃあ　その墓には|何が入ってるんだ？=Then what did you put in the grave?
+何も入ってないわ　カラッポよ・・・=Nothing. It's empty.
 でも　何もないからって|お墓までないのはさみしすぎるから|自分でお墓作っちゃったの=But his spirit must be so lonely with nothing, not even a tombstone. So I made him one myself.
 椿・・・=Tsubaki...
 今日　キッド君達の|手伝いをせがんだのは|お花が欲しかったから・・・=I was so insistent about helping Kid today because I wanted the flowers.
-あのお花は兄さんの|好きなお花に似てるの=They would remind him of his favorite flower...
+あのお花は兄さんの|好きなお花に似てるの=Those flowers are just like the ones|my brother used to love.
 だから　どうしても|兄さんの墓前に供えたかった・・・=So I had to have them to put on his grave no matter what.
 ・・・・・・・・・=.........
-ありがとう　ブラック☆スター|私のワガママを聞いてくれて・・・|兄さんも喜んでくれたと思うわ=Thanks, Black☆Star. You followed along with me even though I was being selfish, and... I think my brother is happy too now.
+ありがとう　ブラック☆スター|私のワガママを聞いてくれて・・・|兄さんも喜んでくれたと思うわ=Thanks, Black☆Star. You put up with me even though I was being selfish... I think my brother will be happy too.
 大丈夫か？|ホントに平気か？=Are you gonna be okay? Really, you can talk to me.
 ふふ♪|大丈夫よ♪=Hehe♪ I'm okay♪
 ・・・・・・・・・=.........
@@ -8294,14 +8294,14 @@
 誤解したのは|私達のほうだと思うけど・・・=Except I think we're the ones that made the mistake.
 細かいことは気にすんなよ！|ますます小物じみてくるぜ！|ひやっはははははは☆=Stop sweating the little things! It makes you sound like one the small fry! Yahahahahahaha☆
 !FILE:EV1422_002.bscr#うれしい罰ゲーム = Happy Penalty Game part 14
-ブラック☆スター|シド先生が探してたわよ=Black☆Star, Sid was looking for you.
+ブラック☆スター|シド先生が探してたわよ=Black☆Star, Mr. Sid was looking for you.
 ゾンビが俺に何の用だよ？|マカ　聞いてねェか？=The zombie was looking for me? What for?
 あんた　この間　オックス君と|決闘をしたでしょ？=It probably has to do with that duel you had with Ox.
 えっ　それ|私は知らないわよ！|本当なのブラック☆スター？=Eh!? I didn't know about that! Is that true, Black☆Star?
 あんまり楽勝だったから|つい言うのを忘れてた！=It was over so quickly that I forgot to even tell you about it!
 もう！ブラック☆スター！=Black☆Star!
 でもその事自体は|いけないことじゃないですよね？=That being said, it's not against the rules or anything, right?
-ええ・・・でもコイツはやりすぎて|備品を壊しちゃったの|先生は　それを怒ってるの=No... Except this dummy does too many of them and is always breaking stuff. That's what Sid's fed up with.
+ええ・・・でもコイツはやりすぎて|備品を壊しちゃったの|先生は　それを怒ってるの=No... Except this dummy does too many of them and is always breaking stuff. That's what he's fed up with.#Mr. Sid would not fit.
 なるほどな・・・教えてくれて|サンキューだぜ　マカ！|知らなかったらやばかったぜ☆=That makes sense... Thanks for filling me in, Maka! I hadn't even noticed☆
 あんたのために|教えたんじゃないわ|椿ちゃんがかわいそうだからよ=I'm not telling you for your sake. I'm telling you because I feel bad for Tsubaki.
 最近　ちょっとあんた|乱暴すぎるわよ！=You've been a little too wild lately!
@@ -9275,7 +9275,7 @@
 ひやっはぁ☆|スターの一人舞台が|今　スタートするぜ！=Yahoo☆ Let the star's solo performance START!☆
 それはダジャレよ|ブラック☆スター・・・=That was a lame pun, Black☆Star...
 !FILE:EV1930_003.bscr
-どうだ　お前の願いをかなえてやったぜ！|俺様に感謝するんだな☆=Well? I've granted your wishes! I believe thanks are in order☆
+どうだ　お前の願いをかなえてやったぜ！|俺様に感謝するんだな☆=Well? I've granted your wish!|I believe thanks are in order☆
 ありがとう・・・|本当にありがとう・・・=Thanks... Really, thank you.
 まっ　スターである|俺様のパートナーだってことを|幸運に思うんだな☆=Hm. When I think about how lucky you must be to be my partner...☆
 !FILE:EV1930_004.bscr
@@ -9295,7 +9295,7 @@
 なに溜息ついてんだよ|堂々としてりゃバレっこねェよ！=What are you sighing about? We did amazing, and we didn't get caught!
 !FILE:EV1931_003.bscr
 ほんとうに　きれい・・・=It's so pretty...
-そんなの後でゆっくり見ればいいじゃねェか|さっさと帰ろうぜ☆=You can come back to look at it later. Let's hurry back for now☆
+そんなの後でゆっくり見ればいいじゃねェか|さっさと帰ろうぜ☆=You can take all the time in the world to admire it later. Let's hurry back for now☆
 !FILE:EV1931_004.bscr
 ・・・・・・・・・=.........
 どうしたの？急に黙っちゃって・・・|早く死武専に戻りましょ|目的のものは　手に入れたんだから=What's wrong? You got quite all of a sudden... Should we hurry back to the DWMA? We've obtained the target, after all.
@@ -18466,9 +18466,9 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te訓練君で実戦に備えろ！=%_teTrain with a Buddy!
 シュタイン博士が作った|敵にソックリな%_dc[196,0,0]訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]30 %_dc[199,133,84]of Professor Stein's %_dc[196,0,0]Training Buddies %_dc[199,133,84]that look just like the enemy!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]３０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]30 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
-%_teアメリカつばきを探せ！=%Search for an American Camellia!
-博士が探しているという|%_dc[0,196,0]アメリカつばき%_dc[199,133,84]を見つけて|わけてもらおう！=Find the |%_dc[0,196,0]American Camellias %_dc[199,133,84]for the professor!
-アメリカつばき%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find an %_dc[0,196,0]American Camellia%_dc[199,133,84]!
+%_teアメリカつばきを探せ！=%_teFlower Picking?
+博士が探しているという|%_dc[0,196,0]アメリカつばき%_dc[199,133,84]を見つけて|わけてもらおう！=Find the %_dc[0,196,0]American Camellias %_dc[199,133,84]for the professor!
+アメリカつばき%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]American Camellias%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
