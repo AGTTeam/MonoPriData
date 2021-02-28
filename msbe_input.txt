@@ -39,9 +39,9 @@
 俺様ステージ=Black☆Star's Show
 家族の肖像=A Family Photo
 彼女の思いと・・・=Her Thoughts
-マカが倒れた=Maka's Fainting#not sure if this makes sense or not
+マカが倒れた=Fainting Spell
 うれしい罰ゲーム=The Happy Penalty Game
-最近のリズは・・・=Where Liz Belongs...
+最近のリズは・・・=Where Liz Belongs
 保健室からの苦情=Dispensing Complaints
 ソウルの胸の傷=Soul's Scar
 反撃開始=Payback Time
@@ -3780,7 +3780,7 @@
 　　受付停止中=Reception Desk Closed
 申し訳ないけど|ちょっと急用が入ってね|また　今度来るんだね|　　　　　おばちゃんより=Apologies, something|urgent came up.|I'll be back soon.|　　　　　　　--Auntie
 !FILE:EV0905_030.bscr
-　がんばり屋な君達へ=　For the Workaholics
+　がんばり屋な君達へ=　To the Workaholics
 用意しておいた訓練が|なくなっちゃいました|今日の訓練は終了です|　　　　シュタインより=There are no remaining|training sessions|planned for today.|　　　　　　　　--Stein
 !FILE:EV0905_040.bscr
 　　あのねぇ・・・=Um...
@@ -9249,18 +9249,18 @@
 心配かけたわね♪=You were worried about me, weren't you♪?
 !FILE:EV1924_102.bscr
 どうしたんですか博士|こんな所に一人で？=Are you okay, Professor? Why are you here all alone?
-今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
+今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about the rescue. I didn't use my real strength... like it was a pretend fight...
 なんだよ　ネジメガネ！|それは自慢かよ　いいかげんにしやがれ！=Screw you, Professor! First you upstage me, and now you want to brag!?
 まぁ　まぁ|抑えてください・・・=Come on now. Try not to get carried away.
 いや　別に自慢を|していたわけではないのですが・・・=No, it really doesn't have anything to do with me wanting to boast...
-すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget about what I was just saying.
+すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget I said anything.
 別にいいんですけど・・・|こんな所で博士は何を|やっていたんですか？=That's fine, but... What were you doing in here?
 ええ|やっと尻尾が見えてきました|その喜びに　うち震えていたところです=I finally saw what she really is... And I'm trembling with excitement.
 チッ・・・また目立とうと|してやがんな・・・=Tch! All that attention's already started going to his head.
-あなたは|頭にそれしかないのね=And attention's already all that's left in yours.
+あなたは|頭にそれしかないのね=Of course, that's the only thing you pay any attention to.
 !FILE:EV1924_106.bscr
-今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
-!FILE:EV1924_107.bscr
+今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about the rescue. I didn't use my real strength... like it was a pretend fight...
+!FILE:EV1924_107.bscr#not used
 おい　やっぱり|メデューサ先生って前にも|さらわれたことがあるぜ！=Hey, I know this isn't the first time Dr. Medusa was abducted. I'm sure of it!
 まだ　そんなこと言ってるの！|しつこいんだから！！=I can't believe you're still going on about that! You've got such a one-track mind!
 ・・・・・・・・・=.........
@@ -9315,8 +9315,8 @@
 いよいよ　はじまりね|ブラック☆スター！=Action, Black☆Star!
 俺様　イン・・・|ここ　どこだっけ？=I am here! ...Where's here again?
 あなたならどこでも大丈夫よ・・・|気にしないで・・・=You'll be fine no matter where you end up. Don't worry about it...
-どうやら|目的のステージについたみてェだな！=I don't know how, but it looks like we finally made it to the right stage!
-ここなのね・・・|なんだか|緊張してきちゃったわ・・・=This is the place. You were really dialed in mentally.
+どうやら|目的のステージについたみてェだな！=It seems we've finally made it to the right stage!
+ここなのね・・・|なんだか|緊張してきちゃったわ・・・=This is it, huh? I'm getting kind of nervous...
 !FILE:EV1932_012.bscr
 準備はいいのか？|もう待ちきれねェぜ！=You ready? I'm tired of waiting!
 私のほうは|いつでもいいわよ♪=I'm ready when you are♪
@@ -9408,7 +9408,7 @@
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 楽勝～！楽勝～！=Too! Easy!
@@ -9416,9 +9416,9 @@
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahoo♪ Let me bask in the light of my own aura!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
@@ -9428,7 +9428,7 @@
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahoo♪ Let me bask in the light of my own aura!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
@@ -9436,7 +9436,7 @@
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 楽勝～！楽勝～！=Too! Easy!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 !FILE:EV1933_011.bscr
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
@@ -10083,7 +10083,7 @@
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 楽勝～！楽勝～！=Too! Easy!
@@ -10091,9 +10091,9 @@
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahoo♪ Let me bask in the light of my own aura!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
@@ -10101,9 +10101,9 @@
 楽勝～！楽勝～！=Too! Easy!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahoo♪ Let me bask in the light of my own aura!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright! Another page added to my legendary tale!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
@@ -10111,7 +10111,7 @@
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 楽勝～！楽勝～！=Too! Easy!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 !FILE:EV1935_041.bscr
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
@@ -10247,7 +10247,7 @@
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 楽勝～！楽勝～！=Too! Easy!
@@ -10255,9 +10255,9 @@
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahoo♪ Let me bask in the light of my own aura!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
@@ -10265,9 +10265,9 @@
 楽勝～！楽勝～！=Too! Easy!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahoo♪ Let me bask in the light of my own aura!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright! Another page added to my legendary tale!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
@@ -10275,7 +10275,7 @@
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 楽勝～！楽勝～！=Too! Easy!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 !FILE:EV1935_341.bscr
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
@@ -10411,7 +10411,7 @@
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 楽勝～！楽勝～！=Too! Easy!
@@ -10419,9 +10419,9 @@
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
 お疲れ様　ブラック☆スター=Good job, Black☆Star.
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahoo♪ Let me bask in the light of my own aura!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 神を超える俺様に|勝てる奴はいねぇって！=No one can beat me! I'm the man that will surpass God!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
@@ -10429,9 +10429,9 @@
 楽勝～！楽勝～！=Too! Easy!
 やったわね！|ブラック☆スター！！=Hooray! Black☆Star!!
 ひゃっはぁ～♪|後光よ俺様を照らしてもいいんだぜ！=Yahoo♪ Let me bask in the light of my own aura!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 ひゃっはぁ～♪|俺様こそが無敵だぜぇぇ～～！！=Yahoo♪ I'm totally unbeatable!!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 よし！|これで俺様の伝説が一つ増えたぜ！=Alright! Another page added to my legendary tale!
 良かったわね♪ブラック☆スター！=You did great, Black☆Star♪
 輝けるスター性を放ちながら|目標達成だぜ！=Mission accomplished like only a shining star could!
@@ -10439,7 +10439,7 @@
 よし！|俺様の神を超える伝説が一つ増えたぜ！=All right! That's one more story for the legend of the man who surpassed God!
 すごいわ！|ブラック☆スター！！=Great work, Black☆Star!
 楽勝～！楽勝～！=Too! Easy!
-これからもがんばりましょうね！=Let's give it our best 'til the end!
+これからもがんばりましょうね！=Let's keep giving it our all!
 !FILE:EV1935_641.bscr
 よっしゃぁ～♪|目標達成したぜ！=Alllriiight♪ Mission complete!
 今回はスムーズに終わったわね♪=That went smoothly this time, huh♪?
@@ -14841,17 +14841,17 @@
 心配かけたわね♪=You were worried about me, weren't you♪?
 !FILE:EV2924_092.bscr
 どうしたんですか博士？|こんな所で一人ですか？=What's going on, Professor? Are you here by yourself?
-今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
+今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about the rescue. I didn't use my real strength... like it was a pretend fight...
 変な所にこだわるな？=That's an odd thing to whine about.
 それって自慢じゃねェか？|きゃはははは♪=Sounds like boasting to me. Kyahahaha♪
 いや　別に自慢を|していたわけではないのですが・・・=No, it really doesn't have anything to do with me wanting to boast...
-すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget about what I was just saying.
+すみませんが|今の俺の発言は忘れてください・・・=Sorry. Just forget I said anything.
 別にかまいませんが|本当に博士はここで何をしていたのですか=Yeah, that's fine by me, but, Professor, what were you really doing here?
 ええ|やっと尻尾が見えてきました|その喜びに　うち震えていたところです=I finally saw what she really is... And I'm trembling with excitement.
 おっかないから|その顔はやめてくれよ博士=Can you please stop making that face? You're freaking me out.
 ほんとビビってるね|お姉ちゃん♪=Sis, you're a big sissy♪
 !FILE:EV2924_096.bscr
-今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about this rescue mission. I wasn't using my real strength... like it was a pretend fight...
+今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about the rescue. I didn't use my real strength... like it was a pretend fight...
 !FILE:EV2924_097.bscr
 やっぱり前にも|メデューサ先生って|魔女にさらわれたことがあるよ！=I'm positive Dr. Medusa has been abducted by a witch before!
 まだ　そんなこと言ってるのか！|いいかげんにしろ！！=You said that already! Just drop it!!
@@ -17750,7 +17750,7 @@
 !FILE:EV9981_120.bscr
 これにするのか？=So this is the one you want?
 今のお前達には簡単かもな・・・|で　どうする？=This one might be kind of simple for you guys now... So what's it gonna be?
-なるほど　これは|お前達にピッタリだな=Yeah, that one looks perfectly suited for you guys.
+なるほど　これは|お前達にピッタリだな=Yeah, it looks perfectly suited for you guys.
 お前達にはきついかもしれないが・・・|どうする？=This one looks like it'll be pretty demanding for you guys, but... it's up to you.
 !FILE:EV9981_130.bscr
 そうだな　訓練とはいえ|慎重に選んだほうがいいぞ=Right. It's only training, but you should still choose carefully.
@@ -18025,7 +18025,7 @@
 マジかよ・・・=Seriously?
 戻るの？　ブラック☆スター？=You want to go back, Black☆Star?
 鬼神の卵と化した魂を持つ者を|退治するみたいよ|私達には簡単かも=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It should be rather simple.
-鬼神の卵と化した魂を持つ者を|退治するみたいよ|腕試しにはちょうどよさそうよ=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It should be a great way to test our abilities.
+鬼神の卵と化した魂を持つ者を|退治するみたいよ|腕試しにはちょうどよさそうよ=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It should be a good challenge.
 鬼神の卵と化した魂を持つ者を|退治するみたいよ|全力で挑まないと危ないかも=It seems like we'll be eliminating an enemy whose soul has become a Kishin Egg. It might be dangerous.#must be kept short
 敵を退治する内容みたいよ|私達には簡単かも=It seems like we'll be eliminating enemies for this one. It should be rather simple.
 敵を退治する内容みたいよ|腕試しにはちょうどよさそうよ=It seems like we'll be eliminating enemies for this one. It should be a great way to test our abilities.
@@ -18454,7 +18454,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies!
-%_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
+%_te街の殺人鬼を退治せよ！=%_teStop the Slaughter!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
@@ -18562,7 +18562,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te特別実戦模擬訓練！=%_teCombat Simulation!
 備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
-%_te殺人鬼を退治せよ！=%_teEliminate the Cutthroat!
+%_te殺人鬼を退治せよ！=%_teStop the Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]THE CAN%_dc[199,133,84]!
 THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CAN%_dc[199,133,84]!
 %_te魔女の道具を探せ！=%_teFind the Shard!
@@ -18604,7 +18604,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight anymore!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
-%_te殺人鬼を退治せよ！=%_teEliminate the Cutthroat!
+%_te殺人鬼を退治せよ！=%_teStop the Cutthroat!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]THE・CAN%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]THE CAN%_dc[199,133,84]!
 THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CAN%_dc[199,133,84]!
 %_te訓練君を探せ？=%_teFind a Buddy?
