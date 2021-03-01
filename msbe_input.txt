@@ -17010,7 +17010,7 @@
 では|練習相手を呼び出します=Okay, let's give you a training partner.
 ロックオンをするには「Bボタン」を押し|ます　「Bボタン」を押すと自分の一番|近くにいる相手をロックオンします=In order to lock on, press the B button. Once you do that, you will|lock on to the nearest enemy.
 狙った相手の足元にはロックオンマークが|現れ　画面の左上にロックオンの文字が|表示されます=A marker will appear around the enemies feet and a "lock on" sign will be displayed to the upper-left.#must be kept short
-ロックオンをやめるには　もう一度|「Bボタン」を押します|ロックオンマークと文字が消えます=In order to stop locking on, press the B button again. This will cause the lock on markers to disappear.#must be kept short
+ロックオンをやめるには　もう一度|「Bボタン」を押します|ロックオンマークと文字が消えます=In order to stop locking on, press the B button again. This will cause the lock-on markers to disappear.#must be kept short
 「Bボタン」を繰り返し押すことで|一番近くにいる相手にすばやく攻撃する|ことができます=If you keep pressing the B button, you can quickly attack the enemies that are closest to you.
 ロックオンをしている間はロックオンした|相手を中心にして移動します=When you lock on, your movements|will center around the enemy you've locked on to.
 「Aボタン」での攻撃も全てロックオン|した相手に行われます=The attacks you make with the A button will also be directed at that enemy.
@@ -17022,15 +17022,15 @@
 皆さん|準備はいいですか？=Are you all ready?
 おう！=Yeah!
 さあ|魂の共鳴の仕方を覚えましょう=Now, let's go over how to use Soul Resonance.
-魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack|will increase the Resonance Gauge.
+魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to build Soul Resonance. Each successful attack|will increase the Resonance Gauge.
 共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and your attack power will increase.#must be kept short. This scene has no voice acting, so I moved the next sentence down.
 では|練習相手を呼び出します=Not attacking will cause the Resonance Gauge to deplete.|Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_501.bscr
 皆さん|準備はいいですか？=Are you all ready?
-はい！=Roger!
+はい！=Yes!
 さあ|魂の共鳴の仕方を覚えましょう=Now, let's go over how to use Soul Resonance.
-魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack|will increase the Resonance Gauge.
+魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to build Soul Resonance. Each successful attack|will increase the Resonance Gauge.
 共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and your attack power will increase.#must be kept short.
 では|練習相手を呼び出します=Not attacking will cause the Resonance Gauge to deplete.|Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
@@ -17038,7 +17038,7 @@
 皆さん|準備はいいですか？=Are you all ready?
 ほ～～い♪=Okey-dokey♪
 さあ|魂の共鳴の仕方を覚えましょう=Now, let's go over how to use Soul Resonance.
-魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to use Soul Resonance. Each successful attack|will increase the Resonance Gauge.
+魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to build Soul Resonance. Each successful attack|will increase the Resonance Gauge.
 共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and your attack power will increase.#must be kept short. This scene has no voice acting, so I moved the next sentence down.
 では|練習相手を呼び出します=Not attacking will cause the Resonance Gauge to deplete.|Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
@@ -17113,7 +17113,7 @@
 !FILE:EV9961_033.bscr
 さて|これからどうすんだ？=So what should we do now?
 !FILE:EV9961_034.bscr
-おいおい|誰もいねェぜ・・・=Yo! Anybody home...!?
+おいおい|誰もいねェぜ・・・=Yo! Anybody home!?
 !FILE:EV9961_035.bscr
 さて　どうするかな？=So what now?
 !FILE:EV9961_037.bscr
@@ -17123,13 +17123,13 @@
 !FILE:EV9961_041.bscr
 まだ　私に何か用が？=Do you need anything else?
 !FILE:EV9961_042.bscr
-誰もいないみたいだけど・・・=Looks like there's no one here...
+誰もいないみたいだけど・・・=Looks like there's no one here.
 !FILE:EV9961_043.bscr
 これから　どうするの？=What are we going to do now?
 !FILE:EV9961_044.bscr
-誰もいないわね・・・=There's no one here...
+誰もいないわね・・・=There's no one here.
 !FILE:EV9961_045.bscr
-どうしようかしら・・・=What to do, I wonder...
+どうしようかしら・・・=What to do, I wonder.
 !FILE:EV9961_047.bscr
 ・・・・・・・・・=.........
 !FILE:EV9961_050.bscr
@@ -17205,7 +17205,7 @@
 !FILE:EV9961_120.bscr
 私に何か用ですか？=Do you need me for something?
 !FILE:EV9961_121.bscr
-まだ何かあるというのですか・・・=Is there anything else you still need me for...?
+まだ何かあるというのですか・・・=Is there anything else you still need me for?
 !FILE:EV9961_127.bscr
 ・・・・・・・・・=.........
 !FILE:EV9961_200.bscr
@@ -17213,9 +17213,9 @@
 !FILE:EV9961_201.bscr
 まだブレアに|用なのかしら？=Can I do anything else for you?
 !FILE:EV9961_205.bscr
-ブレアと|お話ししにゃい？=You want to talk to me-ow?
+ブレアと|お話ししにゃい？=You want to talk to me, meow?
 !FILE:EV9961_206.bscr
-もっとブレアと|お話ししにゃい？=You want to talk to me some me-ore?
+もっとブレアと|お話ししにゃい？=You want to talk to me some more, meow?
 !FILE:EV9961_207.bscr
 ・・・・・・・・・=.........
 !FILE:EV9962_000.bscr
@@ -17277,7 +17277,7 @@
 !FILE:EV9962_070.bscr
 それじゃぁ　みなさん|バハハ～イ！=Well then, everyone. Bahahaaaiii!
 !FILE:EV9962_071.bscr
-基本「殺伐だけどウキウキライフ」で|んじゃ！かいさ～ん♪=Remember, "it's a savage but super fun life." Well, see yaaaa!♪
+基本「殺伐だけどウキウキライフ」で|んじゃ！かいさ～ん♪=Remember, "it's a savage but super fun life." Well, see ya!♪
 !FILE:EV9962_072.bscr
 ほんじゃあ　まぁ|応援なんかしちゃったりするんで|がんばっちに～♪=Righto! Well, I'll be cheering you on, so do your best, okay♪?
 !FILE:EV9962_073.bscr
@@ -17329,7 +17329,7 @@
 !FILE:EV9962_200.bscr
 にゃはは♪|じゃあね～♪=Nyahaha♪ Bye, now♪
 !FILE:EV9962_201.bscr
-ブレアも忙しいから|もう行くね！=I'm going to go. I have kitty some business to take care of!
+ブレアも忙しいから|もう行くね！=I'm going to go. I have some kitty business to take care of!
 !FILE:EV9962_202.bscr
 いやだ　いやだ|もっと遊んで！=No! No! Play with me some more!
 !FILE:EV9962_203.bscr
@@ -17350,8 +17350,8 @@
 !FILE:EV9963_020.bscr
 うむ・・・それでは|もう一度説明することにしよう=Yeah... Then why don't I explain it to you once more?
 !FILE:EV9963_021.bscr
-俺のフォローが|足りなかったようだ・・・=It looks like I failed to back you up...
-こんなことになってしまって|すまなかった・・・=I'm sorry that I've gotten this way...
+俺のフォローが|足りなかったようだ・・・=It looks like I failed to back you up.
+こんなことになってしまって|すまなかった・・・=I'm sorry that I've gotten this way.
 !FILE:EV9963_070.bscr
 やる気になってくれたかな？|でもその前に・・・=You're finally motivated, huh?|But before that...
 もう一度　詳しい内容を|説明するよ～ん♪=Let me explain the finer details of the assignment again♪
@@ -17367,7 +17367,7 @@
 それじゃあ　もう一度|詳しく内容を説明するぞ=Okay, I'll explain it all again.|Listen carefully.
 !FILE:EV9963_091.bscr
 ゆるさねェ|俺のかわいいマカを|こんな目にあわせやがって・・・=Don't you dare look at my cute, little Maka like that! Ya hear me!?
-こんな役目じゃなかったら|飛んでいってズタボロにしてやるのに・・・=If I wasn't forced to help you, I'd fly in and rip you to shreds...
+こんな役目じゃなかったら|飛んでいってズタボロにしてやるのに・・・=If I wasn't forced to help you, I'd fly in and rip you to shreds.
 !FILE:EV9963_100.bscr
 それでは　もう一度|君達に手伝ってほしいことを|説明します=Okay, let me explain what I want your help with one more time.
 !FILE:EV9963_101.bscr
@@ -17378,7 +17378,7 @@
 !FILE:EV9963_110.bscr
 よし！|それでは　もう一度詳しい内容を|説明するぞ！=Okay! Let me go over all the details with you again!
 !FILE:EV9963_111.bscr
-大丈夫なのかお前達・・・=How you guys holding up...?
+大丈夫なのかお前達・・・=How you guys holding up?
 俺と違って生身なのだから|あまり無理をするんじゃないぞ！=Unlike me, you're still flesh and blood, so don't get carried away!
 !FILE:EV9966_101.bscr
 目覚まし時計%_dc[255,255,255]を手に入れた=Alarm Clock%_dc[255,255,255] obtained!
@@ -17464,9 +17464,9 @@
 それにしても死武専て|大きな施設よね・・・=It doesn't seem like it, but the DWMA is actually a really large facility...#seen
 入学してからずいぶんたつんだけど|まだ迷いそうになる時があるわ=I've been studying here for a long time now, but I still get lost sometimes.
 休み時間って|実はあんまり|落ち着かないの・・・=Even during vacation, I really don't know how to take it easy...#seen
-私って常に|動いてないとダメみたい・・・=I feel like I have to be constantly moving...#seen
+私って常に|動いてないとダメみたい・・・=I feel like I have to be constantly moving.#seen
 最近　マカチョップの|威力が増している気がするわ・・・=I feel like my Maka Chop has gotten a lot stronger recently...
-もしかしたら私|本職人かもしれない・・・=Maybe I'd have a future as a librarian...
+もしかしたら私|本職人かもしれない・・・=Maybe I'd have a future as a librarian.
 パパを見かけたら|教えてちょうだい=If you see my papa, please let me know.
 全力でそこから|遠ざかるようにするから！=I'm doing everything I can to stay away from him right now!#seen
 こんな所で|遊んでいちゃダメじゃない！=It's against the rules to be playing around in here!
@@ -17490,21 +17490,21 @@
 本当に死武専は素晴らしい|父上がつくっただけのことはある=The DWMA is truly magnificent. And father made all of it himself.
 どの場所に行っても|新たな発見があるから|見ていて飽きがこない！=No matter where you go, there's always some new discovery to be made! I never get bored of just looking around.
 気になることがあって|家に帰ろうとしていたのだが・・・=Something's worrying me, so I'm thinking about going home, but...#seen
-はたして本当に|帰っていいのか迷っているところだ・・・=Of course, I'm not so sure it's really okay for me to go right now though...
+はたして本当に|帰っていいのか迷っているところだ・・・=Of course, I'm not so sure it's really okay for me to go right now though.
 みなはなぜ|備品の乱れが気にならんのだ？=How can everyone act so nonchalant when something's out of order?
 こういう所から|キッチリカッチリしなければ|いけないということが　わからんのか？=Do they not understand that everything must be absolutely perfect and symmetrical?
 俺はいっそ一人のほうが|すがすがしい！=It's kind of refreshing to be alone...#seen
 リズとパティどちらか一人だと|シンメトリーではなくなってしまうからな=If I were alone with only one of the sisters, it wouldn't be symmetrical|at all.
-魔剣に魔眼・・・|どうも最近　死武専の|周りが騒がしいようだ=That Magic Eye and the Demon Sword... There's been a lot of ruckus around the DWMA recently...#seen
+魔剣に魔眼・・・|どうも最近　死武専の|周りが騒がしいようだ=That Magic Eye and the Demon Sword... There's been a lot of ruckus around the DWMA recently.#seen
 お互いに　充分気をつけねばならんな=We need to all work together to keep everyone safe.
 今のお前達には|他にやるべき事があるだろう！|さっさと本分に戻れ！！=I know you guys have something else you're supposed to be doing right now, so go and get it done!!
 !FILE:EV9967_021.bscr
 今のお前達には|他にやるべきことがあるだろう！|さっさと本分に戻れ！！=I know you guys have something else you're supposed to be doing right now, so go and get it done!!#seen
 !FILE:EV9967_030.bscr
 そういや　俺の周りの武器で|純粋な鎌ってデスサイズだけ|なんだよな・・・=Come to think of it, besides me, the only other scythe weapon around here is Maka's dad...#seen
-なんか　あんまりいい気分がしねェな・・・=That doesn't really make me feel great about myself...
-もう少しマカも|大人になってくんねェかな・・・=I wish Maka could grow up a little...
-デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Death Scythe or Blair...
+なんか　あんまりいい気分がしねェな・・・=That doesn't really make me feel great about myself.
+もう少しマカも|大人になってくんねェかな・・・=I wish Maka could grow up a little.
+デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Death Scythe or Blair.
 ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our apartment, I've totally lost my cool while at home...
 誰か　あのネコ|もらってくれねェかな・・・=Does anybody want to take a cat off my hands?
 何回行っても|保健室って所は落ち着かねェぜ=No matter how many times I go there, I always feel terrible while I'm in the infirmary.
@@ -17516,17 +17516,17 @@
 今　やることがあんだろう！|なんか色々まちがえてねぇか！？=Don't you have something to do right now!? Is something wrong?
 !FILE:EV9967_040.bscr
 ブラック☆スターを|見ませんでしたか？=Have you seen Black☆Star?
-また勝手にどこか行っちゃったんで|さがしているところなんです・・・=He went somewhere without telling me again, so I've been looking for him...#seen
+また勝手にどこか行っちゃったんで|さがしているところなんです・・・=He went somewhere without telling me again, so I've been looking for him.#seen
 それにしても死武専って|本当に大きな施設ですよね♪=The DWMA really is a huge institution, isn't it♪?#seen
-恥ずかしい話だけど|今でも私　たまに迷子に|なっちゃうんです・・・=It's a little embarrassing to admit, but I still get lost sometimes...
+恥ずかしい話だけど|今でも私　たまに迷子に|なっちゃうんです・・・=It's a little embarrassing to admit, but I still get lost sometimes.
 たまに一人でいると|静か過ぎて困ってしまう時があるんです=Sometimes, when I'm alone and it gets really quiet, I start to panic.#seen
-それだけ普段が|騒がしいってことなんですけど・・・=I guess that's just because of how noisy it usually is...
+それだけ普段が|騒がしいってことなんですけど・・・=I guess that's just because of how noisy it usually is.
 突然話を振られても|何を話していいのか困ってしまいます・・・=If you just suddenly start chatting to me, I never really know what to say...#seen
 今度　会う時までの|宿題にさせてください=I'll think about it and get back to you next time.
-最近　気づいたんですが|みんなブラック☆スターのステージ|本気でひいてるのね・・・=I just noticed it recently, but everyone's been playing along with Black☆Star's stage thing...#seen
-私　結構楽しみにしてるんだけど・・・|もしかしてズレちゃってます？=And I think it's fun and all, but...|I wonder if we might be taking it too far...
+最近　気づいたんですが|みんなブラック☆スターのステージ|本気でひいてるのね・・・=I just noticed it recently, but everyone's been playing along with Black☆Star's stage thing.#seen
+私　結構楽しみにしてるんだけど・・・|もしかしてズレちゃってます？=And I think it's fun and all, but...|I wonder if we might be taking it too far.
 生意気に聞こえるかも|しれないけど　あなた達には|他にやるべき事があるはずです=It might not be my place to say, but I'm pretty sure you have something you're supposed to be doing.
-私は色んな武器になることができるけど|モードけむり玉は|最近ご無沙汰なんですよ・・・=I'm able to transform into different weapons, but I feel like my smoke bomb form has been neglected lately...
+私は色んな武器になることができるけど|モードけむり玉は|最近ご無沙汰なんですよ・・・=I'm able to transform into different weapons, but I feel like my smoke bomb form has been neglected lately.
 ブラック☆スターったら|その存在を忘れちゃったのかしら・・・=Knowing Black☆Star, he probably forgot that form even exists...
 せっかくだから|久しぶりにこの場で|披露しちゃいますね♪=It's been a while since I've used that transformation, so I'll show it here♪
 やぁ！=Yaaah!
@@ -17535,9 +17535,9 @@
 生意気に聞こえるかも|しれないけど　あなた達には|他にやるべきことがあるはずです=It might not be my place to say, but I'm pretty sure you have something you're supposed to be doing.
 !FILE:EV9967_050.bscr
 期待はしてなかったけど|死武専の男子って歳相応に|ガキっぽいヤツばっかりだな=I wasn't expecting much, but all the guys at the DWMA aren't men.|They're just a bunch of boys.#seen
-ステキな出会いを求めていた|お姉ちゃんとしては|ちょっとザンネンですよ・・・=It's a little bit of a let-down for a girl looking for a good time...#seen
+ステキな出会いを求めていた|お姉ちゃんとしては|ちょっとザンネンですよ・・・=It's a little bit of a let-down for a girl looking for a good time.#seen
 学校に来るのは|死武専がはじめてなんだけど|思ったより楽しくねェな=Being at the DWMA is my first time going to school, but it's not as fun as|I expected.
-あの勉強ってヤツは|どうにかなんねェのかな？=I wonder if there's something to that "studying" thing that everyone's always going on about...
+あの勉強ってヤツは|どうにかなんねェのかな？=I wonder if there's something to that "studying" thing that everyone's always going on about.
 しかしキッドの病気は|なんとかならねェものかね？=Isn't there anything we can do to help Kid with his problem?#seen
 本人は　ある意味幸せ|なんだろうけど・・・周りの私達は|結構　大変なんだぜ！=He doesn't really seem unhappy, but... it's hard for the ones around him!
 キッドはベタボメだけど|死武専のデザインって|もう少しなんとかなんないかね？=Kid's always ranting and raving about the DWMA's design, but I don't see it.
@@ -17561,7 +17561,7 @@
 ほぇ～♪あんな所に|変なカエルがいるよ！=Woah♪ There's a weird frog over there!#seen
 うわ　こっち見んな！|きゃはははは♪=Wah! It's looking right at us! Kyahahaha♪
 あれ|遠くのほうで|ワンちゃんの声がしない？=Listen. That sounds like a dog barking in the distance.#seen
-・・・おかしいな|私の空耳だったのかな？=...Weird. I must have been imagining it...
+・・・おかしいな|私の空耳だったのかな？=...Weird. I must have been imagining it.
 ほぇ　何やってんの？|やらなきゃいけない事がなかったっけ？=Huh? What are you doing here? Didn't you have something you had to do?
 久しぶりにお姉ちゃんと|テッポーの練習を|していたところなんだよ！=I haven't practiced with a gun in a long time!#seen
 ねェ　お姉ちゃん♪=Isn't that right, sis♪?
@@ -17581,7 +17581,7 @@
 こういうのは公私混同なんだけど|私は心配なんだよ～ん♪=I might be mixing official business with personal matters, but I worry sometimes♪
 常に死武専の生徒としての|誇りを持って行動してちょうだい♪=Please remember that as students of the DWMA, your every action affects the public opinion of this school♪#seen
 誰が見ているかわからないからね・・・|たとえば　おばちゃんとかさ・・・=And you never know who might be watching you... Like Auntie, for example...
-どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to be go with at least one other team♪#seen
+どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to go with at least one other team♪#seen
 魔剣に魔眼|その他　もろもろ・・・|まだまだ危険はいっぱいだよ～ん♪=The Demon Sword and the Magic Eye and who knows what else... The world is full of danger♪
 私の仮面って　まだ|おっかないかな？=Is my mask still scary?#seen
 もう少しだけなら♪|かわいらしくしてもいいんだけどね・・・=I suppose I could make it a little cuter♪
@@ -17592,7 +17592,7 @@
 あれれ　まだ|こんな所をウロウロしちゃってるの？=Tsk tsk... Still standing around with our hands in our pockets, are we?
 !FILE:EV9967_080.bscr
 趣味で　漢方薬を作っているの|もしよかったら試してもらえないかしら？=I'm making herbal medicine as a hobby. Could you help me with testing it, please?#seen
-大丈夫よ|危険なものじゃないわ♪=Don't worry, it's nothing dangerous♪
+大丈夫よ|危険なものじゃないわ♪=Don't worry. It's nothing dangerous♪
 わかっていると思うけど|保健室は病人やけが人の|ための部屋なのよ=I'm sure you already know this, but the infirmary is a place for the sick and injured.#seen
 来てくれるのはうれしいけど|その辺をちゃんと考えてね♪=I enjoy visitors, but try to keep that in mind, okay♪?
 はじめは死武専の構造に手間取ったけど|この頃はずいぶんなれたのよ=It was difficult to navigate the DWMA at first, but I've gotten used to it.#seen
@@ -17616,9 +17616,9 @@
 みんな忘れてると思うけど|俺は最強の武器|デスサイズなんだぜ・・・=Everyone seems to have forgotten, but I'm a Death Scythe, the strongest type of weapon...#seen
 それにしては死武専の|みんなの扱いは悪いと思わないか？=So why does it feel like nobody at the DWMA respects me at all?
 自分でいうのもなんだが|俺ってけっこうイケてると思うんだ・・・=I hate to say it myself, but I think I'm quite the stud...#seen
-なのになんで|カミさんは逃げちゃったのかな？|・・・男の魅力って何なのかな？=So why did my ex still leave me? ...What more could a woman want in a man?
+なのになんで|カミさんは逃げちゃったのかな？|・・・男の魅力って何なのかな？=So why did my ex still leave me? What more could a woman want in a man?
 シュタインを見かけたら|すぐに知らせてくれ！=If you see Stein, let me know right away!#seen
-あいつに捕まったら最後|どんな実験に付き合わされるか|わかったもんじゃない！=You don't want to know what kind of experiment he'll try to recruit you for if he catches you!
+あいつに捕まったら最後|どんな実験に付き合わされるか|わかったもんじゃない！=You don't want to know what kind of experiments he'll try to recruit you for if he catches you!
 お前には他に|やるべき事があるだろう！？=Don't you have something to take care of!?
 せっかく会ったんだから|ここで宣言させてもらうよ=I don't know when I'll get another chance, so I'm going to say it here|and now...#seen
 パパはマカと|マカのママのことを|世界で一番愛しているからね！=Maka, there's nothing papa loves more in this world than you and your mother!
@@ -17651,7 +17651,7 @@
 そういえばメデューサ先生の|様子で変わったことはありませんか？=By the way, have you happened|to notice anything odd about Dr. Medusa?#seen – unrelated to Dispensing Depression
 着任されて日が浅いから|心配なんですよ・・・色々とね・・・=She hasn't been with us for long, so I'm curious... about a lot of things...
 最近　健康に気を遣っているの|ですが　かえって身体の調子が|悪くなったような気がします=I've been more proactive with my health recently, but I feel like my condition has only worsened.#seen
-色々と調整しているのですが|どうもシックリきませんね・・・=I've made countless adjustments, but nothing seems quite right...
+色々と調整しているのですが|どうもシックリきませんね・・・=I've made countless adjustments, but nothing seems quite right.
 やられて帰ってくるのは|別にかまわないですが・・・=Don't worry too much about coming back from the dead...#seen
 俺が調査できる部分が|残っている程度にしておいてください=Just try to leave me something to examine when you go.
 君達には|やらなければいけない事が|あるはずでしょう？=I believe you have something that you need to be doing right now, no?
@@ -17659,17 +17659,17 @@
 君達には|やらなければいけないことが|あるはずでしょう？=I believe you have something that you need to be doing right now, no?#seen
 !FILE:EV9967_110.bscr
 俺の指導は確かに厳しい！|だが　それも全て|お前達を思ってのことなのだ！=My guidance is certainly strict! But it's all done for your own good!#seen
-俺は昔から熱血教師だった・・・=I've always been an enthusiastic teacher...
-確かに二組以上のチームで|出かけるというルールは|わずらわしいかもしれない・・・=I understand how frustrating it must be to be unable to leave without at least two teams due to the new rule...#seen
+俺は昔から熱血教師だった・・・=I've always been an enthusiastic teacher.
+確かに二組以上のチームで|出かけるというルールは|わずらわしいかもしれない・・・=I understand how frustrating it must be to be unable to leave without at least two teams due to the new rule.#seen
 だが　魔剣や魔眼の危機が|去ったわけではないのだ|そこをよく聞き分けてくれ=But the Demon Sword and Magic Eye have not yet been dealt with, so please be reasonable and follow the rule.
 このごろのお前達を|見ていると　昔の俺を思い出す|昔の俺は・・・=Seeing you kids these days... It reminds me of me from the old days...#seen
-結構　シブめの|いい男だった・・・=I was a man of a certain refined quality...
+結構　シブめの|いい男だった・・・=I was a man of a certain refined quality.
 もし　取り返しがつかないほど|やられてしまっても　大丈夫だ！=If ever you're wounded beyond repair, don't let it get you down!#seen
 シュタインが　俺のような|立派なゾンビにしてくれるだろう！=I know Stein would be ecstatic to bring you back as a handsome zombie like he did with me!
 俺はゾンビになることを人に勧めない|そんな男であり続けるつもりだ=I'm going to continue to dissuade people from trying to become zombies.#seen
 皆が皆　ゾンビになってしまうと|個性がなくなってしまうからな=If absolutely everyone were turned, us zombies that already exist wouldn't be special anymore.
 死武専が入り組んだ造りをしているのは|生徒達を鍛えるためだ！=The DWMA was purposefully constructed in a way that would be conducive to the students' training!#seen
-まぁ　わかりにくいのも確かだ・・・|ここの卒業生でも|迷うことがあるくらいだからな・・・=Though, it might be a bit too complex... Even those of us who graduated from here still get lost sometimes...#must be kept short
+まぁ　わかりにくいのも確かだ・・・|ここの卒業生でも|迷うことがあるくらいだからな・・・=Though, it might be a bit too complex... Even those of us who graduated from here still get lost sometimes.#must be kept short
 お前達を見ていると|子供の頃の自分を思い出す・・・=Watching you kids brings back memories of my own childhood...
 ハッキリいって|俺のほうがお前達より|かわいかったぞ！=If I'm being honest though, I was definitely cuter!
 こんな所で何をしているのだ！|今のお前達には|やるべき事が他にあるだろう！？=What are you doing here!? Don't you have something you're supposed to be taking care of right now!?
@@ -17688,7 +17688,7 @@
 !FILE:EV9967_200.bscr#moved to common
 !FILE:EV9967_201.bscr#moved to common
 !FILE:COMMON#Blair's lines. Some of them repeat as there are subtle differences between the Japanese lines.
-マカとソウルって|ケンカばかりしてるから|ウルサくて仕方にゃいの♪=All Maka and Soul do is argue. They're so loud and annyahing♪
+マカとソウルって|ケンカばかりしてるから|ウルサくて仕方にゃいの♪=All Maka and Soul do is argue. They're so loud and annoying♪
 もう少しスマートに|暮らせにゃいのかにゃ？=I wonder if I could find a better place...
 死武専はゴチャゴチャしてて面白いよ♪=The DWMA is so fun, but it's really confusing♪#seen
 最近　良く遊びにくるんだけど|その度に迷子ににゃっちゃう=I've been coming here lately just to play, but I get lost every time.
@@ -17716,7 +17716,7 @@
 パートナーがいないんじゃ|受けさせるわけにはいかないね=Your partner isn't with you, so I can't let you take anything.#Need to make this line work for both a single partner and Liz & Patty.
 全員揃ったら|おばちゃんとこにくるんだよ=Once you're all together, come visit me.
 !FILE:EV9981_011.bscr
-あんた達　どこか調子でも悪いのかい？|おばちゃん後ろから見てて|ヒヤヒヤしたよ=Are you kids hurt at all? Auntie was getting pretty nervous watching you from behind.
+あんた達　どこか調子でも悪いのかい？|おばちゃん後ろから見てて|ヒヤヒヤしたよ=Are you kids hurt at all? Auntie was getting pretty nervous watching you from the sidelines.
 とにかく　ゆるさないからね|危険な所に行くのは=I can't stop you, but I don't approve of you going to such dangerous places.
 !FILE:EV9981_020.bscr
 おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件は合格だよ！=Auntie has been watching you from behind for a while... You meet the requirements to take on this request!
@@ -17731,7 +17731,7 @@
 やめるのかい・・・|まあ　他にも魂にビンビンくるのが|あるかもしれないしね=You've changed your mind?|...Well, perhaps another one will call out to your soul more.
 そうだね|あんた達には　もっと相応しいのが|あるはずだよ=I understand. I'm sure there's something more suitable here for you kids.
 !FILE:EV9981_040.bscr
-がんばるんだよ　あんた達|おばちゃん　応援してるよ|後ろからね=Do your best, kids. Auntie is supporting you from the rear!
+がんばるんだよ　あんた達|おばちゃん　応援してるよ|後ろからね=Do your best, kids. Auntie is supporting you from the sidelines!
 腕試しとはいえ　油断するんじゃないよ|おばちゃん　しっかり見てるからね=This might just be a way to test your skills but you shouldn't get careless. I'll be watching you closely.
 決まったようだね|きっちり　魂を鍛えておいで|おばちゃん　応援してるからね=Good choice. Steel that soul, and Auntie will be cheering you on!
 それにするんだね|な～に　あんた達なら|きっとやれるよ　がんばりな！=So that's what you're going to do. Well, if it's you kids, you can do it.|Good luck!
@@ -17762,7 +17762,7 @@
 それにするんだな|お前達　気合いれていけよ！=That one then? Well, let's see some more enthusiasm!
 !FILE:EV9981_150.bscr
 根性が足りないぞ　お前達|次は　がんばれよ=You lack guts! Try harder next time!
-わるい　わるい|一応手加減はしたんだが|やりすぎちゃったか・・・=No, it's my fault. I've tried to go easy on you, but it looks like I've been overly soft...
+わるい　わるい|一応手加減はしたんだが|やりすぎちゃったか・・・=No, it's my fault. I've tried to go easy on you, but it looks like I've been overly soft.
 !FILE:EV9981_200.bscr
 よく来ましたね　君達|さあ　好きなものを選んでください=I'm glad you could make it. Now, please choose whichever one you'd like.#Stein's mission select welcome.
 !FILE:EV9981_210.bscr
@@ -17788,7 +17788,7 @@
 決まったみたいですね|訓練とはいえ　決して油断しないように|いいですね？=Looks like you've decided. Even though it's training, don't take it too lightly, okay?
 それをやるんですね|大丈夫！|君達なら　きっとやれますよ=That one then. It'll be fine! You guys can definitely manage it.
 !FILE:EV9981_250.bscr
-失敗しちゃいましたか・・・|でも　いつかやり遂げられますよ|あきらめず　何度も挑戦するように=You failed...? Try and try again and you'll succeed eventually as long as you don't give in.
+失敗しちゃいましたか・・・|でも　いつかやり遂げられますよ|あきらめず　何度も挑戦するように=You failed? Try and try again and you'll succeed eventually as long as you don't give in.
 まだまだですね・・・|ですが　君達の相手をするのは|なかなか楽しかったですよ=Still so much to learn... But it was quite fun being your opponent.
 !FILE:EV9981_300.bscr
 よく来たな　お前達|さあ　どれに挑戦するか選んでくれ=Look who's here. Go ahead and choose which challenge you want to face.
@@ -17799,7 +17799,7 @@
 何かやるべきことがあるんだろう？|それをやったら来い！=Aren't you supposed to be taking care of something else? Come back once it's finished!
 俺は昔から察しのいい|そんな男だった・・・=I've always been good at reading people. That's the kind of man I was.
 !FILE:EV9981_311.bscr
-大丈夫なのかお前達・・・=How you guys holding up...?
+大丈夫なのかお前達・・・=How you guys holding up?
 俺と違って生身なのだから|あまり無理をするんじゃないぞ！=Unlike me, you're still flesh and blood, so don't get carried away!
 !FILE:EV9981_320.bscr
 これにするのか？=This one then?
@@ -17823,7 +17823,7 @@
 あら？　パートナーは|どうしたの？=Huh? Where's your partner?
 パートナーがいないんじゃ|受けさせるわけには|いかないわね=I can't allow you to take on a mission without a partner, you know.
 ちゃんと　全員揃ってから|来なさい=Come back once the whole team is together.
-何か他にやることがあるんじゃないの？|だめよ|ちゃんと終わらせないと・・・=Don't you have something else you're supposed to be doing? That's no good. You can't leave it unfinished...
+何か他にやることがあるんじゃないの？|だめよ|ちゃんと終わらせないと・・・=Don't you have something else you're supposed to be doing? That's no good. You can't leave it unfinished.
 用事が済んだなら|また来なさい=Come back once your task is complete.
 !FILE:EV9981_411.bscr
 どこか悪い所でも|あるのかしら？=Did you hurt yourselves or something?
@@ -17839,22 +17839,22 @@
 そうね|あなた達なら|他のほうがいいかもしれないわね=I don't blame you. I think a different one might be better suited for you.
 !FILE:EV9981_440.bscr
 決まったみたいね|しっかりとやるのよ=Looks like you've made up your mind. Give it your all, okay?
-訓練とはいえ　油断しちゃだめよ|あなた達・・・=Even though it's practice, you mustn't be careless...
+訓練とはいえ　油断しちゃだめよ|あなた達・・・=Even though it's practice, you mustn't be careless.
 それにするのね|ケガしても　私が手当てしてあげるから|思いっきりいきなさい=That one, huh? I'll be here to patch you up, so don't hold anything back, even if it means getting hurt.
 !FILE:EV9981_450.bscr
 大丈夫？|めげずに　またがんばるのよ=You all right? Don't get discouraged. Give it another go.
-あらあら・・・|こっぴどくやられたわね|めげずに　またがんばってね=Oh, dear... You look pretty beat up. But don't give up. Try again, all right?
+あらあら・・・|こっぴどくやられたわね|めげずに　またがんばってね=Oh, dear. You look pretty beat up. But don't give in. Try again, all right?
 !FILE:EV9983_080.bscr
 おつかれさま|あなた達の成績は　こんな感じよ=Well done. Here are your grades.
 やるじゃない　あなた達！|これじゃ私の世話になることはなさそうね=Well done, you guys! I guess you won't be needing my care after all.
 結構やるのね～　あなた達|正直見直したわ=Well done, you guys. You've really improved.
 うん　いいと思うわよ|これなら少しがんばれば|もっといい成績を出せるわよ=Yeah. I think that was all right. If you push a little harder, you could manage even better grades.
 ちょっと残念な成績ね|もっと良くなるはずだから|次もがんばってみて=These grades are a little low. But I'm sure you can do better, so give it your all next time.
-あなた達　大丈夫？|次からは　もっと　治療道具を|用意したほうがいいかしら・・・=Are you all right? I wonder if I should prepare more medical tools for next time...
+あなた達　大丈夫？|次からは　もっと　治療道具を|用意したほうがいいかしら・・・=Are you all right? I wonder if I should prepare more medical tools for next time.
 あなた達　やったわね|レベルが上がったみたいよ=You did it, guys! It looks like you've gone up a level!
 !FILE:EV9983_090.bscr
 よっ　おつかれさん！|これが　お前達の成績だ=Yo! Good work! Here are your grades.
-お前ら　すごいじゃないか|これは　俺も|うかうかしてられないな・・・=Impressive work. You even caught my attention...
+お前ら　すごいじゃないか|これは　俺も|うかうかしてられないな・・・=Impressive work. You even caught my attention.
 お前ら　やるじゃないか|根性も充分だった！|次も期待しているぞ=Well done. That was some serious determination! I'll expect nothing less from you next time.
 なかなかいい根性だったぞ|この調子で　次も根性入れていけよ|もっといい成績になるぞ=You looked fairly confident out there. Don't let your confidence waver and your results will continue to improve.
 う～ん　おしいな|あとちょっとなんだけどな|まあ　次もがんばってみな=Well, that was a little disappointing. But you survived, so just try a little harder next time.
@@ -17870,7 +17870,7 @@
 おや？　レベルが上がったみたいですね|よくやりましたね　君達=Huh? It looks like your level has increased. Well done.
 !FILE:EV9983_110.bscr#Sid
 最後までやり遂げたようだな|これが　お前達の成績だ=Good job seeing the mission through to the end. Here are your results.
-すごいじゃないかお前達！|これなら　将来|三つ星職人になれるかもな！=Amazing work, you guys! Keep this up and you'll definitely be ranked three- stars in the future.#added space for improved wordwrap
+すごいじゃないかお前達！|これなら　将来|三つ星職人になれるかもな！=Amazing work, you guys! Keep this up and you'll definitely be ranked three stars in the future.
 よくやったなお前達|ここまでできるのは|すごいことだぞ=Bravo. That was some great work you did.
 よくがんばったなお前達|この調子で　次もがんばれよ=You guys really gave it your all.|Keep it up for next time too!
 ちょっと　微妙な成績だな|お前達ならもっと良くなるはずだ|もう少し鍛えてみたらどうだ？=That was a little shaky. I know you guys are capable of more. How about a few more drills?
@@ -17895,7 +17895,7 @@
 !FILE:EV9990_001.bscr
 マカがチームに合流しました=Maka has joined the team.
 ソウルがチームに合流しました=Soul has joined the team.
-ブラック☆スターがチームに合流しました=Black☆Star has joined your team.
+ブラック☆スターがチームに合流しました=Black☆Star has joined the team.
 椿がチームに合流しました=Tsubaki has joined the team.
 キッドがチームに合流しました=Kid has joined the team.
 リズがチームに合流しました=Liz has joined the team.
