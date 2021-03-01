@@ -48,7 +48,7 @@
 劣等感大爆発=Inferiority Complexplosion
 ショッキングゾンビ=Zombie Shock
 彼の親切とその反応=Kindness & Karma
-星族の秘法=The Star Clan's Secret Ways
+星族の秘法=The Star Clan
 危険なトレーニング=Dangerous Training
 打倒マカチョップ=Overcoming the Maka Chop
 イメージチェンジ=The Makeover
@@ -2191,7 +2191,7 @@
 アイツ|強かったね=He was strong, huh?
 ああ=For sure.
 !FILE:COMMON
-ワンワン吠えて　シッポをふるヤツは|負けるのだぁ　だっしゃぁ！=We beat the tail-wagging woof woof man. Go us!
+ワンワン吠えて　シッポをふるヤツは|負けるのだぁ　だっしゃぁ！=We beat the tail-wagging woof woof man. Go team!
 でも|アイツが黒幕じゃなかったんだろ？=But he wasn't the mastermind after all.
 黒幕は魔女だ=It's a witch pulling the strings.
 いやッ！　ちがうッ！|黒幕は　俺だぁ！！=Nope! You're wrong! The mastermind... is ME!!
@@ -2282,7 +2282,7 @@
 まさか　向こうから襲ってくるとはねぇ|オーマイガッ♪　って感じだね～♪=To think they'd attack from there of all places. It's like "Oh my gah!♪"
 えぇ・・・　生徒によると|やつらはパラポネラ|それを操っているのが=Yeah... According to the students, Paraponera is behind this.
 魔女ポネラ=The witch, Ponera.
-やっぱり　魔女か・・・=Of course it's a witch.
+やっぱり　魔女か・・・=So it is a witch.
 せっかく回収した繭を|根こそぎ持っていかれました=And the cocoon we managed to recover was taken during the attack.
 魂にこだわるあたり　やはり|鬼神を作り出すのが狙いだよな=Going to such length for those souls... Their aim must be to use them to produce kishin.
 そね♪　だとしたら|こっちもマジで相手しなきゃなんないね=Yep♪ Which means we really must|deal with them.
@@ -2296,7 +2296,7 @@
 だけど　まさか死武専に|アノ人が入り込んでるなんてね=But to think that she has truly infiltrated the DWMA...
 ええ・・・|狙いはなんでしょうか？=Indeed... What could she be after?
 いいんじゃない？　何でも|私達の邪魔をするようなら|消えてもらうまでよ=It shouldn't matter. If ever she tries to hinder our plans, we'll simply remove her from the equation.
-ふふっ　だって　あなたもいてくれるし|私達で作り出した　この繭があれば|たとえ相手が　あの姉妹でも関係ないわ=Hehe. As long as you're here and we still have the cocoon we made, that sister will have nothing against us.
+ふふっ　だって　あなたもいてくれるし|私達で作り出した　この繭があれば|たとえ相手が　あの姉妹でも関係ないわ=Hehe. As long as you're here and we still have the cocoons we made, that sister will have nothing against us.
 はい　さすがはポネラ様|・・・しかし　今はさらなる繭を|作っていただく大事なとき=Indeed, Madam Ponera... However, it is vital that you continue to create more cocoons for the time being.
 余計な力を使うわけにはいきません|祭壇の準備は私にお任せを|ポネラ様は繭を・・・=You mustn't overexert yourself. Leave the preparation of the altar to me and focus on the cocoons.
 ええ　あなたがそういうならそうするわ|じゃあ　準備はお願いね=Yes, I will do as you instruct. I'll leave all the preparations to you.
@@ -2874,7 +2874,7 @@
 ええ　そうですね=I'm... not sure.
 あんなのは　ただのデカいアリンコ|デカリンコだぁ！　きゃはは=That was a normal giant ant. A Gi-Ant! Kyahaha!
 デカリンコだろうがなんだろうが|俺様にとっちゃ　ちっチャリンコだ！=Whatever that gi-ant is, compared to me it's nothing but an inf-ant!#Inf-ant was the best I could come up with the maintain the pun. A couple of other possible words I thought of were scant and unimportant.
-なに！？　チャリンコだと！？|お姉ちゃん　チャリンコだって=What!? An inf-ant!? Sis, even an inf-ant...
+なに！？　チャリンコだと！？|お姉ちゃん　チャリンコだって=What!? An inf-ant!? Sis, he called it an inf-ant...!
 あ～もう|わかった　わかったから=All right already. I got it, I got it.
 その男といい　あのザコどもの数といい|かなりの規模の敵なのは間違いないな=There's no doubt that we've got a serious pest problem.
 まっ　なんにせよ|これからどうなるか・・・だな=True. But... I wonder what they're planning next.
@@ -7873,7 +7873,7 @@
 オメェら　一体どんだけいんだぁ？|蹴散らすぜ　椿！=How many of you bastards are there!? Tsubaki, let's squash these bugs!
 はい！=Roger!
 !FILE:EV1401_401.bscr
-だぁ～！|きりがねぇ～！=Daaah! There's no end to them!
+だぁ～！|きりがねぇ～！=Gaaah! There's no end to them!
 見て　ブラック☆スター！|何か様子が　変よ！=Look, Black☆Star! Something's not right!
 引き上げてく・・・|何が起きたの？=They're escaping... What happened?
 お前達　よくやった！=Great work, you guys!
@@ -7885,7 +7885,7 @@
 きゃっ！=Kyah!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
 ・・・ということは　狙いは繭か！|・・・メデューサ先生は？=...To buy time to get the cocoon!? ...Where's Dr. Medusa?
-うざってェ　ヤツラだぜ！=They really piss me off!
+うざってェ　ヤツラだぜ！=Those sneaky bastards!
 さがしましょう！=We need to find her!
 !FILE:EV1401_402.bscr
 ここだ！=She's here!
@@ -7900,7 +7900,7 @@
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
 そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The witch, Ponera, is our magnificent queen.
-オメェら|魂を集めて　何がしてぇんだ！=And what the hell are you collecting all those souls for!?
+オメェら|魂を集めて　何がしてぇんだ！=And what the hell are you collecting|all those souls for!?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
 待ちやがれ・・・|おっと！=Come back! Damn!
@@ -7923,7 +7923,7 @@
 きゃっ！=Kyah!
 そうか！|奴らは我々を引き止めておくための|オトリか！=That's it! They were just decoys! They were trying to slow us down to buy time!
 ・・・ということは　狙いは繭か！|・・・メデューサ先生は？=...To buy time to get the cocoon!? ...Where's Dr. Medusa?
-うざってェ　ヤツラだぜ！=They really piss me off!
+うざってェ　ヤツラだぜ！=Those sneaky bastards!
 探しましょう！=We need to find her!
 !FILE:EV1401_452.bscr
 キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
@@ -8432,8 +8432,8 @@
 私からもお願いよ|もう　これ以上　罰ゲームを|せがまないでちょうだい・・・=I have a request as well. No more pestering me about the Penalty Game, okay?
 !FILE:EV1500_000.bscr#moved to common
 !FILE:EV1500_100.bscr
-私達　ちゃんとやれるかな？|ブラック☆スター=Could we do it right away, Black☆Star?
-俺に　ついてこい！=Follow me!
+私達　ちゃんとやれるかな？|ブラック☆スター=Are we really ready for this, Black☆Star?
+俺に　ついてこい！=Just follow my lead!
 !FILE:EV1501_400.bscr
 この穴が　俺を　呼んでいる|ここに　まちがいない！=This hole is calling to me. This has to be the one!
 はい！=Yeah!
@@ -8545,45 +8545,45 @@
 おう！|頼まれてやるぜ！=Alright! Now we're talking!
 くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around!|I'll end you!
 !FILE:EV1520_002.bscr#星族の秘法 = The Star Clan's Secret Ways - Part 15
-そういえば　さっき|シド先生を見かけたわよ=Did you happen to see Sid just now?
+そういえば　さっき|シド先生を見かけたわよ=Did you happen to see Mr. Sid just now?
 シド先生は|何をしていたんですか？=Why? What was he doing?
 先生・・・何もしてなかったわ|きっとリラックスしてたのね♪=He... wasn't really doing anything. Most likely, he was relaxing♪
 ・・・・・・・・・=.........
 何を考えているの|ブラック☆スター？=What's on your mind, Black☆Star?
-いいことを思いついたかもしれない・・・|シドの所へ行くぞ！=I might've just thought of something good... I'm gonna go pay Sid a visit!
+いいことを思いついたかもしれない・・・|シドの所へ行くぞ！=I might've just thought of something good... Let's go pay Sid a visit!
 あんまり変なこと|するんじゃないわよ・・・=He's going to do something weird, isn't he?
 !FILE:EV1520_006.bscr
-そういえば　さっき|シド先生を見かけたわよ=Did you happen to see Sid just now?
+そういえば　さっき|シド先生を見かけたわよ=Did you happen to see Mr. Sid just now?
 !FILE:EV1520_010.bscr
-あそこにシド先生がいるわよ=Sid is over there.
+あそこにシド先生がいるわよ=Mr. Sid is over there.
 ・・・・・・・・・=.........
 何を考えているの|ブラック☆スター？=What sort of scheme are you hatching, Black☆Star?
 おうよ！せっかくだから|日ごろの感謝をこめての|ご挨拶ってヤツをな！=Alright! I'm feeling generous, so I'm going to give him an extra special greeting today!
 まさかシド先生に・・・=But it's Mr. Sid...
 心配すんなよ|ちょっとおどかす|だけだからよ！=Don't worry. It'll just be a little fright!
 待ってちょうだい|相手は先生なのよ=Hold on. That man is your teacher.
-ひやっはぁ☆|シドのヤツ　まったく|俺様に気づいてないな！=Yahoo☆ That Sid won't see it coming at all!
+ひやっはぁ☆|シドのヤツ　まったく|俺様に気づいてないな！=Yahoo☆ That Sid won't see this coming at all!
 ブラック☆スター|気配がまるわかりだぞ！=Black☆Star, I could hear you from a mile away!
-げ　ウソだろ先生！|わかるはずねェじゃん☆=You're lying! You probably didn't hear anything☆
+げ　ウソだろ先生！|わかるはずねェじゃん☆=You're lying! There's no way you could have heard that!
 お前は暗殺道を|本当に理解しているのか？=Are you sure you understand the way of the assassin?
 ・・・・・・・・・=.........
-すみません先生|ブラック☆スターが|何か失礼なことをしましたか？=Sorry, Mr. Sid. Did Black☆Star hurt you at all?
-大丈夫だ　何も問題はない|・・・もっとも　今のコイツでは|失礼なことが俺にできるかどうか・・・=It's okay. No need to worry... As he is now, I'm not sure he could do anything to hurt me.
+すみません先生|ブラック☆スターが|何か失礼なことをしましたか？=Sorry, Mr. Sid. Did Black☆Star do anything to you?
+大丈夫だ　何も問題はない|・・・もっとも　今のコイツでは|失礼なことが俺にできるかどうか・・・=It's okay. No need to worry... As he is now, I'm not sure he could even lay a scratch on me.
 うっせェよ！|まぐれでわかったからって|いい気になんじゃねェよ！！=Shut it! You got lucky, so don't let it go to your head!!
 ブラック☆スター|失敗しちゃったの？=Did you fail, Black☆Star?
 !FILE:EV1520_016.bscr
-すみません先生|ブラック☆スターが|何か失礼なことをしましたか？=Sorry, Mr. Sid. Did Black☆Star hurt you at all?
-大丈夫だ　何も問題はない|・・・もっとも　今のコイツでは|失礼なことが俺にできるかどうか・・・=It's okay. No need to worry... As he is now, I'm not sure he could do anything to hurt me.
+すみません先生|ブラック☆スターが|何か失礼なことをしましたか？=Sorry, Mr. Sid. Did Black☆Star do anything to you?
+大丈夫だ　何も問題はない|・・・もっとも　今のコイツでは|失礼なことが俺にできるかどうか・・・=It's okay. No need to worry... As he is now, I'm not sure he could even lay a scratch on me.
 !FILE:EV1520_017.bscr
 このままじゃ済まさねェぞ！|ぜってェ　リベンジしてやるからな！=This isn't over yet! I will have my revenge!
 待ってちょうだい|ブラック☆スター！=Please wait, Black☆Star!
-ヤツのルーツを考えたら|暗殺道などトウに理解しても|よさそうなものだが・・・=When you think about that kid's roots, you'd think he would've figured out the ways of an assassin a long time ago, but...
+ヤツのルーツを考えたら|暗殺道などトウに理解しても|よさそうなものだが・・・=When you think about that kid's roots, you'd think he'd have already figured out the ways of an assassin, but...
 ブラック☆スターのルーツですか？=Black☆Star's roots?
 ん・・・すまんな|今の言葉は忘れてくれ=Ngh... Sorry. Forget what I said just now.
 じゃあ　俺は用事があるから|これで失礼するぞ！=Well, I've got important matters to take care of. Excuse me!
 ブラック☆スターのルーツ=Black☆Star's roots...
-ブラック☆スターってたしか|星族っていう暗殺者の一族・・・|その唯一の生き残りだったよね・・・=If I remember correctly, Black☆Star comes from the Star Clan, a clan of assassins... And he's the only surviving member...
-よく考えてみると|私　ブラック☆スターのこと|あまり知らないのね・・・=Now that I think about it, I really know very little about Black☆Star.
+ブラック☆スターってたしか|星族っていう暗殺者の一族・・・|その唯一の生き残りだったよね・・・=If I remember correctly, he comes from the Star Clan, a clan of assassins... And he's the only surviving member...
+よく考えてみると|私　ブラック☆スターのこと|あまり知らないのね・・・=Now that I think about it, I really don't know all that much about him.
 せめて図書館へ行って|星族のことをしらべてこよう・・・=If I go to the library, hopefully I can dig up some information on the Star Clan.
 !FILE:EV1520_022.bscr
 椿ちゃんも|調べものなの？=Are you researching something too, Tsubaki?
@@ -8606,8 +8606,8 @@
 もしかしたら本の内容を|知っている人もいるかもしれないわ=Plus there might even be someone who knows about what's written in those books.
 !FILE:EV1520_027.bscr
 先生達に星族のことを|聞くのは気が重いな・・・=I'm reluctant to ask the teachers anything about the Star Clan.
-だって　星族を|滅ぼしたのは死武専なんだから|当然　関係者もいるわよね・・・=Although, it was the DWMA that destroyed the Star Clan, so there's bound to be someone here that was involved.
-でも　しょうがないわ|他に方法がないんですもの・・・=But I think I'd rather die. Is there really no other way?
+だって　星族を|滅ぼしたのは死武専なんだから|当然　関係者もいるわよね・・・=It was the DWMA that destroyed the Star Clan, so there's bound to be someone here who was involved.
+でも　しょうがないわ|他に方法がないんですもの・・・=But I suppose there's no helping it.|I don't have any other options.
 !FILE:EV1520_032.bscr
 すみません|星族について教えてもらえませんか？=Excuse me. Could you tell me anything about the Star Clan?
 う～ん・・・|それって　今話さなきゃダメ？=Hmmm... About that... Do I have to tell you now?
@@ -8615,27 +8615,27 @@
 わかりました　死神様=I understand, Lord Death.
 ・・・ところで星族について|どれくらいまで|知ってるのかな？=...By the way, what have you found out about the Star Clan so far?
 昔　星族が|死武専に滅ぼされ・・・=Several years ago the Star Clan was destroyed by the DWMA.
-当時　赤ん坊だった|ブラック☆スターが|引き取られたという所までです=And Black☆Star, who was still a baby then, was brought here... And that's all so far.
+当時　赤ん坊だった|ブラック☆スターが|引き取られたという所までです=And Black☆Star, who was still a baby then, was brought here... That's all so far.
 てことは　結構|知っちゃってるね・・・=You know quite a bit already.
 !FILE:EV1520_036.bscr
 ・・・ところで星族について|どれくらいまで|知ってるのかな？=...By the way, what have you found out about the Star Clan so far?
 昔　星族が|死武専に滅ぼされ・・・=Several years ago the Star Clan was destroyed by the DWMA.
-当時　赤ん坊だった|ブラック☆スターが|引き取られたという所までです=And Black☆Star, who was still a baby then, was brought here... And that's all so far.
+当時　赤ん坊だった|ブラック☆スターが|引き取られたという所までです=And Black☆Star, who was still a baby then, was brought here... That's all so far.
 てことは　結構|知っちゃってるね・・・=You know quite a bit already.
 !FILE:EV1520_042.bscr
 ブラック☆スターは|まだ　特訓なのか？=Is this about Black☆Star's special training?
 すみません|星族について教えてもらえませんか？=Excuse me. Could you tell me anything about the Star Clan?
 俺の一言が|そうさせているのなら謝る・・・|不用意だった・・・=If this is about what I said earlier, I'm sorry. That was careless of me.
-そんな　先生|何もあやまらなくても=There's nothing to apologize for, Sid.
+そんな　先生|何もあやまらなくても=There's nothing to apologize for, Mr. Sid.
 だが　このことは俺自身も|あまり思い出したくないのだ・・・=I myself would rather forget all about that incident...
 !FILE:EV1520_046.bscr
 俺の一言が|そうさせているのなら謝る・・・|不用意だった・・・=If this is about what I said earlier, I'm sorry. That was careless of me.
 !FILE:EV1520_052.bscr
 すみません|星族について教えてもらえませんか？=Excuse me. Could you tell me anything about the Star Clan?
 噂だけは聞いたことがあるわよ|たしか死武専に滅ぼされた|暗殺者集団だったわね・・・=I've only ever heard rumors, but apparently it was a group of assassins that was destroyed by the DWMA.
-これ以上のことは|私もよく知らないのよ・・・|ここに来て日が浅いから♪=Aside from that, I don't know anymore than you do... being new here and all that♪
+これ以上のことは|私もよく知らないのよ・・・|ここに来て日が浅いから♪=Aside from that, I don't know any more than you do... being new here and all that♪
 そうですか・・・|ありがとうございます=All right. Thank you anyway.
-でも　どうして|星族なんかに|興味を持つのかしら？=But why this sudden interest in the Star Clan, might I ask?
+でも　どうして|星族なんかに|興味を持つのかしら？=But why this sudden interest in the Star Clan, if I might ask?
 ブラック☆スター君がいないことと|何か関係があるの？=Does this have something to do with Black☆Star not being here?
 いえ　別にブラック☆スターには|関係ないんですよ・・・=No, not at all. It's got nothing to do with Black☆Star.
 あはは・・・忘れてください=Ahaha... Please forget I asked.
@@ -8655,15 +8655,15 @@
 !FILE:EV1520_072.bscr
 すみません|星族について教えてもらえませんか？=Excuse me. Could you tell me anything about the Star Clan?
 ・・・・・・・・・=.........
-あの・・・デスサイズさん？=Um... Mr. Death Scythe?#No idea how Tsubaki refers to Spirit in English.
+あの・・・デスサイズさん？=Um... Mr. Albarn?
 星族？|なんだっけ　それ？=Star Clan? Never heard of it.
 えっと　昔　死武専に|滅ぼされた暗殺集団なんですが・・・=Well, um, it was a group of assassins that was destroyed by the DWMA several years ago...
-デスサイズさんは|ごぞんじないんですか？=Have you really never heard of it, Mr. Death Scythe?
-聞いたことがあるような気がするけど・・・|忘れたってことは|多分　どうでもいいことなんだ！=I get the feeling that I have heard of it before, but... if I forgot about it, it must not have been worth remembering!
+デスサイズさんは|ごぞんじないんですか？=Have you really never heard of them, Mr. Albarn?
+聞いたことがあるような気がするけど・・・|忘れたってことは|多分　どうでもいいことなんだ！=I get the feeling that I have heard of them before, but... if I forgot about it, it must not have been important!
 はぁ・・・そうですか・・・=Uh-huh... Okay...
 なにしろ俺の頭の中は|マカでいっぱいだからな！=There isn't much room for anything but Maka in this head of mine, you know!
-ははは・・・すごいですね=Hehehe... That's great.
-ふぅ　なんとか|ごまかせたかな・・・=Phew... Don't know how I managed to dodge that question.
+ははは・・・すごいですね=Hehehe... That sure is something.
+ふぅ　なんとか|ごまかせたかな・・・=Phew... Looks like I managed to dodge that question.
 ん　今の俺って|すごくマヌケっぽくない？|・・・どこで間違えたのかな・・・=But now I must look like a total blockhead. I miscalculated somewhere.#マヌケ can be translated numerous ways. It means something along the lines of fool, stupid, crazy, etc. Pretty much anything works here.
 !FILE:EV1520_076.bscr
 すみません|星族について教えてもらえませんか？=Excuse me. Could you tell me anything about the Star Clan?
@@ -8678,7 +8678,7 @@
 むっほぅうう！！=Mmuhhwwoooou!!
 特訓の調子はどう？=How's the special training going?
 おう　やっと来たか☆|ずいぶん遅かったじゃねェか！？=Oh, you finally made it☆ You're really late, you know!?
-うん　ちょっと|・・・あのね　ブラック☆スター=Yeah, sorry|...Hey, um, Black☆Star...
+うん　ちょっと|・・・あのね　ブラック☆スター=Yeah, sorry.|...Hey, um, Black☆Star...
 なんだよ|俺様に聞きたいことでも|あんのかよ？=What? Whatever you want to ask me, you can just ask.
 ううん　なんでもないの|気にしないで・・・=No. It's nothing. Don't pay any attention to me.
 !FILE:EV1520_085.bscr
@@ -8691,7 +8691,7 @@
 ははは・・・|もう見つかったわね=Haha... Already found out, huh?
 リベンジ不成功かよ・・・=Revenge failed.
 何を言ってるか・・・よくわからんが|死神様がお前を呼んでいるぞ！=What was that? ...I don't know what you're up to, but Lord Death is calling for you!
-なんの用か聞いてませんか？=What does he want him for?
+なんの用か聞いてませんか？=What does he want us for?
 お前達・・・いや|ブラック☆スターにしか|頼めないことらしい・・・=It seems only you two... No, only Black☆Star can be trusted with this.
 ひやっはぁ☆|死神のダンナもようやく|わかってきたじゃねェか！=Yahoo☆ Looks like Lord Boss has finally opened his eyes to the starlight!
 よかったわね|ブラック☆スター！=That's great, Black☆Star!
@@ -8706,12 +8706,12 @@
 私に押しつける|つもりだね　シド君・・・=So you want me to do the briefing, Lord Sid?#Lord Death uses a humble language to sarcastically put Sid above himself in the hierarchy. I tried to represent it with the title.
 スターの俺様を|呼び出すからには|相応のことなんだろうな？=You summoned a star like me, so this thing must be a pretty big deal, huh?
 実はね　ある書物を|回収してきてほしいんだよ♪=Truly. I want you to go recover a book♪
-わざわざ回収しなきゃいけないなんて・・・|どんな本なんですか？=Your saying we need to collect this book specifically... What kind of book is it?
+わざわざ回収しなきゃいけないなんて・・・|どんな本なんですか？=You're saying we need to collect this book specifically... What kind of book is it?
 簡単に言えば|暗殺術の奥義書です♪=To put it simply, it's a book of the secret arts of assassination♪
 それってまさか・・・=Could it be...?
 そう　椿ちゃんが思っているとおり|星族の暗殺術が　フルコンプリート|されちゃってるのよね=Yep. As you thought, Tsubaki, it contains each and every one of the Star Clan's assassination techniques.
 星族の奥義書=The Star Clan's secret book.
-全部　発見して焼却したと|思ってたんだけど・・・|もれちゃってたみたいね♪=We believed it had all been found and burned, but... it looks like something leaked out♪
+全部　発見して焼却したと|思ってたんだけど・・・|もれちゃってたみたいね♪=We believed they had all been found and burned, but... it looks like something leaked out♪
 その本が　悪い人の手に|わたっちゃったら　すごく|危険じゃな～い！=It would be extremely dangerous were that book to fall into the wrong hands!
 そうなる前に　君達に|回収してきてほしいんだよ♪=I'd like you two to recover the book before that happens♪
 ね♪ブラック☆スターにしか|頼めないミッションでしょ？=Yeah♪ This mission could only be entrusted to Black☆Star, no?
@@ -8720,84 +8720,84 @@
 !FILE:EV1520_110.bscr
 うすっ！うっすう！|おつかれさ～ん♪|おかげで助かったよ～ん♪=Hey! Heeey! Weeelcome back♪ Thaaanks for the help♪
 死神様　その奥義書は|どうするんですか？=Lord Death, what are you planning on doing with that secret book?
-う～ん・・・とりあえずは|図書館に保管しておくよ！|レベル４でね♪=Hmmm... For the time being, we'll be keeping it at the library! In level 4♪
-レベル４ってデスサイズと|一部の上級職人しか閲覧できない|レベルじゃないですか=Level 4? Only Death Scythes and some high-ranking meisters are allowed to browse in that level, right?
+う～ん・・・とりあえずは|図書館に保管しておくよ！|レベル４でね♪=Hmmm... For the time being, we'll be keeping it at the library! In level four♪
+レベル４ってデスサイズと|一部の上級職人しか閲覧できない|レベルじゃないですか=Level four? Only Death Scythes and some high-ranking meisters are allowed to browse in that level, right?
 そうそう　それくらい|危険な本だからね！=Right! Right! It's that dangerous of a book!
-でもデスサイズさんが|閲覧できるってことは・・・=But that means Mr. Death Scythe can also browse that level.
+でもデスサイズさんが|閲覧できるってことは・・・=But that means Mr. Albarn can also browse that level.
 うん　スピリット君でも|閲覧できちゃうんだよね・・・=That's true. Even Spirit has full access, doesn't he?
-ありがたみがあるような|ないような　感じですね・・・=It feels invaluable... and worthless, doesn't it?
+ありがたみがあるような|ないような　感じですね・・・=It feels invaluable... and worthless.
 ・・・・・・・・・=.........
 !FILE:EV1520_116.bscr
 死神様　その奥義書は|どうするんですか？=Lord Death, what are you planning on doing with that secret book?
-う～ん・・・とりあえずは|図書館に保管しておくよ！|レベル４でね♪=Hmmm... For the time being, we'll be keeping it at the library! In level 4♪
+う～ん・・・とりあえずは|図書館に保管しておくよ！|レベル４でね♪=Hmmm... For the time being, we'll be keeping it at the library! In level four♪
 !FILE:EV1520_117.bscr
 どうしたの|ブラック☆スター？=What's wrong, Black☆Star?
 悪いな！|すまないけど|ちょっと外させてもらうぜ☆=Sorry! I've got no excuse, but I'm gonna slip away for a bit☆
 本当にどうしたの|ブラック☆スター？=Really, what's wrong, Black☆Star?
 いつもなら　すまないなんて|言わずに飛び出していっちゃうのに・・・=You never excuse yourself or anything before running off on your own.
 そうか？そうだったか？|ま　いいや　とにかく俺様はもう行くぜ！=Yeah? Really? Well, fine! Anyway, I'm gonna go!
-ブラック☆スター|やっぱり　様子がおかしいわね・・・=Black☆Star... As expected, he's acting all strange.
-あの子のことだから|大丈夫だと思うけど・・・=I think he'll be fine because it's him, but...
-それよりも　私これから|どうしようかしら・・・|ブラック☆スターも行っちゃったし=Black☆Star ran off, so I wonder what I should do now.
+ブラック☆スター|やっぱり　様子がおかしいわね・・・=Black☆Star... He really is acting strange.
+あの子のことだから|大丈夫だと思うけど・・・=I think it'll be fine because it's him, but...
+それよりも　私これから|どうしようかしら・・・|ブラック☆スターも行っちゃったし=Anyway, I don't know what to do now that he's ran off.
 そういえば私達が|回収してきた本って|図書館に保管されたのよね=I guess the book we recovered should be stored away in the library by now.
 どうなったのか|聞いてこようかしら・・・=Why don't I go see how that went?
 !FILE:EV1520_122.bscr
-先生どうしたんですか|あわてているみたいですけど？=What's wrong, Sid? You seem kind of flustered.
-お前達が回収してくれた本を|何者かが勝手に持ち出したようなのだ！=It looks like someone ran off with that book that you two recovered!
+先生どうしたんですか|あわてているみたいですけど？=What's wrong, Mr. Sid? You seem kind of flustered.
+お前達が回収してくれた本を|何者かが勝手に持ち出したようなのだ！=It looks like someone ran off with the book that you two recovered!
 一体だれがそんなことを=Who in the world would...
 ブラック☆スターはどうしたんだ|一緒じゃないのか？=Where's Black☆Star? He's not with you?
-先生！ブラック☆スターを|疑ってるんですか？=Sid! You don't suspect Black☆Star, do you?
+先生！ブラック☆スターを|疑ってるんですか？=You don't suspect Black☆Star, do you?
 もしやとは思うが|今回の件で死武専に対する恨みが|わきあがってきたのかもしれん・・・=Not really, but this affair might stem from some pent-up resentment towards the DWMA.
 何しろアイツは|星族最後の生き残り・・・=And that kid is the last surviving member of the Star Clan...
-そんな・・・先生ひどいです=Sid... That's terrible.
+そんな・・・先生ひどいです=Mr. Sid... That's terrible.
 そう言ってくれるな椿・・・|俺は全ての可能性を否定しない|そんな男だった・・・=I understand, Tsubaki, but I won't ignore any possibilities. That's the kind of man I was.
 !FILE:EV1520_126.bscr
 ブラック☆スターはどうしたんだ|一緒じゃないのか？=Where's Black☆Star? He's not with you?
-先生！ブラック☆スターを|疑ってるんですか？=Sid! You don't suspect Black☆Star, do you?
+先生！ブラック☆スターを|疑ってるんですか？=You don't suspect Black☆Star, do you?
 !FILE:EV1520_132.bscr
 図書館から暗殺奥義書が|持ち出されたそうですが・・・=I heard someone took the Book of Secret Assassinations from the library.
 博士もブラック☆スターを|疑っているんですか？=Do you suspect Black☆Star as well, Professor?
 いや　俺自身は|仮にブラック☆スターだった|としてもいいと思っています=No. And even if it was Black☆Star, personally, I think it's okay.
-あの奥義書を持つ権利は|彼にはありますから|死神様にも話してみるつもりです=He should have the rights to that Secret Book, and I'm even going to talk to Lord Death about it.
+あの奥義書を持つ権利は|彼にはありますから|死神様にも話してみるつもりです=He has a right to keep that secret book, and I'm even going to talk to Lord Death about it.
 博士・・・=Professor...
 ただ　あの本を読んで|ブラック☆スターが|もし変わってしまったなら・・・=But... If he reads that book, Black☆Star will no longer be the same.
 椿・・・君も|覚悟しておいてください=Tsubaki... Please ready yourself for that eventuality.
-そんなに危険な本|だったんですか・・・=Is the book really that dangerous?
+そんなに危険な本|だったんですか・・・=Is it really that dangerous?
 !FILE:EV1520_136.bscr
 ただ　あの本を読んで|ブラック☆スターが|もし変わってしまったなら・・・=But... If he reads that book, Black☆Star will no longer be the same.
 椿・・・君も|覚悟しておいてください=Tsubaki... Please ready yourself for that eventuality.
 !FILE:EV1520_142.bscr
-どうしたんだ|そんな深刻そうな顔をして？=What happened? Why are you making that serious-looking face?
+どうしたんだ|そんな深刻そうな顔をして？=What happened? Why are you making such a serious face?
 えぇ　ちょっと|それよりもキッド君こそ|何をやっているんですか？=It's nothing. Rather, what are you up to, Kid?
 死武専内に|ゴミが溜まってきたのでな=Trash has been piling up around the DWMA.
-まとめて焼却しようと|思っていたところだ・・・=So I was thinking about getting it all in on place and incinerating it.
-キッド君って|本当にマイペースなんだから・・・=Kid really marches to the sound of his own horn.
+まとめて焼却しようと|思っていたところだ・・・=So I was thinking about getting it all in one place and incinerating it.
+キッド君って|本当にマイペースなんだから・・・=You really do march to the sound of your own horn.
 !FILE:EV1520_146.bscr
 死武専内に|ゴミが溜まってきたのでな=Trash has been piling up around the DWMA.
-まとめて焼却しようと|思っていたところだ・・・=So I was thinking about getting it all in on place and incinerating it.
+まとめて焼却しようと|思っていたところだ・・・=So I was thinking about getting it all in one place and incinerating it.
 !FILE:EV1520_150.bscr
-よく　ここがわかったな　椿=You knew I'd be here, didn't you, Tsubaki?
+よく　ここがわかったな　椿=You did well to find me here, Tsubaki.
 ブラック☆スター|あなたが暗殺奥義書を持ち出したの？=Black☆Star, are you the one that took the Book of Secret Assassinations?
 ああ　俺だ=Yeah. It was me.
-なんてことを|早く本を返さないと！=What were you...? Quick! You have to return it!
+なんてことを|早く本を返さないと！=What were you--!? Quick! You have to return it!
 それはもう無理だぜ=That won't be possible.
 あなた　まさか　その本を読んで|死武専に復讐するつもりなの？=You... Are you really planning on reading that book to get your revenge on the DWMA?
-前に言ってたわよね|オヤジもオフクロも悪党だったから|殺された・・・それだけの話だって=I've said it before. My mother and father were bad people. That's why they were killed. That's the whole story.
+前に言ってたわよね|オヤジもオフクロも悪党だったから|殺された・・・それだけの話だって=You told me before that your mother and father were bad people, and that's why they were killed, end of story.
 死武専を恨んでないって|言ってたよね？あれはウソなの？=You said you didn't blame the DWMA, didn't you? Was that just a lie?
 ・・・・・・・・・=.........
 答えてちょうだい！=Please answer me!
-何言ってるか　わかんねェけどよ|あの本はもうキッドに|燃やされてるんじゃねェか？=I have no clue what you're talking about, but Kid probably already burned that book with the rest of the trash.
+何言ってるか　わかんねェけどよ|あの本はもうキッドに|燃やされてるんじゃねェか？=I don't know what you're talking about, but Kid probably already burned that book with the rest of the trash.
 だからもう　この世にはねェよ！|ないものは返せないぜ！|ひやっはははははは☆=It no longer exists in this world! And I can't return what doesn't exist! Yahahahahahaha☆
 ブラック☆スター|それは本当なの？=Black☆Star, is that true?
 はぁ！何で俺が嘘つく|必要があんだよ！=Huh? I've got no reason to lie about it!
 あんなやべェ本|いつまでも残しておけるか！=That piece of crap book can disappear forever!
 オヤジやオフクロの不始末は|俺様がなんとかしなきゃな！|ひやっはははははは☆=It's up to me to do something about all my mother and father's mistakes! Yahahahahahaha☆
-ふぅ・・・なんだか安心して|力が抜けちゃった・・・=Phew... Somehow I'm completely calm and relieved now.
+ふぅ・・・なんだか安心して|力が抜けちゃった・・・=Phew... It feels like the weight of the world has just been lifted off my shoulders.
 !FILE:EV1520_155.bscr
 さてと　これから|何するか決めねェとな☆=Well, we have to decide what we're going to do now☆
 !FILE:EV1520_156.bscr
 オヤジやオフクロの不始末は|俺様がなんとかしなきゃな！|ひやっはははははは☆=I have to right the wrongs of my mother and father! Yahahahahahaha☆
-ふぅ・・・なんだか安心して|力が抜けちゃった・・・=Phew... Somehow I'm completely calm and relieved now.
+ふぅ・・・なんだか安心して|力が抜けちゃった・・・=Phew... It feels like the weight of the world has just been lifted off my shoulders.
 !FILE:EV1520_157.bscr
 ねぇ　キッド君が|ちゃんと燃やしてくれたか|たしかめにいこうよ！=Let's go and make sure that Kid really burned it all, yeah?
 大丈夫だよ！|アイツの性格　わかってるだろ！=It's okay! You know how that guy is!
@@ -8818,11 +8818,11 @@
 えらい形で|戻ってきちゃったわね|暗殺奥義書・・・=It came back in great shape, huh? The Book of Secret Assassinations...
 つか　どーすんだ|コレ？=Uh? What am I supposed to do with this?
 !FILE:EV1521_002.bscr#危険なトレーニング　= Dangerous Training - Part 16
-お～い　お前達|シュタイン博士が呼んでたぞ！=Hey, you two! Professor Stein called for you
+お～い　お前達|シュタイン博士が呼んでたぞ！=Hey, you two! Professor Stein called for you!
 博士が俺達に|何の用があるんだよ！=What does the professor need with us!?
 よくわかんねェけどよ|おっかない顔してたぞ～|怒られんじゃねェのか？=No idea, but he was looking preeetty scary. Did you make him angry?
 どうしよう|ブラック☆スター？=What are we going to do, Black☆Star?
-どうもこうも行くしかねェだろ！|あとでインネンつけられるのも|めんどくせェからな☆=There's nothing we can do! We'll have to go sometime or another, even if it does mean getting into a stupid fight over nothing☆
+どうもこうも行くしかねェだろ！|あとでインネンつけられるのも|めんどくせェからな☆=There's nothing we can do! We'll have to go some time or another, even if he does just wanna pick a fight.
 そうね・・・他の先生だったら|よかったのに・・・=I guess you're right... I wish it could have been a different teacher though.
 おいおい|言うようになったじゃねェか！|ひやっはははははは☆=Whoa! When did you learn to talk like that? Yahahahahahaha☆
 !FILE:EV1521_006.bscr
@@ -9298,7 +9298,7 @@
 そんなの後でゆっくり見ればいいじゃねェか|さっさと帰ろうぜ☆=You can take all the time in the world to admire it later. Let's hurry back for now☆
 !FILE:EV1931_004.bscr
 ・・・・・・・・・=.........
-どうしたの？急に黙っちゃって・・・|早く死武専に戻りましょ|目的のものは　手に入れたんだから=What's wrong? You got quite all of a sudden... Should we hurry back to the DWMA? We've obtained the target, after all.
+どうしたの？急に黙っちゃって・・・|早く死武専に戻りましょ|目的のものは　手に入れたんだから=What's wrong? You got quiet all of a sudden... Let's get back to the DWMA? We've obtained the target, after all.
 !FILE:EV1932_010.bscr
 ひやっはぁ☆|思い知れ！俺だ！|俺様だぁ！！=Yahoo☆ The star has arrived! Black☆Star on stage!!
 ごきげんね|ブラック☆スター♪=You're in a good mood, Black☆Star♪
@@ -18277,7 +18277,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs%_dc[199,133,84]!
-%_teノラ人形どもを追え！=%_tePursue the stray dummies!
+%_teノラ人形どもを追え！=%_tePursue the Dummies!
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に敵を|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teDeath to Death Noirs!
@@ -18539,13 +18539,13 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 備えあれば憂いなし！|%_dc[196,0,0]訓練君%_dc[199,133,84]を%_dc[0,0,196]４０%_dc[199,133,84]匹倒して|腕を上げておけ！=If you're prepared, there's no reason to worry! Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 訓練君%_dc[199,133,84]を|%_dc[0,0,196]４０%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]40 %_dc[196,0,0]Training Buddies%_dc[199,133,84]!
 %_te星族の遺産=%_teThe Star Clan's Legacy
-暗殺術が記された|%_dc[0,196,0]星族の奥義書%_dc[199,133,84]を|回収せよ！=Retrieve the %_dc[0,196,0]Star Clan's secret book %_dc[199,133,84]where are written their assassination arts!
+暗殺術が記された|%_dc[0,196,0]星族の奥義書%_dc[199,133,84]を|回収せよ！=Find the %_dc[0,196,0]Star Clan's secret book %_dc[199,133,84]of assassination arts!#assassination techniques is too long
 星族の奥義書%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Star Clan's secret book%_dc[199,133,84]!
-%_teノラ人形どもを追え！=%_tePursue the stray dummies!
+%_teノラ人形どもを追え！=%_tePursue the Dummies!
 死武専からノラ人形が|%_dc[0,0,196]５０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]50 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]５０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]50 %_dc[199,133,84]enemies within the time limit!
-%_te極悪ゾンビを退治せよ！=%_teEliminate the Devil Zombie!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ブーズー%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]the Baron Voodoo%_dc[199,133,84]whose soul has become a kishin egg!
+%_te極悪ゾンビを退治せよ！=%_teEliminate the Zombie!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧ブーズー%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]the Baron Voodoo%_dc[199,133,84] whose soul has become a kishin egg!
 怪僧ブーズー%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]The Baron Voodoo%_dc[199,133,84]!
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
 制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|　　　　　　　　By Sid
