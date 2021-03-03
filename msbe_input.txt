@@ -8822,7 +8822,7 @@
 博士が俺達に|何の用があるんだよ！=What does the professor need with us!?
 よくわかんねェけどよ|おっかない顔してたぞ～|怒られんじゃねェのか？=No idea, but he was looking preeetty scary. Did you make him angry?
 どうしよう|ブラック☆スター？=What are we going to do, Black☆Star?
-どうもこうも行くしかねェだろ！|あとでインネンつけられるのも|めんどくせェからな☆=There's nothing we can do! We'd have to go eventually and the longer we leave it, the more annoying he'll be.
+どうもこうも行くしかねェだろ！|あとでインネンつけられるのも|めんどくせェからな☆=There's nothing we can do! We'd have to go eventually, and the longer we leave it, the more annoying he'll be.
 そうね・・・他の先生だったら|よかったのに・・・=I guess you're right... I wish it could have been a different teacher though.
 おいおい|言うようになったじゃねェか！|ひやっはははははは☆=Whoa! When did you learn to talk like that? Yahahahahahaha☆
 !FILE:EV1521_006.bscr
@@ -8838,7 +8838,7 @@
 ありえねェぜ　博士|ひやっはははははは☆=There's no way I'll fail, Professor! Yahahahahahaha☆
 ・・・ブラック☆スターの|気楽さが続くといいですがね=...I hope Black☆Star will keep his happy-go-lucky spirit.
 そのトレーニングはココで|やるんですか？=Will we be doing the training here?
-いいえ　特別指導室で行います|それと俺ではなくシドが担当です=No. It will take place in the Special Guidance Room. Also, it won't be me, but Sid who will be in charge.
+いいえ　特別指導室で行います|それと俺ではなくシドが担当です=No. It will take place in the Special Guidance Room. Also, it won't be me, but Sid, who will be in charge.
 本当に危険なトレーニングなので|充分に　注意してください=The training will be truly dangerous, so be sure to stay on your toes.
 !FILE:EV1521_016.bscr
 これから受けてもらう|トレーニングは非常に危険です|もし失敗したら最悪の場合・・・=The training you'll be receiving will be unusually dangerous. In the worst-case scenario, if you fail...
@@ -8885,13 +8885,13 @@
 そうですか・・・|シドのほうに効果が出るとは・・・=Interesting... It would seem it has more of an effect on Sid...
 何か　悪口を言い合えとか|言われたんだけどよ！|アレになんの意味があんだよ！=He was telling us to insult each other and whatnot! What did he mean by all that!?
 実はあの部屋には|気持ちを荒げるアロマが|たかれていたんです=The truth is that there were candles burning in that room whose aroma intensifies emotions.
-そんな状況の中で|悪口を言い合っても平気なくらい|互いへの信頼を高めていき・・・=If you could get along despite bad mouthing each other like that, your mutual trust would grow.
+そんな状況の中で|悪口を言い合っても平気なくらい|互いへの信頼を高めていき・・・=If you could get along despite badmouthing each other like that, your mutual trust would grow.
 これまでよりも　強く|魂の波長を共鳴させるための|トレーニングなんです=This type of training would allow your soul wavelengths to resonate stronger than ever before.
 そういう目的のための|トレーニングだったんですね|納得しました=So that's what the training was for.|I get it now.
 だが　困りましたね・・・|シドのほうが先にキレてしまうとは・・・=But it didn't go as planned, huh?|It would seem Sid snapped first.
 !FILE:EV1521_036.bscr
 実はあの部屋には|気持ちを荒げるアロマが|たかれていたんです=The truth is that there were candles burning in that room whose aroma intensifies emotions.
-そんな状況の中で|悪口を言い合っても平気なくらい|互いへの信頼を高めていき・・・=If you could get along despite bad mouthing each other like that, your mutual trust would grow.
+そんな状況の中で|悪口を言い合っても平気なくらい|互いへの信頼を高めていき・・・=If you could get along despite badmouthing each other like that, your mutual trust would grow.
 これまでよりも　強く|魂の波長を共鳴させるための|トレーニングなんです=This type of training would allow your soul wavelengths to resonate stronger than ever before.
 !FILE:EV1521_037.bscr
 ねェ　シド先生にあやまったほうが|いいんじゃないかしら？=Hey. I'm thinking maybe we should apologize to Mr. Sid.
