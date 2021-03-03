@@ -2933,7 +2933,7 @@
 いくぞ！|俺はいつも全力投球！！|そんな男だったぁぁぁ！！=Go! I always give 110％!! That's the kind of man I was!!
 !FILE:EV0500_210.bscr
 やつらが逃げた穴から|やつらのアジトを捜索する=We're going to hunt down their hideout using the holes they escaped through.
-ここからは　それぞれ単独行動になる|こころしてかかれ！=We're going to split up from here. Stay alert!#not used?
+ここからは　それぞれ単独行動になる|こころしてかかれ！=This is where we split up. Stay alert!
 はい！=Right!
 ああ！=Yes!
 おう！=Yeah!
@@ -3006,7 +3006,7 @@
 この繭でね|鬼神を作るのですよ=Yes, this cocoon... It creates kishin.
 鬼神！=Kishin!?
 まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Yes. It's not yet perfect however. Perhaps I should call it a pseudo- kishin.#added space for improved word wrapping
-繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and flesh to house them into the cocoon.#This line is pretty tricky. I decided on 'we' as opposed to 'I' because Grimoire is working along with Ponera. I translated 肉体 as flesh, but it can also be translated as 'physical body' or just 'body'.
+繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and the flesh to house them into each cocoon.#This line is pretty tricky. I decided on 'we' as opposed to 'I' because Grimoire is working along with Ponera. I translated 肉体 as flesh, but it can also be translated as 'physical body' or just 'body'.
 そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
 そんなモノを　なぜ・・・|なんのために=Why create this thing? For what purpose?
 世界を手に入れるためですよ|あなたのような邪魔者を消してね=To take over the world. To rid the world of pests like you.
@@ -3687,7 +3687,7 @@
 !FILE:COMMON#EV0600_000 EV1600_000 EV2600_000
 あのグリモアって男が|黒幕だったんだね=So that Grimoire guy was the mastermind, huh?
 ヤツが|魔女をそそのかしてたんだな=That guy was manipulating the witch.
-じゃあ　魔女は　ポネラって子は|騙されていたってことですね=The witch Ponera... That means he was deceiving a child.
+じゃあ　魔女は　ポネラって子は|騙されていたってことですね=Then, Ponera was being deceived all along.#I think 'そそのか' has the nuance of manipulating someone young (who wouldn't know any better), which is where Tsubaki is going with this comment, but it sounds a bit weird for Tsubaki to say child when they appear to be a similar age. Alternatively, something like "Then, she probably had no idea what his true intentions were."?
 そうなるな=Looks like it.
 んじゃ|お話しして仲直りすればい～じゃん=So we talk to her and everything will be all better.
 そいつは無理だ|あの洞窟を見ただろ　あれだけの数の繭から|いつ化け物が生まれてもおかしくないんだ=That's not possible. You saw what was in that cave. If all those cocoons bear monsters, the party's over.#The Japanese doesn't mention a party. My original translation was "and we won't be having fun," but I like this version. I feel like it gives a little more flair. It feels more like Soul to me. Maybe I'm wrong though.
@@ -4740,14 +4740,14 @@
 さぁ！|やるよ！ソウル！=Alright, let's do it, Soul!
 !FILE:EV0934_730.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, you won't have to worry about that nasty condition of yours much longer!
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 !FILE:EV0934_731.bscr
 なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
@@ -4994,7 +4994,7 @@
 !FILE:EV0935_731.bscr
 ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... Look what you did...
 !FILE:EV0935_732.bscr
-細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
+細切れにされちまったよぉぉぉぉぉ！！=My... mincemeat...!!
 !FILE:EV0935_830.bscr
 足りネェ・・・|まだやりたりねェヨォォォォォ！！=My hunger... has not been satiateeeed!!
 !FILE:EV0935_831.bscr
@@ -8450,8 +8450,8 @@
 俺様の顔も　三度までだぁ！|行くぞぉ！=Third time's the charm! Let's go!
 今度こそ！=This time for sure!
 !FILE:EV1501_405.bscr
-ブラック☆スターの　輝きに|集まってしまうのは仕方ないわ|虫だけにね=I guess they can't help but to gather around your radiant shine. They're only bugs after all.
-お前　うまいコト言うな=Don't say such clever stuff.
+ブラック☆スターの　輝きに|集まってしまうのは仕方ないわ|虫だけにね=I guess these guys can't help but to gather around your radiant shine. They're only bugs after all.
+お前　うまいコト言うな=That was... really profound.#from the tone of his voice, I think this is just an emphatic な
 !FILE:EV1501_406.bscr
 なんだぁ？　ここは=What is this place?
 あっ！|ブラック☆スター　アレ！=Ah! Black☆Star, over there!
@@ -8459,7 +8459,7 @@
 にしては　大きすぎない？=Isn't it too big for a cocoon?
 うわっ！=Woah!
 キャッ！=Kyaa!
-なんだぁ　コノヤロー！=What the hell is this!?
+なんだぁ　コノヤロー！=What the hell is that!?
 コレ　このあいだの！|気をつけて　ブラック☆スター！=It's the same as that thing from the other day! Be careful, Black☆Star!
 おや？|あなたはたしか・・・=Oh? You must be...
 ブラック☆スターだぁ！|よし　名乗ってもいいぞ！=I'm Black☆Star! Now it's your turn! Identify yourself!
@@ -8469,8 +8469,9 @@
 では　教えてあげましょう=Allow me to explain...
 この繭でね|鬼神を作るのですよ=Yes, this cocoon... It creates kishin.
 鬼神！=Kishin!?
+鬼神！=Kishin!?#do not delete duplicate
 まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Yes. It's not yet perfect however. Perhaps I should call it a pseudo- kishin.
-繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and flesh to house them into the cocoon.
+繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and the flesh to house them into each cocoon.
 そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
 あぁ～|なんで　そんなモノ　作るんだ？=Uhhh... Why would you make a thing like that?
 世界を手に入れるためですよ|あなたのような邪魔者を消してね=To take over the world. To rid the world of pests like you.
@@ -8494,19 +8495,19 @@
 結果として　あの子の望みは|叶うことになるでしょう？=Once that comes to fruition, the child will have all that she desires, don't you think?
 なに勝手いってやがる|ようは　魔女を利用してるってことだろ=What the hell are you rambling on about? It sounds to me like you're just using the witch.
 そんな小さいヤローは|俺様と話せただけでも　感謝しろ！=You little bastard! You should be thanking me for even talking to you!
-フフフ|申し訳ないが　そうもいかないのでね=Hmhmhm. My apologies, but that won't be possible.
+フフフ|申し訳ないが　そうもいかないのでね=Hmhmhm. My apologies, but that won't be happening.
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 おおぉ・・・　力が沸いてくる=Oooohh... Power overwhelming.
 な　なんだ？=Wh-What?
 ふぅ・・・|この力を見せたくはなかったのですが|まぁ　いいでしょう=Phew... I didn't want to reveal this power... How unfortunate.
 あなたには・・・|ここで消えてもらいます=You... You're going to die in this place.
 !FILE:EV1501_408.bscr
-チッ　ちょっと・・・|やべぇかな=Th-This is... looking bad.
+チッ　ちょっと・・・|やべぇかな=Th-This is... not looking good.
 ブラック☆スター！=Black☆Star!
 クククッ・・・|さぁ　そろそろ楽にしてあげますよ|感謝しなさい！=Hmhmhm... Now, I'll help you relax. Show some gratitude!
 なにっ？！=What!?
 シュタイン！=Stein!
-良かった　間に合ったな|ってか　博士をつけなさい=Good. We made it in time. Or rather... did somebody call for a doctor?
+良かった　間に合ったな|ってか　博士をつけなさい=Good. We made it in time. And that's "Professor Stein" to you.
 苦戦してんじゃねぇか|ブラック☆スター！=You've been fighting hard, haven't you, Black☆Star!?
 おい　ヤサ男|なかなかやんじゃねぇか|久々に血が　騒ぐぜ！=Hey, pretty boy! Looks like you're not bad. Good. It's been a while since I've had a real fight!
 ザコ共は任せなさい|君はヤツをやれ！=Leave these pests to us! You take care of him!
@@ -8514,18 +8515,18 @@
 くっ　ふざけるな！|まとめて始末してやる！=Ngh... No more playing around!|I'll end you!
 !FILE:EV1501_409.bscr
 グフッ・・・|バカな　こんなところで・・・=Gakk... No, I can't lose to the likes of you...
-・・・星族の小僧|俺は必ず戻ってくる|覚えていろ・・・=...Mark my words, Star Clan brat! I will... return...
+・・・星族の小僧|俺は必ず戻ってくる|覚えていろ・・・=...Mark my words, Star Clan brat!|I will... return...
 決めた・・・　ぜ=It's... over.
 がんばったね・・・|ブラック☆スター=You were great... Black☆Star.
 やりましたね=Good work.
 博士・・・|余計なことをしやがって=Professor... I didn't need your help.
 いや・・・　なに=I'm sure... What?
 やばかったんじゃねぇの？|ブラック☆スター=That's insane... Black☆Star.
-やっとわかったか|俺様の　神をも超えるヤバさが！=The power to surpass God! It is insane, isn't it?
+やっとわかったか|俺様の　神をも超えるヤバさが！=The power to surpass God!|It is insane, isn't it?
 いや　そーじゃなくて・・・|って　ヤバいのはあっちか=No, not that... Look. That's what's insane over there.
 すごい・・・　これが全部|鬼神になるんですか？=No way... Will they all become kishin?
 ・・・鬼神の軍団か=...An army of kishin.
-軍団？　おもしれぇ|どんどん出てこい　かたっぱしから|ぶっ飛ばしてやるぜ！=An army? Too fun! Come on out and I'll send you all flying one at a time!
+軍団？　おもしれぇ|どんどん出てこい　かたっぱしから|ぶっ飛ばしてやるぜ！=An army? Sounds like fun! Come on out and I'll send you all flying one at a time!
 二人とも　ぎりぎりですね|いったん戻りましょう=You're both at your limit. Let's retreat for now.
 !FILE:EV1501_454.bscr
 ひゃっはぁ！|グダグダいってねぇーで|行くぜ　椿！=Yahoo! Don't just stand around talking about it! Let's go, Tsubaki!
@@ -8924,7 +8925,7 @@
 !FILE:EV1521_062.bscr
 シド先生を見ませんでしたか？=Have you seen Mr. Sid around?
 うむ　すごく落ち込んでいた・・・|一体　何があったのだろうか・・・=Yeah. He was pretty upset. What in the world happened?
-うわぁ　ぶり返しが|きちゃっているみたいね・・・=Aww. Looks like it's one step forward and two steps back.#More accurately, 'it seems that (instead of getting better) his anger has returned again', but I couldn't come up with a phrasing I liked.
+うわぁ　ぶり返しが|きちゃっているみたいね・・・=Aww. And I thought he was finally starting to calm down.
 これはこれで　めんどくせェ・・・|もう少し　後にしようぜ・・・=This is such a pain. We'll go later.
 !FILE:EV1521_066.bscr
 シド先生を見ませんでしたか？=Have you seen Mr. Sid around?
@@ -8955,7 +8956,7 @@
 今日は血の雨が降るぜ・・・=It's gonna rain blood today.
 ひやっはぁ☆|こいつはおもしろそうだ！|早く見に行こうぜ椿！=Yahoo☆ That sounds interesting! Let's go check it out, Tsubaki!
 !FILE:EV1522_010.bscr
-でゅわあああぁぁぁ！=Gwaaaaaah!
+でゅわあああぁぁぁ！=Dyaaaaaah!
 ふん　パパが|悪いんだからね！=Hmph. That's what you get, Papa!
 どうしたんですかマカちゃん？|デスサイズさんが何か？=What's wrong, Maka? What did your dad do?
 あんまり言いたくない|ごめんね　椿ちゃん=I don't really want to talk about it. Sorry, Tsubaki.
@@ -9356,8 +9357,8 @@
 おそらく　今回は|結構　苦戦すると思うぜ|俺様の勘がそう告げてる・・・=I hate to say it, but it might be a tough fight this time. I can feel it...
 珍しい・・・あのブラック☆スターが|真剣になるなんて・・・=It's rare to see you so serious, Black☆Star.
 やべぇ　ボヤボヤしてると老いぼれちまう！|さっさと先に進むぞ！=Darn it. If I don't watch it, I'll end up old without realizing it! Quick, let's keep going!
-俺様にはわかる！|今回は超楽勝だぜ！！|ひやっはははははは☆=I knew it! Way too obvious this time!! Yahahahahahaha☆
-ブラック☆スターの勘って|はずれるのよね・・・とほほ=It was just a lucky guess, Black☆Star... Awww.
+俺様にはわかる！|今回は超楽勝だぜ！！|ひやっはははははは☆=I can just tell this one's gonna be a breeze!! Yahahahahahaha☆
+ブラック☆スターの勘って|はずれるのよね・・・とほほ=This is the part where your guess is way off, isn't it? Oh dear...
 さて　大物ねらいでガンガン行こうぜ！|ひやっはははははは☆=Well, let's go hard for the big game! Yahahahahahaha☆
 多分だけど今回は|楽勝だぜ！俺様の勘が|そう告げている！=Maybe not, but my intuition is telling me this is going to be a piece of cake!
 ブラック☆スターの勘って|はずれるのよね・・・はぁ=Maybe your intuition is just hungry... *sigh*
@@ -9544,7 +9545,7 @@
 うしっ！|それじゃー帰るぞ　椿！=Yeah! Okay, let's go home, Tsubaki!
 よし！|学校まで走って帰るぞ！　椿！=All right! Race you back to the school, Tsubaki!
 ん？そういやここドコだ？|もしかして迷子か？参ったな・・・|時代が俺に追いつけねェとはな=Huh? Where am I? Am I lost? No way! I'm not some dumb kid anymore!
-そうだな・・・|気分転換に道草しながら帰るぞ！　椿！=Tired? We'll take it easy on the way back, Tsubaki!
+そうだな・・・|気分転換に道草しながら帰るぞ！　椿！=Are you tired? How about we take it easy on the way back, Tsubaki?
 おっしゃ！|暇つぶしに　遊びながら帰るか！椿！=I know! Tsubaki, let's play around and kill some time before we go home!
 そうだ！|たまには観光して帰るぞ！　椿！=Alright! Let's do a little sightseeing before we go home, Tsubaki!
 よっしゃ！|探検しながら帰るぞ！　椿！=I know! Tsubaki, let's explore a little on the way home!
@@ -9570,7 +9571,7 @@
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
 私に敵うとでも思っているのかぁ～？=You're no match for me!
 お前達は何ものだぁ～？=Who are you?
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
@@ -9651,7 +9652,7 @@
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
 無駄ァ！無駄ァ！無駄ァ！！|私は無敵だぁ～！=It's futile! Futile!! It is the way of samsara!
 死神の手先でも|私を止められないのだぁ～！=Even the reaper's acolytes can do nothing to stop me!
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
@@ -9705,7 +9706,7 @@
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 私の身体は　無敵なのだぁ～=My body is invincible!
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
 ムハハハハ・・・|誰にも私は止められんのだぁ～=Mwahahaha... I won't be stopped by no one!
 私の身体は　無敵なのだぁ～=My body is invincible!
 俺様の存在自体が無敵だぁ！=My very existence would be too much for you!
@@ -9769,7 +9770,7 @@
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 ＨＡ！ＨＡ！=Ha! Ha!
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
 モット・・・|チカラァァァァ！！=More... powerrrr!!
 ＨＡ！ＨＡ！=Ha! Ha!
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
@@ -9839,7 +9840,7 @@
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
 タマ・・・シィ・・・|ヨコセェェェ！！=Ahh, what a rush!!
 シニガミ・・・|ノ・・・テサキ・・・=Come... to FlayFlay...
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
@@ -9882,7 +9883,7 @@
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
 シャーーッ！！=Booooom!!
 ナン・・・ダ？|オマエ・・・ラ？=It's... breakfast... time!
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
@@ -9925,7 +9926,7 @@
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
 死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You reapers keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 俺様は神をも超えるぜっ！=I will be the one to surpass God!
@@ -9990,16 +9991,16 @@
 !FILE:EV1934_730.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 !FILE:EV1934_731.bscr
 なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 ビッグなスターの輝きに|目が眩むだろ！=You must be starstruck running into a star as big as me!
@@ -10028,8 +10029,8 @@
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
 !FILE:EV1934_735.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 !FILE:EV1934_830.bscr
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
@@ -10038,7 +10039,7 @@
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
-どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your souls, dimwits!
+どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=As I thought! But we can't be having any of that! RrrRhhaAAAaa!!
 なんだよォ　オメーら！|俺の邪魔する気か？=Who the hell are you!? I hope you're not planning on doing something stupid!
 凡人どもよ　そうしょげるなよ！|俺がやばすぎるんだから！！=Try not to feel too bad about living in my shadow. It isn't your fault that I'm the biggest star ever!
@@ -10219,7 +10220,7 @@
 うしっ！|それじゃー帰るぞ　椿！=Yeah! Okay, let's go home, Tsubaki!
 よし！|学校まで走って帰るぞ！　椿！=All right! Race you back to the school, Tsubaki!
 ん？そういやここドコだ？|もしかして迷子か？参ったな・・・|時代が俺に追いつけねェとはな=Huh? Where am I? Am I lost? No way! I'm not some dumb kid anymore!
-そうだな・・・|気分転換に道草しながら帰るぞ！　椿！=Tired? We'll take it easy on the way back, Tsubaki!
+そうだな・・・|気分転換に道草しながら帰るぞ！　椿！=Are you tired? How about we take it easy on the way back, Tsubaki?
 おっしゃ！|暇つぶしに　遊びながら帰るか！椿！=I know! Tsubaki, let's play around and kill some time before we go home!
 そうだ！|たまには観光して帰るぞ！　椿！=Alright! Let's do a little sightseeing before we go home, Tsubaki!
 よっしゃ！|探検しながら帰るぞ！　椿！=I know! Tsubaki, let's explore a little on the way home!
@@ -10383,7 +10384,7 @@
 うしっ！|それじゃー帰るぞ　椿！=Yeah! Okay, let's go home, Tsubaki!
 よし！|学校まで走って帰るぞ！　椿！=All right! Race you back to the school, Tsubaki!
 ん？そういやここドコだ？|もしかして迷子か？参ったな・・・|時代が俺に追いつけねェとはな=Huh? Where am I? Am I lost? No way! I'm not some dumb kid anymore!
-そうだな・・・|気分転換に道草しながら帰るぞ！　椿！=Tired? We'll take it easy on the way back, Tsubaki!
+そうだな・・・|気分転換に道草しながら帰るぞ！　椿！=Are you tired? How about we take it easy on the way back, Tsubaki?
 おっしゃ！|暇つぶしに　遊びながら帰るか！椿！=I know! Tsubaki, let's play around and kill some time before we go home!
 そうだ！|たまには観光して帰るぞ！　椿！=Alright! Let's do a little sightseeing before we go home, Tsubaki!
 よっしゃ！|探検しながら帰るぞ！　椿！=I know! Tsubaki, let's explore a little on the way home!
@@ -10547,7 +10548,7 @@
 うしっ！|それじゃー帰るぞ　椿！=Yeah! Okay, let's go home, Tsubaki!
 よし！|学校まで走って帰るぞ！　椿！=All right! Race you back to the school, Tsubaki!
 ん？そういやここドコだ？|もしかして迷子か？参ったな・・・|時代が俺に追いつけねェとはな=Huh? Where am I? Am I lost? No way! I'm not some dumb kid anymore!
-そうだな・・・|気分転換に道草しながら帰るぞ！　椿！=Tired? We'll take it easy on the way back, Tsubaki!
+そうだな・・・|気分転換に道草しながら帰るぞ！　椿！=Are you tired? How about we take it easy on the way back, Tsubaki?
 おっしゃ！|暇つぶしに　遊びながら帰るか！椿！=I know! Tsubaki, let's play around and kill some time before we go home!
 そうだ！|たまには観光して帰るぞ！　椿！=Alright! Let's do a little sightseeing before we go home, Tsubaki!
 よっしゃ！|探検しながら帰るぞ！　椿！=I know! Tsubaki, let's explore a little on the way home!
@@ -10558,7 +10559,7 @@
 !FILE:EV1935_731.bscr
 ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... Look what you did...
 !FILE:EV1935_732.bscr
-細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
+細切れにされちまったよぉぉぉぉぉ！！=My... mincemeat...!!
 !FILE:EV1935_830.bscr
 足りネェ・・・|まだやりたりねェヨォォォォォ！！=My hunger... has not been satiateeeed!!
 !FILE:EV1935_831.bscr
@@ -11427,7 +11428,7 @@
 ブラック☆スター|シド先生が相手なんだから|真剣に行きましょう=Black☆Star. Our opponent is Mr. Sid, so let's take this seriously.
 ひゃっはっは|そんな小物　前みたいにとっ捕まえてやるぜ=Yahaha! I'll just trap that small fry like last time.
 !FILE:EV1981_720.bscr
-椿！　ネジメガネは手強い！|俺様の後光で目が眩んだ|瞬間を狙うぞ=Tsubaki, that screwball four-eyes is no joke! Wait for the moment his eyes get lost in my aura of light and then we pounce!
+椿！　ネジメガネは手強い！|俺様の後光で目が眩んだ|瞬間を狙うぞ=Tsubaki, that screwball is no joke!|Wait for the moment his eyes get lost in my aura of light and then we strike!#'pounce' was too long but thankfully 'strike' fit.
 ぁぁ・・・|えっと・・・ブラック☆スター？|今のは・・・作戦かしら？=Uhh... Um... Black☆Star? Is that a... real strategy?
 !FILE:EV1988_100.bscr
 だいたいこんな感じだったと|思うのですが・・・=That's pretty much how it went, I think...
@@ -14134,7 +14135,7 @@
 この繭でね|鬼神を作るのですよ=Yes, this cocoon... It creates kishin.
 鬼神とは　聞き捨てならんな=Kishin. I can't allow that.
 まぁ|まだ完全ではありませんがね|鬼神もどき　といったところでしょうか=Well, it's not yet perfect however. Perhaps I should call it a pseudo- kishin.
-繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and flesh to house them into the cocoon.
+繭に　無数の魂と|そのヨリシロとなる肉体を入れるのです=We place countless souls and the flesh to house them into each cocoon.
 そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
 鬼神もどき　だと？=A pseudo-kishin?
 ククク・・・|鬼神か　もどきかは　問題ではないのです=Hehehe... Kishin or pseudo-kishin, it matters not.
@@ -14899,7 +14900,7 @@
 !FILE:EV2931_004.bscr
 これでシド先生にも|喜んでもらえるだろう！=This should make Sid happy too!
 仇はうったど～♪=Consider us even♪
-細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
+細切れにされちまったよぉぉぉぉぉ！！=My... mincemeat...!!
 !FILE:EV2932_010.bscr
 いいか　お前達|けっして気を抜くんじゃないぞ！=Ready, you two? Don't lose focus for even a second!
 言われなくてもわかってるよ|ごちゃごちゃ　うるせェな=You don't need to remind us every single time. You're so annoying.
@@ -15390,14 +15391,14 @@
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
 !FILE:EV2934_730.bscr
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged.
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 なんだぁ？|俺になんかよーかよぉ～？=What? You like this can?
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 !FILE:EV2934_731.bscr
 なんだ？|オメーらも魂奪われたいのかァ？=Shut your mouth! I'll take your souls as well!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
@@ -15597,7 +15598,7 @@
 !FILE:EV2935_731.bscr
 ぐぅぅ・・・|なにしやがんだぁぁぁぁぁぁ・・・=Nnghh... Look what you did...
 !FILE:EV2935_732.bscr
-細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
+細切れにされちまったよぉぉぉぉぉ！！=My... mincemeat...!!
 !FILE:EV2935_830.bscr
 足りネェ・・・|まだやりたりねェヨォォォォォ！！=My hunger... has not been satiateeeed!!
 !FILE:EV2935_831.bscr
@@ -15907,7 +15908,7 @@
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=Who am I kidding? I'm the cook! They'll be tasty!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=Outta my waaaay!! Get outta my waaaaay!!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=This is gonna be a pummeling!! Yrrooaaaah!!
-オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!! You're mincemeeeaaat!!
+オメーらぁぁぁぁ！！|細切れだぁぁぁぁぁっ！！=Bastaaaaards!!|You're mincemeeeaaat!!
 うるせぇよぉ～！|そこをどけえぇぇぇ～～！=Shut your mouth! Shut your mouth!
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you say!? Eat this!!
 ぶっ飛ばしてやるよぉぉ～！！|覚悟しろよぉぉぉ～～！=The old way with the sledge! You'll die better that way!
@@ -15946,7 +15947,7 @@
 ミンチにし損ねたよぉぉ～～……=You're still in one pieeece...
 いてぇ！　いてぇよぉぉぉぉぉぉ～～！！=Yaah! Yaaaaah!!
 死神の手先なんかによぉぉぉぉぉ……=How did Death's stooges...
-細切れにされちまったよぉぉぉぉぉ！！=Yrrooaaaaahh!!
+細切れにされちまったよぉぉぉぉぉ！！=My... mincemeat...!!
 や…やられちまったよぉぉぉ！！！=Yaah! Yrrooaaaaah!!!
 !FILE:EV2939_020.bscr
 足りネェ…|まだやりたりねェヨォォォォォ！！=My hunger... has not been satiateeeed!!
@@ -17834,7 +17835,7 @@
 あなた達の実力を考えると|これは良いかもしれないわね=Knowing what you're capable of, I don't think it should cause you too much trouble.
 結構大変よ　これは|どうする？=It'll be pretty tough. Are you sure about this?
 !FILE:EV9981_430.bscr
-あら？　やめるの？|そうね　こういうのは慎重に|選んだほうがいいわよ=Oh? Changed your mind? I think it wise to be deliberate when choosing these.
+あら？　やめるの？|そうね　こういうのは慎重に|選んだほうがいいわよ=Oh? Changed your mind? I think it's wise to be deliberate when making your decision.
 他のにするの？|訓練とはいえ　ケガをするかもしれないから|よく考えて選んでね=Something else? It's only training, but it's still possible to get hurt, so consider your choice carefully.#must be kept short
 そうね|あなた達なら|他のほうがいいかもしれないわね=I don't blame you. I think a different one might be better suited for you.
 !FILE:EV9981_440.bscr
@@ -17848,7 +17849,7 @@
 おつかれさま|あなた達の成績は　こんな感じよ=Well done. Here are your grades.
 やるじゃない　あなた達！|これじゃ私の世話になることはなさそうね=Well done, you guys! I guess you won't be needing my care after all.
 結構やるのね～　あなた達|正直見直したわ=Well done, you guys. You've really improved.
-うん　いいと思うわよ|これなら少しがんばれば|もっといい成績を出せるわよ=Yeah. I think that was all right. If you push a little harder, you could manage even better grades.
+うん　いいと思うわよ|これなら少しがんばれば|もっといい成績を出せるわよ=Yeah. I think that was all right. If you push a little harder, you could get even better grades.
 ちょっと残念な成績ね|もっと良くなるはずだから|次もがんばってみて=These grades are a little low. But I'm sure you can do better, so give it your all next time.
 あなた達　大丈夫？|次からは　もっと　治療道具を|用意したほうがいいかしら・・・=Are you all right? I wonder if I should prepare more medical tools for next time.
 あなた達　やったわね|レベルが上がったみたいよ=You did it, guys! It looks like you've gone up a level!
@@ -18610,8 +18611,8 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 %_te訓練君を探せ？=%_teFind a Buddy?
 敵にソックリな人形|%_dc[0,196,0]訓練君人形%_dc[199,133,84]を発見せよ！=Locate the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]! They look just like the enemy.
 訓練君人形%_dc[199,133,84]を見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Training Buddy Dolls%_dc[199,133,84]!
-%_te極悪怪僧を速やかに倒せ！=%_teSwiftly defeat the Wicked Monk!
-鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]現る！|被害が出る前に倒せ！=The wicked monk, %_dc[196,0,0]Ajarri %_dc[199,133,84]is coming! Defeat him before he can do any damage!
+%_te極悪怪僧を速やかに倒せ！=%_teDefeat the Monk!
+鬼神の卵と化した魂を持つ|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]現る！|被害が出る前に倒せ！=The monk %_dc[196,0,0]Ajarri %_dc[199,133,84]is coming! Stop him before it's too late!
 制限時間内に|%_dc[196,0,0]怪僧アジャーリ%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Ajarri %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
 シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to go all out!
