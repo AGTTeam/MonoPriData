@@ -54,7 +54,7 @@
 イメージチェンジ=The Makeover
 死神装束をなくした=The Missing Shinigami Robes
 姉妹の最終兵器=The Sisters' Ultimate Weapon
-決戦=Endgame#alternatives welcome, but can only be up to one letter longer. The limit is set by the ':noon/:night' save text, but alternatively if there are no other story events on day 6, "The Final Battle"/"The Decisive Battle" could be used instead. (Unless it causes a problem with the images.)
+決戦=The Decisive Battle
 !FILE:EV0000_000.bscr#intro conversation in the Death Room
 ちっすっ！うっす！！うい～すっ！！|みんな集まってもらって|ゴクロ～さんね♪=Hey! Hi! Hellooo!! Sorry for calling you all here so early♪
 おはようございます|死神様=Good morning, Lord Death.
@@ -3743,7 +3743,7 @@
 ほんとヤバイよ|何しやがったんだ　シュタイン！=That's really not cool, Stein! What the heck did you do to me!?
 ま　ぶっちゃけエブリバディ♪|これからもシクヨロ～！=Well, that's it everybody♪ See ya next time!
 !FILE:EV0601_400.bscr
-来たな！　ここは任せろ！|蟻一匹たりとも通しはせん！=Here they come! Leave 'em to me! Not a single ant is getting past me!
+来たな！　ここは任せろ！|蟻一匹たりとも通しはせん！=There you are! Leave this to me! Not a single ant is getting past me!
 お前達は先へ進め！|魔女をしとめろ！=You guys go on ahead! Bring the witch down!
 はい！=Right!
 !FILE:EV0601_401.bscr
@@ -9092,7 +9092,7 @@
 !FILE:EV1600_205.bscr#moved to common
 !FILE:EV1600_206.bscr#moved to common
 !FILE:EV1601_400.bscr
-来たな！　ここは任せろ！|蟻一匹たりとも通しはせん！=Here they come! Leave 'em to me! Not a single ant is getting passed me!
+来たな！　ここは任せろ！|蟻一匹たりとも通しはせん！=There you are! Leave this to me! Not a single ant is getting past me!
 お前達は先へ進め！|魔女をしとめろ！=You guys go on ahead! Bring the witch down!
 まかせとけ！！=Don't make me come back to save you!!
 !FILE:EV1601_401.bscr
@@ -14684,7 +14684,7 @@
 !FILE:EV2600_205.bscr#moved to common
 !FILE:EV2600_206.bscr#moved to common
 !FILE:EV2601_400.bscr
-来たな！　ここは任せろ！|蟻一匹たりとも通しはせん！=Here they come! Leave 'em to me! Not a single ant is getting past me!
+来たな！　ここは任せろ！|蟻一匹たりとも通しはせん！=There you are! Leave this to me! Not a single ant is getting past me!
 お前達は先へ進め！|魔女をしとめろ！=You guys go on ahead! Bring the witch down!
 まかせろ！=We won't let you down!
 !FILE:EV2601_401.bscr
