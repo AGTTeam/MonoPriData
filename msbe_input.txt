@@ -3687,7 +3687,7 @@
 !FILE:COMMON#EV0600_000 EV1600_000 EV2600_000
 あのグリモアって男が|黒幕だったんだね=So that Grimoire guy was the mastermind, huh?
 ヤツが|魔女をそそのかしてたんだな=That guy was manipulating the witch.
-じゃあ　魔女は　ポネラって子は|騙されていたってことですね=Then, Ponera was being deceived all along.#I think 'そそのか' has the nuance of manipulating someone young (who wouldn't know any better), which is where Tsubaki is going with this comment, but it sounds a bit weird for Tsubaki to say child when they appear to be a similar age. Alternatively, something like "Then, she probably had no idea what his true intentions were."?
+じゃあ　魔女は　ポネラって子は|騙されていたってことですね=Then Ponera was being deceived all along.#I think 'そそのか' has the nuance of manipulating someone young (who wouldn't know any better), which is where Tsubaki is going with this comment, but it sounds a bit weird for Tsubaki to say child when they appear to be a similar age. Alternatively, something like "Then, she probably had no idea what his true intentions were."?
 そうなるな=Looks like it.
 んじゃ|お話しして仲直りすればい～じゃん=So we talk to her and everything will be all better.
 そいつは無理だ|あの洞窟を見ただろ　あれだけの数の繭から|いつ化け物が生まれてもおかしくないんだ=That's not possible. You saw what was in that cave. If all those cocoons bear monsters, the party's over.#The Japanese doesn't mention a party. My original translation was "and we won't be having fun," but I like this version. I feel like it gives a little more flair. It feels more like Soul to me. Maybe I'm wrong though.
@@ -5693,7 +5693,7 @@
 !FILE:EV0966_042.bscr
 にゃんだか最近|カッコいいね～♪=You've been pretty cool cats recently♪
 あんたにほめられても|あんまり嬉しくないけど|一応　お礼を言っとくわ=I don't really care about any compliments I get from you, but I guess I should at least say thanks.
-これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, meow. Then you'll be even cooler♪
+これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, nya. Then you'll be even cooler♪
 けっこう　こういうのは|照れくさいもんだな・・・=You take it, Maka. I wouldn't be caught dead holding a thing like that.
 これからも|ずっとカッコいいままでいてちょうだいね♪=I hope you'll stay this cool forever♪
 !FILE:EV0966_046.bscr
@@ -9071,11 +9071,11 @@
 どうした　マカ！|その太い足首は　ただの飾りか！？|ひやっはははははは☆=What's wrong, Maka!? Are those cankles just for decoration!? Yahahahahahaha☆
 自業自得よ・・・=You reap what you sow...#Another yojijukugo.
 自分でやっておいて|言うのも　おかしな話だけど|大丈夫かしら？=I guess it sounds weird for me to say this now, but are you okay?
-モロに入ったわよ|これまでにない手ごたえだったわ・・・=That was a direct hit. I could really feel it in my hand as well...#I'm not sure about this. I'm reading it "That was a proper hit. It's the first time there's ever been so much feedback in my hand."
+モロに入ったわよ|これまでにない手ごたえだったわ・・・=That was a direct hit. I've never felt it in my hand like that before.#I'm not sure about this. I'm reading it "That was a proper hit. It's the first time there's ever been so much feedback in my hand."
 いいんです|気にしないでください・・・=It's okay. No need to worry.
 !FILE:EV1522_076.bscr
 自分でやっておいて|言うのも　おかしな話だけど|大丈夫かしら？=I guess it sounds weird for me to say this now, but are you okay?
-モロに入ったわよ|これまでにない手ごたえだったわ・・・=That was a direct hit. I could really feel it in my hand as well...
+モロに入ったわよ|これまでにない手ごたえだったわ・・・=That was a direct hit. I've never felt it in my hand like that before.
 いいんです|気にしないでください・・・=It's okay. No need to worry.
 !FILE:EV1522_077.bscr
 う～～ん・・・=Nnnnnghh...
@@ -11231,7 +11231,7 @@
 !FILE:EV1966_012.bscr
 にゃんだか最近|カッコいいね～♪=You've been pretty cool cats recently♪
 ほめられるのは久しぶりだわ・・・|私嬉しい・・・=It's been a while since I've received a compliment... Thank you...
-これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, meow. Then you'll be even cooler♪
+これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, nya. Then you'll be even cooler♪
 ようやく時代が俺様に|追いついてきたようだな|ひやっはははははは☆=It looks like the times have finally caught up with me. Yahahahahahaha☆
 これからも|ずっとカッコいいままでいてちょうだいね♪=I hope you'll stay this cool forever♪
 !FILE:EV1966_016.bscr
@@ -16697,7 +16697,7 @@
 !FILE:EV2966_012.bscr
 にゃんだか最近|カッコいいね～♪=You've been pretty cool cats recently♪
 うむ　問題ない=Hm. Sure.
-これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, meow. Then you'll be even cooler♪
+これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, nya. Then you'll be even cooler♪
 お返しはできないよ～|きゃはははは♪=Once we use it, we won't be able to give back the coolness. Kyahahaha♪
 これからも|ずっとカッコいいままでいてちょうだいね♪=I hope you'll stay this cool forever♪
 !FILE:EV2966_016.bscr
@@ -17210,13 +17210,13 @@
 !FILE:EV9961_127.bscr
 ・・・・・・・・・=.........
 !FILE:EV9961_200.bscr
-私に何か用かしら♪=You need little ol' me♪?
+私に何か用かしら♪=You need Blair, nya♪?
 !FILE:EV9961_201.bscr
 まだブレアに|用なのかしら？=Can I do anything else for you?
 !FILE:EV9961_205.bscr
-ブレアと|お話ししにゃい？=You want to talk to me, meow?
+ブレアと|お話ししにゃい？=You want to talk to me, nya?
 !FILE:EV9961_206.bscr
-もっとブレアと|お話ししにゃい？=You want to talk to me some more, meow?
+もっとブレアと|お話ししにゃい？=You want to talk to me some more, nya?
 !FILE:EV9961_207.bscr
 ・・・・・・・・・=.........
 !FILE:EV9962_000.bscr
