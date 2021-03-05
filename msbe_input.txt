@@ -2824,7 +2824,7 @@
 私のアルバム取って|逃げちゃったんです・・・=He took my album and ran off.
 アルバムですか・・・=A photo album?
 この頃　俺もよく|自分のアルバムを見るように|なりました・・・=Lately, I've been thinking about looking through an album of my own.
-そして過ぎ去ってしまった|過去を惜しんでいます・・・=That time is long passed. What I wouldn't give to go back...
+そして過ぎ去ってしまった|過去を惜しんでいます・・・=That time is long past. What I wouldn't give to go back...
 博士が感傷的になるなんて|キャラじゃねェんじゃねェか？=I didn't take you for the sentimental type.
 昔を思い返せば|誰でも感傷的になります・・・=Who doesn't get sentimental thinking about the past?
 ああ　昔に戻って|もう一度自分の体を|調べなおしたい・・・=Yes. I would kill to go back in time and experiment on my body once more...
@@ -16999,23 +16999,23 @@
 「Wiiリモコン」を引くように振ると|「後ろ」へすばやくバックステップできます=Pull back the Wiimote to quickly step back.
 では実際にステップワークを使って|移動をしてみましょう|満足したら「1ボタン」を押してください=Now, try using some of these footwork techniques. Once you're ready, press Button 1.
 !FILE:EV9907_030.bscr
-次は武器での攻撃の仕方です|「Aボタン」を押して攻撃を|してみましょう=Next on the list are weapon attacks. Press the A button to attack.
+次は武器での攻撃の仕方です|「Aボタン」を押して攻撃を|してみましょう=Next on the list are weapon attacks. Press the A Button to attack.
 テンポ良く「Aボタン」を押すと|コンビネーション攻撃が出せます=By pressing the A Button several times in a row, you can launch a|combo attack.
 では武器での攻撃を試してみてください|満足したら「1ボタン」を押してください=Why don't you give it a try? Once you've had enough, press Button 1.
 !FILE:EV9907_040.bscr
 今度はコンビネーション攻撃を|途中で変化させる方法です=You can also spice up your moves while executing a combo attack.
-２回目の攻撃中に「Wiiリモコン」もしく|は「ヌンチャク」を振りながら「Aボタン」|をテンポ良く押してみましょう=During your second attack, try shaking either the Wiimote or the Nunchuck while quickly pressing the A button.
+２回目の攻撃中に「Wiiリモコン」もしく|は「ヌンチャク」を振りながら「Aボタン」|をテンポ良く押してみましょう=During your second attack, try shaking either the Wiimote or the Nunchuck while quickly pressing the A Button.
 ではコンビネーション攻撃の変化を|試してみてください|満足したら「1ボタン」を押してください=Give the alternative combo attacks a try. Press Button 1 when you've had enough.
 !FILE:EV9907_050.bscr
 次は狙った相手を攻撃する|ロックオンの仕方です=Now, you'll learn how to target enemies. In other words, locking|on to them.
 では|練習相手を呼び出します=Okay, let's give you a training partner.
-ロックオンをするには「Bボタン」を押し|ます　「Bボタン」を押すと自分の一番|近くにいる相手をロックオンします=In order to lock on, press the B button. Once you do that, you will|lock on to the nearest enemy.
+ロックオンをするには「Bボタン」を押し|ます　「Bボタン」を押すと自分の一番|近くにいる相手をロックオンします=In order to lock on, press the B Button. Once you do that, you will|lock on to the nearest enemy.
 狙った相手の足元にはロックオンマークが|現れ　画面の左上にロックオンの文字が|表示されます=A marker will appear around the enemies feet and a "lock on" sign will be displayed to the upper-left.#must be kept short
-ロックオンをやめるには　もう一度|「Bボタン」を押します|ロックオンマークと文字が消えます=In order to stop locking on, press the B button again. This will cause the lock-on markers to disappear.#must be kept short
-「Bボタン」を繰り返し押すことで|一番近くにいる相手にすばやく攻撃する|ことができます=If you keep pressing the B button, you can quickly attack the enemies that are closest to you.
+ロックオンをやめるには　もう一度|「Bボタン」を押します|ロックオンマークと文字が消えます=In order to stop locking on, press the B Button again. This will cause the lock-on markers to disappear.#must be kept short
+「Bボタン」を繰り返し押すことで|一番近くにいる相手にすばやく攻撃する|ことができます=If you keep pressing the B Button, you can quickly attack the enemies that are closest to you.
 ロックオンをしている間はロックオンした|相手を中心にして移動します=When you lock on, your movements|will center around the enemy you've locked on to.
-「Aボタン」での攻撃も全てロックオン|した相手に行われます=The attacks you make with the A button will also be directed at that enemy.
-また「Zボタン」を押し続けるとカメラが|常にロックオンをしている相手のほうを|向くようになります=You can also hold down the Z button|to keep the camera focused on the locked-on enemy.
+「Aボタン」での攻撃も全てロックオン|した相手に行われます=The attacks you make with the A Button will also be directed at that enemy.
+また「Zボタン」を押し続けるとカメラが|常にロックオンをしている相手のほうを|向くようになります=You can also hold down the Z Button|to keep the camera focused on the locked-on enemy.
 では実際にロックオンを試してみてください|満足したら「1ボタン」を押してください=It's time to give the lock-on technique a try. Press Button 1 when you feel satisfied.
 !FILE:EV9907_060.bscr
 職人としての技術を覚えましたか？|では実際に戦ってみましょう=Did you memorize all the meister techniques? Let's test your skills|with a real battle.
@@ -18002,7 +18002,7 @@
 %_te決戦　昼=%_teEndgame: Noon
 %_te決戦　夕方=%_teEndgame: Dusk
 %_te決戦　夜=%_teEndgame: Night
-設定したい項目にポインターを|合わせて　Aボタンを押せば|設定を変更することができます=Hover the pointer over the settings you wish to configure and press the|A button.
+設定したい項目にポインターを|合わせて　Aボタンを押せば|設定を変更することができます=Hover the pointer over the settings you wish to configure and press the|A Button.
 サウンド出力のモノラル/ステレオを|設定します=Set the audio output to Mono/Stereo.
 メッセージと同時に再生されるボイスの|オフ/オンを設定します　メッセージのない|ボイスやムービーには適用されません=Set the message voice playback to On/Off. Does not apply to cutscenes and speech without text.
 メッセージ送りの自動オフ/自動オンを|設定します　一部のメッセージには|自動オフが適用されません=Set the text autoplay to Off/On. Certain text autoplay cannot be disabled.
@@ -18107,13 +18107,13 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 コマンドボタンを使えば|技の出し方が見れるぞ=You can review how to use techniques with the Command button.
 コマンドボタンを使えば|技の出し方が見れるわ=You can review how to use techniques with the Command button.
 コマンドボタンを使えば|技の出し方が見れるよ=You can review how to use techniques with the Command button.
-２連続攻撃|Ａボタンを連続して２回押します=2-hit Combo: Press the A button 2 times in succession.
-４連続攻撃|Ａボタンを連続して４回押します=4-hit Combo: Press the A button 4 times in succession.
-派生４連続攻撃|２連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate 4-hit Combo: After two hits, hold the A button, shake the Wiimote continuously, and press A again.
-６連続攻撃|Ａボタンを連続して６回押します=6-hit Combo: Press the A button 6 times in succession.
-派生６連続攻撃|４連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate ６-hit Combo: After four hits, hold the A button, shake the Wiimote continuously, and press A again.
-９連続攻撃|Ａボタンを連続して９回押します=9-hit Combo: Press the A button 9 times in succession.
-派生８連続攻撃|６連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate 8-hit Combo: After six hits, hold the A button, shake the Wiimote continuously, and press A again.
+２連続攻撃|Ａボタンを連続して２回押します=2-hit Combo: Press the A Button 2 times in succession.
+４連続攻撃|Ａボタンを連続して４回押します=4-hit Combo: Press the A Button 4 times in succession.
+派生４連続攻撃|２連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate 4-hit Combo: After two hits, hold the A Button, shake the Wiimote continuously, and press A again.
+６連続攻撃|Ａボタンを連続して６回押します=6-hit Combo: Press the A Button 6 times in succession.
+派生６連続攻撃|４連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate ６-hit Combo: After four hits, hold the A Button, shake the Wiimote continuously, and press A again.
+９連続攻撃|Ａボタンを連続して９回押します=9-hit Combo: Press the A Button 9 times in succession.
+派生８連続攻撃|６連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate 8-hit Combo: After six hits, hold the A Button, shake the Wiimote continuously, and press A again.
 -=-
 -=-
 -=-
