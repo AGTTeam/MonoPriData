@@ -10,9 +10,9 @@
 吸魂水特訓ステージ=Spiritual Training#Soul Sapping Water was just one letter too long
 彼がいない状況下=In His Absence
 ダミースターで・・・=Dummy☆Star...
-そして心の友へ・・・=For a friend...
+そして心の友へ・・・=For A Friend...
 間違い電話？=Phoney Calls?
-死神キッドの追試験=Kid's Make-Up Exam#I left out 死神 because I couldn't think of a way to make it sound natural without being really long.
+死神キッドの追試験=Make-Up Exam
 カエル大作戦=Frog Hunting
 メデューサ先生=Dr. Medusa
 黒血　その後の二人=In Black Blood
@@ -8451,7 +8451,7 @@
 今度こそ！=This time for sure!
 !FILE:EV1501_405.bscr
 ブラック☆スターの　輝きに|集まってしまうのは仕方ないわ|虫だけにね=I guess these guys can't help but to gather around your radiant shine. They're only bugs after all.
-お前　うまいコト言うな=That was... really profound.#from the tone of his voice, I think this is just an emphatic な
+お前　うまいコト言うな=...I hadn't thought of that. I like it!
 !FILE:EV1501_406.bscr
 なんだぁ？　ここは=What is this place?
 あっ！|ブラック☆スター　アレ！=Ah! Black☆Star, over there!
@@ -11599,7 +11599,7 @@
 マカにソウル|ブラック☆スターに椿とは|友達になったよ=Yes. There's Maka and Soul. And Black☆Star and Tsubaki.
 それだけなの？|他には？他には？=Is that all? Is there no one else? Anybody?
 リズにパティがいるよ=I have Liz and Patty.
-げ！私達を|そんなさみしいグループに|入れるんじゃない！=Heh!? Don't stick us in that lonely group!
+げ！私達を|そんなさみしいグループに|入れるんじゃない！=Heh!? Don't stick us in that desolate group!
 カウントすんなぁ～|コノヤロゥ！=You can't count us, silly!
 ま　数が問題じゃないからね|きっとキッドは深く友情を育む|タイプなんだね・・・=Well, the number isn't what counts. Kid is undoubtedly the type to develop deep friendships, yeah?
 リズにパティ|キッドをよろしく頼むよ！=Liz, Patty, I'm leaving Kid in your care!
@@ -11613,14 +11613,14 @@
 本当にマカ達と|ブラック☆スター達|だけなのか？=Is it really just Maka and Black☆Star's teams?
 うむ　そうだ|それとお前達二人だ！=Yes, that's right. Plus there's you two!
 だから　カウントすんなぁ～|きゃはははは！=You can't count us. Kyahahaha!
-あのな　死神様は|それを心配してんだよ=Hmm. Lord Death was worried about that.
+あのな　死神様は|それを心配してんだよ=You know, Lord Death is really worried about you.
 だから何をだ？=What's there to worry about?
 友達の数が|少ないっていってんだよ！=You barely have any friends!
 まだ四人しか友達が|できてないじゃねェか！？=How have you only made four friends so far!?
 うむ　問題ない|父上が言ったように|俺は量より質を求める=It's not a problem. It's like my father said. I prefer quality over quantity.
-だけど　本当に|あいつらはお前のこと|友達だと思ってるのかね？=But... do you really think those others honestly see you as a friend?
+だけど　本当に|あいつらはお前のこと|友達だと思ってるのかね？=But... do you really think those guys honestly see you as a friend?
 む　どういうことだ？=Hm? What are trying to say?
-だってお前　課外授業に|あんまり誘われねェじゃん=You're almost never invited to extracurricular classes.
+だってお前　課外授業に|あんまり誘われねェじゃん=Hardly anyone ever invites you to team up for extracurricular classes.
 誘われても|変な事が気になって|行けねェことも多いしよ=And even when you are invited, you never go 'cause you're always worried about some stupid little thing.
 それに神経質で|うるさいしね～=Plus you're really fussy and loud.
 まったく問題ない|真の友であるアイツらは|俺のそういう所も理解してくれている=It's really not a problem. They're true friends. And true friends will try to understand me.
@@ -11643,9 +11643,9 @@
 俺は友の力になりたいのだ！=I want to fight for my friends!
 わかったよ・・・=As you wish...
 おお　俺の友情力が|どうやら届いたようだな・・・|なんでも言ってくれ！=Oh! I can feel the power of friendship already. Tell me what I can do for you. Anything!
-友情力があるなら|俺様の目の前から消えてくれ！|それが友である俺の望みだ！=I'm going to close my eyes, and when I open them back up, you'll be nowhere to be seen! That's my wish from the power of friendship!
+友情力があるなら|俺様の目の前から消えてくれ！|それが友である俺の望みだ！=I'm going to close my eyes, and when I open them back up, you'll be gone! That's my wish as your friend!
 !FILE:EV2120_026.bscr
-友情力があるなら|俺様の目の前から消えてくれ！|それが友である俺の望みだ！=I'm going to close my eyes, and when I open them back up, you'll be nowhere to be seen! That's my wish from the power of friendship!
+友情力があるなら|俺様の目の前から消えてくれ！|それが友である俺の望みだ！=I'm going to close my eyes, and when I open them back up, you'll be gone! That's my wish as your friend!
 !FILE:EV2120_027.bscr
 あばよ　キッド！=See you later, Kid!
 ・・・・・・・・・=.........
@@ -11653,7 +11653,7 @@
 ええい　まだだ|俺の友情力は|こんなものではない！=No! Not yet! That wasn't the power of friendship!
 リズ　パティ|ついてこい！=Liz! Patty! Follow me!
 !FILE:EV2120_032.bscr
-友であるお前のために|俺が手助けを|してやろうではないか！=Is there anything I can do to help out my dear friend?
+友であるお前のために|俺が手助けを|してやろうではないか！=Is there anything I can do to help you out, my dear friend?
 リズちゃん　パティちゃん|こんにちは♪=Hi, Liz♪ Hi, Patty♪
 うっす！=Howdy!
 ちゅ～～す！=Hellooody!
@@ -11692,11 +11692,11 @@
 ったく|マカは人使いが荒ェよ！=Geez! She's such a slave-driver!
 俺のようなゴミだめ的存在に|手伝ってもらっても|マカ達は迷惑だろう？=You don't want a piece of garbage like me helping out. I'd probably just be an even bigger nuisance for Maka.
 はい？=What are...?
-ははは　何でもないよ|こっちの話　こっちの話・・・=Haha... Ignore him. It's nothing. It's nothing.
+ははは　何でもないよ|こっちの話　こっちの話・・・=Haha... Ignore him. It's nothing.|It's nothing.
 キッド君はねェ　ゴミじゃないよ♪|ゴミは「ニャー」って鳴くんだよ！|だからガンバろ！=Kid, you're not garbage♪ Garbage just sits there and stinks up the place. So don't give up!
 ゴミだめ的|存在ではないと？=Are you saying I'm not just a pile of garbage?
 ああ　もちろん！=Of course you aren't!
-さぁ～～て|手伝いをするとしよう！|マカはどこにいるんだ？=Well, then what are we standing around here for!? Where's this damsel in distress, Maka?
+さぁ～～て|手伝いをするとしよう！|マカはどこにいるんだ？=Well, then what are we standing around here for!? Where's this damsel in distress?
 あ　ああ=R-Right...
 マカならキッド達をさがしてるから|死武専の中をウロウロしてると思うぜ=Well, she's looking for you guys right now, so I'd say she's probably wandering around the DWMA.
 うむ　それでは|マカをさがすことにしよう=Yes. It's decided then. Let's look for Maka.
@@ -11704,12 +11704,12 @@
 マカならキッド達をさがしてるから|死武専の中をウロウロしてると思うぜ=Well, she's looking for you guys right now, so I'd say she's probably wandering around the DWMA.
 うむ　それでは|マカをさがすことにしよう=Yes. It's decided then. Let's look for Maka.
 !FILE:EV2120_051.bscr
-あ　ちょうどよかった|実はお願いがあるの・・・=Ah, perfect timing. I actually have a favor to ask.
+あ　ちょうどよかった|実はお願いがあるの・・・=Ah, perfect timing. I have a favor to ask.
 !FILE:EV2120_052.bscr
 ソウルから聞いてるよ|何を手伝えばいいんだ？=We heard from Soul. What can we do to help?
 これから私達に|同行してほしいの♪=How would you like to work together♪?
 やってみたい課題が|あったんだけど・・・=There was an assignment I wanted to take, but...
-他のチームを誘わないと|受けられないって|シド先生に言われたの=Sid told me that I won't be able to take it unless I invite another team along.
+他のチームを誘わないと|受けられないって|シド先生に言われたの=Mr. Sid told me that I won't be able to take it unless I invite another team along.
 どうするんだよ　キッド？=What do you think, Kid?
 うむ　友の願いは断れない|その件　しかと承知した！=Yes. I can't refuse a request from a friend. Consider it done!
 ほんと！？|助かるわ　キッド君=Really!? You're a lifesaver, Kid!
@@ -11742,7 +11742,7 @@
 だから　かも　だろ　かも！=So what? It might not! Might!
 お姉ちゃ～～ん♪|見て～～！=Siiiiiis♪ Looook!
 ごめんね～～！|今　お姉ちゃん|大事な話をしてるからね～～！=Sooorry! Sis is in the middle of an important conversation, okaaaay!?
-だから　キッド・・・|・・・消えやがった=As I was saying, Kid...|...He's gone.
+だから　キッド・・・|・・・消えやがった=As I was saying, Kid--|...He's gone.
 パティ！集合！=Patty! Time to go!
 ほぇ？どうしたの？|あれキッド君は？=Huh? What's wrong? Where's Kid?
 よくわかんないけど|何かが気になったらしくて|トンズラこきやがった！=I'm not sure. It looked like something was bothering him, and then that jerk ran off!
@@ -11753,8 +11753,8 @@
 ほぇ？どうしたの？|あれキッド君は？=Huh? What's wrong? Where's Kid?
 よくわかんないけど|何かが気になったらしくて|トンズラこきやがった！=I'm not sure. It looked like something was bothering him, and then that jerk ran off!
 !FILE:EV2120_067.bscr
-キッドのことだ|こだわりつづけてるうちに|日が暮れてしまう=This is just like Kid. He'll worry about some little thing for the entire day.
-そうなったら|合わせる顔がないね♪=And when that happens, he's too ashamed to show his face♪
+キッドのことだ|こだわりつづけてるうちに|日が暮れてしまう=This is just like Kid. While he's off worrying about some nonsense, the sun's going to set.
+そうなったら|合わせる顔がないね♪=And if that happens, he'll be too ashamed to even show his face♪
 !FILE:EV2120_072.bscr
 ねぇねぇ|キッド君を知らない？=Heya! Any idea where Kid is?
 あれ　マカちゃん達と|一緒じゃないの？=What? Isn't he with Maka and Soul?
@@ -11783,14 +11783,14 @@
 キッド君ですか？|見ませんでしたよ=Kid? I haven't seen him, no.
 !FILE:EV2120_092.bscr
 先生　キッドを見なかったか？=Doctor, have you seen Kid?
-キッド君|どこか悪いのかしら♪=Kid? Now where could he be hurt, I wonder♪
+キッド君|どこか悪いのかしら♪=Kid? Does he need a medical♪?
 いや　そういうわけじゃ|ないんだけどさ・・・=No. That's not really what I meant.
 せんせー　嬉しそうだね？=Doc, you look awfully happy.
 いやだわ|そんなことないわよ♪=No, not particularly♪
-今日の先生は|博士と同じニオイがする=She has the same scent as the professor today.#I'm not sure if the original Japanese here is saying she smells like THE professor (Stein) or A professor.
+今日の先生は|博士と同じニオイがする=You... kind of remind me of the professor today.
 !FILE:EV2120_096.bscr
 先生　キッドを見なかったか？=Doctor, have you seen Kid?
-キッド君|どこか悪いのかしら♪=Kid? Now where could he be hurt, I wonder♪
+キッド君|どこか悪いのかしら♪=Kid? Does he need a medical♪?
 いや　そういうわけじゃ|ないんだけどさ・・・=No. That's not really what I meant.
 !FILE:EV2120_102.bscr
 ねぇねぇ|キッド君を見なかった？=Hey, you haven't seen Kid around, have you?
@@ -11823,7 +11823,7 @@
 どうしたよ？|だまりこくっちまって？=What's wrong? You haven't said a word.
 ん？イヤ・・・|気のせいかもしれんが・・・=Hm? No... It's probably my imagination.
 もしかするとマカ達だけで|出かけてしまったのではないか？=Perhaps Maka and Soul went out on their own.
-まさか・・・優等生のマカに限って|そんなことはないだろう？|ブラック☆スターなら　ともかく・・・=Are you for real? Maka's a model student. You don't really think she'd do that, do you? If it were Black☆Star, sure, but...
+まさか・・・優等生のマカに限って|そんなことはないだろう？|ブラック☆スターなら　ともかく・・・=I doubt it. Maka's a model student. You don't really think she'd do that, do you? If it were Black☆Star, sure, but...
 いや　ガンコで無鉄砲な|マカの性格を考えたら|ありえん話ではない・・・=Think about it. As stubborn and reckless as Maka is, it wouldn't be out of character for her at all.
 !FILE:EV2120_115.bscr
 ・・・・・・・・・=.........
@@ -11832,7 +11832,7 @@
 ん？イヤ・・・|気のせいかもしれんが・・・=Hm? No... It's probably my imagination.
 もしかするとマカ達だけで|出かけてしまったのではないか？=Perhaps Maka and Soul went out on their own.
 !FILE:EV2120_117.bscr
-よし　行くぞ！=Alright, let's do it!
+よし　行くぞ！=Alright, let's go!
 !FILE:EV2120_122.bscr
 マカに課題を|出したのって　シド先生なのか？=Sid, you're the one who gave Maka her assignment, right?
 マカ達だけで|出かけてっちゃったみたいなの=It looks like Maka and Soul might have gone out on their own.
@@ -11848,7 +11848,7 @@
 結局　マカ達は|見つからなかったな・・・=In the end, we never even saw Maka and Soul.
 大丈夫かな・・・=I hope they're okay.
 お前達にはとても|言いにくいのだが|あえて言わせてもらうぞ・・・=This won't be easy to say, but let me be honest with you...
-マカ達は死武専にいる|というか　ず～っといた=Maka and Soul are at the DWMA. What I mean is... they've been here the whole time.
+マカ達は死武専にいる|というか　ず～っといた=Maka and Soul are at the DWMA. What|I mean is... they've been here the whole time.
 どういうことですか|先生？=What are you talking about?
 お前達を待っていたが|来なかったので|結局外には出かけなかったようだ=They waited for you for a while, but since you didn't show... It looks like they didn't leave the school after all.
 つまり　お前達が|マカ達をさがしている間|ずっと死武専にいたことになるな=While you guys were looking for them... they were here at the DWMA.
@@ -11860,22 +11860,22 @@
 お姉ちゃん・・・=Sis...
 マカ達に|あやまった方がよさそうだな・・・=We should probably apologize to Maka and Soul.
 !FILE:EV2120_136.bscr
-マカ達は死武専にいる|というか　ず～っといた=Maka and Soul are at the DWMA. What I mean is... they've been here the whole time.
+マカ達は死武専にいる|というか　ず～っといた=Maka and Soul are at the DWMA. What|I mean is... they've been here the whole time.
 !FILE:EV2120_142.bscr
 すまん！|お前達の課題を|横取りしてしまって！=Sorry! We really didn't mean to steal your assignment!
 全部このボンボンが悪いんだ！|煮るなり　焼くなり|すきにしてしまってくれ！！=It's all the spoiled rich kid's fault! Boil him, burn him. Please do whatever you want with him!!
-いや別に　気にしてねェよ♪|こっちは助かったぜ|ノンビリできたんだからな！=Nah, I don't really care♪ I got to take it easy for a while, so it was actually a big help!
+いや別に　気にしてねェよ♪|こっちは助かったぜ|ノンビリできたんだからな！=Nah, I don't really care♪ I got to take|it easy for a while, so it was actually a big help!
 ソウル君は　テキトーだね・・・=Wow. Soul is so carefree.
 ほら|問題ないではないか！=See? There's no problem here!
 うるさいから|ボンボンは黙ってろ！=You're so noisy! Shut up you rotten brat!
 !FILE:EV2120_146.bscr
 すまん！|お前達の課題を|横取りしてしまって！=Sorry! We really didn't mean to steal your assignment!
-いや別に　気にしてねェよ♪|こっちは助かったぜ|ノンビリできたんだからな！=Nah, I don't really care♪ I got to take it easy for a while, so it was actually a big help!
+いや別に　気にしてねェよ♪|こっちは助かったぜ|ノンビリできたんだからな！=Nah, I don't really care♪ I got to take|it easy for a while, so it was actually a big help!
 !FILE:EV2120_152.bscr
 すまん！|お前達の課題を|横取りしてしまって！=Sorry! We really didn't mean to steal your assignment!
 いいのよ　私|気にしてないから！=It's all right. I really don't mind!
 マカ・・・本当にいいのか=Maka... Is it really all right?
-先生に聞いたんだけど|私の事を心配してのこと|だったんでしょう？=I asked Sid about it. You were just worried about us, right?
+先生に聞いたんだけど|私の事を心配してのこと|だったんでしょう？=I asked Mr. Sid about it. You were just worried about us, right?
 そういう人達を|責められるわけないじゃない=How can I blame someone who was just trying to make sure I was all right?
 マカ・・・=Maka...
 残念なのは　みんなと|一緒に行けなかったことかな・・・=It is unfortunate that we weren't all able to go together, though.
@@ -11883,7 +11883,7 @@
 マカ　お前は|パティの次に　いい子だよぅ・・・=Maka, you're the sweetest kid after Patty, you know that?
 二番！二番！|きゃはははは！=Number two! Number two! Kyahahaha!
 ほら　言っただろう|問題ないではないか！=See? Didn't I say so? It wasn't a problem!
-たのむからボンボンは|黙っててくれないか・・・=Didn't I ask you to shut it, brat?
+たのむからボンボンは|黙っててくれないか・・・=Didn't I tell you to shut it, brat?
 !FILE:EV2120_156.bscr
 残念なのは　みんなと|一緒に行けなかったことかな・・・=It is unfortunate that we weren't all able to go together, though.
 今度は　一緒に行こうね！？=Let's be sure to go together next time, okay!?
@@ -12062,7 +12062,7 @@
 !FILE:EV2122_006.bscr
 私　ブラック☆スターにも|伝えるように言われてますから|そろそろ行きますね♪=He told me to pass the message on to Black☆Star as well, so I really should be going♪
 !FILE:EV2122_007.bscr
-しかし博士がキッドに|何の用なんだ？=So what does the professor want with you, Kid?
+しかし博士がキッドに|何の用なんだ？=What could the professor want with you, Kid?
 見当もつかん　とにかく|教室に行くしかあるまい=I haven't the slightest. At any rate, I guess I'll just have to head to the classroom.
 !FILE:EV2122_011.bscr
 待っていましたよ　キッド君=I've been waiting for you, Kid.
@@ -12075,11 +12075,11 @@
 もちろん君達にも|後で受けてもらいます=I, of course, want the both of you two take it again as well later.
 ですがキッド君に受けてもらう|追試は特別なのです・・・=However, Kid's exam was made... especially for him.
 特別？どういうことですか|博士？=Especially? What do you mean, Professor?
-前回の超筆記試験で|キッド君は０点でしたから|特別扱いします=On the previous Super Written Exam, you managed to score zero points, Kid. So I especially won't be giving you any special treatment.
+前回の超筆記試験で|キッド君は０点でしたから|特別扱いします=On the last exam, you scored exactly zero points, Kid. So I especially won't be giving you any special treatment.
 きゃはははは！|ある意味　特別だ♪=Kyahahaha! Only "especially" treatment here♪
 パティ　あんまり言うと|また　キッドの発作が|起こるからやめて・・・=Patty, keep it down. Stop before you cause Kid to have another fit.
 って　キッド！？|お前動じてないな？=Eh? Kid!? You don't seem to be bothered one bit.
-０は縦に切っても|横に切っても完璧な|シンメトリー・・・=Cut zero in half vertically or horizontally and it will always be in perfect... symmetry...
+０は縦に切っても|横に切っても完璧な|シンメトリー・・・=Cut zero in half vertically or horizontally and it will always be in perfect symmetry...
 この俺が　なぜ０を|嫌う必要があるのだ？=Why should I be bothered about a zero?
 それより　お前達は|何点だったのだ？=What about you two. How many points did you have?
 ２８点=Twenty-eight...
@@ -12090,7 +12090,7 @@
 追試の担当は|シドになりますので準備が|できたら　そこへ行ってください=Sid will be proctoring the make-up exam, so please go see him once you're ready.
 !FILE:EV2122_016.bscr
 早速ですが|追試を受けてください=I know it's sudden, but I need you to take a make-up exam.
-前回の超筆記試験で|キッド君は０点でしたから|特別扱いします=On the previous Super Written Exam, you managed to score zero points, Kid. So I especially won't be giving you any special treatment.
+前回の超筆記試験で|キッド君は０点でしたから|特別扱いします=On the last exam, you scored exactly zero points, Kid. So I especially won't be giving you any special treatment.
 !FILE:EV2122_017.bscr
 お姉ちゃん|キッド君の追試って|どこでやるんだっけ？=Sis, where's Kid's make-up test again?
 図書室だよ|試験官は　シド先生だって=In the library. And Sid's the examiner.
@@ -12098,12 +12098,12 @@
 ほぇ　キッド君|どうしたの？=Huh? Kid, what's wrong?
 シンメトリーでない|点数をとったら　どうしようかと・・・|それだけが心配だ・・・=What will I do if I get a score that isn't symmetrical? That's all I can think about.
 じゃあ　また|０点とったらいいと思うよ！|きゃはははは！=You could get a second zero to go with the first one! Kyahahaha!
-不毛な会話をしているヒマがあったら|はやく試験会場に行こうぜ=If you two have time for such pointless discussion, let's just get to the exam hall already.
+不毛な会話をしているヒマがあったら|はやく試験会場に行こうぜ=If you two have time for such pointless discussion, let's just get to the library already.
 !FILE:EV2122_021.bscr
 ひやっはははははは☆|遅かったなキッド！=Yahahahahahaha☆ You're late, Kid!
 !FILE:EV2122_022.bscr
 ブラック☆スター|お前も追試か！？=Black☆Star, you have to make up the test too!?
-あまりに前衛的すぎる回答が|凡人達には理解できなかったらしい=Apparently my answers were a little to avant-garde for an ordinary person to understand.
+あまりに前衛的すぎる回答が|凡人達には理解できなかったらしい=Apparently my answers were a little too avant-garde for an ordinary person to understand.
 どうやら時代を先行しすぎて|しまったようだ・・・=I guess I'm a little too far ahead of the times.
 ウソをつくな！|お前は問題を盗もうとしたから|０点になったのではないか！=Drop the act! You got a zero because you were caught trying to cheat!
 お前は　マジメに受けて|０点だったからな=What about you? You took the test for real and still got a zero.
@@ -12115,10 +12115,10 @@
 キッド君|がんばってね♪=You can do it, Kid♪
 うむ　問題ない=Yeah. This'll be easy.
 それではこれから|追試を開始する！=You may now begin the exam!
-キッド　テスト問題が|俺様の後光で見えなくなっても|恨むんじゃねぇぞ！=Kid, don't hold a grudge against me if you can't see the test questions because my genius is shining too bright!
+キッド　テスト問題が|俺様の後光で見えなくなっても|恨むんじゃねぇぞ！=Kid, don't hold a grudge against me if you can't see the questions because my genius is shining too bright!
 ひやっはははははは☆=Yahahahahahaha☆
 !FILE:EV2122_030.bscr
-選択問題：次の説明文が|正しければ「○」間違っていれば|「×」を選択するんだ=True or False: Listen to the following statements. If the statement is true, mark "o". If the sentence is false, mark "x".
+選択問題：次の説明文が|正しければ「○」間違っていれば|「×」を選択するんだ=True or False: Listen to the following statements. If the statement is true, mark "o". If false, mark "x".
 うむ　こんなところだろう！=That should be everything. Let's begin!
 問題=True or false...
 魂学の基本は|健全なる魂は　健全なる肉体と|健全なる精神に宿るが正しい？=The basis of soul studies is that a sound soul dwells within a sound mind and a sound body.#True O
@@ -12146,10 +12146,10 @@
 ご苦労さんだった|もう退席してもいいぞ=Thank you for you participation. You can leave when you wish.
 先生は　まだ|ここにおられるのですか？=Are you not leaving yet, Sid?
 俺はブラック☆スターの|再テストをせねばならん・・・=I have to proctor Black☆Star's remake-up test.
-ご苦労さまです　先生|申し訳ありませんが|そろそろ失礼します=I'm sorry for the inconvenience, Sid. I hope you don't mind, but please excuse me.
+ご苦労さまです　先生|申し訳ありませんが|そろそろ失礼します=I'm sorry for the inconvenience, Sid.|I hope you don't mind, but please excuse me.
 !FILE:EV2122_046.bscr
 俺はブラック☆スターの|再テストをせねばならん・・・=I have to proctor Black☆Star's remake-up test.
-ご苦労さまです　先生|申し訳ありませんが|そろそろ失礼します=I'm sorry for the inconvenience, Sid. I hope you don't mind, but please excuse me.
+ご苦労さまです　先生|申し訳ありませんが|そろそろ失礼します=I'm sorry for the inconvenience, Sid.|I hope you don't mind, but please excuse me.
 !FILE:EV2122_050.bscr
 テストの結果を発表する！=I will now announce the results from the test!
 ブラック☆スター！|デス・ザ・キッド！=Black☆Star! Death the Kid!
@@ -12192,11 +12192,11 @@
 まあいい　再テストは|随時受け付けてやる|準備ができたら　いつでも来い=Right. Well, the test is ready, so you can come back to take it again at any time.
 !FILE:EV2122_067.bscr
 キッド君どうだった？=How'd it go, Kid?
-うむ　問題ない|とりあえず合格した=Yeah, no problem whatsoever. I passed.
+うむ　問題ない|とりあえず合格した=Yeah, no problem whatsoever.|I passed.
 やったじゃないか|死神のお前ならば当然だよ=Awesome. Makes sense since you're a grim reaper.
 あの病気がなければ|超筆記試験だってトップ|だったと思うぜ！=If it weren't for that problem of yours, I'm sure you would've been the best on the Super Written Exam!
 もう追試は終わりなの？=So the make-up test is over?
-うむ　もう終わりだ|待たせてすまなかった=Yeah, it's over. Thanks for waiting for me.
+うむ　もう終わりだ|待たせてすまなかった=Yeah, it's over.|Thanks for waiting for me.
 それじゃあ　テストも|終わったことだしせっかくだから|パ～～ッといこうぜ！=Now that the test is finally finished, let's celebrate!
 私も賛成だよ♪=Yeah! Party♪
 うむ　それも悪くないな！=Hm. Why not!?
@@ -14882,10 +14882,10 @@
 わからん・・・正直見当がつかん・・・|もしかすると俺達は・・・=Don't know... I honestly couldn't say... Perhaps we...
 なぁキッド|やっぱりもう帰ろうぜ・・・=Hey, Kid. Maybe we should go back already.
 !FILE:EV2931_000.bscr
-結局マカ達は|見つからなかったな・・・=In the end, we never even saw Maka and Soul.
-心配だね　キッド君・・・=Are you worried about them, Soul?
-うむ・・・とにかく一度|戻るとしよう！= Yeah... Let's just go back for now!
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
+結局マカ達は|見つからなかったな・・・=In the end, we never found Maka and Soul.
+心配だね　キッド君・・・=Are you worried about them, Kid?
+うむ・・・とにかく一度|戻るとしよう！= Yeah... Let's just go back for now!
 !FILE:EV2931_001.bscr
 ブラック☆スター|どこにもいなかったね・・・=I didn't see Black☆Star anywhere.
 さすがに心配に|なってきたな・・・=I hate to admit it, but I'm starting to get worried.
@@ -15878,7 +15878,7 @@
 ずっちぃ～死神の手先がきたぜぇ～！|何の用だよぉ～？=Look! Lord Death sent me some after dinner entertainment! Now dance for me!
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? And where did you come from?
 次はオメーらの魂くれるのかよぉ？=It would seem your souls are next.
-!FILE:EV2938_100.bscr#Kid's mini-boss lines
+!FILE:COMMON#Kid's mini-boss lines
 鬼神の卵と化した魂を持つ者！|お前はここで仕留めてやる！！=Vile murderer whose soul has become a kishin egg!|I'm going to bring you down like the animal you are!!
 鬼神の卵と化した魂を持つ者！|お前の悪行もここまでだ！！=The evil doings that turned your soul into a kishin egg end here!!
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=Vile murderer whose soul has become a kishin egg!|The reaper is here for your soul!!
@@ -16359,7 +16359,7 @@
 魂の共鳴ッ！！=Soul Resonance!!
 オオォォォ・・・=OOoooh!
 !FILE:EV2951_000.bscr
-敵サンいっぱいだね～♪=There's so many bad guys♪
+敵サンいっぱいだね～♪=There's so many baddies♪
 !FILE:EV2951_001.bscr
 油断するなよ！キッド！=Don't get careless, Kid!
 !FILE:EV2951_002.bscr
@@ -16667,13 +16667,13 @@
 うむ・・・=Yeah...
 あれがありつつ・・・|これもある・・・後は・・・=Whenever you want to knock on death's door...
 父上の鏡番号|４２－４２－５６４・・・=42 - 42 - 564... Father's mirror number.
-もしもし父上　俺だよ=Hello, father. It's me.
+もしもし父上　俺だよ=Hello, Father. It's me.
 !FILE:EV2964_001.bscr
 キッド君　死神様を呼び出してよ♪=Give Lord Death a call, Kid♪
 うむ・・・=Yeah...
 あれがありつつ・・・|これもある・・・後は・・・=Whenever you want to knock on death's door...
 父上の鏡番号|４２－４２－５６４・・・=42 - 42 - 564... Father's mirror number.
-もしもし父上　俺だよ=Hello, father. It's me.
+もしもし父上　俺だよ=Hello, Father. It's me.
 !FILE:EV2964_050.bscr
 よし　行くぞ！=Alright, let's do it!
 気持ちはわかるんだけど|鏡のほうから失礼させてもらうよ♪=I understand how you feel, but please excuse me for staying in the mirror♪
@@ -16807,8 +16807,8 @@
 椿はあんなのと一緒にいて|よく平気だな・・・=It's a good thing Tsubaki is with that guy.
 椿を見ていると|正直　不憫でならない・・・=When I look at Tsubaki, I honestly feel kind of sorry for her.
 もっと女の地位を|向上させるために|がんばらなきゃな！=I have to do my best to improve the status of women!
-この際言わせてもらうけど|お前の果てしなくこだわり続ける|病気はなんとかなんねェのか？=I wouldn't normally tell you this, but sometimes I wonder if all those obsessions of yours are even real.
-死神のお前と違って|普通の武器の私らは|時間が有限なんだよ！=Unlike you, a grim reaper, we won't be normal weapons forever!
+この際言わせてもらうけど|お前の果てしなくこだわり続ける|病気はなんとかなんねェのか？=I wasn't going to mention anything, but can't you do something about your endless obsessing?
+死神のお前と違って|普通の武器の私らは|時間が有限なんだよ！=Unlike you, a grim reaper, we normal weapons only have a limited amount of time!
 誰もいないから|思い切って言うけど・・・=I only dare say it because there's no one else around, but...
 私もパティも|キッドとチームを組めること|結構　誇りに思ってるんだぜ！=I'm really proud that the three of us were able to create such a strong bond!
 昔から思っていたけど|お前の名前って|デス・ザ・キッドじゃん=I've been wondering about this for a long time, but Death the Kid isn't your real name, is it?
@@ -16825,7 +16825,7 @@
 ここってたしか|キッド君の好きな場所だったよね♪=This was definitely Kid's favorite spot♪
 これだけたくさん本があると|何が何だかわかんなくなってきちゃうね=I don't get what this place is for. All they've got is a bunch of books.
 私　ここもう飽きたから|他の場所へ行こうよ！=This place is boring. I'm going somewhere else!
-ここにいてもしょうがないから|他の場所へ行こうよ！=There's nothing to do here, so I'm going to go somewhere else!
+ここにいてもしょうがないから|他の場所へ行こうよ！=There's nothing to do here, so let's go somewhere else!
 誰もいないから|ちょっとさみしいよね♪=There's no one here, so it feels a little lonely♪
 もしかしてここって|好きな場所だったりするの？|いる意味がわかんないよ！=Does this happen to be your favorite place? I wonder what that says about you!
 もしかしてキッド君って|みんなに避けられてない？=Maybe everyone's avoiding you, Kid.
@@ -16875,7 +16875,7 @@
 そのとおりだよ|でもね・・・=That's true, but...
 あんまり　危険な所に|行かせるわけにはいかないよ=I can't just let you run off headfirst into danger, now can I?
 どこに　魔剣や魔眼が|ひそんでるか|わからないからね=You can never be sure where the Demon Sword or the Magic Eye might be lurking.
-死神様のご子息でも|特別扱いはしないよ|おばちゃんは=You may be the venerable son of Lord Death, but don't think that means you'll be receiving special treatment from Auntie.
+死神様のご子息でも|特別扱いはしないよ|おばちゃんは=You may be the venerable son of Lord Death, but don't think that means you'll be receiving special treatment!
 ケチだぞ～　おばちゃん=You're such a meany, Auntie.
 いえ|是非そうしてください=No. I would expect no different.
 とにかく　あんた達の魂に|ビンビンくるのがあったら|おばちゃんとこに　持ってきな=Anyway, if you find anything that resonates with your souls, come tell me about it.
@@ -16903,12 +16903,12 @@
 !FILE:EV2981_500.bscr
 死神のお前なら|誰かを誘わずに|出かけてもいいんじゃないか？=You're a grim reaper, so isn't it okay if you leave without inviting another team?
 そうはいかん|俺も死武専の学生|特別扱いはなるべく避けねば=I can't do that. As a student of the DWMA, I must avoid special treatment whenever possible.
-確か　二組ルールが出来たのって|マカ達が魔剣に襲われたから|だったよね？=I think they made the team-up rule because Maka and Soul were attacked by the Demon Sword.
+確か　二組ルールが出来たのって|マカ達が魔剣に襲われたから|だったよね？=They made the team-up rule because Maka and Soul were attacked by the Demon Sword, right?
 ああ　俺達も|注意しなければならん=Yeah. We need to be careful as well.
 キッド　もう一組のことなんだけど|マカ達が来てるぜ=Kid, since we still need another team, let's invite Maka and Soul.
-あれ　パティ？|私　どこで間違えたんだろ？=Hey, Patty? Where'd I screw up?
 うむ　それでは|誘って一緒に行くことにしよう=Right. We'll invite them to go with us.
 私に何か用ですか？=Do you need me for something?
+あれ　パティ？|私　どこで間違えたんだろ？=Hey, Patty? Were we not clear enough?#This line feels kind of strange. I've rearranged it in the order I saw it, but basically, it seems Kid agrees to invite Maka, and then Ox shows up. I don't really know why Liz addresses Patty here, unless it's a "what did I do to deserve this!?" kind of comment...
 !FILE:EV2981_600.bscr
 よし！|行こうぜ　キッド！=Come on! Onward, Kid!
 キッド！|土壇場でシンメトリーがどうとか|言い出すなよ・・・　って無理か=Kid, I swear I better not hear a single word about symmetry on this mission. Who am I kidding? He'll never manage.#土壇場 (soil, podium, place) was originally a platform made of dirt used to perform executions (decapitations) in the Edo period​. Now it just means the last/final moment.
@@ -17508,7 +17508,7 @@
 デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Death Scythe or Blair.
 ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our apartment, I've totally lost my cool while at home...
 誰か　あのネコ|もらってくれねェかな・・・=Does anybody want to take a cat off my hands?
-何回行っても|保健室って所は落ち着かねェぜ=No matter how many times I go there, I always feel terrible while I'm in the infirmary.
+何回行っても|保健室って所は落ち着かねェぜ=No matter how many times I go there, I always feel terrible while I'm in the infirmary.#seen
 あそこにいると|自分が本当に病人と思えてくるしよ=Whenever I'm there, I can't help but to start thinking I'm actually sick.
 俺がここにいることは|俺んとこのご主人様には内緒だぜ=I'm hiding out here to avoid my meister.#seen
 見つかると　手伝いやら|課題やらで色々めんどくせェからよ=If she finds me it'll be nothing but mission this and homework that!
@@ -17522,7 +17522,7 @@
 恥ずかしい話だけど|今でも私　たまに迷子に|なっちゃうんです・・・=It's a little embarrassing to admit, but I still get lost sometimes.
 たまに一人でいると|静か過ぎて困ってしまう時があるんです=Sometimes, when I'm alone and it gets really quiet, I start to panic.#seen
 それだけ普段が|騒がしいってことなんですけど・・・=I guess that's just because of how noisy it usually is.
-突然話を振られても|何を話していいのか困ってしまいます・・・=If you just suddenly start chatting to me, I never really know what to say...#seen
+突然話を振られても|何を話していいのか困ってしまいます・・・=If you just suddenly start up a conversation with me, I don't know what to say...
 今度　会う時までの|宿題にさせてください=I'll think about it and get back to you next time.
 最近　気づいたんですが|みんなブラック☆スターのステージ|本気でひいてるのね・・・=I just noticed it recently, but everyone's been playing along with Black☆Star's stage thing.#seen
 私　結構楽しみにしてるんだけど・・・|もしかしてズレちゃってます？=And I think it's fun and all, but...|I wonder if we might be taking it too far.
@@ -17717,8 +17717,8 @@
 パートナーがいないんじゃ|受けさせるわけにはいかないね=Your partner isn't with you, so I can't let you take anything.#Need to make this line work for both a single partner and Liz & Patty.
 全員揃ったら|おばちゃんとこにくるんだよ=Once you're all together, come visit me.
 !FILE:EV9981_011.bscr
-あんた達　どこか調子でも悪いのかい？|おばちゃん後ろから見てて|ヒヤヒヤしたよ=Are you kids hurt at all? Auntie was getting pretty nervous watching you from the sidelines.
-とにかく　ゆるさないからね|危険な所に行くのは=I can't stop you, but I don't approve of you going to such dangerous places.
+あんた達　どこか調子でも悪いのかい？|おばちゃん後ろから見てて|ヒヤヒヤしたよ=Are you kids all right? Auntie was getting pretty nervous watching you from the sidelines.
+とにかく　ゆるさないからね|危険な所に行くのは=I can't allow you to go anywhere dangerous in that state.
 !FILE:EV9981_020.bscr
 おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件は合格だよ！=Auntie has been watching you from behind for a while... You meet the requirements to take on this request!
 あんた達なら|簡単に終わらせちゃいそうだね|どうするんだい？=It seems you kids could finish this one easily. So what will it be?
@@ -17978,10 +17978,10 @@
 データがありません=No data.
 %_d[0]日目=Day %_d[0]
 %_d[0]%_d[1]/%_d[2]%_d[3]/%_d[4]%_d[5] %_d[6]%_d[7]:%_d[8]%_d[9]=   %_d[2]%_d[3]/%_d[4]%_d[5]/%_d[0]%_d[1] %_d[6]%_d[7]:%_d[8]%_d[9]
-%_te課外授業=%_teTutorial
-%_te課外授業　昼=%_teTutorial: Noon
-%_te課外授業　夕方=%_teTutorial: Dusk
-%_te課外授業　夜=%_teTutorial: Night
+%_te課外授業=%_teDWMA
+%_te課外授業　昼=%_teDWMA: Noon
+%_te課外授業　夕方=%_teDWMA: Dusk
+%_te課外授業　夜=%_teDWMA: Night
 %_te繭=%_teCocoon
 %_te繭　昼=%_teCocoon: Noon
 %_te繭　夕方=%_teCocoon: Dusk
@@ -18162,15 +18162,15 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 メデューサ先生　ブラック☆スター編=Dr. Medusa - Black☆Star
 メデューサ先生　キッド編=Dr. Medusa - Kid
 フィルムのコマを押すとシナリオが|再生されます|矢印を押せば　フィルムがスライドします=Use the arrows to cycle through the cinematics. Click on an image to view it.
-１日目　課外授業　マカ編|始まり=Day 1 - Tutorial - Maka - Beginning
-１日目　課外授業　マカ編|大量失踪事件の調査=Day 1 - Tutorial - Maka - Investigate the Case of Mass Disappearances
-１日目　課外授業　マカ編|調査報告=Day 1 - Tutorial - Maka - Investigation Report
-１日目　課外授業　ブラック☆スター編|始まり=Day 1 - Tutorial - Black☆Star - Beginning
-１日目　課外授業　ブラック☆スター編|大量失踪事件の調査=Day 1 - Tutorial - Black☆Star - Investigate the Case of Mass Disappearances
-１日目　課外授業　ブラック☆スター編|調査報告=Day 1 - Tutorial - Black☆Star - Investigation Report
-１日目　課外授業　キッド編|始まり=Day 1 - Tutorial - Kid - Beginning
-１日目　課外授業　キッド編|大量失踪事件の調査=Day 1 - Tutorial - Kid - Investigate the Case of Mass Disappearances
-１日目　課外授業　キッド編|調査報告=Day 1 - Tutorial - Kid - Investigation Report
+１日目　課外授業　マカ編|始まり=Day 1 - DWMA - Maka - Beginning
+１日目　課外授業　マカ編|大量失踪事件の調査=Day 1 - DWMA - Maka - Investigate the Case of Mass Disappearances
+１日目　課外授業　マカ編|調査報告=Day 1 - DWMA - Maka - Investigation Report
+１日目　課外授業　ブラック☆スター編|始まり=Day 1 - DWMA - Black☆Star - Beginning
+１日目　課外授業　ブラック☆スター編|大量失踪事件の調査=Day 1 - DWMA - Black☆Star - Investigate the Case of Mass Disappearances
+１日目　課外授業　ブラック☆スター編|調査報告=Day 1 - DWMA - Black☆Star - Investigation Report
+１日目　課外授業　キッド編|始まり=Day 1 - DWMA - Kid - Beginning
+１日目　課外授業　キッド編|大量失踪事件の調査=Day 1 - DWMA - Kid - Investigate the Case of Mass Disappearances
+１日目　課外授業　キッド編|調査報告=Day 1 - DWMA - Kid - Investigation Report
 ２日目　繭　マカ編|怪人事件の噂=Day 2 - Cocoon - Maka - Phantom Rumors
 ２日目　繭　マカ編|怪人事件の調査=Day 2 - Cocoon - Maka - Investigate the Phantom Case
 ２日目　繭　マカ編|調査報告=Day 2 - Cocoon - Maka - Investigation Report
@@ -18229,7 +18229,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
-切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
+切り裂きジャック%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_teマッドドッグを退治せよ！=%_teEliminate the Mad Dogs!
 遠吠えがうるさいと苦情が|殺到！%_dc[196,0,0]マッドドッグ%_dc[199,133,84]を|探し出し%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=We've had complaints of loud howling! Wrangle %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
 マッドドッグ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]5 %_dc[196,0,0]Mad Dogs%_dc[199,133,84]!
@@ -18274,7 +18274,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 職人の技術を使って|全ての敵をやっつけろ！=Use your Meister techniques to defeat the enemies!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
-切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
+切り裂きジャック%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25%_dc[199,133,84] Death Noirs%_dc[199,133,84]!
@@ -18282,7 +18282,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に敵を|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teDeath to Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84]| training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 5 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
