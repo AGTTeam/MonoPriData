@@ -821,7 +821,7 @@
 はぁん　雑魚なんか何匹いようが|この俺様の敵じゃねぇ～ぜ！=Hunh? Those small fry? It doesn't matter how many there are. They're|no match for me!
 そう簡単にすめばいいが・・・な=I hope they're really as harmless as you say...
 消えちまった魂=Don't forget the souls disappeared too.
-あれ？|そういえば　魂が消えちゃうって・・・|そんな噂あったよね　お姉ちゃん？=What? The souls disappeared... There was a rumor going around about that, wasn't there, sis?
+あれ？|そういえば　魂が消えちゃうって・・・|そんな噂あったよね　お姉ちゃん？=Hm? Disappearing souls... There was a rumor going around about that, wasn't there, sis?
 はい♪|じゃあ　授業を始めま～す=Okay♪ Time to start class!
 はい 今日の午前授業は|トライアル訓練です♪=This morning's class will be a Trial Practice session♪
 !FILE:EV0200_010.bscr
@@ -11445,8 +11445,8 @@
 !FILE:EV2100_100.bscr
 ハラへったぁ～|どこで　ランチにする？=I'm staaarving. Where're we going for lunch?
 !FILE:EV2100_300.bscr
-気になるなぁ・・・=Something's bothering me...
-なるなる♪|お手伝い　何だろぉ～=Bother, bother♪ What does he need assistance with?
+気になるなぁ・・・=Something's off...#this is in response to Sid saying that Lord Death needs assistance - EV0100_206
+なるなる♪|お手伝い　何だろぉ～=Off, off♪ What does he need assistance with?
 今朝　玄関の額縁が|右に曲がっていたような=This morning, was the picture frame by the front door... a little crooked?
 それかよ！=That's what's bothering you!?
 !FILE:EV2100_310.bscr
@@ -11455,7 +11455,7 @@
 ゴホン|頼みたいのは大量失踪事件の調査だ=Ahem. We've asked you here to investigate a case of mass disappearances.
 調査？|で　その失踪した人数は|偶数か　奇数か？=An investigation? Tell me, these missing persons, are there an even or an odd number of them?
 出た|そんなのどっちでも　いいだろ！=Typical. It doesn't matter if it's even or odd!
-よくない！|きっちり分けられない　奇数なら|やりたくない！=Of course it does! If it's an odd number that I can't divide perfectly, I won't do it!
+よくない！|きっちり分けられない　奇数なら|やりたくない！=Of course it does! If it's an odd number that I can't divide perfectly,|I won't do it!
 キッドは　相変わらずだね～♪=You're the same as ever, Kid♪
 最近　この手の事件が急増して|人手が足りなくてな=There's been a recent surge in the number of disappearances, and we're a little short on help.
 きゃはは！|アバウトな死神様の息子のクセに|細っかいよね=Kyahaha! Your dad is so lackadaisical, but you're still so sensitive, Kid.
@@ -11463,7 +11463,7 @@
 奇数だ=It's odd.
 ・・・・=....
 行った先にあるかもしんないよ|キッドが好きな　きっちりが=By the time we go it might be an even number like you want, Kid.
-そうか|それもそうだな=Hey, that's true.
+そうか|それもそうだな=Hm, that's true.
 !FILE:EV2100_311.bscr
 うい～すっ！！　おつかれさ～ん|君たちが引き受けてくれるのね～♪=Wazzaaa!! Thanks for coming. I could really use your help♪
 !FILE:EV2100_312.bscr
@@ -11476,7 +11476,7 @@
 特に問題は　なかったよ|無数の魂が　消えたこと以外は=Nothing of interest to report aside from all the souls that disappeared.
 ん？　魂が見つからない？|その犯人は　魂を食べていたわけじゃ|ないんですか？=Huh? The souls disappeared? You mean to say that he didn't eat them?
 それが　奴が消滅したとたんに|魂反応も　ドロ～ン=When that guy went down, there was no soul response left.
-うじゃうじゃいたヤツラも　ドロ～ン|みんな消えちまったよ=They were all there, and then "poof" they were gone.
+うじゃうじゃいたヤツラも　ドロ～ン|みんな消えちまったよ=And those pests that were there too. It was like "poof" and they were all gone.
 ふむ|それは妙だな=Hm. That's odd.
 ま　それならしょうがないね|三人とも今夜はゆっくり休んでちょうだい♪=Yep. Well, in that case, oh well♪ You three, please relax tonight, okay?
 わかった|父上=Understood, Father.
@@ -11489,14 +11489,14 @@
 ほっとけよ=Forget them.
 なんだか|妙な空気がしない？　この街=What is this? This town gives me the creeps.
 無数の魂反応がある・・・|なんだ？　一箇所に集まってるな=I'm sensing a large number of souls... What? They're all gathered together in a single location.
-え～と|あっちだぁ！=Um... There!
-急ぐぞ！=Quickly!
+え～と|あっちだぁ！=Um... There!#she points at a dead end	
+急ぐぞ！=Let's hurry this up!
 !FILE:EV2101_401.bscr
 わっ　わっ！　わっ？=Ah! Aah! AAahh!
-む！|お前達の顔は！=*Gulp* Your faces!
+む！|お前達の顔は！=Wha-!? Your faces!
 見事な　シンメトリーだ！=Marvelous! They're symmetrical!
 ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gehe! A meister and his magic weapons... Death sent his drones, huh?
-よく見ると　シンメトリーじゃないな|・・・虫酸が走るわ=Now that I look closer, they're not symmetrical... How repulsive.#虫酸が走る is an expression that means "to be disgusted; to be repulsed; to get the creeps" But the kanji for insect is contained within it, which leads to Liz's realization that they're bugs in the following line. I couldn't come up with a natural way to make that connection in English. I thought about "creepy crawlies", but it seemed like an odd choice for Kid to say.
+よく見ると　シンメトリーじゃないな|・・・虫酸が走るわ=Now that I look closer, they're not symmetrical... How repulsive.#虫酸が走る is an expression that means "to be disgusted; to be repulsed; to get the creeps" But the kanji for insect is contained within it, which leads to Liz's realization that they're bugs in the following line. I couldn't come up with a natural way to make that connection in English. I thought about "creepy crawlies", but it seemed like an odd choice for Kid to say. #Maybe 'It makes my skin crawl.', and Liz says something about them being creepy crawlies instead? I think it also works as it is though. 
 ああ・・・|虫だけにね=Oh... They're just bugs.
 うわっ|くだらねェー=Wah! Yucky!
 いや　そういうつもりじゃ・・・|くそ・・・ダメだ・・・死のう=No, they're totally asymmetrical... Damn... It's no good... This is the end.
@@ -11509,7 +11509,7 @@
 !FILE:EV2101_402.bscr
 ここだよ=Here it is.
 おお！|見事なシンメトリー　完璧だ！=Waah! What perfectly splendid symmetry!
-きゃはは！|キッド君　そればっか=Kyahaha! Kid is so obsessed.
+きゃはは！|キッド君　そればっか=Kyahaha! Kid never changes.
 まったくだよ|早く入ろうぜ=Seriously. Quick, let's get inside.
 !FILE:EV2101_403.bscr
 おお|中もいいじゃないか=Wow. The inside isn't half bad either.
@@ -11518,9 +11518,9 @@
 怪しいとすれば|あの祭壇しか　ないだろ=The only shady-looking thing is that altar.
 ぐるるるる・・・=Grrrrr...
 お姉ちゃん|お腹のムシが鳴いてる～|きゃはは=Sis, did you forget to feed your tumtum again? Kyahaha♪
-えっ！？　マジで！？|なってた！？=Huh!? Seriously!? It wasn't me!
+えっ！？　マジで！？|なってた！？=Huh!? Seriously! It wasn't me!
 うぐぁおおおお～！！|お　オメーら何しに来た！=Ugrrooohh!! Wh-Why have you come here!?
-犯人はお前か！=This must be the culprit!
+犯人はお前か！=You must be the culprit!
 そ　そういうおメーは・・・|ぶ　武器職人か=Th-That means... you're a w-weapon meister?
 な・・・なら|そっちのおメー達は・・・|ま　魔武器だな=Th-Then... you two are... m-magic weapons.
 いーわない=I'm not telling♪
@@ -11544,7 +11544,7 @@
 さ～て|奴が集めたっていう魂は　どこかな～？=Alrighty then. Where are all the souls that guy had?
 変だな・・・|魂の反応を　感じない・・・=Strange... I'm not sensing any souls now...
 どっこにもないよ～=Not anywhere?
-仕方ない|死武専に戻って　父上に報告しよう=No use standing around. Let's get back to the DWMA and report to father.
+仕方ない|死武専に戻って　父上に報告しよう=No use standing around. Let's get back to the DWMA and report to Father.
 !FILE:EV2101_450.bscr
 なんだか|妙な空気がしない？　この街=What is this? This town gives me the creeps.
 無数の魂反応がある・・・|なんだ？　一箇所に集まってるな=I'm sensing a large number of souls... What? They're all gathered together in a single location.
@@ -11895,12 +11895,12 @@
 !FILE:EV2121_002.bscr#間違い電話？ = Phoney Calls? - Part 20
 そういえばシド先生が|さっき帰ってきたみてえだな！=Did you hear? Apparently, Sid left and just came back a little while ago!
 何かの指令だったのか？=Was it for some kind of orders?
-おうよ！アイツ今回は|だいぶ苦戦したみてェだな！=Probably! Looked like he really had his back to the wall this time too!
+おうよ！アイツ今回は|だいぶ苦戦したみてェだな！=Probably. Looked like he really had his back to the wall this time too!
 シド先生ほどの人が苦戦とは・・・|これは事情を聞いてみねば|なるまい・・・=Someone like Sid with his back to the wall? I'll have to ask what this is all about.
 !FILE:EV2121_006.bscr
 そういえばシド先生が|さっき帰ってきたみてえだな！=Did you hear? Apparently, Sid left and just came back a little while ago!
 何かの指令だったのか？=Was it for some kind of orders?
-おうよ！アイツ今回は|だいぶ苦戦したみてェだな！=Probably! Looked like he really had his back to the wall this time too!
+おうよ！アイツ今回は|だいぶ苦戦したみてェだな！=Probably. Looked like he really had his back to the wall this time too!
 !FILE:EV2121_012.bscr
 おう　キッド達|じゃないか！=Oh! If it isn't Kid's team!
 先生　苦戦されたようですが|一体何があったのですか？=Sid, I heard you were struggling, but... what in the world with?
@@ -11908,14 +11908,14 @@
 父上が|どうかしましたか？=Father? What do you mean?
 急に死神様への連絡が|とれなくなったのだ・・・=It's been impossible to get a hold of Lord Death all of a sudden.
 今回は　あやうくそれで|トラブルところだったぞ・・・=I was this close to getting in trouble because of it.
-それは　おかしいですね|父上に聞いてみることにします=How odd. I think I'm going to pay father a visit.
+それは　おかしいですね|父上に聞いてみることにします=How odd. I think I'll go and pay him a visit.
 頼んだぞ！|死神様に万が一のことなど|ないとは思うが・・・=Thanks! I doubt anything terrible has happened to him, but...
 キッド！=Kid!
-うむ|父上の所に行くとしよう=Yeah. Let's go see father.
+うむ|父上の所に行くとしよう=Yeah. Let's go see Father.
 !FILE:EV2121_016.bscr
 頼んだぞ！|死神様に万が一のことなど|ないとは思うが・・・=Thanks! I doubt anything terrible has happened to him, but...
 !FILE:EV2121_017.bscr
-おもしろそうだから|先に行ってるねキッド君！=I'm too excited! I'm gonna go now, Kid!
+おもしろそうだから|先に行ってるねキッド君！=This could be fun! I'm gonna go on ahead, Kid!
 あ　コラ！待たんか！=Hey! Hold on! Wait!
 !FILE:EV2121_020.bscr
 死神様|鏡に映ってないな？=There's no reflection of Lord Death in the mirror.
@@ -11925,21 +11925,21 @@
 父上の鏡番号|４２－４２－５６４・・・=42 - 42 - 564... Father's mirror number.
 話し中・・・みたいだな？=Sounds like... a busy signal?
 こっちでもダメか・・・=That's no good either.
-きっと出かけてるんだよ|死神様　いつも鏡の中だと|飽きちゃうからね♪=Maybe Lord Death went out to get some fresh air. He's must be tired of always being cooped up in that mirror♪
+きっと出かけてるんだよ|死神様　いつも鏡の中だと|飽きちゃうからね♪=Maybe Lord Death went out to get some fresh air. He must be tired of being cooped up in that mirror♪
 死神様が外出ねェ|その線が一番薄いと|思うんだけどな・・・=Lord Death going out for fresh air? That sounds like the least likely explanation.
-父上だって|たまには外出することもあるだろう=Even father must go out from time to time.
+父上だって|たまには外出することもあるだろう=Even Father must go out from time to time.
 お前もそれで|納得しちゃうのかよ・・・=Don't tell me you're really convinced.
 !FILE:EV2121_025.bscr
 それよりも　これから|どうするの？=Well, what should we do now?
 !FILE:EV2121_026.bscr
 死神様が外出ねェ|その線が一番薄いと|思うんだけどな・・・=Lord Death going out for fresh air? That sounds like the least likely explanation.
-父上だって|たまには外出することもあるだろう=Even father must go out from time to time.
+父上だって|たまには外出することもあるだろう=Even Father must go out from time to time.
 !FILE:EV2121_027.bscr
 もりあがって|きやがったな　コリャ！=This is getting more and more exciting!
 !FILE:EV2121_032.bscr
 死神様に何かあったの？=Did something happen to Lord Death?
 マカも連絡が|とれなかったのか・・・=You've been unable to contact him as well, Maka?
-そうなの　死神様に|何か手伝えることがないか|聞きたかったんだけど・・・=Yeah. I wanted to ask Lord Death if I couldn't help him with something, but...
+そうなの　死神様に|何か手伝えることがないか|聞きたかったんだけど・・・=Yeah. I wanted to ask Lord Death if I could help him with something, but...
 マカはマジメだな|ちょっとくらいのんびりしろよ=You're so serious, Maka. You don't have to live your whole life in the fast lane.
 うん　そう思ったんだけど　だめなの|やっぱり私動いてないとダメみたい=Yeah, I thought about that, but it's no good. I feel like have to be constantly moving.
 まるでサメだな|きゃはははは！=Like a shark. Kyahahaha!
@@ -11960,7 +11960,7 @@
 でも　これでしばらく|怒られることもなくなりそうですね♪=But I won't let it make me angry for now♪
 !FILE:EV2121_052.bscr
 死神様に何かあったのか？=Did something happen to Lord Death?
-まだ　父上と連絡は|とれないのですか？=You still haven't been able to get a hold of father?
+まだ　父上と連絡は|とれないのですか？=You still haven't been able to get a hold of Father?
 そうなのだ　死神様に|報告ができなくて困っている・・・=No, not yet. What do I do if I can't report to Lord Death?
 大変だね・・・=Poor thing...
 生前の俺は報告を|欠かさない　そんな男だった・・・=When I was alive, I never failed to file a report. That's the kind of man I was.
@@ -11983,13 +11983,13 @@
 何をですか先生=Heard what, Doctor?
 イタズラの報告が|死神様の所に集中|しちゃってるみたいなの=Apparently, Lord Death has been receiving a large number of prank calls.
 だから　今|死神様に連絡しようにも|なかなかつながらないらしいのよ・・・=And now it looks like just getting in touch with him has become near impossible.
-それで　さっきは|つながらなかったんだ・・・=Then you haven't been in contact with him for some time...
+それで　さっきは|つながらなかったんだ・・・=So that's why we couldn't reach him before...
 まったく　誰がこんな|イタズラをしてるのかしら？=Honestly, who in their right mind would pull such a prank?
-死武専には　敵対勢力が多いので|特定することは困難です=The DWMA has many enemies, so it will be difficult to pinpoint the culprit.
+死武専には　敵対勢力が多いので|特定することは困難です=The DWMA has many enemies, so it|will be difficult to pinpoint the culprit.
 そうね　確かにそのとおりだわ|特定するのは困難よね・・・=Yes. It's as you say. It'll be quite difficult to pinpoint.
 !FILE:EV2121_076.bscr
 まったく　誰がこんな|イタズラをしてるのかしら？=Honestly, who in their right mind would pull such a prank?
-死武専には　敵対勢力が多いので|特定することは困難です=The DWMA has many enemies, so it will be difficult to pinpoint the culprit.
+死武専には　敵対勢力が多いので|特定することは困難です=The DWMA has many enemies, so it|will be difficult to pinpoint the culprit.
 そうね　確かにそのとおりだわ|特定するのは困難よね・・・=Yes. It's as you say. It'll be quite difficult to pinpoint.
 !FILE:EV2121_077.bscr
 キッド　もう一度|デスルームに行こう=Kid, let's try the Death Room one more time.
@@ -12019,8 +12019,8 @@
 !FILE:EV2121_086.bscr
 まったく　まいったよ・・・=I'm at my wit's end.
 !FILE:EV2121_092.bscr
-イタズラを|何とかしてよ～！=Do something about the prank!
-イタズラ？何のですか？=Prank? What prank?
+イタズラを|何とかしてよ～！=Do something about the pranks!
+イタズラ？何のですか？=Pranks? What pranks?
 イタズラの報告が死神様に|集中しちゃって　連絡が|取りにくくなってるんだ・・・=Lord Death's been getting like a ton of prank calls, and now nobody can get in touch with him.
 うむ　それで|みんな困っている=Yes. It's become quite the nuisance for everyone.
 イタズラしてくる奴が使っている|鏡の特定はできてるらしいんだ|着拒とかできないかな？=We think we know what mirror that jerk is prank calling from. Is there any way we can block it?
@@ -12036,12 +12036,12 @@
 助かったよ　キッド|ありがとさ～ん♪=You were a great help, Kid. Me thanks you♪#The incorrect grammar was intentional to make it sound more playful.
 それはよかった|これで父上への連絡も|スムーズに行える！=It was my pleasure. And now contacting you should go smoothly, Father!
 それにしても|誰がイタズラを|してたんだろうな？=But I still can't help but wonder who was the one pulling the prank.
-新たな敵対勢力の出現か・・・|いままでこんなことを仕掛けてくる|やつらはいなかった・・・=Has a new opposition sprung up somewhere? Until now no one has ever tried something like this.
+新たな敵対勢力の出現か・・・|いままでこんなことを仕掛けてくる|やつらはいなかった・・・=Has a new enemy group sprung up somewhere? Until now no one has ever tried something like this.
 単にイタズラだと思うぜ|敵対勢力にしちゃあ|やり方がセコすぎる・・・=I'm sure it was just a simple prank. It's too small-minded to be some sort of opposition.
 考えすぎだよキッド君|また変になっちゃうよ=You're thinking too much, Kid. You're being weird again.
 私もそう思うよ～ん♪=I agreeee♪
-みんながそういうならば|今は考えるのをやめよう！=If everyone's in agreement, I guess I'll leave it alone for now!
-ただ　この件は家に帰ってから|じっくりと話し合わせてもらう！=But once we get back home, we're going to retrace the incident step by step to make sure we didn't miss any clues!
+みんながそういうならば|今は考えるのをやめよう！=If everyone's in agreement, I guess I'll leave it alone for now.
+ただ　この件は家に帰ってから|じっくりと話し合わせてもらう！=But once we're home, we're going to retrace the incident step by step to make sure we didn't miss any clues!
 リズ　パティ|わかったな！=You hear me, Liz? Patty?
 えっ！|・・・マジで=What!? ...Really?
 キッド君|おーぼー！=You're such a tyrant, Kid!
@@ -12124,16 +12124,16 @@
 職人の最高ランクは|三つ星職人である？=The highest possible rank for a meister is three stars.#True O
 職人と武器で行う|魂の波長を増幅させる行為を|魂の共感という？=The act of a meister and weapon amplifying their soul wavelengths is known as Soul Response.#False X
 暗殺者の心得である|暗殺道は五か条からなる？=The guidelines for the ways of an assassin consist of five articles.#False X
-武器がデスサイズになるには|９９９個の鬼神の卵と化した魂と|１個の魔女の魂が必要である？=A magic weapon needs 99 kishin egg souls and one witch soul to become a Death Scythe.#True O
-シュタインの魂にはツギハギがない？=Stein does not have a patchwork soul.#False X
-メデューサ先生の髪は|左巻きである？=Doctor Medusa's hair is wrapped counterclockwise.#True O
+武器がデスサイズになるには|９９９個の鬼神の卵と化した魂と|１個の魔女の魂が必要である？=A magic weapon needs 999 kishin egg souls and one witch soul to become a Death Scythe.#True O
+シュタインの魂にはツギハギがない？=Stein does not have a patchwork soul.#False X not used
+メデューサ先生の髪は|左巻きである？=Doctor Medusa's hair is wrapped counterclockwise.#False X
 超筆記試験でリズの点数は|２９点である？=On the Super Written Exam, Liz scored 29 points.#False X
 エクスカリバーはブリテン島|北部の洞窟にある？=Excalibur rests in a cave in the northern British Isles.#True O
 魔女達は複数の|魂をもっている？=Witches have more than one soul.#False X
 魔女達の女王の名は|魔婆である？=The Queen of the Witch Order is named Maba.#True O
-上級の魔女が魂反応を|消してしまう特技は|ソウル・プロテクトである？=Soul Protect is a high-level spell that is capable of disguising a witch's soul.#True O
-魔女達の目的は|９９個の善人の魂と|１個の死神の魂を集めること？=A witch's objective is to gather 99 souls of virtuous people and the soul of a grim reaper.#False X
-魔女達の集会のことを|魔女ミサという？=The gathering of witches is known as Witch Mass.#True O
+上級の魔女が魂反応を|消してしまう特技は|ソウル・プロテクトである？=Soul Protect is a high-level spell that is capable of disguising a witch's soul.#True O not used
+魔女達の目的は|９９個の善人の魂と|１個の死神の魂を集めること？=A witch's objective is to gather 99 souls of virtuous people and the soul of a grim reaper.#False X not used
+魔女達の集会のことを|魔女ミサという？=The gathering of witches is known as Witch Mass.#True O not used
 うむ　こんなところだろう！=That should be everything.
 !FILE:EV2122_040.bscr
 それでは　これから|テストの結果を発表する=Alright. I'll now be announcing the results.
@@ -14987,7 +14987,7 @@
 出てくる前|ちゃんと確認したじゃねーか|自信持てよ=Didn't you triple-check before we left? Trust yourself.
 くそっ　それでも気になる・・・|早々にミッションを終わらせ|帰って確認しなければ=Damn. I can't get it off my mind... I have no choice but to go home and make sure as soon as the mission is over.
 しかし　どうしたことだ・・・|死武専の備品が壊れて|ないか急に心配になってきた=But something's wrong... I'm worried that one of the DWMA's chairs might have a squeaky wheel.
-大丈夫だよ　みんな|キッド君がうるさいから|そんな事絶対にしないと思うよ♪=It's okay, Kid. Everyone knows how annoying you get, so I doubt there's any way they wouldn't fix it immediately♪
+大丈夫だよ　みんな|キッド君がうるさいから|そんな事絶対にしないと思うよ♪=It's okay, Kid. Everyone knows how annoying you get, so I doubt they'd let that slide♪
 む・・・それもそうだな=Hm... I guess that's true, yeah.
 しかし　俺はなぜ|トイレの紙が気になってる・・・|三角に折るのを忘れたのか？=Why am I worried about the toilet paper all of a sudden? I didn't forget to do the three-corner fold, did I?
 また始まった・・・|パティに鶴の一声|かましてもらうか　キッド？=Are you starting that again? Do I need to have Patty talk in that special way she has, Kid?
@@ -15020,7 +15020,7 @@
 !FILE:COMMON
 そういえば　マカ達の姿が|見当たらないようだが？=By the way, do you see any signs of Maka and Soul around anywhere?
 ・・・とにかく今は|やるべきことに集中しよう！|いくぞ　リズ　パティ！=...Anyway, let's focus on what we should be doing! Liz, Patty, let's go!
-うむ・・・少々の不安は残るが|概ね問題なしか・・・|では　先に進むことにしよう！=Right... I'm still a little uneasy, but it should be fine... Alright, let's keep going!
+うむ・・・少々の不安は残るが|概ね問題なしか・・・|では　先に進むことにしよう！=Right... I'm still a little uneasy, but it should be fine... All right, let's keep going!
 !FILE:EV2932_030.bscr
 あり？|はぐれちゃったみたいだね？=Huh? It looks like they wandered off somewhere.
 どうせケンカだよ|放っておいてとっとと行こう♪=They're probably arguing. We should just leave them alone♪
@@ -15141,7 +15141,7 @@
 よし　それでは帰るとするか=All right. Ready to head home?
 さて・・・|学校へ戻るぞ！=Well, let's get back to the school!
 よし！|では早速　報告に学校へ戻るぞ！=Okay! Let's hurry and report back to the school!
-ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost like a child? I give up. We'll go back on Beelzebub.
+ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost? I give up. Let's go back on Beelzebub.
 よし|今日は休憩しながら帰るぞ！=Great! Let's relax on the way back!
 そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=Look at that. It's not too often we have enough time to hang out a little and still make it back on time.
 そうだな・・・|今日は　観光しながら帰るとするか=Well, well... How about a little sightseeing on the trip back home?
@@ -15462,7 +15462,7 @@
 やったぁ！=All right!
 パティ　なかなか|いい調子だぞ！=Looking great, Patty!
 よしっ！満足の出来だな！！=All right! A satisfactory result, huh!?
-ずいぶんと骨のない奴だったな=What a sorry excuse of an enemy.
+ずいぶんと骨のない奴だったな=What a sorry excuse for an enemy.
 よわっちかったなー！=He was such a weakling!
 気持ち悪～い奴！=That guy was so unpleasant!
 気分が悪い・・・|今日はさっさと引き上げるぞ！=I don't feel well... Let's not waste any time going back today!
@@ -15477,7 +15477,7 @@
 だったな！=He was all bark!
 案外弱い奴だったな=He was weaker than expected.
 まぁ私らがそれだけ強くなったって|ことだろ？=Well, that just means we've gotten really strong, doesn't it?
-ずいぶんと骨のない奴だったな=What a sorry excuse of an enemy.
+ずいぶんと骨のない奴だったな=What a sorry excuse for an enemy.
 毎回これぐらいだと楽でいいんだけどな=I hope it's this easy every time.
 うむ　問題ない=Hmph. Just as I planned.
 まったく！|アシンメトリーは虫酸が走るわっ！！=Damn! The asymmetry! It's bugging me!!
@@ -15550,7 +15550,7 @@
 よし　それでは帰るとするか=All right. Ready to head home?
 さて・・・|学校へ戻るぞ！=Well, let's get back to the school!
 よし！|では早速　報告に学校へ戻るぞ！=Okay! Let's hurry and report back to the school!
-ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost like a child? I give up. We'll go back on Beelzebub.
+ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost? I give up. Let's go back on Beelzebub.
 よし|今日は休憩しながら帰るぞ！=Great! Let's relax on the way back!
 そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=Look at that. It's not too often we have enough time to hang out a little and still make it back on time.
 そうだな・・・|今日は　観光しながら帰るとするか=Well, well... How about a little sightseeing on the trip back home?
@@ -16367,7 +16367,7 @@
 !FILE:EV2951_003.bscr
 なんだ？コイツら？=What? These guys again?
 !FILE:EV2951_004.bscr
-キッド君！何か出たよぉ！=Kid, there's something there!
+キッド君！何か出たよぉ！=Here they come, Kid!#Sometimes you can't see the enemies clearly but others you can, so 'something' just doesn't feel right.
 !FILE:EV2951_010.bscr
 そっちじゃないよ～！=Not there!
 !FILE:EV2951_011.bscr
@@ -16920,7 +16920,7 @@
 さて　もう一組は誰にするかな=Now then, we still need to partner up with someone.
 キッド|マカ達がいるぜ・・・=Look, Kid. There's Maka and Soul...
 キッド君|ブラック☆スター達がいるよ・・・=Kid. It's team Black☆Star...
-・・・おい|アレなんだ？=...Hey, what about them?
+・・・おい|アレなんだ？=...What is he doing here?#Ox. Couldn't think of something to match the Japanese here, but Liz looks mm... unhappy? xD
 うむ　それでは|誘って一緒に行くことにしよう=Right. We'll invite them to go with us.
 !FILE:EV2981_700.bscr
 オッス=Hey!
@@ -17037,7 +17037,7 @@
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_502.bscr
 皆さん|準備はいいですか？=Are you all ready?
-ほ～～い♪=Okey-dokey♪
+ほ～～い♪=Ready steady♪
 さあ|魂の共鳴の仕方を覚えましょう=Now, let's go over how to use Soul Resonance.
 魂を共鳴させるためには敵を攻撃します|攻撃すればするほど共鳴度は上がります=Attack enemies to build Soul Resonance. Each successful attack|will increase the Resonance Gauge.
 共鳴度が上がると足元にソウルリングが現れ|職人の攻撃力がパワーアップします|攻撃をやめると共鳴度は下がります=Once the Resonance Gauge is full, a Soul Ring will appear at your feet, and your attack power will increase.#must be kept short. This scene has no voice acting, so I moved the next sentence down.
@@ -17506,7 +17506,7 @@
 なんか　あんまりいい気分がしねェな・・・=That doesn't really make me feel great about myself.
 もう少しマカも|大人になってくんねェかな・・・=I wish Maka could grow up a little.
 デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Death Scythe or Blair.
-ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our apartment, I've totally lost my cool while at home...
+ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our apartment, I've totally lost my cool while at home...#seen
 誰か　あのネコ|もらってくれねェかな・・・=Does anybody want to take a cat off my hands?
 何回行っても|保健室って所は落ち着かねェぜ=No matter how many times I go there, I always feel terrible while I'm in the infirmary.#seen
 あそこにいると|自分が本当に病人と思えてくるしよ=Whenever I'm there, I can't help but to start thinking I'm actually sick.
@@ -17522,7 +17522,7 @@
 恥ずかしい話だけど|今でも私　たまに迷子に|なっちゃうんです・・・=It's a little embarrassing to admit, but I still get lost sometimes.
 たまに一人でいると|静か過ぎて困ってしまう時があるんです=Sometimes, when I'm alone and it gets really quiet, I start to panic.#seen
 それだけ普段が|騒がしいってことなんですけど・・・=I guess that's just because of how noisy it usually is.
-突然話を振られても|何を話していいのか困ってしまいます・・・=If you just suddenly start up a conversation with me, I don't know what to say...
+突然話を振られても|何を話していいのか困ってしまいます・・・=If you just suddenly start up a conversation with me, I don't know what to say...#seen
 今度　会う時までの|宿題にさせてください=I'll think about it and get back to you next time.
 最近　気づいたんですが|みんなブラック☆スターのステージ|本気でひいてるのね・・・=I just noticed it recently, but everyone's been playing along with Black☆Star's stage thing.#seen
 私　結構楽しみにしてるんだけど・・・|もしかしてズレちゃってます？=And I think it's fun and all, but...|I wonder if we might be taking it too far.
@@ -18237,7 +18237,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
-戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
+戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Finishing Strike!
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause behind the recent mass disappearances!
@@ -18264,7 +18264,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
-戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
+戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Finishing Strike!
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause behind the recent mass disappearances!
@@ -18291,7 +18291,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_te共鳴の心得=%_teResonance Guide
-戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight! Soul Resonance will allow you to use a Finishing Strike!
+戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Finishing Strike!
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause behind the recent mass disappearances!
