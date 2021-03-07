@@ -2281,7 +2281,7 @@
 !FILE:EV0400_501.bscr
 まさか　向こうから襲ってくるとはねぇ|オーマイガッ♪　って感じだね～♪=To think they'd attack from there of all places. It's like "Oh my gah!♪"
 えぇ・・・　生徒によると|やつらはパラポネラ|それを操っているのが=Yeah... According to the students, Paraponera is behind this.
-魔女ポネラ=The witch, Ponera.
+魔女ポネラ=The Witch Ponera.
 やっぱり　魔女か・・・=So it is a witch.
 せっかく回収した繭を|根こそぎ持っていかれました=And the cocoon we managed to recover was taken during the attack.
 魂にこだわるあたり　やはり|鬼神を作り出すのが狙いだよな=Going to such length for those souls... Their aim must be to use them to produce kishin.
@@ -2334,7 +2334,7 @@
 魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
-そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The witch, Ponera, is our magnificent queen.
+そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera, is our magnificent queen.
 魂の繭を集めて|一体何をたくらんでるの！=What are you planning on doing with|all of those soul cocoons!?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
@@ -3691,7 +3691,7 @@
 そうなるな=Looks like it.
 んじゃ|お話しして仲直りすればい～じゃん=So we talk to her and everything will be all better.
 そいつは無理だ|あの洞窟を見ただろ　あれだけの数の繭から|いつ化け物が生まれてもおかしくないんだ=That's not possible. You saw what was in that cave. If all those cocoons bear monsters, the party's over.#The Japanese doesn't mention a party. My original translation was "and we won't be having fun," but I like this version. I feel like it gives a little more flair. It feels more like Soul to me. Maybe I'm wrong though.
-ましてや　そのポネラという魔女は|今も繭を作り続けているかもしれない=Not to mention that the witch Ponera is probably continuing to make more cocoons as we speak.
+ましてや　そのポネラという魔女は|今も繭を作り続けているかもしれない=Not to mention that the Witch Ponera is probably continuing to make more cocoons as we speak.
 げげっ|あの化け物がまだ増えるってことかよ=Urgh? There's going to be more of those monsters?
 増えていいのは　俺様の伝説だけだぜ！|ひゃっはー！=The more the merrier! I'll be a legend for sure! Yahoo!
 いよいよ|決戦のときがやってきました=It's time. This is the endgame.#This should match the title for Day 6.
@@ -7899,7 +7899,7 @@
 魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
-そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The witch, Ponera, is our magnificent queen.
+そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera, is our magnificent queen.
 オメェら|魂を集めて　何がしてぇんだ！=And what the hell are you collecting|all those souls for!?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
@@ -8475,7 +8475,7 @@
 そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
 あぁ～|なんで　そんなモノ　作るんだ？=Uhhh... Why would you make a thing like that?
 世界を手に入れるためですよ|あなたのような邪魔者を消してね=To take over the world. To rid the world of pests like you.
-邪魔者は　お前だろ！|ポネラっつ～　魔女はどこだ！=You're the pest! Where's the witch Ponera!?
+邪魔者は　お前だろ！|ポネラっつ～　魔女はどこだ！=You're the pest! Where's the Witch Ponera!?
 フフフ・・・　ポネラ様は|この先の神殿にいらっしゃいますよ=Hmhmhm... Madame Ponera is in the sanctuary before you.
 ああ　でも行けませんよ|邪魔させないように言われているのでね=Ah. But you cannot enter. She told me that she was not to be disturbed.
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
@@ -10875,7 +10875,7 @@
 はぁ　どういうことだ？=Huh? What do you mean?
 あの魔女は|逃げるつもりだわ！=She's trying to get away!
 せいぜいがんばって|メデューサ先生をさがしなさい・・・=Now go and find that Dr. Medusa of yours...
-待てよ　魔女！|まだ決着はついてねェぞ！=Hold it, witch! The final act isn't over yet!
+待てよ　魔女！|まだ決着はついてねェぞ！=Hold it, Witch! The final act isn't over yet!
 じゃあね　トンガリ頭君|アナタ　結構楽しめたわよ♪=See ya, Spiky Head. I rather enjoyed playing with you♪
 落ち着いてね・・・|ほら　きっと魔女は|あなたが怖くて逃げたのよ・・・=Calm down... See! She definitely ran away because she was just so afraid|of you...
 それもそうか　俺様の後光に|恐れをなして　逃げやがったな！|ひやっはははははは☆=You're totally right. She saw how bright I could shine and ran off scared! Yahahahahahaha☆
@@ -12012,7 +12012,7 @@
 ・・・・・・・・・=.........
 う～ん・・・シュタイン君を|呼んできてもらえないかな？=Hmmm... You think you could call Stein for me?
 そうか博士なら|なんとかしてくれるかも|しれないな！=Of course. The professor could probably do something or other!
-わかりました父上|シュタイン博士を呼んでくるよ=Understood, father. We'll get Professor Stein for you.
+わかりました父上|シュタイン博士を呼んでくるよ=Understood, Father. We'll get Professor Stein for you.
 まったく　まいったよ・・・=I'm at my wit's end.
 !FILE:EV2121_085.bscr
 ・・・・・・・・・=.........
@@ -12034,7 +12034,7 @@
 !FILE:EV2121_100.bscr
 うい～す！|おかげでイタズラは|なくなったよ～ん♪=Wazza! Whatever you did, the prank calls are no more♪
 助かったよ　キッド|ありがとさ～ん♪=You were a great help, Kid. Me thanks you♪#The incorrect grammar was intentional to make it sound more playful.
-それはよかった|これで父上への連絡も|スムーズに行える！=It was my pleasure. And now contacting you should go smoothly, father!
+それはよかった|これで父上への連絡も|スムーズに行える！=It was my pleasure. And now contacting you should go smoothly, Father!
 それにしても|誰がイタズラを|してたんだろうな？=But I still can't help but wonder who was the one pulling the prank.
 新たな敵対勢力の出現か・・・|いままでこんなことを仕掛けてくる|やつらはいなかった・・・=Has a new opposition sprung up somewhere? Until now no one has ever tried something like this.
 単にイタズラだと思うぜ|敵対勢力にしちゃあ|やり方がセコすぎる・・・=I'm sure it was just a simple prank. It's too small-minded to be some sort of opposition.
@@ -12046,7 +12046,7 @@
 えっ！|・・・マジで=What!? ...Really?
 キッド君|おーぼー！=You're such a tyrant, Kid!
 ほどほどにしといてあげてね・・・=There's no need to lose sleep over this, okay?
-安心して　父上|徹夜だけはしないと約束するよ！=Don't worry, father. I promise we'll be in bed before dawn!
+安心して　父上|徹夜だけはしないと約束するよ！=Don't worry, Father. I promise we'll be in bed before dawn!
 !FILE:EV2121_106.bscr
 うい～す！|おかげでイタズラは|なくなったよ～ん♪=Wazza! Whatever you did, the prank calls are no more♪
 助かったよ　キッド|ありがとさ～ん♪=You were a great help, Kid. Me thanks you♪
@@ -12483,7 +12483,7 @@
 早速だけど　死神様|ブラック☆スターが一人で|補習に行っちゃったぜ=Lord Death, we know it's sudden, but Black☆Star went off to his remedial lesson alone.
 えっ！ほんとに！？|ブラック☆スターにも困ったもんだね・・・=Huh? Really!? That could be bad news even for Black☆Star.
 すまないけど|ブラック☆スターを|連れ戻してくれない？=I'm sorry, but could you go and bring Black☆Star back for me?
-かまわないよ父上|だけど　その前に補習の内容を|教えてくれないか？=Consider it done, father. But we'll need more information about the remedial lesson.
+かまわないよ父上|だけど　その前に補習の内容を|教えてくれないか？=Consider it done, Father. But we'll need more information about the remedial lesson.
 りょうか～～い♪=Roooger that♪
 !FILE:EV2220_150.bscr
 うい～～す|お疲れさ～～ん♪|みんな　よくがんばったね♪=Wazzup! Welcome back♪ Everyone did their best, huh?
@@ -12884,7 +12884,7 @@
 あったりまえじゃん=Well, of course.
 うん　試験は完璧だった！=Yeah. The test went flawlessly!
 !FILE:EV2300_500.bscr
-今回は　少し手こずったよ|父上=We had a little bit of trouble with this one, father.
+今回は　少し手こずったよ|父上=We had a little bit of trouble with this one, Father.
 はい　はい|ごっくろ～さんだったね♪=Yes, yes. It was quite tough, wasn't it♪?
 ゆっくり休みてぇ～=I could use a nice nap.
 きゃはは！|お姉ちゃん　もうトシ？=Kyahaha! You could use some beauty rest, sis.
@@ -13095,7 +13095,7 @@
 !FILE:EV2320_080.bscr
 うっす！ちゃっす|うい～～す|お疲れさ～～ん♪=Hi! Hi! Helloooo! Thanks for coming♪
 手伝ってくれて|ありがとさん！|助かったよ～ん♪=Thanks for the help! You saved the day♪
-今回の指令も|キッチリカッチリ|片付けたよ　父上=Your orders have been carried out precisely as you asked, father.
+今回の指令も|キッチリカッチリ|片付けたよ　父上=Your orders have been carried out precisely as you asked, Father.
 結構時間がかかったな・・・|マカ達とティーパーティーの|予定だったけど・・・=That took quite a while. We were supposed to go to the tea party with Maka and the others, but...
 もう　終わってるだろうね・・・=It's probably over already, huh?
 仕方ないよパティ|また　今度があるさ・・・=There's nothing we can do, Patty. There's always next time though.
@@ -13396,15 +13396,15 @@
 ちょっとね|死神様には　あんま|関係ない話だよ=Not really.|It doesn't really concern you, Lord Death.
 そう・・・ま　いっか！|それよりも　それよりも♪=Oh... Well, okay! Is that all? Nothing else♪?
 ね　ね　ね|キッド　私に|何か言うことはない？=Huh? Huh? There's nothing you want to tell me?
-父上に？|特にないけど・・・=You, father? Nothing in particular, no.
+父上に？|特にないけど・・・=You, Father? Nothing in particular, no.
 そんなことないでしょう|アレとかさ♪コレとかさ♪=Are you sure? It could be about this or that♪ Anything really♪
 お姉ちゃんもしかして・・・=Sis, maybe...
 そうだなパティ・・・=I think you're right, Patty.
-本当に父上には用はないんだ|シュタイン博士をさがしているから|これで失礼するよ=We really don't need you for anything right now, father. But we're looking for Professor Stein, so please excuse us.
+本当に父上には用はないんだ|シュタイン博士をさがしているから|これで失礼するよ=We really don't need you for anything right now, Father. But we're looking for Professor Stein, so please excuse us.
 そっか・・・私に用はないのか・・・|残念だなぁ・・・=I see... No need for me... Unfortunate...
 !FILE:EV2322_036.bscr
 ね　ね　ね|キッド　私に|何か言うことはない？=Huh? Huh? There's nothing you want to tell me?
-父上に？|特にないけど・・・=You, father? Nothing in particular, no.
+父上に？|特にないけど・・・=You, Father? Nothing in particular, no.
 !FILE:EV2322_037.bscr
 死神様　お前から|三者面談の話をされることを|期待していたんじゃないのか？=I think Lord Death was waiting for you to talk to him about the parent-teacher meeting.
 そんな感じだったよね|お姉ちゃん！=That's what it felt like!
@@ -13440,16 +13440,16 @@
 !FILE:EV2322_066.bscr
 非常に有意義な時間でした・・・|たくさんキッド君の事をお話ししましたよ=It was an exceptionally insightful conversation. We spoke rather at length about Kid.
 !FILE:EV2322_072.bscr
-父上に話があるんだ=I need to speak with you, father.
+父上に話があるんだ=I need to speak with you, Father.
 ど～したのキッド|そんなに真剣な顔をしちゃって？=What is it, Kid? Why the serious face?
 博士から話は聞いたよ=I heard what the professor spoke to you about.
 いや～♪シュタイン君には|ダメな部分をいっぱい|指摘されちゃったよ！=Yep♪ Stein pointed out to me that there are several areas that could use some work!
 とにかく　これまで|キッドには色々頼みすぎてたみたいだね♪=Anywho. It looks like I've been giving you too many requests♪
 これからは　もう少し|ペースを落として|のんびりやってこうよ♪=So from now on I'm going to slow down the pace a little and stop to smell the flowers once in a while♪
 そのほうが|キッドのためにも|いいと思うんだよ♪=I think that'll be best for you as well, Kid♪
-何を甘いことを|言っているの父上=What's all this hippie flower talk, father?
+何を甘いことを|言っているの父上=What's all this hippie flower talk, Father?
 今後は　死武専の課題も|父上の指令も今以上に|キッチリやり遂げるよ！=In the future I'll be sure to follow my studies at the DWMA and your orders even more closely than before!
-そして　二度と|父上に恥をかかせないことを|約束するからね！=And I promise that I'll never disgrace you again, father!
+そして　二度と|父上に恥をかかせないことを|約束するからね！=And I promise that I'll never disgrace you again, Father!
 やれやれ　かえって|火がついちまったか・・・|こりゃめんどくさいぞ・・・=Good grief. He's gotten even more fired up. What a pain.
 シュタイン君には|キッドを働かせすぎだと|言われてるんだけどね=But Stein told me I was already working you too hard, Kid.
 また　ダメな所を|指摘されちゃうな|きゃはははは♪=Welcome the second problem he pointed out! Kyahahaha♪
@@ -13517,7 +13517,7 @@
 魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
-そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The witch, Ponera, is our magnificent queen.
+そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera, is our magnificent queen.
 その魔女が|魂の繭を集める　目的はなんだ？=And what is this witch's goal gathering souls in cocoons?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
@@ -14140,7 +14140,7 @@
 鬼神もどき　だと？=A pseudo-kishin?
 ククク・・・|鬼神か　もどきかは　問題ではないのです=Hehehe... Kishin or pseudo-kishin, it matters not.
 これを使って　世界を手に入れる|あなたや　死神のような　邪魔者を消してね=I will use it to gain control of this world. You, reaper, and all your meddling friends will be erased from existence.
-ふん|そんな企みは　潰すまでだ|魔女ポネラは　どこにいる=Hmph. Consider your plans thwarted! Where is the witch, Ponera?
+ふん|そんな企みは　潰すまでだ|魔女ポネラは　どこにいる=Hmph. Consider your plans thwarted! Where is the Witch Ponera?
 フフフ・・・　ポネラ様は|この先の神殿にいらっしゃいますよ=Hmhmhm... Lady Ponera is in the sanctuary before you.
 ああ　でも行けませんよ|邪魔させないように言われているのでね=Ah. But you cannot enter. She told me that she was not to be disturbed.
 貴様　その腰の本といい|魔道師だな・・・=Bastard. Judging by that book hanging from your hip, you must be a wizard.
@@ -14350,16 +14350,16 @@
 死神様も鏡の中でこもってないで|コッチへ来て確認してみろよ！=Don't stay all cooped up in your mirror, Lord Death! Come see it for yourself!
 シド君？やられちゃったって|聞いたんだけど？=Sid? I heard someone had done a real number on him.
 そういう意味での|イメチェンなのかな？=That wasn't the makeover they were talking about, was it?
-どういうことなんだ父上|詳しく話を聞かせてくれ！=What are you talking about, father? Please, tell us everything you know!
+どういうことなんだ父上|詳しく話を聞かせてくれ！=What are you talking about, Father? Please, tell us everything you know!
 詳しい話は|まだ聞いてないんだけどね=I haven't heard the whole story yet, but...
 私が頼んだ指令を失敗|しちゃったみたいなのさ=Apparently he failed to carry out my orders.
 今はシド君|保健室に運ばれた|みたいだよ～ん♪=And now it looks like he's been taken to the infirmary♪
 ところでシド君の|イメチェンの件だけどさ♪=By the way, about Sid's new look...♪
-父上　ごめん|その話は　後にさせてもらう=Sorry, father. That conversation will have to wait.
+父上　ごめん|その話は　後にさせてもらう=Sorry, Father. That conversation will have to wait.
 もう！空気読んでよ|死神様！！=Come on, Lord Death! Read the room!!
 !FILE:EV2520_116.bscr
 ところでシド君の|イメチェンの件だけどさ♪=By the way, about Sid's new look...♪
-父上　ごめん|その話は　後にさせてもらう=Sorry, father. That conversation will have to wait.
+父上　ごめん|その話は　後にさせてもらう=Sorry, Father. That conversation will have to wait.
 !FILE:EV2520_122.bscr
 シド先生はどこに|いるんだよ！？=Where is Sid!?
 ごめんなさい|治療中だからあなた達に|会わせることはできないの=I'm sorry. You can't meet with him right now. He's undergoing treatment.
@@ -14481,7 +14481,7 @@
 こういうことを　父上に|相談するのは心苦しいんだけど・・・=It's embarrassing to ask this of my own father, but...
 俺が着れそうな礼服を|持っていたりしないかな？=You wouldn't happen to have any dress clothes that I could wear, would you?
 それなら　私が若い頃に|着ていたヤツをあげるからさ|それを着ていきなよ♪=I'll give you what I wore when I was still young♪ How does that sound?
-おお　ありがとう|父上！=Oh, thank you, father!
+おお　ありがとう|父上！=Oh, thank you, Father!
 よかったなキッド！=That's great, Kid!
 若い頃って|死神様はいくつなのかな？=Lord Death, when you say young, how long ago are we talking about exactly?
 ところで死神様は|どんな服を着てくるんだ？=By the way, what will you be wearing to the party, Lord Death?
@@ -14692,8 +14692,8 @@
 !FILE:EV2601_402.bscr
 私が・・・　この私が負けるの？|あははは・・・　小さな死神に・・・|負けるんだ・・・　なんでこんな・・・=I... I lost? Ahaha... I lost to... this little reaper? How...?
 お前は俺を　死神を甘く見た|それを　生まれ変わるまで後悔しろ=You underestimated me, a grim reaper. You'll regret it until the day you are reborn.
-へへん|思い知ったろ　魔女=Heh! Is that starting to sink in, witch!?
-知っただろ　魔女ぉ=Is it sinking, witch!?
+へへん|思い知ったろ　魔女=Heh! Is that starting to sink in, Witch!?
+知っただろ　魔女ぉ=Is it sinking, Witch!?
 あははは・・・|そうね・・・　そうするわ・・・|生まれ変わるまでね・・・=Ahaha... Yes... Yes, I will... Until the day I am reborn...
 じゃあ|消え去るまえに・・・|いいこと　教えてあげる=Now, before I depart from this world... I would say something...
 鬼神とは　なに？|死神は・・・なぜ鬼神を恐れるの・・・|そして　影は足元に　落ちる　ものよ・・・=What are the kishin? Why do... reapers fear them? All will be made as intended...
@@ -14792,7 +14792,7 @@
 !FILE:EV2924_052.bscr
 事情は聞いているよね？=You've heard the news, right?
 死神様！|メデューサ先生が|さらわれたんだって！？=Lord Death! Dr. Medusa was really abducted!?
-俺達に救出の指令が|下されるんだね　父上！=Give us the rescue orders, father!
+俺達に救出の指令が|下されるんだね　父上！=Give us the rescue orders, Father!
 ま　ブッチャけ|そ～ゆ～ことなんだけどね♪=Well, actually... about that...♪
 これでも君達に|頼むかどうか|結構　悩んだんだよ～ん♪=I've been pretty worried about whether I should ask you guys to take care of this one♪
 何せ相手は|魔女なんだから♪=With the enemy being a witch and all♪
@@ -14812,7 +14812,7 @@
 はて？覚えていません|君の気のせいでしょう？=Is that so? I have no recollection of that. Perhaps you imagined it...
 !FILE:EV2924_070.bscr
 ちゅす！うすっ！|ほいさ！お疲れさ～ん♪=Hola! Aloha! Helloha! Welcome back♪
-ごめん父上|魔女を逃がしてしまった・・・=Sorry, father. We weren't able to stop the witch's escape...
+ごめん父上|魔女を逃がしてしまった・・・=Sorry, Father. We weren't able to stop the witch's escape...
 メデューサ先生も|どこにもいなかったよ♪=And Dr. Medusa was nowhere to be seen♪
 まぁまぁ|そんなに落ち込まないでちょうだい=Calm down. Calm down. There's no need to get upset over it.
 まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale! Yeah? Yeah♪?
@@ -16732,7 +16732,7 @@
 期待しちゃっても|いいんだよな・・・=Does it matter? It's still nice.
 ほぇ　なんだろ？=Huh? What is it?
 これだよ～ん！|受け取ってちょうだい♪=Surprise! Go on! Take it! Take it♪
-ありがとう　父上=Thanks, father.
+ありがとう　父上=Thanks, Father.
 その気持ちが|嬉しいぜ！=Getting gifts makes me so happy!
 お～お|ものもらっちった♪=Woah! A present!♪
 うんうん|喜んでもらえて|私も嬉しいよ♪=Yep, yep. I'm happy just seeing your smiling faces♪
@@ -18373,7 +18373,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 敵を全て倒せ！=Defeat all enemies!
 %_teブレアを探し出せ！=%_teTrack Down Blair!
 デスルームの鏡を壊した|ブレアちゃんを捕まえて|きてくれ！=Blair shattered the mirror in the Death Room! Catch her and bring her back here!
-猫魔女ブレア%_dc[199,133,84]を探し出し|捕まえろ！=%_dc[199,133,84]Track down and catch %_dc[196,0,0]Blair the|cat witch%_dc[199,133,84]!
+猫魔女ブレア%_dc[199,133,84]を探し出し|捕まえろ！=%_dc[199,133,84]Track down and catch %_dc[196,0,0]Blair the|witch cat%_dc[199,133,84]!
 %_te優しい心の持ち主へ=%_teOwner of a Kind Heart
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
@@ -18600,8 +18600,8 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to go all out!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
-パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
-魔女ポネラ%_dc[199,133,84]を止めろ！=%_dc[199,133,84]Stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
+パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]the Witch Ponera%_dc[199,133,84]!
+魔女ポネラ%_dc[199,133,84]を止めろ！=%_dc[199,133,84]Stop %_dc[196,0,0]the Witch Ponera%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight anymore!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
@@ -18618,8 +18618,8 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to go all out!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
-パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
-魔女ポネラ%_dc[199,133,84]を止めろ！=%_dc[199,133,84]Stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
+パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]the Witch Ponera%_dc[199,133,84]!
+魔女ポネラ%_dc[199,133,84]を止めろ！=%_dc[199,133,84]Stop %_dc[196,0,0]the Witch Ponera%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight anymore!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
@@ -18636,8 +18636,8 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
-パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
-魔女ポネラ%_dc[199,133,84]を止めろ！=%_dc[199,133,84]Stop %_dc[196,0,0]Ponera the Witch%_dc[199,133,84]!
+パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]the Witch Ponera%_dc[199,133,84]!
+魔女ポネラ%_dc[199,133,84]を止めろ！=%_dc[199,133,84]Stop %_dc[196,0,0]the Witch Ponera%_dc[199,133,84]!
 %_te宿敵！魔女との対決！=%_teAn Old Foe! Confrontation with the Witch!
 世界の秩序を乱す魔女が|現れた！|探し出して倒せ！=A witch has appeared who is disturbing the order of the world! Locate and defeat her!
 謎の魔女を倒せ！=Defeat the mysterious witch!
