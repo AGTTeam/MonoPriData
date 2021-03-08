@@ -21,7 +21,7 @@
 椿は健康が心配=Health Concerns
 私の睡眠ライフ=My Life of Sleep
 おばちゃんの秘密=Auntie's Secret
-こだわりの二丁拳銃=Neurosis Akimbo#Twin Pistol Neurosis would be another possibility.
+こだわりの二丁拳銃=Neurosis Akimbo
 パティの死武専制覇=Patty, Conqueror of the DWMA
 姉妹の過去話=Stories of Sisterhood
 緊急連絡=Crisis Call#Emergency Contact might be better. I just can't help myself with the alliteration sometimes.
@@ -12124,7 +12124,7 @@
 職人の最高ランクは|三つ星職人である？=The highest possible rank for a meister is three stars.#True O
 職人と武器で行う|魂の波長を増幅させる行為を|魂の共感という？=The act of a meister and weapon amplifying their soul wavelengths is known as Soul Response.#False X
 暗殺者の心得である|暗殺道は五か条からなる？=The guidelines for the ways of an assassin consist of five articles.#False X
-武器がデスサイズになるには|９９９個の鬼神の卵と化した魂と|１個の魔女の魂が必要である？=A magic weapon needs 999 kishin egg souls and one witch soul to become a Death Scythe.#True O
+武器がデスサイズになるには|９９９個の鬼神の卵と化した魂と|１個の魔女の魂が必要である？=A magic weapon needs 999 kishin egg souls and one witch soul to become a Death Scythe.#False X
 シュタインの魂にはツギハギがない？=Stein does not have a patchwork soul.#False X not used
 メデューサ先生の髪は|左巻きである？=Doctor Medusa's hair is wrapped counterclockwise.#False X
 超筆記試験でリズの点数は|２９点である？=On the Super Written Exam, Liz scored 29 points.#False X
@@ -12314,28 +12314,28 @@
 そのことは　あなたが|一番よく知っているはずでは？=You of all people should know that better than anyone.
 わかりました・・・|手伝わせていただきます=Yeah, you're right... I'll help you out.
 そういうわけですから|リズを少しの間お借りします=In that case, I hope you two don't mind, but I'll be borrowing Liz for a little while.
-うむ　問題ないです|しっかり働いてこい=Yeah, not a problem. Work hard now.
+うむ　問題ないです|しっかり働いてこい=Yeah, not a problem.|Work hard now!
 !FILE:EV2220_016.bscr
 そういうわけですから|リズを少しの間お借りします=In that case, I hope you two don't mind, but I'll be borrowing Liz for a little while.
-うむ　問題ないです|しっかり働いてこい=Yeah, not a problem. Work hard now.
+うむ　問題ないです|しっかり働いてこい=Yeah, not a problem.|Work hard now!
 !FILE:EV2220_017.bscr
 よかったら椿の話を|聞いてあげてください=If you don't mind, could you do me a favor and look into the situation with Tsubaki and Black☆Star?
-補習を命じられたようですが|一緒に行くチームがまだ|決まっていないようです=It looks like they've been ordered to take a remedial lesson, but the team that is to go with them hasn't been chosen yet.
+補習を命じられたようですが|一緒に行くチームがまだ|決まっていないようです=It looks like they've been ordered to take a remedial lesson, but haven't yet found a team to go with them.
 どうするのキッド君|椿ちんの話を聞きにいくのかな？=How about it, Kid? You wanna go ask Tsubaki about it?
-ん～　今は　あんまり|気がすすまない・・・=Eh, I'm a little reluctant to do that right now.
+ん～　今は　あんまり|気がすすまない・・・=Eh, it wasn't what I had in mind for this afternoon, but...
 !FILE:EV2220_022.bscr
 何やってんのブラック☆スター？|補習じゃないの？=Whatcha doin', Black☆Star? Don't you have a remedial lesson?
 俺は今　椿が他のチームを|連れてくるのを待っている☆=I'm just waiting for Tsubaki to find another team to go with us☆
 なぜ　お前も手伝わん|お前達の補習ではないのか？=Why aren't you helping? The remedial lesson is for both of you, isn't it?
-俺様にばかり頼っていると|椿は何もできなくなってしまう|これは　いわば愛のムチ=If she relies on me for everything, Tsubaki will become totally useless. I like to call it tough love.
+俺様にばかり頼っていると|椿は何もできなくなってしまう|これは　いわば愛のムチ=If she relies on me for everything, Tsubaki will become totally useless.|I like to call it tough love.
 何を言ってるんだ|ブラック☆スター？=What are you talking about, Black☆Star?
 厳しさが必要なのは|お前のほうだ！|きゃはははは♪=I think it's you who could use some tough love! Kyahahaha♪
 !FILE:EV2220_026.bscr
-俺様にばかり頼っていると|椿は何もできなくなってしまう|これは　いわば愛のムチ=If she relies on me for everything, Tsubaki will become totally useless. I like to call it tough love.
+俺様にばかり頼っていると|椿は何もできなくなってしまう|これは　いわば愛のムチ=If she relies on me for everything, Tsubaki will become totally useless.|I like to call it tough love.
 !FILE:EV2220_032.bscr
 椿ちん　補習なんだって♪=Tsubaki, do you really have a remedial lesson♪?
 そうなんです|でも・・・一緒に行ってくれる|チームが見つからなくて・・・=Yes, but... I can't find a team that's willing to go with us.
-せっかく決まりかけても|ブラック☆スターがおかしなことを|言い出してダメになっちゃうし・・・=Even when I somehow manage to convince somebody, Black☆Star always says something stupid and ruins it.
+せっかく決まりかけても|ブラック☆スターがおかしなことを|言い出してダメになっちゃうし・・・=Even if I somehow manage to convince somebody, Black☆Star always says something stupid and ruins it.
 お願いです　キッド君|補習に付き合ってもらえませんか？=Please, Kid. Could you please join us for the remedial lesson?
 イヤ・・・無理だ=No... That won't be possible.
 どうしてダメなの？|別にいいじゃないの？=Why not? We can help out.
@@ -12343,38 +12343,38 @@
 お姉ちゃんを連れてくるだけじゃダメなの？=We could just go and get her, couldn't we?
 うむ　それならば問題なかろう=Yeah, I guess that would work.
 それで　いいんですね|ははは・・・=Then it's settled. Hehehe...
-それではここで待ってますから|リズちゃんを連れてきてくださいね=Alright, please go grab Liz and bring her back. I'll be waiting here.
+それではここで待ってますから|リズちゃんを連れてきてくださいね=All right, please go grab Liz and bring her back. I'll be waiting here.
 ブラック☆スターはどこにいるの？=And where's Black☆Star?
 いてもジャマするだけなので|他の場所で待っててもらってます・・・=He would be a nuisance just standing there, so I asked him to wait somewhere else.
 それにしてもアイツ|戦い以外は　まるでダメだな・・・=Honestly, outside of a fight, that guy is utterly hopeless.
 掃除すら手伝わせてもらえなかった|キッド君が　そういうこというかな？=You couldn't even be trusted to help clean. Doesn't that make you hopeless too, Kid?
 !FILE:EV2220_036.bscr
-それではここで待ってますから|リズちゃんを連れてきてくださいね=Alright, please go grab Liz and bring her back. I'll be waiting here.
+それではここで待ってますから|リズちゃんを連れてきてくださいね=All right, please go grab Liz and bring her back. I'll be waiting here.
 !FILE:EV2220_037.bscr
 そろそろ　お姉ちゃん|お掃除　終わったかな？=Sis should be done with the cleaning by now, right?
-うむ　そろそろだろう=Yeah, I would imaging so.
+うむ　そろそろだろう=Yeah, I would imagine so.
 じゃあ|お姉ちゃんを迎えにいこう♪=Okay. Then let's go get her♪
 !FILE:EV2220_042.bscr
 お姉ちゃんを|迎えにきたんだよ♪|もう掃除は終わったのかな？=We're here for my sister♪ The cleaning is done, right?
 ええ　リズが手伝ってくれた|おかげで思いのほか早く|終わりました=Yes. I finished faster than I thought I would thanks to your sister's help.
-リズの姿が見えませんが|まさか博士・・・=I don't see any sign of her. Professor, tell me you didn't...
+リズの姿が見えませんが|まさか博士・・・=I don't see any sign of her.|Professor, tell me you didn't...
 色々と誤解があるようですね・・・=There seems to be a lot of misunderstandings today.
-掃除が早く終わったので|リズを解放したのが|そんなにいけなかったのでしょうか？=I let her go since the cleaning was finished so quickly. Was I not supposed to?
+掃除が早く終わったので|リズを解放したのが|そんなにいけなかったのでしょうか？=I let her go since the cleaning was finished so quickly.|Was I not supposed to?
 !FILE:EV2220_046.bscr
-リズの姿が見えませんが|まさか博士・・・=I don't see any sign of her. Professor, tell me you didn't...
+リズの姿が見えませんが|まさか博士・・・=I don't see any sign of her.|Professor, tell me you didn't...
 色々と誤解があるようですね・・・=There seems to be a lot of misunderstandings today.
-掃除が早く終わったので|リズを解放したのが|そんなにいけなかったのでしょうか？=I let her go since the cleaning was finished so quickly. Was I not supposed to?
+掃除が早く終わったので|リズを解放したのが|そんなにいけなかったのでしょうか？=I let her go since the cleaning was finished so quickly.|Was I not supposed to?
 !FILE:EV2220_052.bscr
 おう　お前達|何やってるんだ！？=Yo! What are you guys up to!?
 お姉ちゃんを|さがしているんだよ♪=We're looking for my big sister♪
-そういえばいねェな？|何でさがしてるんだ？=I guess she isn't with you, huh? What do you need her for?
+そういえばいねェな？|何でさがしてるんだ？=I guess she isn't with you, huh?|What do you need her for?
 キッド君がね　テッポウが|２つないと戦えないって|ダダをこねてんだよ♪=For Kid. He was throwing a tantrum saying he can't fight without two guns♪
 戦うって何かあったのか？=A fight? Something happen?
 うん　ブラック☆スターの補習に|付き合うことになったのだ=Yeah, we're teaming up with Black☆Star for his remedial lesson.
 おお　あれか|気にはなってたんだよな～=Oh, that? I forgot about that.
 その話|初めは俺達の所に来たんだぜ|もっともマカが断っちまったけどな・・・=He came to us about it first, but Maka gave him a flat-out no.
 どうして|断ったりなんかしたの？=Why would she refuse like that?
-よくわかんねェけどなぁ|マカも乙女だから色々あるんじゃねェか？=I don't really know. Maka's a girl, so I'm sure she has her reasons.
+よくわかんねェけどなぁ|マカも乙女だから色々あるんじゃねェか？=I don't really know. Maka's a girl, so it's complicated.
 !FILE:EV2220_056.bscr
 キッド君がね　テッポウが|２つないと戦えないって|ダダをこねてんだよ♪=For Kid. He was throwing a tantrum saying he can't fight without two guns♪
 戦うって何かあったのか？=A fight? Something happen?
@@ -12386,7 +12386,7 @@
 そんなにヒドイ補習だったのか？=Was the lesson really that bad?
 うん　生まれてはじめて|パパに会いたいって思ったくらい|ヒドイ補習だったわ・・・=Yeah. The lesson was about as bad as being born and meeting my papa for the first time.
 大変だったんだね・・・=That sounds terrible.
-ええ　だから私は二度と|補習にはいけないの・・・=Yeah. And that's why I can't go to a remedial lesson. Not again...
+ええ　だから私は二度と|補習にはいけないの・・・=Yeah. And that's why I can't go to a remedial lesson. Never again...
 そこまで神経質に|なるほどのこととは思えんのだが・・・=You don't think that maybe you're just being a little overly dramatic?
 きゃはははは！|お前がそれを言うかな！？=Kyahahaha! That's funny coming from you!
 !FILE:EV2220_066.bscr
@@ -12408,7 +12408,7 @@
 !FILE:EV2220_082.bscr
 お姉ちゃん|こんな所で何してたの？=Sis, what are you doing here?
 休憩だよ休憩！|ったく博士と一緒で|えらい肩こったぜ！=Just a little R and R! I swear the professor would literally work me to death!
-そうだパティ！ここのベッドは|すごく寝心地がいいんだ！=Now Patty, the bed here is like soft, fluffy clouds!
+そうだパティ！ここのベッドは|すごく寝心地がいいんだ！=Patty, the bed here is like soft, fluffy clouds!
 もう　やることないんだろ|一緒に昼寝しようぜ！=Since I'm not busy anymore, why don't we take a nice nap!?
 一緒にお昼寝する～♪=Nap tiiiime♪
 たわけ！|ブラック☆スターの|補習の件をわすれたのか！？=Hey, dummy! Did you forget about the whole Black☆Star's remedial lesson thing!?
@@ -12423,7 +12423,7 @@
 あの～・・・お姉ちゃん|事情が飲み込めてないので|キチンと説明してください・・・=Ummm... Big sis isn't following, so you think you could let me know what's going on?
 というわけなんだよ　お姉ちゃん！=And now you're caught up, sis!
 なるほどね　ブラック☆スターの|補習に付き合うことになったわけか=So let me get this straight. You two agreed to join Black☆Star for his remedial lesson?
-でも補習なんだろ？|死神のお前なら　パティだけでも|楽勝なんじゃねェのか？=But it's a remedial lesson... You're a grim reaper, so even with just Patty, it should have been a piece of cake, right?
+でも補習なんだろ？|死神のお前なら　パティだけでも|楽勝なんじゃねェのか？=If you've got any items that you want Auntie to hold on to, just bring them to me, okay?
 無理・・・|シンメトリーでない状態で|戦うなんて絶対無理・・・=Impossible... Fighting in such an asymmetrical state is absolutely impossible.
 やっぱり　私　一個も|悪くねェじゃんかよ・・・=As I figured, none of this is my fault at all.
 !FILE:EV2220_090.bscr
@@ -12449,11 +12449,11 @@
 知らねェなぁ・・・|お前らと一緒じゃなかったのかよ？=I don't think so... Weren't you guys already with them?
 待ち合わせ場所から|消えてしまったのだ！=They disappeared from the spot where we were supposed to meet them!
 どこへ行ったものやら・・・=Where could they have gone?
-お前らに補習を押し付けて|どっかで　サボってんだろ|そんな　気にする必要ねェよ！=They guilt you into helping with the remedial lesson and then flake out. I say we forget them!
+お前らに補習を押し付けて|どっかで　サボってんだろ|そんな　気にする必要ねェよ！=They guilt you into helping with the remedial lesson and then flake out.|I say forget them!
 それも　そうだよね|きゃはははは♪=Yeah, you're right. Kyahahaha♪
 いかん！|こういうことは|キッチリカッチリせんとダメだ！！=Unacceptable! This is absolutely, totally unacceptable!!
 !FILE:EV2220_116.bscr
-お前らに補習を押し付けて|どっかで　サボってんだろ|そんな　気にする必要ねェよ！=They guilt you into helping with the remedial lesson and then flake out. I say we forget them!
+お前らに補習を押し付けて|どっかで　サボってんだろ|そんな　気にする必要ねェよ！=They guilt you into helping with the remedial lesson and then flake out.|I say forget them!
 !FILE:EV2220_122.bscr
 ブラック☆スター達を|見なかったか？=Have you seen Black☆Star and Tsubaki?
 あの二人が|保健室に来ることなんて|ほとんどないわよ♪=Those two almost never come to the infirmary♪
@@ -12466,9 +12466,9 @@
 リズちゃんのほうがよっぽど|保健室を利用してくれるわ♪=I think Liz here is much more likely to make use of the infirmary♪
 !FILE:EV2220_130.bscr
 あ　みんな|ここにいたんですね！？=Oh! You were all here!?
-よかったよ～・・・|やっと椿が見つかったよ～・・・=I'm so glad to see you, Tsubaki. We've been looking for you everywhere.
+よかったよ～・・・|やっと椿が見つかったよ～・・・=I'm so glad to see you, Tsubaki! We've been looking for you everywhere.
 お姉ちゃん|早く補習に出かけようよ！=Sis, there's no time to lose! Let's head for the remedial lesson!
-そうだね　早く行こうね|・・・ところでブラック☆スターは？=Right! Let's go... Hold on. Where's Black☆Star?
+そうだね　早く行こうね|・・・ところでブラック☆スターは？=Right! Let's go!|...Hold on. Where's Black☆Star?
 ブラック☆スターは一人で|補習に出かけちゃって・・・=Black☆Star went to take care of the remedial lesson alone.
 なんだって　あいつ|何考えてんだ！=What is that idiot thinking!?
 本当に　すみません|私　止めたんですけど・・・=I'm terribly sorry. I tried to stop him, but...
@@ -12480,7 +12480,7 @@
 !FILE:EV2220_136.bscr
 本当に　すみません|私　止めたんですけど・・・=I'm terribly sorry. I tried to stop him, but...
 !FILE:EV2220_142.bscr
-早速だけど　死神様|ブラック☆スターが一人で|補習に行っちゃったぜ=Lord Death, we know it's sudden, but Black☆Star went off to his remedial lesson alone.
+早速だけど　死神様|ブラック☆スターが一人で|補習に行っちゃったぜ=Lord Death, sorry to disturb, but Black☆Star went off to his remedial lesson alone.
 えっ！ほんとに！？|ブラック☆スターにも困ったもんだね・・・=Huh? Really!? That could be bad news even for Black☆Star.
 すまないけど|ブラック☆スターを|連れ戻してくれない？=I'm sorry, but could you go and bring Black☆Star back for me?
 かまわないよ父上|だけど　その前に補習の内容を|教えてくれないか？=Consider it done, Father. But we'll need more information about the remedial lesson.
@@ -12506,7 +12506,7 @@
 心配したんだよ～♪=We were worried♪
 キッド　てめェ|よくも俺のステージを|かっさらいやがったな！！=Kid, you bastard! You went and nabbed my spot on stage for yourself!!
 ようやく死武専を抜け出して|ステージにむかってみれば|全てが終わってるじゃねェか！=I had just barely snuck out of the DWMA and started heading to the stage, but it was all already over!
-待てよブラック☆スター|これには事情が・・・=Wait, Black☆Star. You don't understand. We...
+待てよブラック☆スター|これには事情が・・・=Wait, Black☆Star. You don't understand. We--
 お前は　すっこんでろ！|俺はキッドと話してるんだ！=You back off! I'm talking to Kid right now!
 ひぃ！=Eek!
 チマチマ点数稼ぎしやがって|気にいらねェよ！|小物が小物稼ぎしやがって！=I don't care about a few stupid points! Small time points are for small time people!
@@ -12514,10 +12514,10 @@
 貴様の事情など知るか|ブラック☆スター・・・=Jerk! What do I care about your problems, Black☆Star?
 キッチリ　カッチリ|完璧な世界にしないと|俺の気がすまんだけだ=All I'm worried about is attaining world peace.
 今回の件は　その規範に従っただけ・・・|なんら恥ずべき所はない=I obeyed all the rules on this, so I have nothing to feel bad about.
-こんなに大げさなことだったっけ|パティ？=This thing got blown way out of proportion, huh Patty?
+こんなに大げさなことだったっけ|パティ？=This thing got blown way out of proportion, huh, Patty?
 朝ゴハンのおかずで|戦いが起こることもあるよ|お姉ちゃん♪=We've all gotten into fights over sillier things than this, sis♪
 !FILE:EV2220_165.bscr
-小物稼ぎしやがって！|気にいらねェよ！小物が！！=Another weakling! I couldn't care less about these small fry.
+小物稼ぎしやがって！|気にいらねェよ！小物が！！=Another weakling! I couldn't care less about you small fry.
 !FILE:EV2220_166.bscr
 貴様の事情など知るか|ブラック☆スター・・・=Jerk! What do I care about your problems, Black☆Star?
 キッチリ　カッチリ|完璧な世界にしないと|俺の気がすまんだけだ=All I'm worried about is attaining world peace.
@@ -12540,35 +12540,35 @@
 キッドは待ってろって言ったけど・・・|待ってられるわけねェよな|私達もキッドを追いかけよう=He told us we don't need to go, but... we can't just wait around here. We need to go after Kid.
 !FILE:EV2220_170.bscr
 ノーーー！！=Nooooo!!
-あの・・・博士|これは一体・・・=Um... Professor, what in the world...?
+あの・・・博士|これは一体・・・=Um... Professor, what are you...?
 お仕置きです|ブラック☆スターは単独で|外出したんですから・・・=Black☆Star left on his own. And that was his punishment.
-しかし　彼は腕をあげました|俺は本気で|きめるつもりだったのですが・・・=But he's gotten better. I thought I might actually have to end him...
+しかし　彼は腕をあげました|俺は本気で|きめるつもりだったのですが・・・=But he's gotten better. I didn't hold back any murderous intent with that hit...
 何気に怖いこと言ってるね♪=You make everything sound so spooky♪
-そうだ　さすがに|倒れたままにしておけないので|椿を呼んできてもらえませんか？=Is that so? All the same, we can't very well leave him for the buzzards, so would you kindly ask Tsubaki to come get him?
+そうだ　さすがに|倒れたままにしておけないので|椿を呼んできてもらえませんか？=Is that so? Still, we can't very well leave him for the buzzards, so would you ask Tsubaki to come get him?
 あ　ああ　別に|かまわねェぜ・・・=Uh, y-yeah... Sure. No problem.
 !FILE:EV2220_176.bscr
-しかし　彼は腕をあげました|俺は本気で|きめるつもりだったのですが・・・=But he's gotten better. I thought I might actually have to end him...
+しかし　彼は腕をあげました|俺は本気で|きめるつもりだったのですが・・・=But he's gotten better. I didn't hold back any murderous intent with that hit...
 何気に怖いこと言ってるね♪=You make everything sound so spooky♪
 !FILE:EV2220_180.bscr
 あ　ブラック☆スターが|迷惑をかけてないですか？=Oh, Black☆Star didn't cause any trouble, did he?
 キッド君達が補習をクリア|したって聞いたら　血相を変えて|飛び出していったんですけど・・・=When he heard that you guys completed the remedial lesson, he started fuming and rushed off, and...
-それよりも　ヤツは|博士のお仕置きで倒れこんでるぜ・・・=Actually, he looks like a lifeless rag doll after the professor punished him.
+それよりも　ヤツは|博士のお仕置きで倒れこんでるぜ・・・=Actually, he looks like a lifeless rag|doll after the professor punished him.
 早く　介抱してあげたほうが|いいど～♪=You should probably hurry and stitch him back up♪
 大変！すみませんけど|これで　失礼しますね！=Oh no! Sorry, but I have to hurry!
 なんで　こんなことに|なったんだろう・・・=How did things get like this?
-それにしてもキッドのヤツ|どこへ行きやがったんだ=And where the hell did that jerk, Kid go?
+それにしてもキッドのヤツ|どこへ行きやがったんだ=And where the hell did that jerk,|Kid go?
 あっ　お姉ちゃん　あれ！|キッド君がこっちにくるよ！=Sis, look! There! Kid's coming!
 キッド　てめぇ|家に帰ってやがったな！？=Kid, you bastard! You went home, didn't you!?
 うむ　ちょっと|気になることがあってな・・・=Yeah. There was something nagging at me.
 お前は本当に|マイペースだな・・・=You really do march to the beat of your own drum.
 さてと　それでは|ブラック☆スターと勝負してくるか！=Now then, let's get to the match with Black☆Star, why don't we?
-ああ　もういいんだ|もう終わったんだ=Well, that's already been taking care of. The fight is over.
+ああ　もういいんだ|もう終わったんだ=Well, that's already been taken care of. The fight is over.
 終わったとは|どういうことなんだ？=When you say the fight is over, what do you mean exactly?
 もういいんだよキッド君！|きゃはははは♪=This fight's been put to rest, Kid! Kyahahaha♪
 !FILE:EV2220_185.bscr
-お前らが　何を言ってるか|さっぱりわからん？=I don't totally understand what you two are trying to say.
+お前らが　何を言ってるか|さっぱりわからん？=I don't really understand what you're trying to say.
 !FILE:EV2220_186.bscr
-ああ　もういいんだ|もう終わったんだ=Well, that's already been taking care of. The fight is over.
+ああ　もういいんだ|もう終わったんだ=Well, that's already been taken care of. The fight is over.
 終わったとは|どういうことなんだ？=When you say the fight is over, what do you mean exactly?
 もういいんだよキッド君！|きゃはははは♪=This fight's been put to rest, Kid! Kyahahaha♪
 !FILE:EV2221_002.bscr#パティの死武専制覇 = Patty, Conqueror of the DWMA - Part 23
@@ -16801,7 +16801,7 @@
 見ているだけで|目がまわってくるぜ！=Just looking at them makes my head spin!
 それにしてもマカは　もうちょっと|女の子らしくすればいいのにな！=All things considered, it wouldn't hurt for you to be a little more feminine, Maka!
 もともと素材はいいのに|もったいないと思わないか？=You've got a lot of potential, but you don't do much with it, don't you think?
-それにしてもソウルってヤツは|相当ひねくれてるな=I hadn't really thought about it before, but that Soul is just constantly sulking.
+それにしてもソウルってヤツは|相当ひねくれてるな=I hadn't really thought about it before, but that Soul is just constantly sulking.#seen
 過去に　相当|ひどい振られ方をしたな　ありゃ！=I bet there must have been something in his past that really shook him up!
 正直　ブラック☆スターとは|どう接していいか|わかんない時があるぜ・・・=Honestly, sometimes I really don't know how to deal with Black☆Star.
 椿はあんなのと一緒にいて|よく平気だな・・・=It's a good thing Tsubaki is with that guy.
@@ -16822,7 +16822,7 @@
 いなくなっちゃうなんて|しょうがない保健医だね♪=They're not going to save very many lives if there's no one here♪
 やっぱりみんな|勉強はいやなんだよね♪=I guess nobody likes studying♪
 誰もいないのは|何かもったいないね♪=What a waste. There's no one here♪
-ここってたしか|キッド君の好きな場所だったよね♪=This was definitely Kid's favorite spot♪
+ここってたしか|キッド君の好きな場所だったよね♪=Isn't this place Kid's favorite spot♪?
 これだけたくさん本があると|何が何だかわかんなくなってきちゃうね=I don't get what this place is for. All they've got is a bunch of books.
 私　ここもう飽きたから|他の場所へ行こうよ！=This place is boring. I'm going somewhere else!
 ここにいてもしょうがないから|他の場所へ行こうよ！=There's nothing to do here, so let's go somewhere else!
@@ -16905,10 +16905,10 @@
 そうはいかん|俺も死武専の学生|特別扱いはなるべく避けねば=I can't do that. As a student of the DWMA, I must avoid special treatment whenever possible.
 確か　二組ルールが出来たのって|マカ達が魔剣に襲われたから|だったよね？=They made the team-up rule because Maka and Soul were attacked by the Demon Sword, right?
 ああ　俺達も|注意しなければならん=Yeah. We need to be careful as well.
-キッド　もう一組のことなんだけど|マカ達が来てるぜ=Kid, speaking of inviting people, it looks like Maka and Soul are heading this way.
-うむ　それでは|誘って一緒に行くことにしよう=Right. I'll invite them to go with us.
-私に何か用ですか？=May I be of assistance?
-あれ　パティ？|私　どこで間違えたんだろ？=Hey, Patty? Were we not clear enough?#This line feels kind of strange. I've rearranged it in the order I saw it, but basically, it seems Kid agrees to invite Maka, and then Ox shows up. I don't really know why Liz addresses Patty here, unless it's a "what did I do to deserve this!?" kind of comment...
+キッド　もう一組のことなんだけど|マカ達が来てるぜ=Kid, speaking of inviting people, I say we ask Maka and Soul.
+うむ　それでは|誘って一緒に行くことにしよう=Agreed. I'll invite them to go with us.
+私に何か用ですか？=You need me for something? 
+あれ　パティ？|私　どこで間違えたんだろ？=Hey, Patty? Was I not clear enough?
 !FILE:EV2981_600.bscr
 よし！|行こうぜ　キッド！=Come on! Onward, Kid!
 キッド！|土壇場でシンメトリーがどうとか|言い出すなよ・・・　って無理か=Kid, I swear I better not hear a single word about symmetry on this mission. Who am I kidding? He'll never manage.#土壇場 (soil, podium, place) was originally a platform made of dirt used to perform executions (decapitations) in the Edo period​. Now it just means the last/final moment.
@@ -17582,7 +17582,7 @@
 こういうのは公私混同なんだけど|私は心配なんだよ～ん♪=I might be mixing official business with personal matters, but I worry sometimes♪
 常に死武専の生徒としての|誇りを持って行動してちょうだい♪=Please remember that as students of the DWMA, your every action affects the public opinion of this school♪#seen
 誰が見ているかわからないからね・・・|たとえば　おばちゃんとかさ・・・=And you never know who might be watching you... Like Auntie, for example...
-どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to go with at least one other team♪#seen
+どっかに出かける時には|必ず二組以上のチームで|出かけてちょうだい♪=If you must leave the school at any time, please be sure to go with at|least one other team♪#seen
 魔剣に魔眼|その他　もろもろ・・・|まだまだ危険はいっぱいだよ～ん♪=The Demon Sword and the Magic Eye and who knows what else... The world is full of danger♪
 私の仮面って　まだ|おっかないかな？=Is my mask still scary?#seen
 もう少しだけなら♪|かわいらしくしてもいいんだけどね・・・=I suppose I could make it a little cuter♪
@@ -17735,7 +17735,7 @@
 がんばるんだよ　あんた達|おばちゃん　応援してるよ|後ろからね=Do your best, kids. Auntie is supporting you from the sidelines!
 腕試しとはいえ　油断するんじゃないよ|おばちゃん　しっかり見てるからね=This might just be a way to test your skills but you shouldn't get careless. I'll be watching you closely.
 決まったようだね|きっちり　魂を鍛えておいで|おばちゃん　応援してるからね=Good choice. Steel that soul, and Auntie will be cheering you on!
-それにするんだね|な～に　あんた達なら|きっとやれるよ　がんばりな！=So that's what you're going to do. Well, if it's you kids, you can do it.|Good luck!
+それにするんだね|な～に　あんた達なら|きっとやれるよ　がんばりな！=So that's what you've decided. Well, if it's you kids, you can do it.|Good luck!
 !FILE:EV9981_050.bscr
 大丈夫かい　あんた達|次はがんばるんだよ|おばちゃん　応援するからね=Not too hurt, I hope. Auntie will be rooting for you, so you kids will get|it next time for sure.
 !FILE:EV9981_100.bscr
