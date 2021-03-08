@@ -3111,14 +3111,14 @@
 ああ　お前らいいところに・・・|リズとパティを見なかったか？=Hey, I'm glad to see you. Have you seen Liz and Patty?
 !FILE:EV0520_022.bscr
 いや　見なかったぜ|どうしたんだよ？=We haven't, no. Everything all right?
-ココだけの話にしてほしいのだが・・・|父上から指令があったのだ=Please keep this between us, but... I've received orders from father.
+ココだけの話にしてほしいのだが・・・|父上から指令があったのだ=Please keep this between us, but... I've received orders from Father.
 今すぐに発たねばならんのに|あいつら一体　どこへ行ったのだ！？=We really must depart soon, but I have no idea where they've gone!
 よかったら　私達が|さがしてこようか？=We could look for them if you'd like.
 すまない・・・|そうしてくれると助かる=I hate to ask, but that would be very helpful.
 !FILE:EV0520_025.bscr
 俺がここで待っていることを|リズとパティに知らせてきてくれ！=Please tell Liz and Patty that I'll be waiting for them right here!
 !FILE:EV0520_026.bscr
-ココだけの話にしてほしいのだが・・・|父上から指令があったのだ=Please keep this between us, but... I've received orders from father.
+ココだけの話にしてほしいのだが・・・|父上から指令があったのだ=Please keep this between us, but... I've received orders from Father.
 今すぐに発たねばならんのに|あいつら一体　どこへ行ったのだ！？=We really must depart soon, but I have no idea where they've gone!
 !FILE:EV0520_027.bscr
 ヤツもご苦労だな|しょうがねェんだろうけどよ=He's got a lot on his plate too, huh? Well, sucks to be him.
@@ -8389,13 +8389,13 @@
 !FILE:EV1422_062.bscr
 キッド君うれしそうですよね？=You look pretty happy, Kid.
 ああ　わかるか|正面玄関の材質がリニューアル|されたのだ！=Yeah. Know why? I got the school's main gate totally renovated!
-最近　荒れが目立ってきたので|父上にお願いしていたのだ・・・|これで何人も壊すことはできまい　=I noticed it was in pretty bad shape and spoke to father about it. A thousand men couldn't destroy it now.
+最近　荒れが目立ってきたので|父上にお願いしていたのだ・・・|これで何人も壊すことはできまい　=I noticed it was in pretty bad shape and spoke to Father about it. A thousand men couldn't destroy it now.
 そんなに丈夫なんですか？=That sturdy, huh?
 うむ　傷一つでもつけられたら|三つ星職人にしてもいいと|父上が言っているほどだ！=Yeah. Father said that anyone who could put a scratch in it would be promoted to a three-star meister!
 ははは|それはすごいですね=Hahaha... That's impressive.
 ・・・・・・・・・=.........
 !FILE:EV1422_066.bscr
-最近　荒れが目立ってきたので|父上にお願いしていたのだ・・・|これで何人も壊すことはできまい　=I noticed it was in pretty bad shape and spoke to father about it. A thousand men couldn't destroy it now.
+最近　荒れが目立ってきたので|父上にお願いしていたのだ・・・|これで何人も壊すことはできまい　=I noticed it was in pretty bad shape and spoke to Father about it. A thousand men couldn't destroy it now.
 そんなに丈夫なんですか？=That sturdy, huh?
 うむ　傷一つでもつけられたら|三つ星職人にしてもいいと|父上が言っているほどだ！=Yeah. Father said that anyone who could put a scratch in it would be promoted to a three-star meister!
 !FILE:EV1422_067.bscr
@@ -9162,13 +9162,13 @@
 普通の保健医だと思うが|違っているのか？=I thought she was just a normal nurse.|Is she not?
 !FILE:EV1924_032.bscr
 メデューサ先生に|ついて知ってることがあったら|教えてください=Please tell us anything you know about Dr. Medusa.
-うむ・・・父上の話だと|勤務態度はごくごく|普通らしい・・・=Hm... According to father, her work behavior seems entirely professional.
+うむ・・・父上の話だと|勤務態度はごくごく|普通らしい・・・=Hm... According to Father, her work behavior seems entirely professional.
 可もなく不可もなく|きっちり定時であがる・・・|公務員タイプのようだ・・・=She doesn't stand out in any particular way, and she's always on time... A normal public servant type.
 なんだそれ？|何がおもしろくて生きてるんだよ☆=Seriously? Does she have anything interesting in her life?
 そうね　あなたの|生き方とは真逆みたいね・・・=Yeah. It looks like her life is the complete opposite of yours.
 !FILE:EV1924_036.bscr
 メデューサ先生に|ついて知ってることがあったら|教えてください=Please tell us anything you know about Dr. Medusa.
-うむ・・・父上の話だと|勤務態度はごくごく|普通らしい・・・=Hm... According to father, her work behavior seems entirely professional.
+うむ・・・父上の話だと|勤務態度はごくごく|普通らしい・・・=Hm... According to Father, her work behavior seems entirely professional.
 !FILE:EV1924_042.bscr
 メデューサ先生に|ついて知ってることがあったら|教えてください=Please tell us anything you know about Dr. Medusa.
 お姉ちゃんが|メデューサ先生に|対抗心　燃やしてたよ♪=My big sis sees her as her biggest rival♪
@@ -11496,8 +11496,8 @@
 む！|お前達の顔は！=Wha-!? Your faces!
 見事な　シンメトリーだ！=Marvelous! They're symmetrical!
 ギギ・・・|お前ら職人と魔武器か|・・・死神の手先だな=Gehe! A meister and his magic weapons... Death sent his drones, huh?
-よく見ると　シンメトリーじゃないな|・・・虫酸が走るわ=Now that I look closer, they're not symmetrical... How repulsive.#虫酸が走る is an expression that means "to be disgusted; to be repulsed; to get the creeps" But the kanji for insect is contained within it, which leads to Liz's realization that they're bugs in the following line. I couldn't come up with a natural way to make that connection in English. I thought about "creepy crawlies", but it seemed like an odd choice for Kid to say. #Maybe 'It makes my skin crawl.', and Liz says something about them being creepy crawlies instead? I think it also works as it is though. 
-ああ・・・|虫だけにね=Oh... They're just bugs.
+よく見ると　シンメトリーじゃないな|・・・虫酸が走るわ=Now that I look closer, they're not symmetrical... Gives me the creeps.
+ああ・・・|虫だけにね=Oh... Creepy crawlies.
 うわっ|くだらねェー=Wah! Yucky!
 いや　そういうつもりじゃ・・・|くそ・・・ダメだ・・・死のう=No, they're totally asymmetrical... Damn... It's no good... This is the end.
 ギギギ・・・|生かして帰さない！=Gehehe! Leave now and you'll live!
@@ -13079,9 +13079,9 @@
 さてと・・・これで|キッド以外は全員集合したな=Well, that's everybody minus Kid.
 お前達|こんな所にいたのか！？=What are you two doing standing around here!?
 早かったなキッド|ちょうど今からみんなで|ティーパーティーを・・・=That was quick, Kid. Everybody else is at the tea party now, so...
-父上からの指令だ|来てくれ　リズ　パティ！=Orders from father. Liz, Patty, come on!
+父上からの指令だ|来てくれ　リズ　パティ！=Orders from Father. Liz, Patty, come on!
 ぶ～！ぶ～！|キッド君　横暴！=Down with Kid, the tyrant! Down with Kid, the tyrant!
-グズっていても仕方ないことくらい|お前達もわかっているだろう|早く　父上の所に急ごう！=Do all the whining you want! You know it won't change anything! Now quick, we need to see father!
+グズっていても仕方ないことくらい|お前達もわかっているだろう|早く　父上の所に急ごう！=Do all the whining you want! You know it won't change anything! Now quick, we need to see Father!
 普段の　お前よりも|グズっちゃいねェよ・・・=She's whining less than you usually do.
 !FILE:EV2320_072.bscr
 父上　指令と|聞いたんだけど|どんな内容なの？=Father, we heard you had orders for us. What are they?
@@ -13269,7 +13269,7 @@
 じゃあ　あとで合流しようぜ=Well, we'll meet up later then.
 しかしあいつらも|よく　あんなくだらないことを|考えつくものだ・・・=To think that even they would come up with such a foolish idea.
 そんな場所に行って|精神が平静でおれるやつなど|参加者以外おるわけなかろう！=Only the participants would be able to go to that thing and come out sane!
-さてと　父上に|アイサツに行ってくるか・・・=Why don't I go say hi to father?
+さてと　父上に|アイサツに行ってくるか・・・=Why don't I go say hi to Father?
 !FILE:EV2321_032.bscr
 キッド　教室で|何か起こってるのかな？=Kid, something's going on in the classroom, isn't there?
 教室・・・たしかリズ達が|不幸大会を企画していた|はずだけど・・・=The classroom... If I'm not mistaken, that would be the Misfortunathon that Liz and Patty were planning, but...
@@ -13409,7 +13409,7 @@
 死神様　お前から|三者面談の話をされることを|期待していたんじゃないのか？=I think Lord Death was waiting for you to talk to him about the parent-teacher meeting.
 そんな感じだったよね|お姉ちゃん！=That's what it felt like!
 そんなはずはないだろう|こと俺にとっては三者面談など|無駄でしかない=That can't be the case. For me, this parent-teacher meeting would be nothing but a waste of time.
-父上もそれはよく|ご存じのはずだ！=And I'm sure father sees it the same way!
+父上もそれはよく|ご存じのはずだ！=And I'm sure Father sees it the same way!
 そんなことないと思うけどな・・・=I don't think so, but...
 そんなことを考えてるヒマが|あったら　博士をさがしに行くぞ！=If you've got time to think about that, you've got time to help me look for the professor!
 !FILE:EV2322_042.bscr
@@ -14344,7 +14344,7 @@
 結構　好評だな|シド先生のコロン！=Rave reviews for Sid's perfume!
 シド先生の男前伝説は|今からはじまるね♪=The bards will recite the legend of Sid, the handsome♪
 そうだ！死神様に|報告に行かないか！=Totally! Should we go report it to Lord Death?
-別に父上に報告するほどのこと|ではないと思うのだが・・・|まぁ　よかろう　行くとするか=I don't think it really merits reporting to father, but... why not? Shall we go?
+別に父上に報告するほどのこと|ではないと思うのだが・・・|まぁ　よかろう　行くとするか=I don't think it really merits reporting to Father, but... why not? Shall we go?
 !FILE:EV2520_112.bscr
 シド先生の|イメチェン　大成功だよ！=Sid's makeover is a total hit!
 死神様も鏡の中でこもってないで|コッチへ来て確認してみろよ！=Don't stay all cooped up in your mirror, Lord Death! Come see it for yourself!
@@ -14476,7 +14476,7 @@
 俺は創立前夜祭に|何を着ていけばいいんだ？=What am I supposed to wear to the Eve Anniversary party?
 普段着でも充分|フォーマルにみえるって=Your normal clothes look formal enough, I'd say.
 死神様に相談してみたら？=What if you try asking Lord Death?
-うむ　そうだな|父上に相談してみよう・・・=Yes. Of course. I'll try asking father.
+うむ　そうだな|父上に相談してみよう・・・=Yes. Of course. I'll try asking Father.
 !FILE:EV2521_022.bscr
 こういうことを　父上に|相談するのは心苦しいんだけど・・・=It's embarrassing to ask this of my own father, but...
 俺が着れそうな礼服を|持っていたりしないかな？=You wouldn't happen to have any dress clothes that I could wear, would you?
@@ -14661,7 +14661,7 @@
 お姉ちゃん|キッド君があんなとこにいるよ！=Sis, Kid's right over there!
 よし　じゃあ|なぐさめてやろうか！=Great. All right, time to cheer him up!
 おい・・・そんなに落ち込むなよ=Hey... Don't frown like that. It'll get stuck.
-たんにお茶をするだけだと|思っていたが・・・あんなトラップが|あるとは・・・無念　ここまでか・・・=I only wanted to enjoy a simple cup of tea... But then I got stuck helping father... This pain that I feel. Is this the end for me?
+たんにお茶をするだけだと|思っていたが・・・あんなトラップが|あるとは・・・無念　ここまでか・・・=I only wanted to enjoy a simple cup of tea... But then I got stuck helping Father... This pain that I feel. Is this the end for me?
 元気を出して♪=Cheer up, ya grumpopotamus♪
 何とでも言え|俺はクズ神様だ・・・|ゴミの日にでも出してくれ=Don't bother. I'm a garbage grim reaper. Just set me out on the curb on trash day.
 まぁ　キッド　あれだ・・・|ティーパーティーは流れたけどさ・・・=Hey, Kid. Here... The tea party was a wash, but...
@@ -14824,7 +14824,7 @@
 メデューサ先生が|助かったのだぞ|よかったではないか！=So Dr. Medusa has been saved. That's wonderful!
 !FILE:EV2924_080.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
-父上から聞きました|おケガがなくてなによりです=We heard from father that you weren't at all injured.
+父上から聞きました|おケガがなくてなによりです=We heard from Father that you weren't at all injured.
 そうなの　さらわれたのに|恥ずかしいわ　カスリ傷くらい|つけてくれても良かったのに・・・=It's embarrassing. I was abducted but have nothing to show for it. A little scratch would have been nice...
 それより あなた達|私を助けるために魔女と|戦ってくれたんですって？=But forget about me. I heard you all fought against the witch trying to save me.
 そうか私達　魔女と|戦ったんだっけ・・・思い出したら|急に怖くなってきた・・・=Yeah, I guess we did fight a witch... I'm getting freaked out again just thinking about it.
@@ -15069,7 +15069,7 @@
 やっと終わったな～！|これで帰れるぜ♪=It's finally over! I'm ready to go home♪
 ふむ　今回は比較的簡単だったな=Hm. That was relatively simple, wasn't it?
 まぁそうかもな|うちらも成長してんだしな=Yeah, I guess so. I'd say we've improved.
-さぁ～て|父上に報告するか！=Now then, shall we report back to father?
+さぁ～て|父上に報告するか！=Now then, shall we report back to Father?
 毎回これぐらいだと楽なんだけどなぁ！=Why can't it always be this easy!?
 ふむ！|これで目標達成だな=Hmm! Looks like we've completed our objective.
 終わった～♪終わった～♪=Winner♪ Winner♪
@@ -17488,7 +17488,7 @@
 !FILE:EV9967_011.bscr
 小物らしく　小物稼ぎを|する時じゃねェのか？=Isn't it time for the small people to be doing small people things?
 !FILE:EV9967_020.bscr
-本当に死武専は素晴らしい|父上がつくっただけのことはある=The DWMA is truly magnificent. And father made all of it himself.
+本当に死武専は素晴らしい|父上がつくっただけのことはある=The DWMA is truly magnificent. And Father made all of it himself.
 どの場所に行っても|新たな発見があるから|見ていて飽きがこない！=No matter where you go, there's always some new discovery to be made! I never get bored of just looking around.
 気になることがあって|家に帰ろうとしていたのだが・・・=Something's worrying me, so I'm thinking about going home, but...#seen
 はたして本当に|帰っていいのか迷っているところだ・・・=Of course, I'm not so sure it's really okay for me to go right now though.
