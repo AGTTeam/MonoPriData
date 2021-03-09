@@ -22,8 +22,8 @@
 私の睡眠ライフ=My Life of Sleep
 おばちゃんの秘密=Auntie's Secret
 こだわりの二丁拳銃=Neurosis Akimbo
-パティの死武専制覇=Patty, Conqueror of the DWMA
-姉妹の過去話=Stories of Sisterhood
+パティの死武専制覇=Patty, Lord of All#Alternatively just 'Conqueror of All'
+姉妹の過去話=Life on the Streets#or 'Sisterly Stories'
 緊急連絡=Crisis Call#Emergency Contact might be better. I just can't help myself with the alliteration sometimes.
 ブレア騒動=The Blair Brouhaha
 パティの秘密=Patty's Secret
@@ -12423,7 +12423,7 @@
 あの～・・・お姉ちゃん|事情が飲み込めてないので|キチンと説明してください・・・=Ummm... Big sis isn't following, so you think you could let me know what's going on?
 というわけなんだよ　お姉ちゃん！=And now you're caught up, sis!
 なるほどね　ブラック☆スターの|補習に付き合うことになったわけか=So let me get this straight. You two agreed to join Black☆Star for his remedial lesson?
-でも補習なんだろ？|死神のお前なら　パティだけでも|楽勝なんじゃねェのか？=But it's a remedial lesson... You're a grim reaper, so even with just Patty, it should have been a piece of cake, right?
+でも補習なんだろ？|死神のお前なら　パティだけでも|楽勝なんじゃねェのか？=But it's a remedial lesson... You're a grim reaper, so even with just Patty, it should've been a piece of cake, right?
 無理・・・|シンメトリーでない状態で|戦うなんて絶対無理・・・=Impossible... Fighting in such an asymmetrical state is absolutely impossible.
 やっぱり　私　一個も|悪くねェじゃんかよ・・・=As I figured, none of this is my fault at all.
 !FILE:EV2220_090.bscr
@@ -12575,30 +12575,30 @@
 どうしたんだソウル|うかない顔をして？=What's wrong, Soul? Why the pouty face?
 何かしんねェけど|ガスの元栓を閉めたかどうか|すっげェ気になる・・・=I can't remember if I shut off the gas this morning and I'm getting really worried.
 ほぇ？キッド菌が|うつったかな♪=What? You must have caught Kiditis♪#Patty is saying Soul is acting like Kid. Infected by Kid germ/bacteria/fungus.
-どうしたんだよキッド？|うかない顔して？=What's wrong with you, Kid? Now you're pouting too?
+どうしたんだよキッド？|うかない顔して？=What's wrong with you, Kid?|Now you're pouting too?
 ん？イヤ・・・|何でもない・・・|気のせいかもしれんが・・・=Huh? No, it's nothing. I'm probably just imagining things.
 !FILE:EV2221_006.bscr
 何かしんねェけど|ガスの元栓を閉めたかどうか|すっげェ気になる・・・=I can't remember if I shut off the gas this morning and I'm getting really worried.
 !FILE:EV2221_007.bscr
 どうしたの　キッド君？=What's wrong, Kid?
 ん？イヤ・・・|気のせいかもしれんが・・・=Hm? No, it's probably my imagination.
-我が家の玄関の額縁が|少し右に傾いていたような|気がしてな・・・=I have this nagging feeling that the picture frame by the front door at home is slanted ever so slightly to the right.
+我が家の玄関の額縁が|少し右に傾いていたような|気がしてな・・・=I have this nagging feeling that the picture frame by the front door at home is slanted ever so slightly.
 そんなこと　今はどうでも|いーだろ！！=What difference does that make right now!!?
 どうでもいいコトないだろ！？|ああ～・・・どうしよう・・・！！|全てが否定されているようだ・・・=It makes a huge difference!! Aah... What am I gonna do!? Everything is all wrong.
 クソ！限界だ！！|確かめてくる！！！=Damn it! I'm at my limit!! I have to make sure!!!
 ったく　しょうがねェなぁ=Geez, you leave us no choice.
+パティさん「鶴の一声」|軽めでお願いします=Patty, would you please try talking to him in that special way that you have?
 んあ？うん・・・=Hm? 'Kay...
 いいかげんにしろよ|ヘタレ=Get a grip, damn you.
 うわぁあん！=Waaah!
 キャハハハ|退屈させんな　コラー♪=Kyahahaha! That never gets old♪
 ああ　あんまり|いじめるんじゃないよ・・・=Ah. Maybe that was a little cruel.
 クソ・・・クソ・・・|パティのくせに・・・パティのくせに・・・=Damn... Damn... It's only Patty... It's only Patty...
-それにしても|さすがだ・・・「鶴の一声」・・・=Although it was effective... that voice...
-キッドも静かになったから|どこかでノンビリしようぜ！=Since Kid's so quiet now, why don't we go somewhere fun!?
+それにしても|さすがだ・・・「鶴の一声」・・・=Although it sure was effective...
+キッドも静かになったから|どこかでノンビリしようぜ！=Since Kid's piped down now, why don't we go somewhere fun!?
 ほ～～い♪=Okey-dokey♪
-パティさん「鶴の一声」|軽めでお願いします=Patty, why don't you try talking to him in that special way that you have?
 !FILE:EV2221_012.bscr
-キッドのヤツどうしたんだ？|なんか落ち込んでねェか？=What's wrong with Kid there? He didn't see something asymmetrical again, did he?
+キッドのヤツどうしたんだ？|なんか落ち込んでねェか？=What's wrong with Kid? He didn't see something asymmetrical again, did he?
 ・・・・・・・・・=.........
 なんだ　コラ|お前もヘコませてやろうか！？=What's that? Do I need to shut you up too!?
 パティ　もういいよ|・・・あれ　おかしいな=Patty, it's okay now... That's strange.
@@ -12608,20 +12608,20 @@
 やるのかよ|いいんだな！？=You wanna fight? Bring it!
 退屈させんなよ|エセクール！=Don't bore me, cool guy wannabe!
 まってくれ　ソウル！=Wait, Soul!
+キッド　二人を止めてくれ！=Kid, help me stop them!
 ・・・・・・・・・=.........
-まだ落ち込んでんのか・・・|使えねェな　お前・・・=Oh yeah, you're still upset. You won't be of any help.
-退屈だよ|きゃはははは！=Boooriiing. Kyahahaha!
+まだ落ち込んでんのか・・・|使えねェな　お前・・・=Oh yeah, you're still upset. You're no help.
 マジかよ　化け物だぜ・・・=No way. She's a monster.
+退屈だよ|きゃはははは！=Boooriiing. Kyahahaha!
 うわぁ　勝っちゃったよ|しかも　一方的に・・・=Woah! She won. And with a single hit.
 お姉ちゃん|他の所にも行こうよ～♪=Sis, can we go somewhere else now♪?
 あ・・・うん・・・そうだね|パティ・・・さん=Ah... Yeah... Sure, Patty... ma'am...
-キッド　二人を止めてくれ！=Kid, help me stop them!
 !FILE:EV2221_015.bscr
 ・・・・・・・・・=.........
 !FILE:EV2221_016.bscr
 ・・・・・・・・・=.........
 !FILE:EV2221_022.bscr
-あれ　なんで|死神様の坊ちゃんは|落ち込んでるんだ？=Huh? What's he so upset about?
+あれ　なんで|死神様の坊ちゃんは|落ち込んでるんだ？=Huh? What's Lord Death's son so upset about?
 ・・・・・・・・・=.........
 オイッ！！|あいさつぐらい|ハッキリしろや！！=Yo!! First you greet her properly!!
 お姉ちゃんに|言われてこなかったのかよ！！|ああ！？=You weren't even going to say hello to my sister, huh!?
@@ -12635,10 +12635,10 @@
 まってくれ！|お願いだから乱暴は|しないでくれ！=Wait! Please, I don't want any violence!
 大丈夫だよ　リズ|ちょっときつくお説教を|してやるだけさ！=No worries, Liz. It'll be nothing more than a little... stern scolding. That's all!
 口ゲンカで勝負ってわけか|きゃはははは♪=A fight with words then? Okay! Kyahahaha♪
-両者　聞くに堪えない暴言で|相手をののしり合っています|しばらくお待ちください・・・=The two are insulting each other with language that is unsuitable for the general audience. Please wait a moment...
+両者　聞くに堪えない暴言で|相手をののしり合っています|しばらくお待ちください・・・=The two are insulting each other with language that is unsuitable for this game's age rating. Please wait...
 すみませんでした|パティさん・・・=Please forgive me, Ms. Patty.
-退屈だよ　デスサイズ|きゃはははは♪=Victory is mine, Spirit! Kyahahaha♪
-うわぁ　勝っちゃったよ|口ゲンカとはいえ　一方的に・・・=Woah! She won. And the verbal exchange was totally one-sided.
+退屈だよ　デスサイズ|きゃはははは♪=Victory is mine, Death Scythe! Kyahahaha♪
+うわぁ　勝っちゃったよ|口ゲンカとはいえ　一方的に・・・=Woah... She won. And the verbal exchange was totally one-sided.
 !FILE:EV2221_025.bscr
 ・・・・・・・・・=.........
 !FILE:EV2221_026.bscr
@@ -12651,22 +12651,22 @@
 お姉ちゃんもう|どうしていいか　わからないよ・・・=I'm her big sister, and even I don't know what would work.
 きゃはははは・・・=Kyahahaha...
 ・・・・・・・・・|・・・ん！？=.........|...Hm!?
-何をぼんやりしている|パティが倒れたぞ！=Why does everything seem so fuzzy? Patty fell!
+何をぼんやりしている|パティが倒れたぞ！=This is no time to be lolling around! Patty fell!
 え　ほんとだ|うそ！ヤダ！パティ！！=Huh? Really? No! No way! Patty!!
 たわけ　さっさと|パティを保健室に運ぶぞ！=Idiot! Quick! Help me carry her to the infirmary!
 !FILE:EV2221_030.bscr
-どうしよう！？どうしよう！？|どうしよう！？どうしよう！？|どうしよう！？どうしよう！？=What do we do!? What do we do!? What do we do!? What do we do!? What do we do!? What do we do!?
+どうしよう！？どうしよう！？|どうしよう！？どうしよう！？|どうしよう！？どうしよう！？=What do we do!? What do we do!?|What do we do!? What do we do!?|What do we do!? What do we do!?
 ええい　うるさい|少しは落ち着け！！=Hey, hey! You're being loud! Calm down a little!!
 ふぅ　もう大丈夫よ=Phew. Everything will be all right.
 先生　パティは！？|パティは！？=Doctor, how's Patty!? How's Patty!?
 んふ　まったく問題ないわ|ちょっとのぼせたみたいね！=Hm. I'm giving her a clean bill of health. She must have just had a little blood rush to her head!
 もうそろそろ|回復した頃だと思うけど・・・=But I do recommend she take it easy for a while as she recovers.
 お姉ちゃん！キッド君！=Sis! Kid!
-パティ！！|よかったよォ！|本当に　よかったよォ！=Patty!! I'm so glad you're okay! So glad!
+パティ！！|よかったよォ！|本当に　よかったよォ！=Patty!! I'm so glad you're okay!|So glad!!!
 お前に何かあったら|お姉ちゃんは生きてはいれないよォ！=If something happened to you, I don't know if I could go on living!
 キャハハハ|お姉ちゃん泣いてるの！？=Kyahahaha! Are you crying sis!?
 のぼせただけで|死ぬわけないじゃんか♪=I had a bit of a blood rush, but I wasn't dying♪
-のぼせただけで|あんなに人が変わるものか・・・=A bit of a blood rush doesn't usually change a person.
+のぼせただけで|あんなに人が変わるものか・・・=A bit of a blood rush doesn't usually change someone's personality.
 なんだよ|うちの妹に文句あんのかよ！=What was that? Are you complaining about my little sister?
 ぁ　いや　特に問題はない=Ah... No, not at all.
 お姉ちゃん　キッド君|もう行こうよ！=Sis, Kid, let's go already!
@@ -12680,21 +12680,21 @@
 パ　パティさん！|こんにちは！=M-Ms. Patty! Hello!
 !FILE:EV2221_042.bscr
 ほぇ？何か用かな？=Huh? Need something?
-せっかく会えて|光栄なのですが・・・=It is my honor and privilege to see you, but...
-わたくし　死神様から|呼び出されてしまったので・・・|その・・・申し訳ありません！=My sincerest apologies for any inconvenience, but... That is... Lord Death has asked me to summon you!
+せっかく会えて|光栄なのですが・・・=It is my honor and privilege to see you again, but...
+わたくし　死神様から|呼び出されてしまったので・・・|その・・・申し訳ありません！=My sincerest apologies, but... That is... Lord Death just summoned me, so...
 別に　そんなの|断る必要ないよ～～♪=There's no need to apologize for it♪
 パティさんの優しさ|身にしみてきます|ありがとうございます！=Ms. Patty, your kindness touches me deeply. You have my eternal thanks!
-どうなってんだ　こりゃ？=Why are you acting all weird?
+どうなってんだ　こりゃ？=Why's he acting all weird?
 ・・・・・・・・・=.........
 !FILE:EV2221_045.bscr
 パ　パティさん！|こんにちは！=M-Ms. Patty! Hello!
 !FILE:EV2221_046.bscr
-せっかく会えて|光栄なのですが・・・=It is my honor and privilege to see you, but...
-わたくし　死神様から|呼び出されてしまったので・・・|その・・・申し訳ありません！=My sincerest apologies for any inconvenience, but... That is... Lord Death has asked me to summon you!
+せっかく会えて|光栄なのですが・・・=It is my honor and privilege to see you again, but...
+わたくし　死神様から|呼び出されてしまったので・・・|その・・・申し訳ありません！=My sincerest apologies, but... That is... Lord Death just summoned me, so...
 !FILE:EV2221_052.bscr
 みんな　ソウルの様子が|おかしいんだけど|何か原因を知らないかな？=Hey, guys. Soul's acting all weird. Do you have any idea why?
 ソウル君がどうしたの？=What's wrong with Soul?
-倉庫に閉じこもって出てこないの・・・|しかも　中で何か|ブツブツ言ってるみたいなのよ・・・=He's locked himself in a warehouse and refuses to come out... Plus I think I can hear him grumbling about something inside.
+倉庫に閉じこもって出てこないの・・・|しかも　中で何か|ブツブツ言ってるみたいなのよ・・・=He's locked himself in a warehouse and refuses to come out... Plus I can hear him grumbling about something inside.
 ほぇ？どうしちゃったのかな？=Really? What happened to him?
 ・・・・・・・・・=.........
 !FILE:EV2221_056.bscr
@@ -12707,19 +12707,19 @@
 !FILE:EV2222_002.bscr#姉妹の過去話 = Stories of Sisterhood - Part 22
 楽しそうだな|何かあったのか？=What are you smiling about?
 おうよ！|今　マカの機嫌がメチャクチャ悪ィ！=She's steaming! Maka is in such a bad mood!
-お前らも見てこいよ|おもしれェからよ！|ひやっはははははは☆=Come see for yourselves! It'll be so funny! Yahahahahahaha☆
+お前らも見てこいよ|おもしれェからよ！|ひやっはははははは☆=Go and see for yourselves! It's too funny! Yahahahahahaha☆
 完全に見世物扱いだな|きゃはははは♪=That sounds like a treat to watch. Kyahahaha♪
-しかし級友のそんな状況を|捨て置くこともできまい・・・|ここは事情を聞いてみることにしよう=But you can't just ignore a classmate when they're upset like that. Let's ask around to see if we can't find out what happened.
+しかし級友のそんな状況を|捨て置くこともできまい・・・|ここは事情を聞いてみることにしよう=But we can't just leave a classmate when they're upset like that. Let's ask around to see if we can find out more.
 !FILE:EV2222_006.bscr
 楽しそうだな|何かあったのか？=What are you smiling about?
 おうよ！|今　マカの機嫌がメチャクチャ悪ィ！=She's steaming! Maka is in such a bad mood!
 !FILE:EV2222_011.bscr
 ・・・・・・・・・=.........
 !FILE:EV2222_012.bscr
-マカ|機嫌わるいね～～=You seem kiiinda upset, Maka.
+マカ|機嫌わるいね～～=You seem kinda upset, Maka.
 ええ　ちょっとね|またパパがね・・・=Yeah, a little. It's my papa again...
 ねぇ　キッド君|男の人って　みんな浮気が|好きなのかな？=Hey, Kid, you're a guy. Do you all like cheating?
-よくは知らんが　デスサイズを|男性一般にあてはめることには|かなり無理があると思う=I can't speak for all men, but I don't think you can really assume all men to be like Spirit.
+よくは知らんが　デスサイズを|男性一般にあてはめることには|かなり無理があると思う=I can't speak for all men, but I don't think you can really assume all men are like Death Scythe.
 マカ　親のことで|そんなに　深刻になるなよ=Maka, don't get so worked up about your parents.
 親は親　自分は自分|イライラしてる時間が|もったいないぞ=Let them be them, and you be you. It's such a waste of time to be annoyed all the time.
 確かにそうね|もうパパのことをあれこれ|考えるのはやめるわ=You're absolutely right. I'm going to stop thinking about what my papa is always doing.
@@ -12727,15 +12727,15 @@
 どうだっ・・・かなぁ？|ずっと　パティと二人で|ストリート暮らしだったからなぁ？=I'm not really sure. Patty and I lived together on the streets for a long time after all.
 きゃははは♪|私もわすれた=Kyahahaha♪ I forgot too.
 ただわかるのは|子供を放置しても|平気なヤツらだから=But what I do remember is that, besides abandoning us, they were all right.
-マカの父親と別ジャンルで|ロクでもないってことぐらいかな！=So they're basically the exact opposite of Maka's dad!
+マカの父親と別ジャンルで|ロクでもないってことぐらいかな！=So they're basically the exact opposite of your dad!
 ・・・・・・・・・=.........
 私　お姉ちゃんのこと|すき～！=I love you, sis!
 お前は|本当にいい子だよう！=You're such a good kid!
-お姉ちゃん　お前が|悪い男にだまされないか|それだけが心配だよう！=Your big sister is only worried that a bad man will come around and try to take advantage of you because of how nice you are!
+お姉ちゃん　お前が|悪い男にだまされないか|それだけが心配だよう！=Your big sister is only worried that a bad man will come and take advantage of you because of how nice you are!
 マカ　どうしたの？=Maka, what's wrong?
 いえ　なんでもないわ|ちょっとショックだっただけ・・・=Oh, nothing really. I'm just a little shocked is all.
-ふ～ん　そうなんだ・・・|変なマカだね　お姉ちゃん！=Oookaay... Sis, Maka's acting all weird!
-そういうな|きっと体調が悪いだけだよ=I'm sure she's just feeling a little sick.
+ふ～ん　そうなんだ・・・|変なマカだね　お姉ちゃん！=Oookaay...|Sis, Maka's acting all weird!
+そういうな|きっと体調が悪いだけだよ=I'm sure she's just feeling a little unwell.
 !FILE:EV2222_015.bscr
 ・・・・・・・・・=.........
 !FILE:EV2222_016.bscr
@@ -12744,7 +12744,7 @@
 !FILE:EV2222_021.bscr
 リズにパティ|お前達に話がある！=Liz, Patty, I need to speak with you!
 !FILE:EV2222_022.bscr
-なんだよ先生|血相変えても顔色悪いぜ！=What is it, Sid? Are you upset that even when you turn red, you still don't look well!
+なんだよ先生|血相変えても顔色悪いぜ！=What is it, Sid? Even when you're worked up like this, you still look half-dead!
 俺の顔色なんてどうでもいい|問題はお前たちの成績のことだ！=Never mind my complexion. The topic in question is your grades!
 この間の超筆記試験|リズが　１１３位　２８点|パティ　１２８位　　２点=On the Super Written Exam, Liz ranked 113th with 28 points. Patty was 128th with two!
 あまりにもひどすぎる！=That is unacceptable!
@@ -12753,24 +12753,24 @@
 死武専で学ぶことは|たしかに特殊なことが多い=There are so many amazing things to learn at the DWMA.
 それにしたって　お前達の|成績は　あまりにひどいぞ=And yet your grades are unacceptably low.
 一体　前の学校で|何を学んでいたんだ？=Honestly, what did you learn at your previous school?
-私達学校なんて|行ってないよね　お姉ちゃん！=We didn't even go to school! Huh, sis?
+私達学校なんて|行ってないよね　お姉ちゃん！=We didn't even go to school, right sis?
 おう　私達|ずっとストリートで暮らしてたから|学校なんて行ったことないぞ！=Yep. We've always lived on the streets, so we've never been to school before!
-それに　先生なんてね～♪|お姉ちゃん！=My big sister was my teacher♪
-おう　ストリートに来る教師達は|最低のヤツらばっかりだったぜ！|エロくて　せこくて　ダサくて・・・=Yep. The teachers we found on the street are the worst of the worst! Nothing but perverts, thieves, and drunks.
-どうしようもないヤツがいるってことを|教えてくれた|そういう意味では教師かもな！=They taught us that there are some truly hopeless people out there. And that was quite the lesson from our "teachers"!
+それに　先生なんてね～♪|お姉ちゃん！=Still, those teachers, huh sis♪?
+おう　ストリートに来る教師達は|最低のヤツらばっかりだったぜ！|エロくて　せこくて　ダサくて・・・=Yep. The teachers we found on the streets were the worst of the worst! Just perverts, thieves, and drunks.
+どうしようもないヤツがいるってことを|教えてくれた|そういう意味では教師かもな！=They taught us that there are some truly hopeless people out there. So in that way they were good "teachers"!
 あれ　シド先生|どうしたの？=Huh? What's wrong, Sid?
-もういい先生が悪かった=Even your good teacher was bad.
+もういい先生が悪かった=I'm sorry I mentioned anything.
 そういえば|俺は　人を成績で判断しない|そんな男だった=I mean, I don't judge people based on their results. That's the kind of man I was.
 何があったか知らないけど|元気出せよ　先生！=I don't know what happened, but cheer up, Sid!
 !FILE:EV2222_025.bscr
-もういい先生が悪かった=Even your good teacher was bad.
+もういい先生が悪かった=I'm sorry I mentioned anything.
 !FILE:EV2222_026.bscr
 そういえば|俺は　人を成績で判断しない|そんな男だった=I mean, I don't judge people based on their results. That's the kind of man I was.
 !FILE:EV2222_031.bscr
 なあ　お前ら|マカ見なかったか？=Yo, you guys seen Maka anywhere?
 !FILE:EV2222_032.bscr
 マカなら図書室にいたぞ|何かあったのか？=Maka? She was in the library. What's going on?
-デスサイズ絡みで|もめてんだよ！=An argument about her relationship with Death Scythe!
+デスサイズ絡みで|もめてんだよ！=She's been arguing with her dad again.
 ったく面倒くせェ|どうやってなだめりゃいいんだよ・・・=It's such a pain in the ass, and I'm not sure what I can do to calm the situation.
 大丈夫だと思うぜ|だいぶ落ち着いてた|みたいだしよ♪=I'm sure it's fine. She looked like she had already calmed down quite a bit♪
 ホントかよ|いまいち信用できねェぜ・・・=Really? I don't buy it.
@@ -12791,7 +12791,7 @@
 先生なら屋上にいたけど|何かあったの？=He was on the roof. Did something happen?
 ここで口にすることはできません=It's not something I can talk about here.
 あくまでも現時点では|内偵の段階なので・・・=At the present moment it is entirely on a need to know basis.
-内緒の話か・・・|おもしろそうだな　後で|ノゾキにいってみようぜ=Insiders only, huh? Sounds interesting. I say we try taking a peek later.
+内緒の話か・・・|おもしろそうだな　後で|ノゾキにいってみようぜ=Insiders only, huh? Sounds interesting. I say we try spying on him later.
 !FILE:EV2222_056.bscr
 君達シドを知りませんか？=Do you guys know where Sid might be?
 !FILE:EV2222_061.bscr
@@ -12814,7 +12814,7 @@
 あれ？誰もいない・・・|たしかにシド先生がいたと|思ったんだけど・・・=What? There's no one here... But I could have sworn Sid was here.
 他の場所に行こうよ=Let's try somewhere else!
 待て！|ここには確かにシド先生がいる=Wait! Sid is definitely here somewhere.
-さすがキッド|魂反応を感知したのか！=Of course! Kid can sense him with his soul perception!
+さすがキッド|魂反応を感知したのか！=Of course! Kid can sense him with his Soul Perception!
 いや　どちらかと言えば|へこんだオーラを感知した=Not quite. If anything I sensed an aura of sadness.
 ほぇ？|意味わかんないよ=Huh? I don't get it.
 うむ　意味がわからなくても|問題ない！=Right. That's fine! There's nothing to get.
@@ -12834,7 +12834,7 @@
 二人で何を話してるのかな？=What are those two talking about?
 さあね　お姉ちゃん|さっぱりわからないよ・・・=For real. Big sis didn't understand a thing.
 !FILE:EV2222_075.bscr
-生前の俺はメンタル面が強い|そんな男だった・・・|だが　それも過去の話か・・・=When I was alive, my mental fortitude did not waver. That's the kind of man I was. But all the things they've been through...
+生前の俺はメンタル面が強い|そんな男だった・・・|だが　それも過去の話か・・・=When I was alive, I had strong mental fortitude. That's the kind of man I was. But the things they've been through...
 !FILE:EV2222_076.bscr
 あやうく自分を見失う所だった=I almost lost sight of myself...
 ありがとうキッド|お前の励ましで自分を|取り戻すことができた=Thanks, Kid. It's because of your encouragement that I was able to regain my composure.
@@ -12843,7 +12843,7 @@
 ここには誰もいない|他の場所に行こうぜ！=There's no one here. Let's go look somewhere else!
 待て　マカは|たしかにこの場所にいる！=Wait. There's no doubt about it. Maka is here!
 またへこみオーラかよ・・・=Don't tell me. Another sad aura?
-そういうな・・・それで|さっきはシド先生を|見つけただろう！？=Seems so. That is how I found Sid just now!
+そういうな・・・それで|さっきはシド先生を|見つけただろう！？=Don't be so snide. That is how I found Sid just now!
 そりゃ　そうだけどさ・・・=I guess that's true.
 とにかくここは俺に|まかせておいてくれ！=You can leave this to me!
 お前達は|しばらくここで待っていろ！=You two wait here while I look for her!
@@ -12852,18 +12852,18 @@
 待たせたな=Sorry for the wait.
 マカはどうしたの？=What about Maka?
 ああ　問題ない|マカはもう大丈夫だ！=Right. No worries. Maka is totally fine!
-心配かけちゃったね|ごめんなさい=I made you worry, didn't I? Sorry about that.
+心配かけちゃったね|ごめんなさい=I made you worry, didn't I?|Sorry about that.
 どこにいたのか|全然わからなかったよ！=Where were you? We didn't see you anywhere!
 スミのほうで小さくなっていた|あれはもう擬態レベルだ=She found a corner to curl up into. It was quite the effective camouflage.
 どうしたんだよ一体？=Why were you trying to hide?
 あやうく自分を|見失うところだった・・・=I almost forgot who I was...
 ありがとう|キッド君の励ましで|自分を取り戻せたわ！=Thanks for the kind words, Kid. That really got me back on my feet!
-そうよね　人は人|自分は自分よね|当たり前のことを忘れていたわ！=You're right. We're all different. Each with our own opinions and experiences. How could I forget something so obvious!?
+そうよね　人は人|自分は自分よね|当たり前のことを忘れていたわ！=You're right. We're all different. Each with our own hopes and experiences. How could I forget something so obvious!?
 何を言うのだマカ|俺は少し手助けをしただけだ|お前は強い子だからな=Whatever are you saying, Maka? I barely did anything at all. It was all you. You're very strong, you know.
 二人で何を話してるのかな？=What are those two talking about?
 さあね　お姉ちゃん|さっぱりわからないよ・・・=For real. Big sis didn't understand a thing.
 !FILE:EV2222_085.bscr
-心配かけちゃったね|ごめんなさい=I made you worry, didn't I? Sorry about that.
+心配かけちゃったね|ごめんなさい=I made you worry, didn't I?|Sorry about that.
 !FILE:EV2222_086.bscr
 ありがとう|キッド君の励ましで|自分を取り戻せたわ！=Thanks for the kind words, Kid. That really got me back on my feet!
 !FILE:EV2222_087.bscr
@@ -16690,13 +16690,13 @@
 あなた達の活躍を|よく耳にするわよ♪=I've been hearing a lot of good things about you♪
 きゃはははは|ほめられちゃった♪=Kyahahaha! We did good things♪
 これを渡しておくから|もっとがんばってちょうだい♪=I'm going to give you this, so keep at it and do your best out there♪
-物をもらうってのは|やっぱ気持ちいいね！=With the thing you gave us I feel better already!
+物をもらうってのは|やっぱ気持ちいいね！=I love a good freebie!
 これからも|期待しているわよ♪=I'm expecting a lot from you three♪
 !FILE:EV2966_006.bscr
 これからも|期待しているわよ♪=I'm expecting a lot from you three♪
 !FILE:EV2966_012.bscr
 にゃんだか最近|カッコいいね～♪=You've been pretty cool cats recently♪
-うむ　問題ない=Hm. Sure.
+うむ　問題ない=Hm. I suppose.
 これをあげるから|もっとカッコ良くにゃってちょうだい♪=I'll give you this, nya. Then you'll be even cooler♪
 お返しはできないよ～|きゃはははは♪=Once we use it, we won't be able to give back the coolness. Kyahahaha♪
 これからも|ずっとカッコいいままでいてちょうだいね♪=I hope you'll stay this cool forever♪
@@ -17477,7 +17477,7 @@
 俺様を追いかけるのはいいけど|同じステージに立たないほうが|いいと思うぜ！=It's okay to shadow me, but it would be a terrible idea to try to stand in my place on stage!#seen
 己の小物ぶりを痛感することに|なっちまうからな！|ひやっはははははは☆=I always keep a close on eye on my understudies! Yahahahahahaha☆
 全てを見下ろせる|高いステージに登りてェんだけどよ=I wanted to get on a stage so tall I could look out over the whole city, but...#seen
-なんてキメていいか思いつかねェから|保留中ってとこだな☆=I don't think the world is ready for that yet, so I've put that plan on hold☆#Is this a pun on キメる, like, getting high?
+なんてキメていいか思いつかねェから|保留中ってとこだな☆=I don't think the world is ready for that yet, so I've put that plan on hold.
 俺様は赤ん坊の時から|死武専で暮らしているようなもんだ|まぁ　家みたいなもんよ=I've lived here at the DWMA since I was a baby. It's like home to me.#seen
 いわば選ばれた存在ってヤツだ|みんなとはスタートからして|違うってことになるかな☆=In a way, my life was chosen for me. I guess we don't all start our journeys from the same place☆
 俺様くらいのスターになると|ユーザーの声が聞こえてくる・・・=Once you become a star as big as me, you start hearing your fans crying for you everywhere...#seen
@@ -17696,7 +17696,7 @@
 死武専は|ゴチャゴチャしてておもしろいよ♪=The DWMA is so fun, but it's really confusing♪
 最近　よく遊びにくるんだけど|そのたびに迷子ににゃっちゃう=I've been coming here lately just to play, but I get lost every time.
 ブーたんの人気は|デス　シティーで急上昇♪=Blair's popularity has seen a swift rise throughout Death City♪
-ブーたんの人気は|デス・シティーで急上昇♪=Blair's popularity has seen a swift rise throughout Death City♪
+ブーたんの人気は|デス・シティーで急上昇♪=Blair's popularity has seen a swift rise throughout Death City♪#seen
 自称スターのツンツン頭とは違って|本当のスターだよ♪=I'm a real star. Not like that spiky-head that just calls himself one♪
 うれしいにゃ♪|大事な用を放っぽらかしてまで|ブレアと話しにきてくれたのね♪=I'm flattered♪ You wanted to talk to Blair so bad you even shirked all those big important things you have to do♪#seen
 嬉しい♪|大切な用を放ってまで|ブレアと遊びにきてくれたのね♪=I'm so happy♪ You wanted to play with Blair so bad you even shirked all those big important things you have to do♪
@@ -17717,7 +17717,7 @@
 パートナーがいないんじゃ|受けさせるわけにはいかないね=Your partner isn't with you, so I can't let you take anything.#Need to make this line work for both a single partner and Liz & Patty.
 全員揃ったら|おばちゃんとこにくるんだよ=Once you're all together, come visit me.
 !FILE:EV9981_011.bscr
-あんた達　どこか調子でも悪いのかい？|おばちゃん後ろから見てて|ヒヤヒヤしたよ=Are you kids all right? Auntie was getting pretty nervous watching you from the sidelines.
+あんた達　どこか調子でも悪いのかい？|おばちゃん後ろから見てて|ヒヤヒヤしたよ=Are you kids all right? Auntie was getting pretty worried watching you from the sidelines.
 とにかく　ゆるさないからね|危険な所に行くのは=I can't allow you to go anywhere dangerous in that state.
 !FILE:EV9981_020.bscr
 おばちゃん　ずっと見てたよ|後ろからね・・・|受注条件は合格だよ！=Auntie has been watching you from behind for a while... You meet the requirements to take on this request!
