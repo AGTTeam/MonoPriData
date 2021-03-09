@@ -12423,7 +12423,7 @@
 あの～・・・お姉ちゃん|事情が飲み込めてないので|キチンと説明してください・・・=Ummm... Big sis isn't following, so you think you could let me know what's going on?
 というわけなんだよ　お姉ちゃん！=And now you're caught up, sis!
 なるほどね　ブラック☆スターの|補習に付き合うことになったわけか=So let me get this straight. You two agreed to join Black☆Star for his remedial lesson?
-でも補習なんだろ？|死神のお前なら　パティだけでも|楽勝なんじゃねェのか？=If you've got any items that you want Auntie to hold on to, just bring them to me, okay?
+でも補習なんだろ？|死神のお前なら　パティだけでも|楽勝なんじゃねェのか？=But it's a remedial lesson... You're a grim reaper, so even with just Patty, it should have been a piece of cake, right?
 無理・・・|シンメトリーでない状態で|戦うなんて絶対無理・・・=Impossible... Fighting in such an asymmetrical state is absolutely impossible.
 やっぱり　私　一個も|悪くねェじゃんかよ・・・=As I figured, none of this is my fault at all.
 !FILE:EV2220_090.bscr
