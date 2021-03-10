@@ -22,8 +22,8 @@
 私の睡眠ライフ=My Life of Sleep
 おばちゃんの秘密=Auntie's Secret
 こだわりの二丁拳銃=Neurosis Akimbo
-パティの死武専制覇=Patty, Lord of All#Alternatively just 'Conqueror of All'
-姉妹の過去話=Life on the Streets#or 'Sisterly Stories'
+パティの死武専制覇=The Conqueror
+姉妹の過去話=Sister Stories
 緊急連絡=Crisis Call#Emergency Contact might be better. I just can't help myself with the alliteration sometimes.
 ブレア騒動=The Blair Brouhaha
 パティの秘密=Patty's Secret
@@ -12214,17 +12214,17 @@
 うん！=Yep!
 ふむ|集めた魂を詰め込んだ繭・・・か=Hm... They collected the souls in... a cocoon?
 黒いのが　シュッてさ|邪魔すんだもん=And then that shadow guy swooped in like 'woosh' and stole it!
-あと　もうちょっとだったのにさ=And that's not all.
-あの黒い影|魂のイメージが　ハッキリしなかったな=There was something not normal about that black shadow's soul.
+あと　もうちょっとだったのにさ=And we were so close to retrieving it, too!
+あの黒い影|魂のイメージが　ハッキリしなかったな=There was something not normal about that guy's soul.
 え？=Really?
 ほえ？=Huh?
 ふむ|よし　もういいぞ帰って休め|明日　遅刻するなよ=Hm. Okay, thanks. Go home and get some rest. And don't be late tomorrow.
-えぇ～=Really?
+えぇ～=Laaame...
 うぇ～=Okay.
 帰るぞ=Let's go home.
-獣　魂のイメージ・・・|あの一族が黒幕？|まさかな・・・　調べてみるか=Perhaps a beast's soul... Are they the ones behind this? It can't b... Maybe I should check it out.
+獣　魂のイメージ・・・|あの一族が黒幕？|まさかな・・・　調べてみるか=Perhaps a beast's soul... Are they the ones behind this? It can't be... Maybe I should check it out.
 え？=Really?
-えぇ～=Really?
+えぇ～=Laaame...
 !FILE:EV2200_501.bscr
 って感じが|シドからの報告ですね=That's what it seems like judging by Sid's report.
 光る繭・・・|そこで生まれ変わる魂？|・・・その眠りから生まれてくるモノ・・・=A glowing cocoon... Souls reborn from their sleep...
@@ -12239,9 +12239,9 @@
 よし|行くぞ=Alright, let's go.
 あっ　ちょっと|待ってよ～=Ah! Wait a minute!
 !FILE:EV2201_400.bscr
-おぉ　出た！|やばやば！=They're heeere! Crap!
+おぉ　出た！|やばやば！=They're heeere! Not good!
 ギギギ！|・・・またお前らか=Gehehe!|...You again!?
-また来たか　虫酸軍団！|今夜は　逃がさん！=You again? The creepy crawlony! Tonight you won't be getting away!#Play on creepy crawlies and ant colony. The Japanese makes a similar pun with army of heartburn/disgust, the second word containing the word for insect.
+また来たか　虫酸軍団！|今夜は　逃がさん！=So you've come. The creepy crawlony! Tonight you won't be getting away!#Play on creepy crawlies and ant colony. The Japanese makes a similar pun with army of heartburn/disgust, the second word containing the word for insect.
 変ー身！=Transform!
 変ー身！=Transform!
 変ー身！=Transform!
@@ -12253,17 +12253,17 @@
 !FILE:EV2201_402.bscr
 美しい月  美しい魂|美しいものだけが|この私にふさわしい=A face of porcelain skin... An innocent soul, pure of sin... 'Tis only the beautiful that I cherish within.
 う～む|シンメトリーでもない　貴様の|どこが　美しいんだ？=But there's nothing symmetrical about you. I don't see any beauty at all.
-そうだぁ|この迷惑ヤロー！=Yeah, weirdo guy!
+そうだぁ|この迷惑ヤロー！=Yeah, you weirdo!
 その呼び方は私にふさわしくない|ふふふ　はははは！=I find the way in which you address me to be entirely inadequate. Hmhmhm. Hahahaha!
 あっ！|逃げんなコラ～！=Ah! Hey, get back here!
 !FILE:EV2201_403.bscr
-あれぇ|アイツどこいった～？=Heeey. Where'd that guy go?
-ここだな|ほう これもまた|すばらしいシンメトリー・・・=He must be here. Woah. The symmetry is breathtaking.
-いいからっ！|早くいこ！=Sure! Now let's hurry and get in there!
+あれぇ|アイツどこいった～？=Huuuh? Where'd that guy go?
+ここだな|ほう これもまた|すばらしいシンメトリー・・・=He must be in there. Woah. The symmetry is breathtaking.
+いいからっ！|早くいこ！=Sure! Now let's hurry and head inside!
 !FILE:EV2201_404.bscr
 アイツはどこ？=Where is he?
 いる・・・|ヤツ以外にも　無数の魂を感じる・・・=He's here... And not just him. I feel the presence of many souls.
-たくさん？|・・・やばい？=Many? Creepy.
+たくさん？|・・・やばい？=Many? Weird.
 あ！　キッド|アレ・・・=Ah! Kid, that's...
 繭か？=A cocoon?
 そのとおり=Indeed.
@@ -12283,9 +12283,9 @@
 お姉ちゃん|また　お腹のムシが鳴いてる～=Sis, was that your stomach growling again?
 だから|私じゃないって！=No, it wasn't me!
 くるぞ・・・=What are you...?
-コレはもらっていくぜ|ぐるるっ！=I'm here for this. Grrr!
+コレはもらっていくぜ|ぐるるっ！=I'll be taking this. Grrr!
 あっ　待て！=Ah, wait!
-キッド君|また　持ってかれちゃったよ～=Kid, he took it, and I don't think he's playing fetch!
+キッド君|また　持ってかれちゃったよ～=Kid, he took the cocoon, and I don't think he's playing fetch!
 何モノだ？=Who, or what, was that?
 くそ～|でも　しょうがない|死武専に帰ろっか　キッド=Damn it... Whatever. Should we get back to the DWMA, Kid?
 !FILE:EV2201_454.bscr
@@ -12848,7 +12848,7 @@
 とにかくここは俺に|まかせておいてくれ！=You can leave this to me!
 お前達は|しばらくここで待っていろ！=You two wait here while I look for her!
 キッドのヤツ|本当に大丈夫なのかな？=You think Kid is really all right?
-心配だね　お姉ちゃん・・・=Worried about him, sis?
+心配だね　お姉ちゃん・・・=I dunno, sis...
 待たせたな=Sorry for the wait.
 マカはどうしたの？=What about Maka?
 ああ　問題ない|マカはもう大丈夫だ！=Right. No worries. Maka is totally fine!
@@ -12858,7 +12858,7 @@
 どうしたんだよ一体？=Why were you trying to hide?
 あやうく自分を|見失うところだった・・・=I almost forgot who I was...
 ありがとう|キッド君の励ましで|自分を取り戻せたわ！=Thanks for the kind words, Kid. That really got me back on my feet!
-そうよね　人は人|自分は自分よね|当たり前のことを忘れていたわ！=You're right. We're all different. Each with our own hopes and experiences. How could I forget something so obvious!?
+そうよね　人は人|自分は自分よね|当たり前のことを忘れていたわ！=You're right. We're all different. Each with our own experiences. How could I forget something so obvious!?
 何を言うのだマカ|俺は少し手助けをしただけだ|お前は強い子だからな=Whatever are you saying, Maka? I barely did anything at all. It was all you. You're very strong, you know.
 二人で何を話してるのかな？=What are those two talking about?
 さあね　お姉ちゃん|さっぱりわからないよ・・・=For real. Big sis didn't understand a thing.
@@ -14905,7 +14905,7 @@
 いいか　お前達|けっして気を抜くんじゃないぞ！=Ready, you two? Don't lose focus for even a second!
 言われなくてもわかってるよ|ごちゃごちゃ　うるせェな=You don't need to remind us every single time. You're so annoying.
 いいか　お前達|けっして気を抜くんじゃないぞ！=Ready, you two? Don't lose focus for even a second!
-お前が気を|抜くんじゃねェぞ！|きゃはははは♪=Don't lose focus, Kid! Kyahahaha♪
+お前が気を|抜くんじゃねェぞ！|きゃはははは♪=It's you who needs to work on your focus, Kid! Kyahahaha♪
 ここが今回の目的地か・・・=Is this really the place?
 さてと　そろそろ|はじめることにしますか！=I'm pretty sure. Let's just get started!
 ここが今回の目的地か・・・=Is this really the place?
@@ -15094,7 +15094,7 @@
 キッド君　お疲れ♪=Good job, Kid♪
 ゆっくり休みてぇ～=I could use a spa day.
 リズ！パティ！やったな♪=Liz! Patty! We did it♪
-上出来だな！=That was some grade A work!
+上出来だな！=That was some A grade work!
 !FILE:EV2956_010.bscr
 うむ　問題ない=Hmph. Just as I planned.
 !FILE:EV2956_019.bscr
@@ -15678,7 +15678,7 @@
 なんだー？やんのかコラー！！=What? Bring it on! Come on!
 リズ！パティ！|きっちりかっちり行くぞ！=Liz! Patty! Let's do this by the books!
 キッド～　早くやっつけて帰ろうぜ！=Kid! Let's get this over with and go home!
-うむ！|リズ！パティ！|気を抜くなよ！=Hmph! Liz! Patty! Stay focused!
+うむ！|リズ！パティ！|気を抜くなよ！=Right! Liz! Patty! Stay focused!
 気持ち悪ぃ奴だな…=This guy makes me nauseous...
 気持ち悪ィ奴だな・・・=This guy makes me nauseous...
 お姉ちゃんビビッてんの？|でもやっつけないとね～！=Don't be shy, sis. We've got to take him out!
@@ -18369,7 +18369,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 夜な夜な美女を襲うという|噂の怪人の正体をつきとめ|真相を暴け！=Ascertain the true identity of the rumored phantom that has been assaulting women!
 怪人の正体をつきとめ|犯人を倒せ！=Ascertain the phantom's identity and defeat them!
 %_te抜き打ち実技試験！=%_tePop Quizz!
-自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a C or above to pass!
+自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a|B or above to pass!
 敵を全て倒せ！=Defeat all enemies!
 %_teブレアを探し出せ！=%_teTrack Down Blair!
 デスルームの鏡を壊した|ブレアちゃんを捕まえて|きてくれ！=Blair shattered the mirror in the Death Room! Catch her and bring her back here!
@@ -18393,7 +18393,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
 %_te抜き打ち実技試験！=%_tePop Quizz!
-自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a C or above to pass!
+自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a|B or above to pass!
 敵を全て倒せ！=Defeat all enemies!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
@@ -18417,7 +18417,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 シド先生を援護せよ！|暗躍する黒幕の正体を|つきとめろ！=Sid needs backup! Ascertain the identity of the mastermind pulling the strings!
 黒幕の正体をつきとめ|倒せ！=Ascertain the mastermind's identity and defeat them!
 %_te抜き打ち実技試験！=%_tePop Quizz!
-自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a C or above to pass!
+自分の被害を最小限にして|敵を殲滅せよ！|ランクC以下は不合格！！=Annihilate the enemies while taking minimal damage! You need a|B or above to pass!
 敵を全て倒せ！=Defeat all enemies!
 %_te不愉快な人形の回収=%_teRetrieve the Insufferable Doll
 見てるだけで腹が立つ|%_dc[0,196,0]エクスカリバー人形%_dc[199,133,84]を早く|回収してくれ！=Promptly retrieve the %_dc[0,196,0]Excalibur Doll %_dc[199,133,84]that gets on your nerves just looking at!

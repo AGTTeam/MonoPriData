@@ -106,7 +106,7 @@
 1112:1163:やあああ！！=Yaaah!
 1173:1210:６文字狩り！=Figure 6 Hunter!
 !FILE:movie0004.bin
-434:450:うわっ！？=Wha!?
+434:450:うわっ！？=Wha--!?
 !FILE:movie0005.bin
 235:286:みんなよく来てくれた=Good. Everyone made it.
 287:391:それでは説明する|しっかり聞いてくれ=I'm going to explain everything, so listen up.
