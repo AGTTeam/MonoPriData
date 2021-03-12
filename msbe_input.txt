@@ -12887,9 +12887,10 @@
 今回は　少し手こずったよ|父上=We had a little bit of trouble with this one, Father.
 はい　はい|ごっくろ～さんだったね♪=Yes, yes. It was quite tough, wasn't it♪?
 ゆっくり休みてぇ～=I could use a nice nap.
-きゃはは！|お姉ちゃん　もうトシ？=Kyahaha! You could use some beauty rest, sis.
-余計なこと　言うんじゃない！=That wasn't called for!
+きゃはは！|お姉ちゃん　もうトシ？=Kyahaha! You could use some beauty sleep, sis.
+余計なこと　言うんじゃない！=That was uncalled for!
 ごくろ～さま♪|三人はもう　戻っていいよん♪=Thanks for your hard work, you three♪ You're good to go now♪#missing lines can be found in Maka common following EV0300_500
+・・・一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=...Judging by its soul response, this cocoon should be minuscule. There must be a Soul Protect on it.
 !FILE:EV2301_050.bscr
 よし|行くぞ=Alright, let's go.
 ＧＯ！　ＧＯ！=Go! Go!
@@ -12932,13 +12933,13 @@
 やったぜ！=We won!
 グオオァ！=Gguuuoooooaaaahh!
 キッド君　危ない！=Kid! Look out!
-むっ|しぶといな！=Hm. What doggedness!
+むっ|しぶといな！=Ngh! What doggedness!
 ぐぅ！=Guuh!
 ぐるる・・・|これで　俺は　鬼神になる・・・|お前らも最後だ=Grrr... With this I will become a kishin... And then I'll finish you!
 あ～！|あれが最後の繭だよ！=Aah! That's the last cocoon!
 むっ　まずい！=This is problematic!
 死刑執行モード　取得=Execution Mode ready.
-共鳴率安定・・・|ノイズ　０．３％=Resonance stable... Noise at 0.3%.
+共鳴率安定・・・|ノイズ　０．３％=Resonance stable... Noise at 0.3％.
 黒針に　魂の波長|チャージ完了=Black Needle soul wavelength fully charged!
 フィードバックまで|あと　５秒　・・・=Feedback in five seconds...
 ぐぉぉぉぉぉ！=Guuooooh!
@@ -12948,8 +12949,8 @@
 デス・キャノン！=Death Canon!
 ぐあぁ！|バ・・・バカな・・・　この俺がぁ・・・=Guaa! H-How could I... lose... to you...?
 ふぅ|さすがに　手ごわかったな=Phew. Honestly, he was quite formidable.
-ハンパなく・・・　強かったよ=Not just formidable, he was strong.
-でもさ|狼男って死なないんじゃなかったっけ？=Hold on. Aren't werewolves supposed to be unkillable or something?
+ハンパなく・・・　強かったよ=Not just all bark and no bite, huh?
+でもさ|狼男って死なないんじゃなかったっけ？=Hold on. Aren't werewolves supposed to be immortal or something?
 ふん　人間の魂を食らい|鬼神になろうとしたときから|一族としての　その力を失ったんだろう=Hmph. By eating the souls of humans in an attempt to become a kishin, he most likely lost the powers of his clan.
 さすが　キッド君|アタマいぃ～=Wow. You're so smart, Kid.
 鬼神になろうとしたばっかりに|自分の力を奪われちまったのか=So just by trying to become a kishin, his natural powers were taken from him.
@@ -13050,7 +13051,7 @@
 !FILE:EV2320_046.bscr
 それじゃあ|ブラック☆スターのこと|お願いしますね=Okay. Please find Black☆Star for me then.
 !FILE:EV2320_052.bscr
-リズにパティ|雁首そろえてどうしたんだよ？=What's up with you two? Why are you giving me the evils?
+リズにパティ|雁首そろえてどうしたんだよ？=What's up with you two? Why are you glaring at me?
 ティーパーティーはどうしたんだよ？=Why aren't you at the tea party?
 みんなで集まって|ワイワイするのは苦手なんだよ|そういうのはクールじゃねェ=Large, noisy groups aren't really my thing. It's not very cool.
 お茶会くらいで|お前はクールじゃなくなるのか？=Are you going to stop being cool after a single tea party?
@@ -14977,7 +14978,7 @@
 いけいけ　GOGO！！|退屈させんなよ～=I'm bored! Go! Go! Andale! Andale!
 お前が仕切るな！=Stay right where you are!
 !FILE:EV2932_021.bscr
-しかし　俺はなぜ|家の額縁が気になっているのか・・・|もしかしてズレているのか？=Why am I worried about the picture frames at home all of a sudden? There's no way one of them is crooked, is there?
+しかし　俺はなぜ|家の額縁が気になっているのか・・・|もしかしてズレているのか？=Why am I suddenly worried about the picture frames at home? There's no way one of them is crooked, right?
 お前ができなかったことは|なかったじゃないか|心配なんかする必要ないよ♪=You would never have let that happen, so there's no need to worry♪
 くそっ　それでも気になる・・・|早々にミッションを終わらせ|帰って確認しなければ=Damn. I can't get it off my mind... I have no choice but to go home and make sure as soon as the mission is over.
 しかし　俺はなぜ|トイレの紙が気になってる・・・|三角に折るのを忘れたのか？=Why am I worried about the toilet paper all of a sudden? I didn't forget to do the three-corner fold, did I?
@@ -15006,7 +15007,7 @@
 そんなことないよ|とってもキュートだよ♪=It's not ugly. I think they're really cute♪
 本当に？・・・まぁいい|とにかく先を目指すとしよう！=Really? ...Right. In that case, let's keep our eyes on what's ahead!
 しかし　なぜだ|俺はなぜこんなにも釈然としない・・・=But why? What is this doubt I'm feeling?
-気のせいだって|全部終わってから|考えようぜ・・・な？=It's all in your head. You can think about it later once this is all taken care of... 'Kay?
+気のせいだって|全部終わってから|考えようぜ・・・な？=It's all in your head. You can think about it later once this is all taken|care of... 'Kay?
 くそっ|とにかく　先へ進むぞ=Damn. Anyway, let's move on.
 しかし　心の中にある|この思いはなんだ・・・|一体　何を示唆しているのだ・・・=But I have this nagging feeling in the pit of my stomach... What could it possibly be trying to tell me?
 恋じゃない？=Maybe you're in love.
@@ -15047,7 +15048,7 @@
 !FILE:EV2932_032.bscr
 お前が一番心配だよ！|きゃはははは♪=You're the world's biggest worrywart! Kyahahaha♪
 別にど～でもいいじゃんね？=Who cares? They'll be all right.
-ほぇほぇ|いつの間にそんなに仲良くなってたの？=Wait. What? Did you two become friends when I wasn't looking?
+ほぇほぇ|いつの間にそんなに仲良くなってたの？=Wait. What? Did you guys become friends when I wasn't looking?
 オックス君？|ぜんぜん気にしてなかった|ごみ～んに♪=Ox? I wasn't paying any attention to him. I'm beary sowwy♪
 私はお前が一番心配だよ・・・=You're the one I'm most worried about.
 ま　あいつらも|色々考えがあるんだろ！|そんなに気にすんなよ！=Yeah. They've probably got plans of their own! Forget about them!
@@ -15094,7 +15095,7 @@
 キッド君　お疲れ♪=Good job, Kid♪
 ゆっくり休みてぇ～=I could use a spa day.
 リズ！パティ！やったな♪=Liz! Patty! We did it♪
-上出来だな！=That was some A grade work!
+上出来だな！=That was some grade A work!
 !FILE:EV2956_010.bscr
 うむ　問題ない=Hmph. Just as I planned.
 !FILE:EV2956_019.bscr
@@ -16920,7 +16921,7 @@
 さて　もう一組は誰にするかな=Now then, we still need to partner up with someone.
 キッド|マカ達がいるぜ・・・=Look, Kid. There's Maka and Soul...
 キッド君|ブラック☆スター達がいるよ・・・=Kid. It's team Black☆Star...
-・・・おい|アレなんだ？=...What is he doing here?#Ox. Couldn't think of something to match the Japanese here, but Liz looks mm... unhappy? xD
+・・・おい|アレなんだ？=Oh, that's...#Ox
 うむ　それでは|誘って一緒に行くことにしよう=Right. We'll invite them to go with us.
 !FILE:EV2981_700.bscr
 オッス=Hey!
