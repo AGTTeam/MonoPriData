@@ -13080,7 +13080,7 @@
 お前達|こんな所にいたのか！？=What are you two doing standing around here!?
 早かったなキッド|ちょうど今からみんなで|ティーパーティーを・・・=That was quick, Kid. Everybody else is at the tea party now, so--
 父上からの指令だ|来てくれ　リズ　パティ！=Orders from Father. Liz, Patty, come on!
-ぶ～！ぶ～！|キッド君　横暴！=Down with Kid, the tyrant!|Never heard of "let them eat cake"!?#revert if not appropriate
+ぶ～！ぶ～！|キッド君　横暴！=Down with Kid, the tyrant!|Let them eat cake!
 グズっていても仕方ないことくらい|お前達もわかっているだろう|早く　父上の所に急ごう！=Do all the whining you want! You know it won't change anything! Now quick, we need to see Father!
 普段の　お前よりも|グズっちゃいねェよ・・・=She's whining less than you usually do.
 !FILE:EV2320_072.bscr
@@ -13105,7 +13105,7 @@
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
 お前ら　何を落ち込んでる|一回や二回の会合に参加|できなかったくらいでなんだ！=What are you two so upset about? You've only missed out on one or two little get togethers!
-大体　お前達はお茶よりも|菓子をたらふく食べようという|魂胆なのだろう！=Besides, you two don't even care about the tea. You just want the excuse to eat a bunch of cake!
+大体　お前達はお茶よりも|菓子をたらふく食べようという|魂胆なのだろう！=Besides, you two don't even care about the tea. You just want an excuse to eat a bunch of cake!
 ハッキリ言ってしまえば|それは邪道だぞ！=If I'm being honest, you're the ones in the wrong!
 おい　ボンボン|いいかげんにしろや=Hey, rich kid. That's enough.
 死神のてめェには|わかんねェかもしれねえけど|乙女には甘さが必要なんだ=A spoiled grim reaper like you might not understand, but a lady needs her sweets.
