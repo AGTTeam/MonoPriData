@@ -2193,6 +2193,7 @@
 !FILE:COMMON
 ワンワン吠えて　シッポをふるヤツは|負けるのだぁ　だっしゃぁ！=We beat the tail-wagging woof woof man. Go team!
 でも|アイツが黒幕じゃなかったんだろ？=But he wasn't the mastermind after all.
+でも|黒幕じゃ　なかったんでしょ？=But he wasn't the mastermind after all, right?#don't remove duplicate line
 黒幕は魔女だ=It's a witch pulling the strings.
 いやッ！　ちがうッ！|黒幕は　俺だぁ！！=Nope! You're wrong! The mastermind... is ME!!
 あの光る繭|一体何に使うものなんでしょう？=What in the world could they be using that glowing cocoon for?
@@ -15144,7 +15145,7 @@
 よし！|では早速　報告に学校へ戻るぞ！=Okay! Let's hurry and report back to the school!
 ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost? I give up. Let's go back on Beelzebub.
 よし|今日は休憩しながら帰るぞ！=Great! Let's relax on the way back!
-そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=Look at that. It's not too often we have enough time to hang out a little and still make it back on time.
+そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=I know, why don't we hang out for a change? As long as we make it back on schedule.
 そうだな・・・|今日は　観光しながら帰るとするか=Well, well... How about a little sightseeing on the trip back home?
 さて・・・|予想よりもかなり時間が余ってしまったな|道草しながら時間を調整して帰るか=Well, that went quicker than expected. Why don't we take the scenic route on the way back?
 うむ|たまにはこの辺りを探検しながら|地形を把握して帰るか！=Hm. It couldn't hurt to explore a little every once in a while, would it?
@@ -15553,7 +15554,7 @@
 よし！|では早速　報告に学校へ戻るぞ！=Okay! Let's hurry and report back to the school!
 ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost? I give up. Let's go back on Beelzebub.
 よし|今日は休憩しながら帰るぞ！=Great! Let's relax on the way back!
-そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=Look at that. It's not too often we have enough time to hang out a little and still make it back on time.
+そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=I know, why don't we hang out for a change? As long as we make it back on schedule.
 そうだな・・・|今日は　観光しながら帰るとするか=Well, well... How about a little sightseeing on the trip back home?
 さて・・・|予想よりもかなり時間が余ってしまったな|道草しながら時間を調整して帰るか=Well, that went quicker than expected. Why don't we take the scenic route on the way back?
 うむ|たまにはこの辺りを探検しながら|地形を把握して帰るか！=Hm. It couldn't hurt to explore a little every once in a while, would it?
@@ -16794,8 +16795,8 @@
 いいじゃん　いいじゃん|誰もいないんだからさ！=It'll be fine. There's no one here anyways!
 なんでワザワザ|こんな所にくるんだよ！=What was the point of coming here again?
 どうせ授業になったら|いやでもここに拘束されるんだからさ！=Ever since I became a student, it's like I've been bound to this room!
-ん～やっぱり|外はいいな！=Mm... It's so nice outside!
-ストリート育ちの私には|屋内は窮屈すぎるぜ！=After living on the street, this room feels so cramped to me!
+ん～やっぱり|外はいいな！=Mm... It's so nice outside!#seen
+ストリート育ちの私には|屋内は窮屈すぎるぜ！=After living on the street, being indoors feels too cramped to me!
 この時間に|人どおりが途絶えるなんて・・・=There's nothing going on here at this time of day.
 なんか怖くなってきたぜ・・・|さっさと他の場所に行こうぜ！=This place is giving me the creeps... Let's go somewhere else!
 しかし　よくこんなに|本ばかり集めたもんだ・・・=There's nothing here but a bunch of books.
@@ -16939,7 +16940,7 @@
 今　ボソッと何か言わなかったか？=What are whispering about now?
 いやいや　何も言っていませんよ♪=No, no. I wasn't saying anything♪
 さあ　受けたいものを選んでください=Now go ahead and pick whatever you'd like.
-何にせよ　充実した訓練になりそうだな|リズ　パティ|気を引き締めていくぞ=At any rate, this seems like substantial training. Liz, Patty, you'll have to stay focused for these.
+何にせよ　充実した訓練になりそうだな|リズ　パティ|気を引き締めていくぞ=At any rate, this seems like|substantial training. Liz, Patty, make sure to stay focused.
 !FILE:EV2981_710.bscr
 シド先生は|三つ星職人だからな|めちゃくちゃ強いぞ　きっと=Sid is a three-star meister, so he's gonna be ridiculously tough.
 きゃははは！|キッド君　ボコボコにされちゃうね=Kyahahaha! Kid's gonna get the snot beat out of him!
@@ -18480,7 +18481,7 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_te迷惑ドッグを退治せよ！=%_teStop the Pesky Dogs!
 停電被害の報告殺到！|%_dc[196,0,0]マッドフント%_dc[199,133,84]%_dc[0,0,196]１５%_dc[199,133,84]匹を|すみやかに倒せ！=It's chaos out there! Hurry and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 制限時間内に|%_dc[196,0,0]マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds %_dc[199,133,84]within the time limit!
-%_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
+%_te街の殺人鬼を退治せよ！=%_teStop the Slaughter!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 %_teセクシー猫にチャレンジ！=%_teSexy Cat Challenge!
@@ -18498,10 +18499,10 @@ Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight anymore!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
-%_te毒コウモリを退治せよ！=%_teEliminate the Poisonous Bats!
+%_te毒コウモリを退治せよ！=%_teDriven Batty!#or just 'Eliminate the Bats!' as the others
 毒を持った危険なコウモリ|%_dc[196,0,0]バッドバット%_dc[199,133,84]を探し出し|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[199,133,84]of the dangerously poisonous bats, %_dc[196,0,0]Bad Bats%_dc[199,133,84]!
 バッドバット%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Bad Bats%_dc[199,133,84]!
-%_te街の殺人鬼を退治せよ！=%_teEliminate the Town Cutthroat!
+%_te街の殺人鬼を退治せよ！=%_teStop the Slaughter!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]Dフレフレ%_dc[199,133,84]を倒せ！=Defeat the Kishin Egg, %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 Dフレフレ%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]D-Flayflay%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Material
