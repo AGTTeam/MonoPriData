@@ -42,7 +42,7 @@
 マカが倒れた=Fainting Spell
 うれしい罰ゲーム=The Happy Penalty Game
 最近のリズは・・・=Where Liz Belongs
-保健室からの苦情=Dispensing Gripes#open to suggestions
+保健室からの苦情=Prescribing Gripes
 ソウルの胸の傷=Soul's Scar
 反撃開始=Payback Time
 劣等感大爆発=Inferiority Complexplosion
@@ -4057,18 +4057,18 @@
 はて？覚えていません|君の気のせいでしょう？=Is that so? I have no recollection of that. Perhaps you imagined it...
 !FILE:EV0924_070.bscr
 ちゅす！うすっ！|ほいさ！お疲れさ～ん♪=Hola! Aloha! Helloha! Welcome back♪
-すみません死神様|魔女を逃がしてしまいました・・・=Sorry, Lord Death. We let the witch get away...
+すみません死神様|魔女を逃がしてしまいました・・・=Sorry, Lord Death. The witch slipped from our grasp...
 それにメデューサ先生を|発見することはできなかった・・・=And we didn't even locate Dr. Medusa.
 まぁまぁ|そんなに落ち込まないでちょうだい=Calm down. Calm down. There's no need to get upset over it.
 まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale!|Yeah? Yeah♪?
 でもよ　死神様・・・=But Lord Death...
-そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa your worried about, Stein rescued her♪
+そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa you're worried about, Stein rescued her♪
 はぁ　なんだそれ！？|そういうことは先に言ってくれよ死神様！|何考えてんだ！！=What!? Are you serious? Why didn't you start with that? What were you thinking!?
 ソウル！死神様に|そんなにからむんじゃないの！=Soul! Don't talk back to Lord Death like that!
 メデューサ先生が|助かったんだから|それを喜ぼうよ・・・=Let's just be happy that Dr. Medusa is okay.
 わかったよ　マカ=You're right, Maka.
 !FILE:COMMON
-それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have even a scratch on her♪
+それとメデューサ先生に|ケガとかはなかったよ～ん♪=And Dr. Medusa didn't have so much as a scratch on her♪
 もう職場復帰して|保健室にいるはずだから|寄ってみるといいよ！=She's already back to work and in the infirmary, so you can probably go see her there!
 !FILE:EV0924_080.bscr
 心配かけたわね♪=You were worried about me, weren't you?
@@ -5122,7 +5122,7 @@
 ブレア　なんだか|胸がドキドキしてきちゃった♪=Blair's heart is really pounding for some reason♪
 やりすぎちゃうかもしれないけど|その時はごめんね♪=I might get a little carried away, so sorry about that♪
 にゃはははは♪|面倒だから手加減は|してあげないよ♪=Nyahahaha♪ You're tough, so don't expect me to go easy on you♪
-久しぶりに　本気のブレアを|見せてあげる♪=It's been a while since I've shown you the real Blair♪
+久しぶりに　本気のブレアを|見せてあげる♪=It's been a while, so allow me to show you the real Blair♪
 !FILE:EV0941_010.bscr
 こいつは驚いたね・・・|ここまで強くなっているとは・・・=How surprising... To think you've grown so strong...
 ありがとうございます！=Thank you!
@@ -9184,14 +9184,14 @@
 !FILE:EV1924_052.bscr
 こんな所に居たのか|お前達！=This is where you guys are!
 どうしたんだよデスサイズ！|今日はやけに男前じゃねェか！|俺様には遠く及ばねぇけどな☆=What's up with you, Spirit? You're looking devilishly handsome today! Almost as handsome as yours truly☆
-悪ィな　今はそんな戯れ言に|付き合ってらんねェんだ=Now's not the time for silly jokes.
+悪ィな　今はそんな戯れ言に|付き合ってらんねェんだ=Now's not the time for all that.
 メデューサ先生が|魔女にさらわれた！=Dr. Medusa has been abducted by a witch!
 ひやっはぁ☆|おもしろくなってきたぜ！=Yahoo☆ Now things are getting interesting!
 ブラック☆スター　黙って！|でもデスサイズさん|どうしてそんなことがわかったんですか？=Black☆Star, hush! Mr. Albarn, how do we know that that's what happened?
 少し前に犯行声明が送られてきたんだ・・・=Just now we received a letter confessing to the abduction.
 えっ　じゃあ本当のこと|なんですね・・・メデューサ先生|大丈夫なのかしら・・・=Really? Then it must be true. I hope she's okay...
 心配しているヒマはない|死神様がお前達を呼んでいる=There's no time to worry right now. Lord Death has summoned you.
-おそらくメデューサ先生を|救い出す指令が出されるだろう=I'm afraid he'll most likely be giving you orders to rescue Dr. Medusa.
+おそらくメデューサ先生を|救い出す指令が出されるだろう=He'll most likely be giving you orders to rescue Dr. Medusa.
 ブラック☆スター|早くデスルームに！=Black☆Star, we need to hurry to the Death Room!
 わかってるぜ！|いよいよスターの出番が来たってことだな！|ひやっはははははは☆=I'm on it! We've finally got a mission fitting for a star! Yahahahahahaha☆
 ・・・・・・・・・=.........
@@ -9224,9 +9224,9 @@
 すみません死神様|魔女を取り逃がしてしまいました・・・=We're very sorry, Lord Death. We didn't manage to defeat the witch.#it turns out you don't have to beat Medusa to beat this mission, so these lines need to read okay for both 'we ran away' and 'she ran away' for each team.
 メデューサ先生も|どこにも居なかったぜ=Dr. Medusa wasn't even there anyway.
 まぁまぁ|そんなに落ち込まないでちょうだい=Calm down. Calm down. There's no need to get upset over it.
-まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale! Yeah? Yeah♪?
+まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale!|Yeah? Yeah♪?
 俺様は|落ち込んでなんかいねェぞ　ダンナ！=We don't need any pep talk, Boss!
-そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa your worried about, Stein rescued her♪
+そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa you're worried about, Stein rescued her♪
 なんだって　あのネジメガネ|よくも俺様のステージを|横取りしやがったな！=That screwball four-eyes!? I can't believe he would dare upstage me!
 そんな言い方しないの！|ブラック☆スター=Let it go, Black☆Star!
 メデューサ先生が助かったんだから|それを喜びましょう・・・=Let's just be happy that Dr. Medusa is safe.
@@ -14728,21 +14728,21 @@
 少しでもメデューサ先生の|挙動におかしなことがあったら|俺に報告してもらえませんか？=If you notice even the smallest oddity in her behavior, please report it to me.
 わかりました博士|何かありましたら報告します=Understood, Professor. We'll let you know if we see anything.
 !FILE:EV2924_017.bscr
-なぁキッド？どうして博士は|あんなに　メデューサ先生のことを|気にするんだ？=Hey, Kid? Why do you think the professor is so worried about Dr. Medusa?
+なぁキッド？どうして博士は|あんなに　メデューサ先生のことを|気にするんだ？=Hey, Kid, why do you think the professor is so worried about Dr. Medusa?
 うむ・・・|さっぱりわからん・・・=Hmm... I'm really not sure.
 もしかすると・・・|それだけの理由があるのかもよ？=There's only one possible explanation.
 どういうことだ？=What's that?
 実は先生の正体は|魔女なのだ～♪=In fact, the doctor is actually...|a witch!♪
 パティ・・・あんまり|不謹慎なことを言うのは|やめてちょうだい・・・=Patty... Ixnay on the itchway, please.
 リズ　そんなにおびえるな|常識でものを考えろ！=Liz, there's nothing to be frightened about. Use your common sense!
-そうだよな　嘘だよな|キッド　もう一度　嘘といって|私を安心させてくれ！=You're right. There's no way that's true...|Kid, tell me it isn't true. Tell me it isn't true!
+そうだよな　嘘だよな|キッド　もう一度　嘘といって|私を安心させてくれ！=You're right. There's no way that's true... Kid, tell me it isn't true. Tell me it isn't true!
 うむ=Hmmm...
 なんでだよキッド|なんでそこで考えるんだよ！=Why won't you say it, Kid? Why are you just standing there thinking!?
 そういえばメデューサ先生のこと|あまりよく知らんと思わないか？=Well, now that I think about it, we don't really know a whole lot about Dr. Medusa.
 そうだね　みんなに|聞いてみようか|そうしよう　お姉ちゃん♪=Yeah. Let's see what the others know. What do you say, sis♪?
 お姉ちゃん　怖く|なければなんでもいいよ・・・=I'm fine with anything as long as it isn't scary.
 うむ　それでは皆に|メデューサ先生のことを|聞いてみることにしよう！=Okay. Then let's go see what everybody else knows about Dr. Medusa!
-・・・・・・・・・=.........
+・・・・・・・・・=.........#not used
 どうした|何を考えている？=Is there something on your mind?
 前にも　こんなことが|なかったっけ？=Didn't this exact thing happen once before?
 ほぇ？そうだっけ？|よく覚えてないよ♪=Oh? Did it? I don't really remember♪
@@ -14750,14 +14750,14 @@
 メデューサ先生について|知ってることがあったら教えてちょうだい♪=Pretty please♪ If you know anything about Dr. Medusa, please tell us.
 普通の保健医だと思うが|違っているのか？=I thought she was just a normal nurse.|Is she not?
 そりゃ先生にくらべたらなぁ・・・=Maybe compared to you...
-なぜ　そこで|口ごもるのだ？|先生に失礼だぞ！=What are you mumbling about? Apologize to Sid!
+なぜ　そこで|口ごもるのだ？|先生に失礼だぞ！=What are you mumbling about? You're being rude!
 !FILE:EV2924_026.bscr
 メデューサ先生について|知ってることがあったら教えてちょうだい♪=Pretty please♪ If you know anything about Dr. Medusa, please tell us.
 普通の保健医だと思うが|違っているのか？=I thought she was just a normal nurse.|Is she not?
 !FILE:EV2924_032.bscr
 メデューサ先生について|知ってることがあったら教えてちょうだい♪=Pretty please♪ If you know anything about Dr. Medusa, please tell us.
-メデューサ先生の|話はあまりしたくないの・・・=I don't really want to know anything about her.
-なぜだマカ|話してくれても|いいではないか！=Why not? You can tell us, can't you?
+メデューサ先生の|話はあまりしたくないの・・・=I don't really want to talk about her.
+なぜだマカ|話してくれても|いいではないか！=Why not? We're not exactly asking you for an interview on her, it's just a little chat!
 パパがよく先生に|ちょっかいを出してるの・・・|だから・・・ごめんなさい・・・=Because my papa is constantly flirting with the doctor... so... sorry...
 キッド　１００パーセント|お前が悪い・・・=That was 100 percent not okay, Kid.
 !FILE:EV2924_036.bscr
@@ -14769,7 +14769,7 @@
 あれだけ保健室に|通っているのにか？=Even though you're always going to the infirmary?
 ああ　先生のプライベートな話は|まったくわかんねェ・・・=No. She doesn't talk about her private life at all.
 ミステリアスな女だ・・・|くそう　負けていられねェ！=A woman of mystery... Damn! I can't let her outdo me!
-もしかするとさ|子供なんかいたりしてね♪=Maybe she has a kid. Like a little baby medusa♪
+もしかするとさ|子供なんかいたりしてね♪=Maybe she has a kid. Like a little baby Medusa♪
 そんなはずはなかろう|・・・それに　もしお前が男|だったら今のはセクハラだぞ！=I highly doubt that. Besides, it's not really any of our business!#This line says "... Plus, if you were a man, what you just said would be considered sexual harassment." It's not really funny, nor does it add anything, so I changed it to something a little more natural.
 !FILE:EV2924_046.bscr
 メデューサ先生について|知ってることがあったら教えてちょうだい♪=Pretty please♪ If you know anything about Dr. Medusa, please tell us.
@@ -14777,14 +14777,14 @@
 !FILE:EV2924_047.bscr
 こんな所に居たのか|お前達！=There you all are!
 どうしたの？|今日はカッコいいね！=Are you okay? You're looking cool today!
-悪ィな　今はそんな戯れ言に|付き合ってらんねェんだ=Now's not the time for silly jokes.
+悪ィな　今はそんな戯れ言に|付き合ってらんねェんだ=Now's not the time for all that.
 メデューサ先生が|魔女にさらわれた！=Dr. Medusa has been abducted by a witch!
 なんだって！|それ本当なのかよ！=What!? Are you for real!?
 なぜ　魔女の仕業だと？|キッチリ説明してもらおう=How do we know it's the work of a witch? What happened exactly?
 少し前に犯行声明が送られてきたんだ・・・=Just now we received a letter confessing to the abduction.
 じゃあ　本当なんだな・・・=So it's true then...
 心配しているヒマはない|死神様がお前達を呼んでいる=There's no time to worry right now. Lord Death has summoned you.
-おそらくメデューサ先生を|救い出す指令が出されるだろう=I'm afraid he'll most likely be giving you orders to rescue Dr. Medusa.
+おそらくメデューサ先生を|救い出す指令が出されるだろう=He'll most likely be giving you orders to rescue Dr. Medusa.
 キッド君　急ごう！=Kid, let's hurry!
 うむ　わかった|俺にまかせておけ！=Yeah, I understand. Just leave it to me!
 ・・・・・・・・・=.........
@@ -14808,22 +14808,22 @@
 パティ・・・もう少し|口の利き方に気をつけようね・・・=Patty... Could you watch what you say about him within earshot, please?
 君達とは別行動になって|しまうかもしれませんが・・・=Unfortunately, I won't be going the same way as all of you, so...
 くれぐれも気をつけてください|相手は魔女ですから！=Please be extremely careful. The enemy is a witch after all!
-・・・・・・・・・=.........
+・・・・・・・・・=.........#not used
 どうしたのですか？|何を考えているのですか？=Are you okay? Is something bothering you?
 なぁ博士　前にも|メデューサ先生って魔女に|さらわれなかったっけ？=Hey, Professor. Wasn't Dr. Medusa abducted by witches before?
 はて？覚えていません|君の気のせいでしょう？=Is that so? I have no recollection of that. Perhaps you imagined it...
 !FILE:EV2924_070.bscr
 ちゅす！うすっ！|ほいさ！お疲れさ～ん♪=Hola! Aloha! Helloha! Welcome back♪
-ごめん父上|魔女を逃がしてしまった・・・=Sorry, Father. We weren't able to stop the witch's escape...
+ごめん父上|魔女を逃がしてしまった・・・=Sorry, Father. We weren't able to see to the witch...
 メデューサ先生も|どこにもいなかったよ♪=And Dr. Medusa was nowhere to be seen♪
 まぁまぁ|そんなに落ち込まないでちょうだい=Calm down. Calm down. There's no need to get upset over it.
-まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale! Yeah? Yeah♪?
-しかし　父上・・・=But father...
-そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa your worried about, Stein rescued her♪
+まずは君たちが|魔女と戦って生きて帰ったことを|喜ぼう　ねっ　　ねっ♪　=First, rejoice 'cause you fought a witch and lived to tell the tale!|Yeah? Yeah♪?
+しかし　父上・・・=But Father...
+そうそう！|メデューサ先生なら|シュタイン君が助け出したよ～ん♪=Trust me! If it's Dr. Medusa you're worried about, Stein rescued her♪
 はぁ？それだったら|早く教えてくれよ死神様！=Whaaa? Start with that info next time, Lord Death!
 まったく使えねェぜ|きゃはははは♪=What a bonehead. Kyahahaha♪
 やめんか　二人とも！=Quit it, you two!
-メデューサ先生が|助かったのだぞ|よかったではないか！=So Dr. Medusa has been saved. That's wonderful!
+メデューサ先生が|助かったのだぞ|よかったではないか！=So Dr. Medusa has been saved.|That's wonderful!
 !FILE:EV2924_080.bscr
 心配かけたわね♪=You were worried about me, weren't you♪?
 父上から聞きました|おケガがなくてなによりです=We heard from Father that you weren't at all injured.
@@ -14855,7 +14855,7 @@
 ほんとビビってるね|お姉ちゃん♪=Sis, you're a big sissy♪
 !FILE:EV2924_096.bscr
 今回の救出劇は|俺の実力ではありません|何か引っかかります・・・=There's something bothering me about the rescue. I didn't use my real strength... like it was a pretend fight...
-!FILE:EV2924_097.bscr
+!FILE:EV2924_097.bscr#not used
 やっぱり前にも|メデューサ先生って|魔女にさらわれたことがあるよ！=I'm positive Dr. Medusa has been abducted by a witch before!
 まだ　そんなこと言ってるのか！|いいかげんにしろ！！=You said that already! Just drop it!!
 本当にしつこいね|お姉ちゃん♪=You're so stubborn, sis♪
@@ -14881,8 +14881,8 @@
 ほ～～い♪=Okey-dokey♪
 !FILE:EV2930_005.bscr
 ねぇ　キッド君と魔女って|どっちが強いの？=Hey, who's stronger? Kid or a witch?
-わからん・・・正直見当がつかん・・・|もしかすると俺達は・・・=Don't know... I honestly couldn't say... Perhaps we...
-なぁキッド|やっぱりもう帰ろうぜ・・・=Hey, Kid. Maybe we should go back already.
+わからん・・・正直見当がつかん・・・|もしかすると俺達は・・・=Don't know... I honestly couldn't say... But, when I think about it, perhaps...
+なぁキッド|やっぱりもう帰ろうぜ・・・=Hey, Kid. Maybe we should just go back...
 !FILE:EV2931_000.bscr
 モット・・・|モットちからヲヲヲ！=Be careful! I'll get you!!
 結局マカ達は|見つからなかったな・・・=In the end, we never found Maka and Soul.
@@ -16328,7 +16328,7 @@
 !FILE:EV2946_000.bscr
 あそこに魔女がいるよ！=There's a witch over there!
 あら　来たのは　あなた達なの・・・=Well, well. Look who's here...
-むう・・・こいつが|メデューサ先生を・・・=Hmph... She's the one who took Dr. Medusa.
+むう・・・こいつが|メデューサ先生を・・・=Hmph... She must be the one who took Dr. Medusa.
 ちょっと予想外だけど|これはこれでおもしろいわ♪=An unforeseen obstacle, but this should be fun♪
 う～・・・おっかネェ|やっぱ戦わなきゃ　ダメ？=Waaah... Scary. Do we really have to fight?
 何　ビビってんの|お姉ちゃん？=What's got you so spooked, sis?
@@ -16344,7 +16344,7 @@
 怖かったら|目をつぶっていろ！|行くぞ！！=If you're scared, just close your eyes! Let's go!!
 !FILE:EV2947_000.bscr
 今日はコレくらいにしといてあげる・・・|興味深い現象も確認できたしね♪=That will be all for today... I was able to confirm quite the interesting phenomenon♪
-むっ！貴様|何をするつもりだ！=Ngh! That bastard! What is she doing?
+むっ！貴様|何をするつもりだ！=Ngh! Why you--! What are your intentions?
 逃げるつもりだぜ|あの魔女！=She's going to try to escape!
 せいぜいがんばって|メデューサ先生をさがしなさい・・・=Now go and find that Dr. Medusa of yours...
 待て！|どこへ行くつもりだ！=Wait! Where do you think you're going!?
@@ -16677,15 +16677,15 @@
 父上の鏡番号|４２－４２－５６４・・・=42 - 42 - 564... Father's mirror number.
 もしもし父上　俺だよ=Hello, Father. It's me.
 !FILE:EV2964_050.bscr
-よし　行くぞ！=Alright, here goes!
+よし　行くぞ！=All right, here goes!
 気持ちはわかるんだけど|鏡のほうから失礼させてもらうよ♪=I understand how you feel, but please excuse me for staying in the mirror♪
 それじゃあ|気を取り直していこうか♪=Now then, where were we♪?
 !FILE:EV2964_051.bscr
-よし　行くぞ！=Alright, here goes!
+よし　行くぞ！=All right, here goes!
 せっかく呼び出してくれて申し訳ないけど|鏡のほうが楽だから・・・=I'm sorry for all the trouble you've had to go through to call me, but I feel more comfortable in the mirror...
 それじゃあ|気を取り直していこうか♪=Now then, where were we♪?
 !FILE:EV2964_052.bscr
-よし　行くぞ！=Alright, here goes!
+よし　行くぞ！=All right, here goes!
 鏡・・・あるんだから|そっちを使おうよ♪=There's a mirror, soooo let's use it♪
 それじゃあ|気を取り直していこうか♪=Now then, where were we♪?
 !FILE:EV2966_002.bscr
@@ -16790,8 +16790,8 @@
 にゃはは♪|ブレアもうれしいよ♪=Nyahaha♪ I'm glad you liked it♪
 !FILE:EV2968_050.bscr
 どうやら死神様は|いないみたいだな？=Hm. I guess Lord Death isn't here right now.
-・・・これ以上　ここにいても|仕方ないんじゃないかな？=...It's probably pretty pointless for me to stay here any longer.
-せっかくだから|ここのベッドで一休み|していかないか？=Since we're here, what say we take a little nap in the beds?
+・・・これ以上　ここにいても|仕方ないんじゃないかな？=...It's probably pretty pointless for us to stay here any longer.
+せっかくだから|ここのベッドで一休み|していかないか？=Since we're here, what say we take a little nap in the beds?#seen
 いいじゃん　いいじゃん|誰もいないんだからさ！=It'll be fine. There's no one here anyways!
 なんでワザワザ|こんな所にくるんだよ！=What was the point of coming here again?
 どうせ授業になったら|いやでもここに拘束されるんだからさ！=Ever since I became a student, it's like I've been bound to this room!
@@ -16809,13 +16809,13 @@
 椿はあんなのと一緒にいて|よく平気だな・・・=It's a good thing Tsubaki is with that guy.
 椿を見ていると|正直　不憫でならない・・・=When I look at Tsubaki, I honestly feel kind of sorry for her.
 もっと女の地位を|向上させるために|がんばらなきゃな！=I have to do my best to improve the status of women!
-この際言わせてもらうけど|お前の果てしなくこだわり続ける|病気はなんとかなんねェのか？=I wasn't going to mention anything, but can't you do something about your endless obsessing?
+この際言わせてもらうけど|お前の果てしなくこだわり続ける|病気はなんとかなんねェのか？=I wasn't going to mention anything, but can't you do something about your endless obsessing?#seen
 死神のお前と違って|普通の武器の私らは|時間が有限なんだよ！=Unlike you, a grim reaper, we normal weapons only have a limited amount of time!
 誰もいないから|思い切って言うけど・・・=I only dare say it because there's no one else around, but...#seen
 私もパティも|キッドとチームを組めること|結構　誇りに思ってるんだぜ！=I'm really proud that the three of us were able to create such a strong bond!
 昔から思っていたけど|お前の名前って|デス・ザ・キッドじゃん=I've been wondering about this for a long time, but Death the Kid isn't your real name, is it?
 名字ってデスなのか？|それとも芸名みたいな|もんなのかよ？=I mean, what kind of a first name is Death? It sounds more like a stage name.
-なぁ　キッド？|お前って死神様の息子だよな？=Umm, Kid? You're Lord Death's son, right?
+なぁ　キッド？|お前って死神様の息子だよな？=Umm, Kid? You're Lord Death's son, right?#seen
 息子なら当然　あの仮面の下の|素顔を見たことがあるんだよな？|なぁ　どんな顔だったよ？=And that means you've seen what's under that mask of his, right? So, umm, what's his real face like?
 !FILE:EV2968_051.bscr
 こんな時　こんな所に|いてもいいのかよ？|ま　私は楽だからいいけどな！=Should I really be here at a time like this? Well, I'm comfortable, so I'm gonna say it's okay!
@@ -16825,15 +16825,15 @@
 やっぱりみんな|勉強はいやなんだよね♪=I guess nobody likes studying♪
 誰もいないのは|何かもったいないね♪=What a waste. There's no one here♪
 ここってたしか|キッド君の好きな場所だったよね♪=Isn't this place Kid's favorite spot♪?
-これだけたくさん本があると|何が何だかわかんなくなってきちゃうね=I don't get what this place is for. All they've got is a bunch of books.
+これだけたくさん本があると|何が何だかわかんなくなってきちゃうね=I don't get what this place is for. All they've got is a bunch of books.#seen
 私　ここもう飽きたから|他の場所へ行こうよ！=This place is boring. I'm going somewhere else!
-ここにいてもしょうがないから|他の場所へ行こうよ！=There's nothing to do here, so let's go somewhere else!
+ここにいてもしょうがないから|他の場所へ行こうよ！=There's nothing to do here, so let's go somewhere else!#seen
 誰もいないから|ちょっとさみしいよね♪=There's no one here, so it feels a little lonely♪
 もしかしてここって|好きな場所だったりするの？|いる意味がわかんないよ！=Is this your favorite place? I don't see why else you'd come here!#seen
 もしかしてキッド君って|みんなに避けられてない？=Maybe everyone's avoiding you, Kid.
-キッド君は　そのままでいいと思うよ♪=Kid, I think you're all right just the way you are♪
+キッド君は　そのままでいいと思うよ♪=Kid, I think you're all right just the way you are♪#seen
 へたに変わられると|かえってめんどくさいからね|きゃはははは♪=It would be too annoying to try to change you! Kyahahaha♪
-私　お姉ちゃんのこと|だ～い好き！=I love love love you, sis!
+私　お姉ちゃんのこと|だ～い好き！=I love love love you, sis!#seen
 コダマが返ってきそうなくらい|静かだよね♪=It's so quiet I can hear my own echo♪
 !FILE:EV2968_061.bscr
 ほぇ？今はやるべきことが|あったんじゃないかな？=Hmm... Wasn't there something I was supposed to be doing now?
@@ -17470,8 +17470,8 @@
 私って常に|動いてないとダメみたい・・・=I feel like I have to be constantly moving.#seen
 最近　マカチョップの|威力が増している気がするわ・・・=I feel like my Maka Chop has gotten a lot stronger recently...
 もしかしたら私|本職人かもしれない・・・=Maybe I'd have a future as a librarian.
-パパを見かけたら|教えてちょうだい=If you see my papa, please let me know.
-全力でそこから|遠ざかるようにするから！=I'm doing everything I can to stay away from him right now!#seen
+パパを見かけたら|教えてちょうだい=If you see my papa, please let me know.#seen
+全力でそこから|遠ざかるようにするから！=I'm doing everything I can to stay away from him right now!
 こんな所で|遊んでいちゃダメじゃない！=It's against the rules to be playing around in here!
 !FILE:EV9967_001.bscr
 こんな所で|遊んでいちゃダメじゃない！=It's against the rules to be playing around in here!
@@ -17506,7 +17506,7 @@
 !FILE:EV9967_030.bscr
 そういや　俺の周りの武器で|純粋な鎌ってデスサイズだけ|なんだよな・・・=Come to think of it, besides me, the only other scythe weapon around here is Maka's dad...#seen
 なんか　あんまりいい気分がしねェな・・・=That doesn't really make me feel great about myself.
-もう少しマカも|大人になってくんねェかな・・・=I wish Maka could grow up a little.
+もう少しマカも|大人になってくんねェかな・・・=I wish Maka could grow up a little.#seen
 デスサイズにブレア・・・|マカがもめるたびに間に入るのは|もう疲れたぜ・・・=I'm sick of walking in and having to listen to her arguing with Death Scythe or Blair.
 ブレアがアパートに来てから|家での俺は|全然クールじゃなくなっちまった・・・=Ever since Blair moved into our apartment, I've totally lost my cool while at home...#seen
 誰か　あのネコ|もらってくれねェかな・・・=Does anybody want to take a cat off my hands?
