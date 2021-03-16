@@ -15145,7 +15145,7 @@
 よし！|では早速　報告に学校へ戻るぞ！=Okay! Let's hurry and report back to the school!
 ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost? I give up. Let's go back on Beelzebub.
 よし|今日は休憩しながら帰るぞ！=Great! Let's relax on the way back!
-そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=I know, why don't we hang out for a change? As long as we make it back on schedule.
+そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=I know. Why don't we hang out for a change? As long as we make it back on schedule.
 そうだな・・・|今日は　観光しながら帰るとするか=Well, well... How about a little sightseeing on the trip back home?
 さて・・・|予想よりもかなり時間が余ってしまったな|道草しながら時間を調整して帰るか=Well, that went quicker than expected. Why don't we take the scenic route on the way back?
 うむ|たまにはこの辺りを探検しながら|地形を把握して帰るか！=Hm. It couldn't hurt to explore a little every once in a while, would it?
@@ -15554,7 +15554,7 @@
 よし！|では早速　報告に学校へ戻るぞ！=Okay! Let's hurry and report back to the school!
 ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost? I give up. Let's go back on Beelzebub.
 よし|今日は休憩しながら帰るぞ！=Great! Let's relax on the way back!
-そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=I know, why don't we hang out for a change? As long as we make it back on schedule.
+そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=I know. Why don't we hang out for a change? As long as we make it back on schedule.
 そうだな・・・|今日は　観光しながら帰るとするか=Well, well... How about a little sightseeing on the trip back home?
 さて・・・|予想よりもかなり時間が余ってしまったな|道草しながら時間を調整して帰るか=Well, that went quicker than expected. Why don't we take the scenic route on the way back?
 うむ|たまにはこの辺りを探検しながら|地形を把握して帰るか！=Hm. It couldn't hurt to explore a little every once in a while, would it?
