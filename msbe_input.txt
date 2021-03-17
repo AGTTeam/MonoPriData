@@ -2335,7 +2335,7 @@
 魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
-そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera, is our magnificent queen.
+そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera is our magnificent queen.
 魂の繭を集めて|一体何をたくらんでるの！=What are you planning on doing with|all of those soul cocoons!?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
@@ -7900,7 +7900,7 @@
 魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
-そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera, is our magnificent queen.
+そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera is our magnificent queen.
 オメェら|魂を集めて　何がしてぇんだ！=And what the hell are you collecting|all those souls for!?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
@@ -13475,7 +13475,7 @@
 !FILE:EV2400_500.bscr
 おお　無事だったか|よくやったぞ！=Good! Everyone's safe. Well done!
 大丈夫ですか？|メデューサ先生=Are you all right, Dr. Medusa?
-え　ええ|キッド君　リズちゃん　パティちゃん|三人ともよく勝ったわね　すごいわよ=Yes. Kid, Liz, Patty, you three were amazing back there, taking them out all on your own.
+え　ええ|キッド君　リズちゃん　パティちゃん|三人ともよく勝ったわね　すごいわよ=Yes. Kid, Liz, Patty, you three were amazing back there, taking them out|all on your own.
 いや　ま|次期死神として　これくらいは・・・=No... That is... As the next Grim Reaper, I...
 あれ？|いつもとムードが　違うじゃん=Huh? You're not acting like your normal self.
 きゃはは！|キッド君　照れてるぅ=Kyahaha! You're blushing, Kid.
@@ -13487,7 +13487,7 @@
 うじゃうじゃアリンコは　ぷっちぷち～|きゃははは=We crushed those ants like bubble wrap! Pop! Kyahahaha!
 ・・・・・=.....
 !FILE:EV2401_400.bscr
-またか！|え～い　めんどくさいわ！|リズ！　パティ！=Again? Rrgh! You're getting real annoying!|Liz! Patty!
+またか！|え～い　めんどくさいわ！|リズ！　パティ！=Again? Rrgh! These guys are getting real annoying! Liz! Patty!
 変ー身！=Transform!
 変ー身！=Transform!
 変ー身！=Transform!
@@ -13519,11 +13519,11 @@
 魔力により・・・生み出された|地底に巣食う闇の一族・・・=A shady clan born of magic... that nests deep underground...
 ほほう・・・|我らのことをよくご存知ですね=Ho hoh... You are quite familiar with who we are.
 彼らを生み出した魔女の名前は・・・|ポネラ=The witch that created them is called... Ponera.
-そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera, is our magnificent queen.
+そう・・・魔女ポネラ|偉大なる我らが女王様です=Correct... The Witch Ponera is our magnificent queen.
 その魔女が|魂の繭を集める　目的はなんだ？=And what is this witch's goal gathering souls in cocoons?
 フフフ・・・|それ以上知る必要はないでしょう=Hmhmhm... That does not concern you.
 では　愚かな死神の手下|死武専の皆さん　ごきげんよう=Now, foolish underlings of the DWMA, I bid you all adieu.
-あっ　待てコラ～！|・・・わぁ！=Ah. Wait up! ... Woah!
+あっ　待てコラ～！|・・・わぁ！=Ah. Wait up!|...Woah!
 キシキシキシィ・・・|お前達はここで死ねぇ！=Krsh krsh krsh... This place will be your grave!
 それは　お前だ！=I hear the bells tolling, but they're not for me!
 変ー身！=Transform!
@@ -13536,7 +13536,7 @@
 魂の共鳴！！=Soul Resonance!!
 魂の共鳴！！=Soul Resonance!!
 魂の共鳴！！=Soul Resonance!!
-死刑執行モード　取得=Execution Mode ready.
+死刑執行モード　取得=Execution Mode ready.#not used
 共鳴率安定・・・|ノイズ　０．３％=Resonance stable... Noise at 0.3%.
 黒針に　魂の波長|チャージ完了=Black Needle soul wavelength fully charged!
 フィードバックまで|あと　５秒　・・・=Feedback in five seconds...
@@ -14204,18 +14204,18 @@
 !FILE:EV2501_458.bscr
 ぐうっ|ふざけるなよ　小僧！|俺の力を　思い知らせてやる！=Ggkh... No more fooling around, you brat! I'll show you my real power!
 !FILE:EV2520_002.bscr#イメージチェンジ = The Makeover - Part 28
-シド先生って|無骨すぎませんか？=Isn't Sid maybe a little... unrefined?
+シド先生って|無骨すぎませんか？=Mr. Sid is a little... unrefined, isn't he?
 何で急に　そんなことを|いいだすの？=Where's that coming from all of a sudden?
 こないだ女子で話してた時|そういう話題になったから=It came up while I was talking to another girl the other day.
 今　急にそのことを思い出して・・・=I remembered it just now, and...
-たしかに無骨すぎる|おしゃれでもして　もう少し|人生を楽しんだほうがいいな=Unrefined is putting it nicely with Sid. He could use a total makeover. And it wouldn't hurt him to try and enjoy life a little more.
+たしかに無骨すぎる|おしゃれでもして　もう少し|人生を楽しんだほうがいいな=Unrefined is putting it nicely. He could use a makeover. And it wouldn't hurt him to try and enjoy life a little more.
 ほぇ　先生ゾンビだよ|生きているのかな？=Huh? Sid's a zombie. Does that count as living?
 パティ　あんまり|難しいことを考えるのはよそうね・・・=Patty, let's not ask all these deep questions, okay?
 まったく　くだらん！|シド先生はあのままで|何の問題があるというのだ！=What absolute nonsense! There's nothing wrong with Sid the way he is!
 でも少しくらいは|イメージチェンジしてみても・・・=But imagine if he changed his image just a little.
 ふむ　イメージチェンジか・・・=Hm... A change of image...
 !FILE:EV2520_006.bscr
-シド先生って|無骨すぎませんか？=Isn't Sid maybe a little... unrefined?
+シド先生って|無骨すぎませんか？=Mr. Sid is a little... unrefined, isn't he?
 !FILE:EV2520_007.bscr
 たしかに言われてみれば|シド先生は少し無骨すぎるな・・・|もう少しおしゃれになってもいいのに・・・=Whatever you say, Sid is definitely lacking in polish. I think a change of look would do him some good.
 だからといって|何をどうするというのだ？=Even if you're right, what sort of change could you make?
@@ -15013,7 +15013,7 @@
 しかし　心の中にある|この思いはなんだ・・・|一体　何を示唆しているのだ・・・=But I have this nagging feeling in the pit of my stomach... What could it possibly be trying to tell me?
 恋じゃない？=Maybe you're in love.
 んなワケあるか！　|くそっ　とにかく早く終わらせるとしよう=It's not love! Damn it, let's just get this over with.
-しかし　俺はなぜ|家の額縁が気になっているのか・・・|もしかしてズレているのか？=Why am I worried about the picture frames at home all of a sudden? There's no way one of them is crooked, is there?
+しかし　俺はなぜ|家の額縁が気になっているのか・・・|もしかしてズレているのか？=Why am I suddenly worried about the picture frames at home? There's no way one of them is crooked, right?
 オラッ|さっさと進めよヘタレ=Hey! Forward! Now, loser.
 うわああん！！|パティのくせに！！！=Waaah!! As you command, Patty!!!
 しかし　なぜだ|俺はなぜこんなにも釈然としない・・・=But why? What is this doubt I'm feeling?
@@ -15102,6 +15102,8 @@
 !FILE:EV2956_019.bscr
 うむ　問題ない=Hmph. Just as I planned.
 !FILE:EV2933_011.bscr
+うむ　問題ない=Hmph. Just as I planned.#do not remove duplicates
+うむ　問題ない=Hmph. Just as I planned.
 うむ　問題ない=Hmph. Just as I planned.
 !FILE:EV2933_013.bscr
 ほんとにヒドかった・・・=It was hideous...
@@ -15144,7 +15146,7 @@
 さて・・・|学校へ戻るぞ！=Well, let's get back to the school!
 よし！|では早速　報告に学校へ戻るぞ！=Okay! Let's hurry and report back to the school!
 ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost? I give up. Let's go back on Beelzebub.
-よし|今日は休憩しながら帰るぞ！=Great! Let's relax on the way back!
+よし|今日は休憩しながら帰るぞ！=All right! Let's relax on the way back!
 そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=I know. Why don't we hang out for a change? As long as we make it back on schedule.
 そうだな・・・|今日は　観光しながら帰るとするか=Well, well... How about a little sightseeing on the trip back home?
 さて・・・|予想よりもかなり時間が余ってしまったな|道草しながら時間を調整して帰るか=Well, that went quicker than expected. Why don't we take the scenic route on the way back?
@@ -15553,7 +15555,7 @@
 さて・・・|学校へ戻るぞ！=Well, let's get back to the school!
 よし！|では早速　報告に学校へ戻るぞ！=Okay! Let's hurry and report back to the school!
 ん？ここはドコだ？|もしかして　迷子になってしまったか？　|参ったな・・・ベルゼブブで帰るか・・・=Hm? Where are we? Have I gotten lost? I give up. Let's go back on Beelzebub.
-よし|今日は休憩しながら帰るぞ！=Great! Let's relax on the way back!
+よし|今日は休憩しながら帰るぞ！=All right! Let's relax on the way back!
 そうだな・・・|たまには二人と遊びながら|時間どおりに帰るとするか=I know. Why don't we hang out for a change? As long as we make it back on schedule.
 そうだな・・・|今日は　観光しながら帰るとするか=Well, well... How about a little sightseeing on the trip back home?
 さて・・・|予想よりもかなり時間が余ってしまったな|道草しながら時間を調整して帰るか=Well, that went quicker than expected. Why don't we take the scenic route on the way back?
@@ -16519,7 +16521,7 @@
 !FILE:EV2953_202.bscr
 毒には負けん！=I won't lose to poison!
 !FILE:EV2953_210.bscr
-毒受けたみたいだよ～=You look like you've been poisoned.
+毒受けたみたいだよ～=It looks like you've been poisoned.
 !FILE:EV2953_211.bscr
 毒かっ！？=Poison!?
 !FILE:EV2953_212.bscr
@@ -18573,7 +18575,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 水晶の欠片%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Crystal Shard%_dc[199,133,84]!
 %_te迷惑ドッグを退治せよ！=%_teStop the Pesky Dogs!
 停電被害の報告殺到！|犯人%_dc[196,0,0]マッドフント%_dc[199,133,84]を|探し出し%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=It's chaos out there! Hurry and defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
-マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196] 15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
+マッドフント%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Mad Hounds%_dc[199,133,84]!
 %_teトライアル訓練　再び！=%_teTrial Practice - Again!
 制限時間内に敵を|%_dc[0,0,196]３５%_dc[199,133,84]匹やっつけろ！|　　　BY　シド=Kill %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!|　　　　　　　　By Sid
 制限時間内に|敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies within the time limit!
