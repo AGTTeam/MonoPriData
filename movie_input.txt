@@ -188,7 +188,7 @@
 1184:1232:影☆星寄せ斬り=Shadow☆Star Checkmate Slash!
 !FILE:movie0008.bin
 259:323:だ～ぁ～　気持ちわりぃよ～=Nnnnngh! These things are so creepy!
-324:383:キッド君　キリがないよ～=They're no match for Kid!
+324:383:キッド君　キリがないよ～=There's no end to them, Kid!
 422:465:く・・・　あの呪文か=Damn... That spell...
 474:503:ハハハッ=Hahaha!
 505:576:小僧　どんな最後が望みだ！=Any last wishes, brat?
@@ -196,14 +196,14 @@
 640:706:ワーム・モワール・グリモワール=Wormoire Grimoire...
 712:769:死刑執行モード　取得=Execution Mode ready.
 857:896:共鳴率安定・・・=Resonance stable...
-925:984:ノイズ　０．３％=Noise, 0.3%
+925:984:ノイズ　０．３％=Noise at 0.3％.
 999:1069:黒針に　魂の波長　チャージ完了=Black Needle soul wavelength fully charged!
 1076:1137:フィードバックまで|あと　５秒・・・=Feedback in five seconds...
 1149:1237:４・・・３・・・２・・・１・・・=4... 3... 2... 1...
 1243:1275:撃てるよん♪=You're free to fire♪
 1292:1324:デス・キャノン！=Death Cannon!
 1402:1420:なにっ！？=What!?
-1692:1743:本気の死神を　見せてやろう=I'll show you what a real Grim Reaper looks like.
+1692:1743:本気の死神を　見せてやろう=I'll show you what a real grim reaper looks like.
 1769:1789:こい！=Bring it!
 !FILE:movie0009.bin
 108:188:・・・ここがパラポネラ|魔女のアジト・・・=...So this is where the witch and her whole|Paraponera clan are hiding out...

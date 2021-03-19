@@ -5,7 +5,7 @@
 午後授業=Afternoon Class
 課外授業=Outside Job#it turns out this is reused
 明日の解剖授業=Dissection Plans
-イテムハンター=Item Hunter
+アイテムハンター=Item Hunter
 保健室のユウウツ=Clinical Depression
 吸魂水特訓ステージ=Spiritual Training#Soul Sapping Water was just one letter too long
 彼がいない状況下=In His Absence
@@ -332,7 +332,7 @@
 今も昔もスピリット先輩は|俺にとって最高のパートナーであることに|変わりはありません=Spirit has and will always be my most... useful partner, and nothing will ever change that.
 !FILE:EV0120_027.bscr
 そうだ　君達に|お願いがあります=By the way, I have a little favor to ask of you.
-なんだよ　博士？=What now, professor?
+なんだよ　博士？=What now, Professor?
 明日の授業は解剖だと|いうことを皆に知らせておいてください=I'd like you to please inform your classmates that tomorrow's class|will be on dissection.
 またかよ=Again!?
 伝えなくても　みんな|察していると思いますが？=I think everyone could guess as much even if we didn't tell them anything.
@@ -427,7 +427,7 @@
 疑似生物のことだろ|博士に聞いたぜ・・・=Is this about the artificial organism? We just saw the professor...
 お前達が　シュタインの授業を|どう思っているか|俺なりにわかっているつもりだ・・・=What do you two think of Stein's class? In my own way, I think I already know the answer, but...
 だが　話だけでも|聞いてもらえないだろうか？=I'm rambling. Would you hear me out?
-わかりました先生|詳しい話を教えてください=I understand, Sid. Please tell us what we need to know.
+わかりました先生|詳しい話を教えてください=I understand, Mr. Sid. Please tell us what we need to know.
 その上で前向きに|検討したいと思います=I want to try to have an open mind about this.
 お前　何言い出すんだよ|放っておくんじゃねェのかよ！=Did Stein drill a hole in your head or something? We should totally ignore this request!
 決定権は職人の|私にあるの　お願いだから|したがってちょうだい・・・=The meister has the final say, and as the meister I say we at least listen to him. Please...
@@ -437,7 +437,7 @@
 !FILE:EV0120_110.bscr
 お前達　御苦労だったな！=Thanks for the hard work, you two!
 とりあえず　回収した|疑似生物は俺のほうで預かっておこう=I can hold on to the artificial organism you recovered for now.
-先生|これ　私の方から博士に|渡しておきます=Sid, if it's all right, I'd like to give this to the professor myself.
+先生|これ　私の方から博士に|渡しておきます=Mr. Sid, if it's all right, I'd like to give this to the professor myself.
 うむ　それでは|お願いすることにしよう=Sure. In that case, I'll leave it to you.
 ちゃんとシュタインに渡すんだぞ・・・|そうしないと|アイツに何をされるかわからん・・・=But be sure to give it to him. If you don't... who knows what he might do...
 !FILE:EV0120_116.bscr
@@ -559,7 +559,7 @@
 よくわからないけど|私でよかったら　いつでも|相談に乗るぜ！=I'm not sure what you're talking about, but if you ever someone to talk to, I give good advice!
 ありがとう　でも|ものすごく個人的なことなの・・・=Thanks, but it's pretty personal...
 !FILE:EV0121_012.bscr
-先生　質問があります=Sid, can we ask you something?
+先生　質問があります=Mr. Sid, can we ask you something?
 おう　何でも|聞いてくれ！=Of course. Ask away!
 これからの戦いを考えると|色々な道具を有効に|使う必要があると思うんです=I was thinking about all the fighting to come, and I think it may be necessary for me to be able to use more items.
 そうだ　そのとおりだ|俺に質問とは道具の具体的な使い方か？=That's true. And following that line of thinking, you've come to ask me about how different tools are used, is that it?
@@ -10608,7 +10608,7 @@
 さぁ　来なさい|君達がどれだけ成長したか|見てあげましょう=Well, come on now. Let me see how much you guys have improved.
 さぁ　実験を始めましょうか？=Well, shall we begin the experiment?
 いいですか？|焦らず冷静に相手をみることも|闘いには必要なことですからね=Ready? In battle it's imperative to watch one's opponent calmly and with presence of mind.
-さて・・・さて・・・|一仕事しますかね=Well, well... You have a task to do, don't you?
+さて・・・さて・・・|一仕事しますかね=Well, well... Guess I'll have to do some overtime today.
 チビッコを|どつきまわせるというのは|楽しいですねぇ～♪=And who said it wasn't fun to hit kids♪?
 シュタイン・・・お前の|ストッパーが外れないように|見張ってるぞ・・・=Stein... I'm keeping an eye on you to make sure you don't have a screw loose.
 いいかシュタイン|はじめに言っておく|これはトレーニングだぞ・・・=Yo, Stein, remember what you said at the start. This is TRAINING...
@@ -14120,10 +14120,10 @@
 はいはい=Yeah, yeah.
 マル～=Cirrrrclllle...
 !FILE:EV2501_405.bscr
-フンッ|どうやら　アタリのようだな=Hmph. They kind of look like ants.
+フンッ|どうやら　アタリのようだな=Hmph. Seems we must be close.
 !FILE:EV2501_406.bscr
 ・・・おい|アレなんだ？=...Hey, what's going on there?
-繭|にしてはデカいな=That's huge for a cocoon.
+繭|にしてはデカいな=That's rather large for a cocoon.
 上等だ　デカリンコ！|出てこい　コラァ！=Bring it on, Gi-Ant! You hear me? I said get out here!
 わぁ！=Wah!
 うほっ！=Whoa!
@@ -14141,7 +14141,7 @@
 そして|繭の中でヨリシロは魂を吸収成長し|鬼神の力を身につけ生まれてくる=Then, within the cocoon, a body grows and absorbs the souls until it is born with the power of a kishin.
 鬼神もどき　だと？=A pseudo-kishin?
 ククク・・・|鬼神か　もどきかは　問題ではないのです=Hehehe... Kishin or pseudo-kishin, it matters not.
-これを使って　世界を手に入れる|あなたや　死神のような　邪魔者を消してね=I will use it to gain control of this world. You, reaper, and all your meddling friends will be erased from existence.
+これを使って　世界を手に入れる|あなたや　死神のような　邪魔者を消してね=I will use it to gain control of this world. You, reaper, and all your meddling friends will be erased.
 ふん|そんな企みは　潰すまでだ|魔女ポネラは　どこにいる=Hmph. Consider your plans thwarted! Where is the Witch Ponera?
 フフフ・・・　ポネラ様は|この先の神殿にいらっしゃいますよ=Hmhmhm... Lady Ponera is in the sanctuary before you.
 ああ　でも行けませんよ|邪魔させないように言われているのでね=Ah. But you cannot enter. She told me that she was not to be disturbed.
@@ -14152,31 +14152,31 @@
 余計なことは　考えずにな|あの　ポネラのように=Like that Ponera who does as I say without question...
 ククク・・・|お前は　ここで消えろ=Khehehe... Your end is nigh!
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
-ふん　おもしろい|死神に　ケンカを売ったこと|後悔させてやる　行くぞ！=Hmph. Interesting. You've chosen to the dance of death with a grim reaper. I'll make you repent yet!
+ふん　おもしろい|死神に　ケンカを売ったこと|後悔させてやる　行くぞ！=Hmph. Interesting. You've chosen to do the dance of death with a grim reaper. I'll make you repent yet!
 おう！=Yeah!
 ほい！=Okay!
 わぁ！=Wah!
 おう！=Yeah!
 !FILE:EV2501_407.bscr
 クッ・・・|なかなかやるな　小僧=Hmph... Not bad, brat.
-俺の目は節穴ではない|答えろ　何が狙いだ　|答え次第では　最後を選ばせてやろう=You can't pull the wool over my eyes. Now answer me! What is your goal? Your answer will help me decide how I'm going to finish you.
-フフ　クククッ　あはは！|そんなに知りたいか　では教えてやろう=Hehe Kehaha Haha! Do you really want to know? As you wish.
-俺は　ポネラだけが作れる繭に目をつけた|ポネラの繭に　俺の力を加えれば|新たな力を　作り出せることにな=I discovered these cocoons that only Ponera could make. And by adding my power to Ponera's cocoons, a new power can be created.
+俺の目は節穴ではない|答えろ　何が狙いだ　|答え次第では　最後を選ばせてやろう=You can't pull the wool over my eyes. What is your goal? Your answer will help me decide how to end you.
+フフ　クククッ　あはは！|そんなに知りたいか　では教えてやろう=Hehe kehaha haha! Do you really want to know? As you wish.
+俺は　ポネラだけが作れる繭に目をつけた|ポネラの繭に　俺の力を加えれば|新たな力を　作り出せることにな=I discovered these cocoons that only Ponera can make. And by adding my power to them, a new power can be created.
 その力とやらが|その　化け物か=And that new power... is that monster?
 フフフ・・・|その出来損ないが力だと？|勘違いするな=Hmhmhm... That worthless thing? You're quite mistaken, I'm afraid.
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 なに？=What?
 おおぉ・・・　力が沸いてくるぜ=Oooohh... Power overwhelming.
-ふぅ・・・　これが力さ|俺は　この本に　あらゆるモノを取り込み|俺のものにできるのさ=Ngh... So this is true power. I can capture it all within this book, and then this will be my power.
+ふぅ・・・　これが力さ|俺は　この本に　あらゆるモノを取り込み|俺のものにできるのさ=Ngh... So this is true power. I can capture it all within this book, and then it'll become my own.
 わかるか|鬼神の力が俺のものになる！|この力を　もっと手に入れれば=Do you understand? The power of a kishin will become mine! And once this power is in my hands...
 俺に敵うものなど　いなくなる|それが鬼神だろうが　死神だろうがな！=There will be no one who can challenge me. Not a kishin. Not a grim reaper!
-ポネラなどは　この俺が超魔道師として|世界を手に入れる　踏み台にすぎないのさ！=Ponera and the others are no more than stepping stones on my path to gain control of the world as an all-powerful wizard!
+ポネラなどは　この俺が超魔道師として|世界を手に入れる　踏み台にすぎないのさ！=Ponera is no more than a stepping stone on my path to gain control of the world as an all-powerful wizard!
 ははは！|今　その力を見せてやる|最後を選ばせてやるぞ　小僧！=Hahaha! Now let me demonstrate to you the power of which I speak. How shall I bring about your end?
 !FILE:EV2501_408.bscr
-ぐうっ|ふざけるなよ　小僧！|俺の力を　思い知らせてやる！=Ggkh... No more fooling around, you brat! I'll show you my real power!
+ぐうっ|ふざけるなよ　小僧！|俺の力を　思い知らせてやる！=Ggkh... No more fooling around, you brat! I'll show you true power!
 !FILE:EV2501_409.bscr
 グフッ・・・|バカな　こんなところで終われるか！=Gahkk... No, this can't be the end of me!
-俺は　力を・・・|世界を手にいれるんだ|・・・こんなところで・・・=That power... I... This world is mine... It's not possible...
+俺は　力を・・・|世界を手にいれるんだ|・・・こんなところで・・・=This power... I was going to rule the world... But now...
 やったぜ！=We won!
 ザマ～みろ　ミミズやろぉう～！=That's what you get for trying to WORM your way into power!
 喜んではいられそうにないな=Don't celebrate too soon.
@@ -14199,10 +14199,10 @@
 ワーム・モワール・グリモワール|ワーム・モワール・グリモワール・・・=Wormoire Grimoire|Wormoire Grimoire...
 なに？=What?
 おおぉ・・・　力が沸いてくるぜ=Oooohh... Power overwhelming.
-ポネラなどは　この俺が超魔道師として|世界を手に入れる　踏み台にすぎないのさ！=Ponera and the others are no more than stepping stones on my path to gain control of the world as an all-powerful wizard!
+ポネラなどは　この俺が超魔道師として|世界を手に入れる　踏み台にすぎないのさ！=Ponera is no more than a stepping stone on my path to gain control of the world as an all-powerful wizard!
 ははは！|今　その力を見せてやる|最後を選ばせてやるぞ　小僧！=Hahaha! Now let me demonstrate to you the power of which I speak. How shall I bring about your end?
 !FILE:EV2501_458.bscr
-ぐうっ|ふざけるなよ　小僧！|俺の力を　思い知らせてやる！=Ggkh... No more fooling around, you brat! I'll show you my real power!
+ぐうっ|ふざけるなよ　小僧！|俺の力を　思い知らせてやる！=Ggkh... No more fooling around, you brat! I'll show you true power!
 !FILE:EV2520_002.bscr#イメージチェンジ = The Makeover - Part 28
 シド先生って|無骨すぎませんか？=Mr. Sid is a little... unrefined, isn't he?
 何で急に　そんなことを|いいだすの？=Where's that coming from all of a sudden?
@@ -14681,7 +14681,7 @@
 !FILE:EV2600_000.bscr#moved to common
 !FILE:EV2600_100.bscr
 あんだけの数　マジやばいよ=How can there be so many of them?
-次期死神の名にかけて|きっちりかっちり　始末する=In the name of the Grim Reaper, I will take out each and every one.
+次期死神の名にかけて|きっちりかっちり　始末する=On my pride as the next Grim Reaper, I will take out each and every one.
 やるぞ～！=Leeeet's goooo!
 !FILE:EV2600_205.bscr#moved to common
 !FILE:EV2600_206.bscr#moved to common
@@ -15888,7 +15888,7 @@
 鬼神の卵と化した魂を持つ者！|お前の魂貰い受ける！！=Vile murderer whose soul has become a kishin egg!|The reaper is here for your soul!!
 鬼神の卵と化した魂を持つ者！|きっちりかっちり裁いてやる！=Vile murderer whose soul has become a kishin egg!|Your day of reckoning has arrived!
 鬼神の卵と化した魂を持つ者！|お前に死刑を執行する！=Your soul has become a kishin egg, for which the punishment is death!
-おのれ！|好き勝手に暴れおって！！=Yes! I like it when they struggle!!
+おのれ！|好き勝手に暴れおって！！=Disgusting! Just rampaging around as you please!!
 鬼神の卵と化した魂を持つ者！|これ以上好きにはさせん！！=Vile murderer whose soul has become a kishin egg!|I'm going to enjoy defeating you!!
 鬼神の卵と化した魂を持つ者！|お前はここで終わりだ！=Vile murderer whose soul has become a kishin egg!|It's judgement day for you!
 見つけたぞ！|貴様は今日で終わりだ！=Found you! This day will be your last!
@@ -16387,7 +16387,7 @@
 !FILE:EV2951_021.bscr
 やったね！キッド君！=You did it, Kid!
 !FILE:EV2951_022.bscr
-大丈夫か？キッド？=Are you all right, Kid?
+大丈夫か？キッド？=Are you alright, Kid?
 !FILE:EV2951_023.bscr
 次いこ！次！=Who's next!?
 !FILE:EV2951_024.bscr
@@ -16535,7 +16535,7 @@
 !FILE:EV2953_310.bscr
 マヒを受けたみたい・・・=Looks like you've been shocked.
 !FILE:EV2953_311.bscr
-大丈夫か？キッド？=Are you all right, Kid?
+大丈夫か？キッド？=Are you alright, Kid?
 !FILE:EV2953_312.bscr
 マヒだよ！キッド君！=You've been shocked! Kid!
 !FILE:EV2953_400.bscr
@@ -18113,11 +18113,11 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 コマンドボタンを使えば|技の出し方が見れるよ=You can review how to use techniques with the Command button.
 ２連続攻撃|Ａボタンを連続して２回押します=2-hit Combo: Press the A Button 2 times in succession.
 ４連続攻撃|Ａボタンを連続して４回押します=4-hit Combo: Press the A Button 4 times in succession.
-派生４連続攻撃|２連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate 4-hit Combo: After two hits, hold the A Button, shake the Wiimote continuously, and press A again.
+派生４連続攻撃|２連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate 4-hit Combo: After 2 hits, hold the A Button, shake the Wiimote continuously, and press A again.
 ６連続攻撃|Ａボタンを連続して６回押します=6-hit Combo: Press the A Button 6 times in succession.
-派生６連続攻撃|４連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate ６-hit Combo: After four hits, hold the A Button, shake the Wiimote continuously, and press A again.
+派生６連続攻撃|４連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate ６-hit Combo: After 4 hits, hold the A Button, shake the Wiimote continuously, and press A again.
 ９連続攻撃|Ａボタンを連続して９回押します=9-hit Combo: Press the A Button 9 times in succession.
-派生８連続攻撃|６連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate 8-hit Combo: After six hits, hold the A Button, shake the Wiimote continuously, and press A again.
+派生８連続攻撃|６連続攻撃のあと　Ａボタンを押しながら|リモコンを振り　続けてＡボタンを押します=Alternate 8-hit Combo: After 6 hits, hold the A Button, shake the Wiimote continuously, and press A again.
 -=-
 -=-
 -=-
@@ -18637,7 +18637,7 @@ THE・CAN%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]THE CA
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]現る！|被害が出る前に倒せ！=The Kishin Egg, %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]is coming! Stop him before it's too late!
 制限時間内に|%_dc[196,0,0]ジョニーズラバー%_dc[199,133,84]を倒せ！=Defeat %_dc[196,0,0]Johnny Rubber %_dc[199,133,84]within the time limit!
 %_te三つ星にチャレンジ！=%_teThree-Star Challenge!
-シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to demonstrate your true power!
+シュタイン博士%_dc[199,133,84]に挑戦！|三つ星だってなんのその|実力を示すチャンスだ！=%_dc[199,133,84]Challenge %_dc[196,0,0]Professor Stein%_dc[199,133,84]! He's a three-star meister, so this is your chance to go all out!
 シュタイン博士%_dc[199,133,84]を倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Professor Stein%_dc[199,133,84]!
 %_teモノトーン　プリンセス=%_teMonotone Princess
 パラポネラの神殿を探し|%_dc[196,0,0]魔女ポネラ%_dc[199,133,84]を止めろ！=Locate the Paraponera Sanctuary and stop %_dc[196,0,0]the Witch Ponera%_dc[199,133,84]!
