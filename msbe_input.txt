@@ -40,12 +40,12 @@
 家族の肖像=A Family Photo
 彼女の思いと・・・=Her Thoughts
 マカが倒れた=Fainting Spell
-うれしい罰ゲーム=The Happy Penalty Game
+うれしい罰ゲーム=The Happy Penalty
 最近のリズは・・・=Where Liz Belongs
 保健室からの苦情=Prescribing Gripes
 ソウルの胸の傷=Soul's Scar
 反撃開始=Payback Time
-劣等感大爆発=Inferiority Complexplosion
+劣等感大爆発=Inferiority Complex
 ショッキングゾンビ=Zombie Shock
 彼の親切とその反応=Kindness & Karma
 星族の秘法=The Star Clan
@@ -1145,7 +1145,7 @@
 ちょっと待てよ！健康法を|教えてもらうことになってたり・・・|再手術されることになってたり・・・=Whoa, wait a sec! First it was Sid's wellness routine, and now we're talking about more surgery?
 俺が検査を受けている間に|一体何があったんだよ！=What the hell were you up to while I was getting my check-up!?
 ははは・・・|色々あったのよ=Hehehe... There was that idea...
-ところで先生　私達が|お手伝いできそうなことって|何かありませんか？=By the way, professor, is there anything you could use our help with?
+ところで先生　私達が|お手伝いできそうなことって|何かありませんか？=By the way, Professor, is there anything you could use our help with?
 丁度　君達に|手伝ってほしいことが|あるんですよ=In fact, I do have a little something that I'd like your help with.
 もしよかったら|お願いできないでしょうか？=Give me a minute, and I'll write down the details for you.
 どうしようかな・・・=I hope it's nothing too weird...
@@ -2015,7 +2015,7 @@
 ほっといちゃダメかな・・・=Well, we can't just leave him, can we?
 むっ　キッド・・・|これをやったのは　お前達か？=Hm? Kid... Did you two do this?
 教職員の立会いなしで|戦ってはいかんという|校則があるのを知らんのか！？=Have you forgotten the rules? There's to be no fighting without a member of the teaching staff present!#must be kept short
-違います　先生|キッド君が勝手に|倒れちゃったんです！=It's not what you think, Sid. Kid just passed out all on his own!
+違います　先生|キッド君が勝手に|倒れちゃったんです！=It's not what you think, Mr. Sid. Kid just passed out all on his own!
 俺は疑うことを知らない|そんな男だった・・・|だが　それも過去の話だ・・・=I believe everyone. That's the kind of man I was. But that was the past.
 とにかく教室まで来てもらおう！|話はそこでゆっくりと聞く！=In any case, come with me to the classroom! I'll listen to your story there!
 私達を疑っているんですか？=Do you really not believe us?
@@ -2027,7 +2027,7 @@
 どうしたら　そういう|発想ができんだよ！=What would possibly make you think we did this!?
 !FILE:EV0322_007.bscr
 ったく　あの野郎|人の話を全然聞かねェ！|何様のつもりなんだよ！=That jerk! He doesn't listen to anybody! Who does he think he is!?
-仕方ないわ|シド先生だって　機嫌が|悪い時だってあるわ=It's no big deal. Sid's just in a bad mood right now.
+仕方ないわ|シド先生だって　機嫌が|悪い時だってあるわ=It's no big deal. He's just in a bad mood right now.
 事情を話せば|わかってくれるわよ=He'll understand once we tell him what happened.
 !FILE:EV0322_010.bscr
 待ってたよ　マカ！=I've been waiting for you, Maka!
@@ -2526,7 +2526,7 @@
 !FILE:EV0420_092.bscr
 死神様　パパのお仕事|私達が手伝っちゃダメですか？=Lord Death, would it be okay for us to help Papa with his work?
 う～ん・・・別にいいんだけどね|君達にできそうなやつは|何かあったかな・・・=Hmm... That's okay with me. But is there anything that you two could take care of...?
-あ　そうそう|一つだけそういうのがあったね|そういえば♪=Oh, of course. What do you know?|I have just the thing♪
+あ　そうそう|一つだけそういうのがあったね|そういえば♪=Oh, of course. What do you know?|I know just the thing♪
 どんな内容なんだよ　それは？=So what is it then?
 私は直接タッチしてないから|知らないよ～ん♪=I haven't looked into it myself, so I don't know the details♪
 詳しい話は|シュタイン君に|聞いてみてね♪=If you want to know more, try talking with Stein♪
@@ -3151,8 +3151,8 @@
 ねぇ　ソウル・・・|私ってなんなのかな・・・=Hey, Soul... I don't know what to do with myself anymore...#I don't especially like this phrasing, but with the voice acting, having just "Hey, Soul..." made it look like part of the text was missing.
 はぁ　唐突に|どうしたんだよ？=What? What's wrong with you all of a sudden?
 私はブラック☆スターみたいに|強さだけを追い求められるほど|純粋じゃないし・・・=I mean... I'm not focused enough to only pursue strength like Black☆Star...
-かといって　キッド君みたいに|生まれもっての才能があって・・・=But like Kid, I was born with a natural talent, and yet...
-その才能にみあった義務を|果たしているわけでもないし・・・=I don't even fulfill enough of my obligations to live up to that talent.
+かといって　キッド君みたいに|生まれもっての才能があって・・・=But like Kid, I was born with special abilties, and yet...
+その才能にみあった義務を|果たしているわけでもないし・・・=I don't even fulfill enough of my obligations to live up to that birthright.
 ただの普通の|死武専の一生徒よね・・・=I'm just one of the DWMA's normal students, aren't I?
 それは　ヤツらのことを|美化しすぎてねェか？=Don't you think you might be romanticizing their better qualities|a bit?
 ただの格闘小僧とボンボンに|俺は思えるぜ！=I just see a spoiled rich kid and a brat who's always trying to pick a fight!
@@ -3245,12 +3245,12 @@
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
 わかった|今回だけだ|今回だけは従ってやる・・・=Fine! Just this once. I will listen to you this one time.
-わかったんなら|つべこべ言わないで！|シド先生の所に行くわよ・・・=Good! Now quit your whining and let's go talk to Sid.
+わかったんなら|つべこべ言わないで！|シド先生の所に行くわよ・・・=Good! Now quit your whining and let's go talk to Mr. Sid.
 !FILE:EV0520_105.bscr
 ・・・・・・・・・=.........
 !FILE:EV0520_106.bscr
 わかった|今回だけだ|今回だけは従ってやる・・・=Fine! Just this once. I will listen to you this one time.
-わかったんなら|つべこべ言わないで！|シド先生の所に行くわよ・・・=Good! Now quit your whining and let's go talk to Sid.
+わかったんなら|つべこべ言わないで！|シド先生の所に行くわよ・・・=Good! Now quit your whining and let's go talk to Mr. Sid.
 !FILE:EV0520_107.bscr
 今回だけだからな|わかってんだろうな？=You do understand that I meant it when I said this would be the only|time, right?
 男だったら一度決めたことに|グズグズ言わないでちょうだい|見苦しいわよ=Do all men complain this much when a woman decides on something? It's so disgraceful.
@@ -3522,7 +3522,7 @@
 で　どうすんだ？|聞いちゃった以上|お前の性格からすると・・・=So what's it gonna be? Knowing you... And with what we just heard...
 何　私が首を突っ込むことが|そんなに不満？=What are you implying? Is it really such a bad thing to take interest in one's friends?
 あ～ぁ　そうだよな|やっぱり　そうなっちまうよな・・・=Ugh! Fine. I knew you were going to do this.
-文句ばかり言わないの！|さ　シド先生のところに|行きましょう！=Now quit your whining and come on! Let's go talk to Sid!
+文句ばかり言わないの！|さ　シド先生のところに|行きましょう！=Now quit your whining and come on! Let's go talk to Mr. Sid!
 !FILE:EV0522_012.bscr
 リズとパティに|用があるって聞いたんですけど|一体　何があったんですか？=We heard you were looking for Liz and Patty. What do you need them for?
 二人に荷物が届いたのだ|それを取りにきてほしかったのだが・・・=A package has arrived for them, and I'd like them to come pick it up.
@@ -3538,7 +3538,7 @@
 リズとパティは|一緒じゃないの？=Liz and Patty aren't with you?
 うむ　今は一緒ではない|二人に何か用なのか？=Not right now, no. Did you need them for something?
 よくわかんないけど|親切な人から|贈り物が届いてるみたいだぜ！=We don't know a whole lot, but apparently some kind mystery person sent them a gift!
-シド先生が　それを|預かってるから　取りに来るよう|伝言を頼まれたのよ=Sid asked us to let them know that he's holding on to it for them.
+シド先生が　それを|預かってるから　取りに来るよう|伝言を頼まれたのよ=Mr. Sid asked us to let them know that he's holding on to it for them.
 なんだと！あのタワケども|まだ取りに行ってないのか！？=What!? What are they playing at? They still haven't gone to get the package!?
 ・・・キッド君　そこまで|怒らなくてもいいじゃないの=...Kid, is this really a reason to get so angry?
 俺は怒ってなどいない！|ただ　その親切な人の気持ちを思い|義憤にかられているのだ！！=I'm not angry! But just thinking about how that kind stranger must feel... I can't help but be justifiedly indignant!#must be kept short
@@ -3567,7 +3567,7 @@
 ほぇ　私は|ずっと一人だったよ♪=Nope. I've been by myself this whole time♪
 そっか　キッド君|会えなかったのね・・・=So Kid didn't come. Weird...
 そうそう　パティ|親切な人から贈り物が|届いてるみたいよ♪=Oh, I almost forgot, Patty. Apparently some nice stranger sent you a present♪
-シド先生が預かってるから|取りに来てほしいんだって=Sid's been holding on to it, and he'd like you to come get it.
+シド先生が預かってるから|取りに来てほしいんだって=Mr. Sid's been holding on to it, and he'd like you to come get it.
 ・・・・・・・・・=.........
 あれ　どうしたの？=Huh? What's wrong?
 ごめんね　マカ|そういうのはお姉ちゃんに|任せてあるの♪=Sorry, Maka, but I'm gonna let sis take care of that♪
@@ -3581,7 +3581,7 @@
 さっきまで一緒にいたけど|急に落ち込んでどっかに|いっちまったぜ=He was just here, but he got all depressed out of nowhere and ran off.
 何があったの　リズ？=What happened?
 まずは私達に|定期的に贈り物をしてくる|ヤツがいることから話さないとな・・・=First, you need to know that somebody has been sending Patty and me gifts now and then...
-知ってるわ|シド先生から聞いたもの=I know. Sid filled me in.
+知ってるわ|シド先生から聞いたもの=I know. Mr. Sid filled me in.
 じゃあ　話が早い・・・|その人から今回も|贈り物が届けられたんだ・・・=I'll be brief then. They sent us another present...
 ステキな話よね・・・|私　あこがれるわ・・・=That's so nice. I'm so jealous.
 本来　そうなんだろうな|でも　私達はそう思えないんだ=Normally, I would agree, but not this time.
@@ -6400,7 +6400,7 @@
 生前の俺は|一度言いかけたことを|最後まで言う　そんな男だった・・・=When I was alive, once I started to say something, I always finished.|That's the kind of man I was.
 そんな・・・=But...
 ふぅ・・・|今日はこれくらいにしておこう・・・=Phew...|I guess that should be about all for today...
-俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=A man of few words. That's the kind of man I was...But I guess some things do change...
+俺は長話をしない|そんな男だった・・・|だがそれも昔の話か・・・=A man of few words. That's the kind of man I was... But I guess some things do change...
 私の貴重な時間を|返してください・・・=Please give me my precious time back.
 !FILE:EV1121_055.bscr
 ふぅ・・・|今日はこれくらいにしておこう・・・=Phew...|I guess that should be about all for today...
@@ -7207,7 +7207,7 @@
 おばちゃんのことを|知りたがってるんです・・・=He wants to learn more about Auntie.
 おばちゃんか・・・|うむ・・・=Auntie, huh?|Hm...
 わかった協力してやろう|俺もおばちゃんのことが知りたい=Alright, I'll see what I can do.|I'm curious about her too.
-やるな　キッド！|チマチマしてばかりだと思ったけど|正直　みなおしたぜ！=Nice, Kid! I thought you were just some small-bore, but you've honestly changed my mind!
+やるな　キッド！|チマチマしてばかりだと思ったけど|正直　みなおしたぜ！=Nice, Kid! I thought you were just some bit part, but you've honestly changed my mind!
 俺もまだ一つ星の職人|できれば皆とフェアな立場で|いたかったんだが・・・仕方ない=I'm only one star myself. I wanted to be in an equal position to everyone if possible, but... It can't be helped.
 キッド君　本当に|調べにいってくれちゃった・・・=He's really going to go check it out.
 どうだった！|バッチリわかったかよ！=Well!? Did you find anything out!?
@@ -7478,7 +7478,7 @@
 その前にお説教だよ|君達単独で出かけたよね？=The sermon comes first! You went out without another team, right?#Translated 説教 as sermon as opposed to lecture or preaching due to Lord Death's god status, but it might be a bit much.
 あはは・・・|やっぱりバレてましたか・・・=Ahaha... We got caught after all?
 キッドはよくて|どうして俺達がダメなんだよ！|納得いかねェよ　ダンナ！=Why is it okay for Kid, but we're not allowed? It's not fair!
-確かにブラック☆スターの実力ならば|許してあげてもいいんじゃないの|とは思うよ♪=You're certainly very competent, so I think it would be okay to excuse it♪
+確かにブラック☆スターの実力ならば|許してあげてもいいんじゃないの|とは思うよ♪=You're certainly very competent, so I think it would be okay to allow it♪
 じゃあ　どうして|許してくれないんですか？=But we're still getting a lecture?
 ・・・単独行動を許したら|すぐに勝手な行動をとる|でしょう　君達の場合♪=If I excuse the independent movement, he'll be off straight away to do it again, no?
 あはは・・・|たしかにそうですね・・・=Ahaha... Probably so.
@@ -8210,7 +8210,7 @@
 マカちゃん心配ね・・・=I'm worried about her.
 俺達でマカに変なオーラを|送ったヤツを捕まえようぜ！=What do you say we go catch whoever sent that weird aura!?
 いい案だと思うけど|どうやって捕まえるの？=That sounds like a good idea, but how are we going to catch them?
-ブラック☆スター|感知能力はほとんどないじゃないの？=You're not exactly the most perceptive of us, Black☆Star.
+ブラック☆スター|感知能力はほとんどないじゃないの？=You're not exactly the most perceptive person, Black☆Star.
 あやしい奴を見かけたら|片っ端からやっつける！！=We look for any suspicious person we can find, and then I grind each and every one of them to a pulp!!
 あんまり乱暴な方法は|よしたほうがいいんじゃないかしら=I'm not sure violence is exactly the best solution.
 !FILE:EV1421_022.bscr
@@ -11600,7 +11600,7 @@
 マカにソウル|ブラック☆スターに椿とは|友達になったよ=Yes. There's Maka and Soul. And Black☆Star and Tsubaki.
 それだけなの？|他には？他には？=Is that all? Is there no one else? Anybody?
 リズにパティがいるよ=I have Liz and Patty.
-げ！私達を|そんなさみしいグループに|入れるんじゃない！=Heh!? Don't stick us in that desolate group!
+げ！私達を|そんなさみしいグループに|入れるんじゃない！=Heh!? Don't stick us in that sad group!
 カウントすんなぁ～|コノヤロゥ！=You can't count us, silly!
 ま　数が問題じゃないからね|きっとキッドは深く友情を育む|タイプなんだね・・・=Well, the number isn't what counts. Kid is undoubtedly the type to develop deep friendships, yeah?
 リズにパティ|キッドをよろしく頼むよ！=Liz, Patty, I'm leaving Kid in your care!
@@ -11815,7 +11815,7 @@
 友からの依頼は|間違いなく果たす|何も問題なかろう！=I'll complete my friends' requests without fail. No problem whatsoever!
 テメエにゃ　時間の概念が|ないのか　コノヤロウ！=You idiot! Do you understand the concept of time at all?
 とにかく待ち合わせの|場所に急ぐぞ！=Anyway, let's hurry and get to where we were supposed to meet up!
-わかった！|そんなに急ぐなら|先に行っている！=Alright already! If you're in such a rush, I'll go on ahead!
+わかった！|そんなに急ぐなら|先に行っている！=All right already! If you're in such a rush, I'll go on ahead!
 !FILE:EV2120_110.bscr
 誰もいないね・・・=I don't think there's anyone here.
 ・・・・・・・・・=.........
@@ -11833,7 +11833,7 @@
 ん？イヤ・・・|気のせいかもしれんが・・・=Hm? No... It's probably my imagination.
 もしかするとマカ達だけで|出かけてしまったのではないか？=Perhaps Maka and Soul went out on their own.
 !FILE:EV2120_117.bscr
-よし　行くぞ！=Alright, let's go!
+よし　行くぞ！=All right, let's go!
 !FILE:EV2120_122.bscr
 マカに課題を|出したのって　シド先生なのか？=Sid, you're the one who gave Maka her assignment, right?
 マカ達だけで|出かけてっちゃったみたいなの=It looks like Maka and Soul might have gone out on their own.
@@ -12011,7 +12011,7 @@
 おおよその見当は|ついてるんだけどね・・・=I have a rough idea, yeah...
 そこまでわかってたら|着拒できないの？=If you've known this whole time, can't you just block the number?
 ・・・・・・・・・=.........
-う～ん・・・シュタイン君を|呼んできてもらえないかな？=Hmmm... You think you could call Stein for me?
+う～ん・・・シュタイン君を|呼んできてもらえないかな？=Hmmm... You think you could ask Stein for me?
 そうか博士なら|なんとかしてくれるかも|しれないな！=Of course. The professor could probably do something or other!
 わかりました父上|シュタイン博士を呼んでくるよ=Understood, Father. We'll get Professor Stein for you.
 まったく　まいったよ・・・=I'm at my wit's end.
@@ -12683,7 +12683,7 @@
 ほぇ？何か用かな？=Huh? Need something?
 せっかく会えて|光栄なのですが・・・=It is my honor and privilege to see you again, but...
 わたくし　死神様から|呼び出されてしまったので・・・|その・・・申し訳ありません！=My sincerest apologies, but... That is... Lord Death just summoned me, so...
-別に　そんなの|断る必要ないよ～～♪=There's no need to apologize for it♪
+別に　そんなの|断る必要ないよ～～♪=There's no need to apologize♪
 パティさんの優しさ|身にしみてきます|ありがとうございます！=Ms. Patty, your kindness touches me deeply. You have my eternal thanks!
 どうなってんだ　こりゃ？=Why's he acting all weird?
 ・・・・・・・・・=.........
@@ -12977,7 +12977,7 @@
 !FILE:EV2320_002.bscr#死神のお茶会 = Reaper Tea Party - Part 24
 みんな　そろっていたのね|よかったわ=Good. You're all here.
 マカ　私達に|用でもあるのかよ？=Were you looking for us, Maka?
-ねぇ　これから|ティーパーティーを開こうと|思うんだけど　どうかしら？=Yeah. I was thinking about having a tea party. What do you guys think?
+ねぇ　これから|ティーパーティーを開こうと|思うんだけど　どうかしら？=Yeah. I was hoping to have a tea party. What do you guys think?
 わ～い♪|お菓子！お菓子！=Yay♪ Cake! Cake!
 いいじゃん　それ|なぁ　お前も賛成だろ？=That's a great idea.|You don't mind, do you?
 うむ　わかった|俺にまかせておけ！=Yeah, I understand. Just leave it to me!
@@ -13150,7 +13150,7 @@
 そんなことよりもキッドを|見なかったか？=More importantly, have you seen Kid?
 見なかったぞ=I haven't, no.
 お菓子うまかったぞ！|きゃはははは！=The cake was really tasty! Kyahahaha!
-はぁ　何言ってんだ！|俺は菓子なんてしらねェよ！=Huh? What are you talking about!?|I didn't make any cake!
+はぁ　何言ってんだ！|俺は菓子なんてしらねェよ！=Huh? W-What are you talking about!?|I didn't make any cake!
 でも　お前が作ったって|マカが言ってたぞ？=That's not what Maka said.
 俺は　キッドも|菓子も何も知らねェ！=Look, I don't know anything about Kid and I don't know anything about any cake!
 きゃはははは！|こいつ　めんどくせェな♪=Kyahahaha! You're so stuffy♪
@@ -13377,7 +13377,7 @@
 まだやってない・・・|できればこのまま|逃げ続けるつもりなんだけど=Not yet... And if I can, I'm going to try to keep avoiding it.
 デスサイズに|やってもらわないの？=Can't Death Scythe go with you?
 それがいやだから|逃げ続けてるのよ・・・=That's exactly why I'm avoiding it.
-パティ　常識でものを|考えてくれ・・・マカがあまりにも|かわいそうだろう・・・=Patty, use some common sense. Maka would be miserable.
+パティ　常識でものを|考えてくれ・・・マカがあまりにも|かわいそうだろう・・・=Patty, use some common sense. That's not really an enviable position to be in.
 !FILE:EV2322_016.bscr
 マカの三者面談は|もう終わったのか？=Maka, have you been to your parent-teacher meeting yet?
 まだやってない・・・|できればこのまま|逃げ続けるつもりなんだけど=Not yet... And if I can, I'm going to try to keep avoiding it.
@@ -13418,7 +13418,7 @@
 なぁ　博士を知らないか？=Hey, you know where the professor is?
 博士か？|そういえば見なかったな・・・=The professor? No, I haven't seen him.
 そうか　ならば仕方ない・・・=Okay. Never mind then.
-まぁ　ブラック☆スターじゃねェから|すぐに見つかると思うぜ！=But it isn't Black☆Star, so you ought to find him before too long!#This sentence seems odd to me. I feel like it would be easier to find Black☆Star due to how loud he always is, not the other way around. Maybe I'm misreading it.
+まぁ　ブラック☆スターじゃねェから|すぐに見つかると思うぜ！=But he's not an assassin like Black☆Star, so you ought to find him before too long!#This sentence seems odd to me. I feel like it would be easier to find Black☆Star due to how loud he always is, not the other way around. Maybe I'm misreading it.
 ソウル君|すっごくテキトーだね♪=You're totally right, Soul♪
 !FILE:EV2322_046.bscr
 なぁ　博士を知らないか？=Hey, you know where the professor is?
@@ -13633,7 +13633,7 @@
 俺は型破りな|そんな男だったが|それも今では昔の話だ・・・=I was the kind of man that broke the mold, but that was a long time ago now.
 !FILE:EV2420_042.bscr
 椿から聞いたぜ！|パティもなかなかの大物だな！|ひやっはははははは☆=Tsubaki told me you've become quite the big shot as well, Patty! Yahahahahahaha☆
-もっとほめやがれ|きゃはははは♪=Keep the compliments coming! Kyahahahaは♪
+もっとほめやがれ|きゃはははは♪=Keep the compliments coming! Kyahahaha♪
 何の話をしてるんだよ？=What are you talking about?
 本の紙でキリンを|増産したって話だぜ☆=I'm talking about all the giraffes she made out of the pages from those books☆
 椿は不満そうだったけど|俺様は　そういう型破りなのは好きだぜ☆=Tsubaki didn't seem too pleased,|but I'm a big fan of that sort of unconventional style☆
@@ -14016,7 +14016,7 @@
 傷あとの何が悪いんですか？|むしろ誇るべきことでしょう？=Do you have a problem with scars? Don't you think it's something to be proud of?
 ・・・・・・・・・=.........
 ・・・・・・・・・=.........
-あれ　パティ？|私　どこで間違えたんだろ？=Hey, Patty, did I say something weird?
+あれ　パティ？|私　どこで間違えたんだろ？=Hey, Patty, did I say something wrong?
 お姉ちゃん|もう行ったほうがいいよ=Sis, let's just go already.
 そうだな　話が|よけいにこじれそうだ=Okay. This conversation is too confusing.
 !FILE:EV2422_026.bscr
@@ -14351,7 +14351,7 @@
 シド先生の|イメチェン　大成功だよ！=Sid's makeover is a total hit!
 死神様も鏡の中でこもってないで|コッチへ来て確認してみろよ！=Don't stay all cooped up in your mirror, Lord Death! Come see it for yourself!
 シド君？やられちゃったって|聞いたんだけど？=Sid? I heard someone had done a real number on him.
-そういう意味での|イメチェンなのかな？=That wasn't the makeover you were talking about, was it?
+そういう意味での|イメチェンなのかな？=That isn't the makeover you were talking about, is it?
 どういうことなんだ父上|詳しく話を聞かせてくれ！=What are you talking about, Father? Please, tell us everything you know!
 詳しい話は|まだ聞いてないんだけどね=I haven't heard the whole story yet, but...
 私が頼んだ指令を失敗|しちゃったみたいなのさ=Apparently he failed to carry out my orders.
@@ -14371,11 +14371,11 @@
 !FILE:EV2520_126.bscr
 ごめんなさい|治療中だからあなた達に|会わせることはできないの=I'm sorry. You can't meet with him right now. He's undergoing treatment.
 !FILE:EV2520_132.bscr
-シド先生がやられたって|聞いたけど　大丈夫かな=I heard Sid got it pretty bad. I hope he'll be okay.
+シド先生がやられたって|聞いたけど　大丈夫かな=I heard Mr. Sid got it pretty bad. I hope he'll be okay.
 よく　わからないんだ|メデューサ先生が|会わせてくれないからよ！=We don't really know anything since Dr. Medusa won't let us talk to him!
 ブルックリン時代だったら|色々やっちゃうのにね・・・=We never would've let that slide back in the Brooklyn days.
 リズ　パティ　よさないか！=Liz, Patty, would you mind!?
-それにしてもシド先生|心配よね・・・=At any rate, I'm worried about Sid.
+それにしてもシド先生|心配よね・・・=At any rate, I'm worried about Mr. Sid.
 一応　ゾンビだから|もう亡くなることはないと思うけど=Although, he's a zombie, so I guess he can't really die again, but...
 それは結構|不謹慎だと思うぞ　マカ・・・=I don't think that's a very nice thing to say, Maka.
 !FILE:EV2520_136.bscr
@@ -17470,13 +17470,13 @@
 入学してからずいぶんたつんだけど|まだ迷いそうになる時があるわ=I've been studying here for a long time now, but I still get lost sometimes.
 休み時間って|実はあんまり|落ち着かないの・・・=Even during vacation, I really don't know how to take it easy...#seen
 私って常に|動いてないとダメみたい・・・=I feel like I have to be constantly moving.#seen
-最近　マカチョップの|威力が増している気がするわ・・・=I feel like my Maka Chop has gotten a lot stronger recently...
+最近　マカチョップの|威力が増している気がするわ・・・=I feel like my Maka Chop has gotten a lot stronger recently...#seen
 もしかしたら私|本職人かもしれない・・・=Maybe I'd have a future as a librarian.
 パパを見かけたら|教えてちょうだい=If you see my papa, please let me know.#seen
 全力でそこから|遠ざかるようにするから！=I'm doing everything I can to stay away from him right now!
-こんな所で|遊んでいちゃダメじゃない！=It's against the rules to be playing around in here!
+こんな所で|遊んでいちゃダメじゃない！=You shouldn't be playing around in here!
 !FILE:EV9967_001.bscr
-こんな所で|遊んでいちゃダメじゃない！=It's against the rules to be playing around in here!
+こんな所で|遊んでいちゃダメじゃない！=You shouldn't be playing around in here!
 !FILE:EV9967_010.bscr
 俺様を追いかけるのはいいけど|同じステージに立たないほうが|いいと思うぜ！=It's okay to shadow me, but it would be a terrible idea to try to stand in my place on stage!#seen
 己の小物ぶりを痛感することに|なっちまうからな！|ひやっはははははは☆=I always keep a close on eye on my understudies! Yahahahahahaha☆
@@ -18169,7 +18169,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 １日目　課外授業　マカ編|始まり=Day 1 - DWMA - Maka - Beginning
 １日目　課外授業　マカ編|大量失踪事件の調査=Day 1 - DWMA - Maka - Investigate the Case of Mass Disappearances
 １日目　課外授業　マカ編|調査報告=Day 1 - DWMA - Maka - Investigation Report
-１日目　課外授業　ブラック☆スター編|始まり=Day 1 - DWMA - Black☆Star - Beginning
+１日目　課外授業　ブラック☆スター編|始まり=Day 1 - DWMA - Black☆Star -|Beginning
 １日目　課外授業　ブラック☆スター編|大量失踪事件の調査=Day 1 - DWMA - Black☆Star - Investigate the Case of Mass Disappearances
 １日目　課外授業　ブラック☆スター編|調査報告=Day 1 - DWMA - Black☆Star - Investigation Report
 １日目　課外授業　キッド編|始まり=Day 1 - DWMA - Kid - Beginning
@@ -18196,19 +18196,19 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ４日目　挑戦　マカ編|ツギハギ研究所襲撃=Day 4 - Defiance - Maka - Raid on the Patchwork Lab
 ４日目　挑戦　マカ編|地底の一族=Day 4 - Defiance - Maka - The Underground Clan
 ４日目　挑戦　マカ編|報告=Day 4 - Defiance - Maka - Report
-４日目　挑戦　ブラック☆スター編|ツギハギ研究所襲撃=Day 4 - Defiance - Black☆Star - Raid on the Patchwork Lab
+４日目　挑戦　ブラック☆スター編|ツギハギ研究所襲撃=Day 4 - Defiance - Black☆Star - Raid|on the Patchwork Lab
 ４日目　挑戦　ブラック☆スター編|地底の一族=Day 4 - Defiance - Black☆Star - The Underground Clan
-４日目　挑戦　ブラック☆スター編|報告=Day 4 - Defiance - Black☆Star - Report
+４日目　挑戦　ブラック☆スター編|報告=Day 4 - Defiance - Black☆Star -|Report
 ４日目　挑戦　キッド編|ツギハギ研究所襲撃=Day 4 - Defiance - Kid - Raid on the Patchwork Lab
 ４日目　挑戦　キッド編|地底の一族=Day 4 - Defiance - Kid - The Underground Clan
 ４日目　挑戦　キッド編|報告=Day 4 - Defiance - Kid - Report
 ５日目　反撃　マカ編|特別訓練=Day 5 - Payback - Maka - Special Training
-５日目　反撃　マカ編|反撃開始=Day 5 - Payback - Maka - Payback Time
+５日目　反撃　マカ編|反撃開始=Day 5 - Payback - Maka -|Payback Time
 ５日目　反撃　マカ編|報告=Day 5 - Payback - Maka - Report
-５日目　反撃　ブラック☆スター編|特別訓練=Day 5 - Payback - Black☆Star - Special Training
+５日目　反撃　ブラック☆スター編|特別訓練=Day 5 - Payback - Black☆Star -|Special Training
 ５日目　反撃　ブラック☆スター編|反撃開始=Day 5 - Payback - Black☆Star - Payback Time
-５日目　反撃　ブラック☆スター編|報告=Day 5 - Payback - Black☆Star - Report
-５日目　反撃　キッド編|特別訓練=Day 5 - Payback - Kid - Special Training
+５日目　反撃　ブラック☆スター編|報告=Day 5 - Payback - Black☆Star -|Report
+５日目　反撃　キッド編|特別訓練=Day 5 - Payback - Kid -|Special Training
 ５日目　反撃　キッド編|反撃開始=Day 5 - Payback - Kid - Payback Time
 ５日目　反撃　キッド編|報告=Day 5 - Payback - Kid - Report
 ６日目　決戦　マカ編|決戦へ=Day 6 – Endgame - Maka - Decisive Battle
@@ -18226,7 +18226,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から荷物に隠れて|逃げ出した解剖授業用の|疑似生物を捕まえろ！=The Dissection class specimen has escaped. Capture it at once!
 疑似生物おかウニ%_dc[199,133,84]を|見つけ出せ！=%_dc[199,133,84]Find the %_dc[0,196,0]Artificial Land Urchin%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84]|training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[196,0,0]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
@@ -18253,7 +18253,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ツボ%_dc[199,133,84]の落ちてる場所は|だいたいわかった！　早く|手に入れて特訓再開だぁ！=%_dc[199,133,84]I think this is where the %_dc[0,196,0]Jar %_dc[199,133,84]was. Bring it here if you want the water.#I know this doesn't match the original, but it didn't sound right for the quest to be from Black Star's PoV. 'Want to train' also fits, but I couldn't find a good way to make 'restart training' work unfortunately.
 ツボ%_dc[199,133,84]を手に入れろ！=%_dc[199,133,84]Get the %_dc[0,196,0]Jar%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84]|training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te切り裂き魔を退治せよ！=%_teEliminate the Ripper!
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
@@ -18280,13 +18280,13 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 鬼神の卵と化した魂を持つ|%_dc[196,0,0]切り裂きジャック%_dc[199,133,84]を|倒せ！=Defeat %_dc[196,0,0]Jack the Ripper|%_dc[199,133,84]whose soul has turned into a Kishin egg!
 切り裂きジャック%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Jack the Ripper%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]25 %_dc[196,0,0]Death Noir%_dc[199,133,84]|training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]２５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 25 %_dc[196,0,0]Death Noirs%_dc[196,0,0]!
 %_teノラ人形どもを追え！=%_tePursue the Dummies!
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に敵を|%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teDeath to Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84]| training dummies that escaped the DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]5 %_dc[196,0,0]Death Noir%_dc[199,133,84]|training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 5 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
@@ -18388,7 +18388,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専からノラ人形が|%_dc[0,0,196]２０%_dc[199,133,84]匹脱走した|奴らをすみやかに倒せ！=%_dc[0,0,196]20 %_dc[199,133,84]of the DWMA's dummies have run off! Defeat them quickly!
 制限時間内に|敵を%_dc[0,0,196]２０%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]20 %_dc[199,133,84]enemies within the time limit!
 %_teデスノワールを退治せよ！=%_teDeath to Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84]|training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]. Please retrieve it.
@@ -18409,7 +18409,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 あちこちに捨てられている|かわいそうな人形を集めて|供養してあげてください=Those poor dolls, just thrown away. They need a proper burial.
 呪い人形？%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Cursed Dolls%_dc[199,133,84]!
 %_teデスノワールを退治せよ！=%_teDeath to Death Noirs!
-死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84] | training dummies that escaped the DWMA!
+死武専から脱走した訓練用|人形%_dc[196,0,0]デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noir%_dc[199,133,84]|training dummies that escaped the DWMA!
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]１５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat %_dc[0,0,196]15 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te危険物の回収=%_teHazardous Material
 危険物%_dc[0,196,0]太陽石%_dc[199,133,84]を|見たという話を聞きました|回収をお願いします=I've heard talk of a hazardous %_dc[0,196,0]Sun Stone%_dc[199,133,84]. Please retrieve it.
