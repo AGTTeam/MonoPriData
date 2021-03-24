@@ -14702,8 +14702,8 @@
 っていってみたけど|ちょっと手強かったな=I don't like to admit it, but she was pretty tough.
 お姉ちゃん|ギリギリィ？=At your limits, sis?
 ああ・・・|もう少し長引いたら　ヤバかったかもな=Yeah... Had it dragged on any longer, things might have gotten a little tense.
-どうやら　片付いたようだな=Looks like they've got everything under control.
-えっ！|アレを倒したの？=Eh!? You took that down?
+どうやら　片付いたようだな=Looks like you've got everything under control.
+えっ！|アレを倒したの？=Eh!? You took that thing down?
 さすが　次期死神様ですね=I'd expect nothing less from the next Lord Death.
 俺様の手助けなしで|よくやったじゃねぇ～か|デス・ザ・キッド=I'd say you didn't do half bad despite not having my help, Death the Kid.
 !FILE:EV2601_451.bscr
@@ -14925,7 +14925,7 @@
 おう　いつでもいいぜ！=Yeah. Ready when you are!
 久しぶりに死神の力を|解放できそうな気がする|腕がなるぞ！=It's been some time since I've felt like I could make full use of my grim reaper power. I'm really going to let loose!
 もりあがって|きやがったな　コリャ！=This is getting more and more exciting!
-異様な反応がゴロゴロしている|今回は苦労しそうだな・・・=There's something strange about this soul, like it's rumbling. This looks like trouble.
+異様な反応がゴロゴロしている|今回は苦労しそうだな・・・=I'm starting to get a weird feeling in my gut. This looks like trouble.
 はぁ・・・いやだ　いやだぁ|なんだか落ち込んできたよ・・・=Nnn... No. Nooo. Now I'm freaking out.
 どうやら困難に|ぶち当たってしまったようだな|俺の勘が　そう告げている・・・=I don't know what, but something is seriously off. I can feel it...
 キッド君が|困難じゃなかったことなんてあったかな？=Kid, there's kind of always something off with you.
@@ -14933,7 +14933,7 @@
 はぁ・・・|なんでこんな所に来ちゃったのかね・・・=Nngh... Why did I agree to even come here?
 久しぶりに死神の力を|解放できそうな気がする|腕がなるぞ！=It's been some time since I've felt like I could make full use of my grim reaper power. I'm really going to let loose!
 てことは面倒な事が|起こるかもってことか・・・はぁ=Is this thing really tough enough to need all that power? *Sigh*
-異様な反応がゴロゴロしている|今回は苦労しそうだな・・・=There's something strange about this soul, like it's rumbling. This looks like trouble.
+異様な反応がゴロゴロしている|今回は苦労しそうだな・・・=I'm starting to get a weird feeling in my gut. This looks like trouble.
 そんなこと言われると|怖くなってきたじゃんかよ・・・=Are you trying to freak me out? Keep that sort of thing to yourself.
 少し面倒なことになりそうな|予感がする・・・|気合を入れていくぞ！=Something tells me this might get a little annoying... Be ready for anything!
 やれやれ　どうもこりゃ|やっかいそうだな・・・=Ugh! I'm not looking forward to this.
