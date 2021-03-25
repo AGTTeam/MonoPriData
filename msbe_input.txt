@@ -40,7 +40,7 @@
 家族の肖像=A Family Photo
 彼女の思いと・・・=Her Thoughts
 マカが倒れた=Fainting Spell
-うれしい罰ゲーム=The Happy Penalty
+うれしい罰ゲーム=The Penalty Game
 最近のリズは・・・=Where Liz Belongs
 保健室からの苦情=Prescribing Gripes
 ソウルの胸の傷=Soul's Scar
@@ -8757,7 +8757,7 @@
 ブラック☆スターはどうしたんだ|一緒じゃないのか？=Where's Black☆Star? He's not with you?
 先生！ブラック☆スターを|疑ってるんですか？=You don't suspect Black☆Star, do you?
 !FILE:EV1520_132.bscr
-図書館から暗殺奥義書が|持ち出されたそうですが・・・=I heard someone took the Book of Secret Assassinations from the library.
+図書館から暗殺奥義書が|持ち出されたそうですが・・・=I heard someone took the Book of Cloaks and Daggers from the library.
 博士もブラック☆スターを|疑っているんですか？=Do you suspect Black☆Star as well, Professor?
 いや　俺自身は|仮にブラック☆スターだった|としてもいいと思っています=No. And even if it was Black☆Star, personally, I think it's okay.
 あの奥義書を持つ権利は|彼にはありますから|死神様にも話してみるつもりです=He has a right to keep that secret book, and I'm even going to talk to Lord Death about it.
@@ -8779,7 +8779,7 @@
 まとめて焼却しようと|思っていたところだ・・・=So I was thinking about getting it all in one place and incinerating it.
 !FILE:EV1520_150.bscr
 よく　ここがわかったな　椿=You did well to find me here, Tsubaki.
-ブラック☆スター|あなたが暗殺奥義書を持ち出したの？=Black☆Star, are you the one that took the Book of Secret Assassinations?
+ブラック☆スター|あなたが暗殺奥義書を持ち出したの？=Black☆Star, are you the one that took the Book of Cloaks and Daggers?
 ああ　俺だ=Yeah. It was me.
 なんてことを|早く本を返さないと！=What were you--!? Quick! You have to return it!
 それはもう無理だぜ=That won't be possible.
@@ -8813,11 +8813,11 @@
 いや　かんべんならん|責任をとってコイツを|持っていけ！=No. This is unforgivable. Accept your responsibility! Get this out of my sight!
 なんだよコレは？|きったねェなぁ！=What's this? It's filthy!
 貴様の本を|燃やした時に出た灰だ|ゴミくらい自分で始末しろ！=Those are the ashes from when I burned that stupid book. You can deal with your own garbage!
-えらい形で|戻ってきちゃったわね|暗殺奥義書・・・=It came back in great shape, huh? The Book of Secret Assassinations...
+えらい形で|戻ってきちゃったわね|暗殺奥義書・・・=It came back in great shape, huh? The Book of Cloaks and Daggers...
 つか　どーすんだ|コレ？=Uh? What am I supposed to do with this?
 !FILE:EV1520_166.bscr
 貴様の本を|燃やした時に出た灰だ|ゴミくらい自分で始末しろ！=Those are the ashes from when I burned that stupid book. You can deal with your own garbage!
-えらい形で|戻ってきちゃったわね|暗殺奥義書・・・=It came back in great shape, huh? The Book of Secret Assassinations...
+えらい形で|戻ってきちゃったわね|暗殺奥義書・・・=It came back in great shape, huh? The Book of Cloaks and Daggers...
 つか　どーすんだ|コレ？=Uh? What am I supposed to do with this?
 !FILE:EV1521_002.bscr#危険なトレーニング　= Dangerous Training - Part 16
 お～い　お前達|シュタイン博士が呼んでたぞ！=Hey, you two! Professor Stein called for you!
@@ -17414,7 +17414,7 @@
 !FILE:EV9966_207.bscr
 キスマーク付きの写真%_dc[255,255,255]を手に入れた=Photo with Kiss Mark%_dc[255,255,255] obtained!
 !FILE:EV9966_208.bscr
-暗殺奥義書の灰%_dc[255,255,255]を手に入れた=Burnt Remains of the Book of Secret Assassinations%_dc[255,255,255] obtained!
+暗殺奥義書の灰%_dc[255,255,255]を手に入れた=Burnt Remains of the Book of Cloaks and Daggers%_dc[255,255,255] obtained!
 !FILE:EV9966_209.bscr
 合格証明書%_dc[255,255,255]を手に入れた=Certificate of Passing%_dc[255,255,255] obtained!
 !FILE:EV9966_210.bscr
@@ -17442,7 +17442,7 @@
 !FILE:EV9966_304.bscr
 アメリカつばき%_dc[255,255,255]を手に入れた=American Camellia%_dc[255,255,255] obtained!#Might want to call them American Tsubaki if there's any importance in them sharing the same name as the character.
 !FILE:EV9966_305.bscr
-暗殺奥義書%_dc[255,255,255]を手に入れた=Book of Secret Assassinations%_dc[255,255,255] obtained!#I'm struggling to come up with a decent name for this item that is also concise.
+暗殺奥義書%_dc[255,255,255]を手に入れた=Book of Cloaks and Daggers%_dc[255,255,255] obtained!
 !FILE:EV9966_306.bscr
 エクスカリバー人形%_dc[255,255,255]を手に入れた=Excalibur Doll%_dc[255,255,255] obtained!
 !FILE:EV9966_307.bscr
@@ -17945,7 +17945,7 @@
 『吸魂水入りのツボ』だね|吸魂水は魂の波長を吸い取るんだよ|・・・おばちゃんの好物でもあるんだけどね=It's a Jar of Soul Sapping Water, which absorbs Soul Wavelengths... It does wonders for Auntie's skin, though.
 絶世の美女の写真だね|・・・これ以上　説明することがあるかい？=It's a photo of a woman of unrivaled beauty.|...How else could you describe it?
 超プレミア級のお宝だね|情熱の真っ赤な花が写真に咲いてるよ|・・・おばちゃん詩人だろ？=It's a work of art. Flower in photo, its petals blooming fully, crimson of passion... Auntie's quite the poet, no?#I'm not quite the poet that Auntie is, but I tried to turn it into a haiku.
-『暗殺奥義書の灰』だね|また　きれいに燃えちゃったもんだね|もう肥料にするしかないね　これは=It's the Burnt Remains of the Book of Secret Assassinations, just ashes now. All it's good for now is fertilizer.
+『暗殺奥義書の灰』だね|また　きれいに燃えちゃったもんだね|もう肥料にするしかないね　これは=It's the Burnt Remains of the Book of Cloaks and Daggers. Just ashes. All it's good for now is fertilizer.
 『合格証明書』だね|追試の合格証明書だからね・・・|簡単にいえば落ちこぼれの証明書だよ=It's a Certificate of Passing. Someone passed a make-up exam, did they...? Well the king of fools is still a fool.
 『乙女のコロン』だね|いい香りがするって評判の一品だよ|おばちゃんのお気に入りでもあるんだよ=It's a Maiden's Perfume. It's a popular scent with a nice fragrance. It's even Auntie's favorite scent.
 『科学のコロン』だね|かいだ人の鼻がバカになるみたいだね・・・|どういうコンセプトで作ったのかね？=It's a Scientist's Cologne. Anyone who sniffs that won't smell straight for a week... What was the end goal here?
@@ -17958,7 +17958,7 @@
 『ツボ』だね|博士はただのツボだって言うけどね|おばちゃんは何か邪悪なものを感じるよ=It's a jar. The professor claims it's just an ordinary jar, but Auntie thinks it's evil.
 『ダブルムーンの花』だね|薬の材料だって　あの保健医は言うけどね|どうもおばちゃんには信じられないよ・・・=It's a Gemooni Flower. That doctor says it just a medicinal ingredient, but Auntie doesn't believe her one bit...
 『アメリカつばき』だね|繁殖力が低いから滅多に見つからないんだよ|ザリガニとは正反対だね・・・=It's an American Camellia. You won't come across one often since they're not very fertile. Unlike wild rabbits...#ザリガニ is a crayfish. I had to do some research, but since the start of the 20th century, the crayfish native to Japan have been in decline, due in part to the introduction of American crayfish to the ecosystem. Japanese crayfish are now considered an endangered species. I figured no one would understand the comparison to crayfish, so I mention rabbits that are pretty universally known in the western world for their high fertility.
-『暗殺奥義書』だね|星族の暗殺奥義が書かれてる危険な本だよ|・・・全部始末したと思ってたんだけどね=It's a Book of Secret Assassinations. It speaks of the secrets of the Star Clan. I thought they were all destroyed.
+『暗殺奥義書』だね|星族の暗殺奥義が書かれてる危険な本だよ|・・・全部始末したと思ってたんだけどね=It's a copy of the Book of Cloaks and Daggers. It contains the secrets of the Star Clan. I thought they were all destroyed.
 『エクスカリバー人形』だね|見てるだけでも人をイライラさせる人形だよ|おばちゃんも　だんだんイライラしてきたね=It's an Excalibur Doll. Just looking at it can put someone on edge. Even Auntie is starting to get a little annoyed.
 『魂の実』だね|美味しい木の実・・・それだけだよ・・・|形は何かを期待させるんだけどね・・・=It's a Soul Seed. Just a tasty nut... That's all... The shape does make you expect something more though.
 『デスキャンドル』だね|永遠に灯り続ける珍しいろうそくだよ|よく盗まれるから困ってるんだよ=It's a Death Candle. A rare candle that burns for an eternity. Kind of a pain since they get stolen so often.
