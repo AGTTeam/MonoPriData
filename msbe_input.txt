@@ -17048,35 +17048,35 @@
 では|練習相手を呼び出します=Not attacking will cause the Resonance Gauge to deplete.|Okay, let's give you a training partner.
 実際に魂を共鳴させてパワーアップ|してみましょう|満足したら「1ボタン」を押してください=Go ahead and give Soul Resonance a shot. Once you've had enough, press Button 1.
 !FILE:EV9907_510.bscr
-次は職人固有の必殺技についてです|必殺技を使うには条件があります=Next, we'll discuss meister-specific Finishing Strikes. There are certain requirements to use a Finishing Strike.
+次は職人固有の必殺技についてです|必殺技を使うには条件があります=Next, we'll discuss meister-specific Soul Arts. There are certain requirements to use a Soul Art.
 画面の左上を見てください|魂の共鳴度が上がるとソウルメーターが|表示されます=If you look at the top-left of the screen while the Soul Resonance Gauge is full, you will see the Soul Meter.
-ソウルメーターの魂１個につき必殺技を１回|出すことができます=You can use a Finishing Strike once for each soul on the Soul Meter.
-必殺技を出すと魂の共鳴度が下がり|ソウルメーターは減っていきます=Each time you use a Finishing Strike, the Resonance Gauge will deplete,|and your Soul Meter will go down.
-覚えた必殺技によっては　魂を２個もしくは|３個　必要とするものもあります|覚えておいてください=Try to keep in mind that some Finishing Strikes will require two or even three souls to use.
+ソウルメーターの魂１個につき必殺技を１回|出すことができます=You can use a Soul Art once for each soul on the Soul Meter.
+必殺技を出すと魂の共鳴度が下がり|ソウルメーターは減っていきます=Each time you use a Soul Art, the Resonance Gauge will deplete,|and your Soul Meter will go down.
+覚えた必殺技によっては　魂を２個もしくは|３個　必要とするものもあります|覚えておいてください=Try to keep in mind that some Soul Arts will require two or even three souls to use.
 では実際にソウルメーターを出して|みましょう|満足したら「1ボタン」を押してください=Go ahead and familiarize yourself with the Soul Meter. Once you've had enough, press Button 1.
 !FILE:EV9907_520.bscr
-では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Finishing Strike.
+では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Soul Art.
 行くぜ！　マカ！=Let's go! Maka!
-必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
-使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the prompts shown on screen to unleash the Finishing Strike.
-では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
+必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Soul Art.
+使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Soul Arts will be displayed in order. Use the A Button to select the move you wish to use.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the prompts shown on screen to unleash the Soul Art.
+では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Soul Art. Once you've had enough, press Button 1.
 !FILE:EV9907_521.bscr
-では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Finishing Strike.
+では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Soul Art.
 いよいよね|ブラック☆スター！=It's finally time, Black☆Star!
-必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
-使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the instructions shown on screen in order to use the Finishing Strike.
-では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
+必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Soul Art.
+使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Soul Arts will be displayed in order. Use the A Button to select the move you wish to use.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the instructions shown on screen in order to use the Soul Art.
+では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Soul Art. Once you've had enough, press Button 1.
 !FILE:EV9907_522.bscr
-では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Finishing Strike.
+では|必殺技の出し方を覚えましょう=Now let's learn how to activate a Soul Art.
 やるぞ　キッド！=Let's do it, Kid!
-必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Finishing Strike.
-使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Finishing Strikes will be displayed in order. Use the A Button to select the move you wish to use.
-パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the instructions shown on screen in order to use the Finishing Strike.
-では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Finishing Strike. Once you've had enough, press Button 1.
+必殺技を出すためには敵を攻撃して|ソウルメーターが表示されたら「Cボタン」|を押します=Attack enemies until the Soul Meter appears. Then press the C Button to activate a Soul Art.
+使うことのできる必殺技が順番に|表示されます　使いたい必殺技を|「Aボタン」で選んでください=Available Soul Arts will be displayed in order. Use the A Button to select the move you wish to use.
+パートナーと画面の指示に従って|「Wiiリモコン」を振ると必殺技を|出すことができます=Shake the Wiimote in accordance with the instructions shown on screen in order to use the Soul Art.
+では実際に必殺技を出してみましょう|満足したら「1ボタン」を押してください=Go ahead and try out your new Soul Art. Once you've had enough, press Button 1.
 !FILE:EV9907_530.bscr
-魂の共鳴と必殺技の使い方を覚えましたか？|では、実際に戦ってみましょう=If you think you know how to use Soul Resonance and Finishing Strikes, let's see you put them to use in a real fight.
+魂の共鳴と必殺技の使い方を覚えましたか？|では、実際に戦ってみましょう=If you think you know how to use Soul Resonance and Soul Arts, let's see you put them to use in a real fight.
 !FILE:EV9907_999.bscr
 本当にやめていいですか？=Are you ready to move on?#I assume this is a line that only shows in the tutorial. I thought stop felt too much like 'give up', when it's really a continue prompt, but will need further reviewing to make sure it doesn't show anywhere else.
 !FILE:EV9961_000.bscr
@@ -18129,11 +18129,11 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 必殺技ゲージが２つ以上あるときに|Ｃボタンを押して　この必殺技を選び|指示されたとおりにリモコンを操作します=When you have at least two Soul Resonance Gauges, press C, pick this skill, and move the Wiimote as shown.
 必殺技ゲージが３つあるときに|Ｃボタンを押して　この必殺技を選び|指示されたとおりにリモコンを操作します=When you have at least three Soul Resonance Gauges, press C, pick this skill, and move the Wiimote as shown.
 必殺技は「共鳴の心得」の授業を|受けることで使えるようになります=Soul Resonances are unlocked in the Understanding Resonance class.
-この必殺技はＬｖが７になることで|使えるようになります=This Finishing Strike is unlocked at Lv. 7.
-この必殺技はＬｖが１２になることで|使えるようになります=This Finishing Strike is unlocked at Lv. 12.
+この必殺技はＬｖが７になることで|使えるようになります=This Soul Art is unlocked at Lv. 7.
+この必殺技はＬｖが１２になることで|使えるようになります=This Soul Art is unlocked at Lv. 12.
 戻る説明=Back to description.
 連続技コマンドにポインターを合わせると|技の出し方が表示されます|練習ボタンで　技の練習ができます=Hover the pointer over a combo technique to see how to perform it. Use the Practice button to try it out.
-必殺技にポインターを合わせると|技の出し方が表示されます|練習ボタンで　技の練習ができます=Hover the pointer over a Finishing Strike to see how to perform it. Use the Practice button to try it out.
+必殺技にポインターを合わせると|技の出し方が表示されます|練習ボタンで　技の練習ができます=Hover the pointer over a Soul Art to see how to perform it. Use the Practice button to try it out.
 練習説明=Practice Explanation.
 どのチームと交代するんだ？=Change with which team?
 どのチームと交代するの？=Change with which team?
@@ -18241,7 +18241,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
-戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Finishing Strike!
+戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Soul Art!
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause behind the recent mass disappearances!
@@ -18268,7 +18268,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
 %_te共鳴の心得=%_teResonance Guide
-戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Finishing Strike!
+戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Soul Art!
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause behind the recent mass disappearances!
@@ -18295,7 +18295,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
 %_te共鳴の心得=%_teResonance Guide
-戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Finishing Strike!
+戦い方を覚えよう！|魂を共鳴させて|必殺技を出せ！=Learn how to fight!|Soul Resonance will allow you to use a Soul Art!
 職人と武器の|魂を共鳴させて|全ての敵をやっつけろ！=Activate Soul Resonance and kill all the enemies!
 %_te大量失踪事件を調査せよ！=%_teInvestigate the issue!
 世界各地で多発している|大量失踪事件を調査して|真相を暴け！=Discover the cause behind the recent mass disappearances!
