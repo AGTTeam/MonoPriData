@@ -1,6 +1,6 @@
 Image Name,Translation,Status
-BG001_0013_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Tbd
-BG001_0020_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Tbd
+BG001_0013_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Tbd – see wip_TPL
+BG001_0020_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Tbd – see wip_TPL
 SP001_0070_T00.png,Loading (ロード中),Tbd
 SP001_1000_T00.png,Maka (マカ),Done
 SP001_1001_T00.png,Black☆Star (ブラック☆スター),Done
@@ -267,15 +267,15 @@ SP910_0200_T00.png,End (やめる),Tbd
 SP910_0210_T00.png,Yes (はい),Done
 SP910_0211_T00.png,No (いいえ),Done
 SP910_0300_T00.png,Not yet usable (まだ使えません),Tbd
-SS000_1010_T00.png,Figure 6 Hunter (6文字狩り),Tbd
-SS000_1011_T00.png,Letter U Hunter (U字狩り),Tbd
-SS000_1012_T00.png,Scythe Weasel (鎌威断ち),Tbd
-SS001_1010_T00.png,Stud☆Star (突☆星),Tbd
-SS001_1011_T00.png,Trap☆Star (罠☆星),Tbd
-SS001_1012_T00.png,Shadow☆Star (影☆星),Tbd
-SS002_1010_T00.png,Sanzu River Shot (三途リバーショット),Tbd
-SS002_1011_T00.png,Death in the Otherworld (冥土・イン・デス),Tbd
-SS002_1012_T00.png,Death Cannon (デス・キャノン),Tbd
+SS000_1010_T00.png,Figure 6 Hunter (6文字狩り),Done
+SS000_1011_T00.png,Letter U Hunter (U字狩り),Done
+SS000_1012_T00.png,Scythe Weasel (鎌威断ち),Done
+SS001_1010_T00.png,Stud☆Star (突☆星),Done
+SS001_1011_T00.png,Trap☆Star (罠☆星),Done
+SS001_1012_T00.png,Shadow☆Star (影☆星),Done
+SS002_1010_T00.png,Sanzu River Shot (三途リバーショット),Done
+SS002_1011_T00.png,Death in the Otherworld (冥土・イン・デス),Done
+SS002_1012_T00.png,Death Cannon (デス・キャノン),Done
 ID002_0000.pnf,Fool (ハズレ),Done
 TX003_0000.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Done
 EF002_0001V1.png,Level Up,Done
