@@ -1,7 +1,7 @@
 Image Name,Translation,Status
 BG001_0013_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Tbd – see wip_TPL
 BG001_0020_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Tbd – see wip_TPL
-SP001_0070_T00.png,Loading (ロード中),Tbd
+SP001_0070_T00.png,Loading (ロード中),Done
 SP001_1000_T00.png,Maka (マカ),Done
 SP001_1001_T00.png,Black☆Star (ブラック☆スター),Done
 SP001_1002_T00.png,Kid (キッド),Done
@@ -52,8 +52,8 @@ SP001_1056_T00.png,Paraleon (パラレオン),Done
 SP001_0100_T00.png,Team Maka & Soul (マカ・ソウルチーム),Tbd
 SP001_0101_T00.png,Team Black☆Star & Tsubaki (ブラック☆スター・椿チーム),Tbd
 SP001_0102_T00.png,"Team Kid, Liz & Patty (キッド・リズ・パティチーム)",Tbd 'Team' can be omitted if needed
-SP001_0211_T00.png,Clear (済),Needs updating
-SP001_0212_T00.png,Redo (再)#used when you can take a lesson you've previously done with a different team,Needs updating
+SP001_0211_T00.png,Clear (済),Done
+SP001_0212_T00.png,Redo (再)#used when you can take a lesson you've previously done with a different team,Done
 SP001_0216_T00.png,Good Night (お休み) #qc,Done
 SP003_0001_T00.png,Classroom (教室)#or just class,Done
 SP003_0002_T00.png,Death Room (デスルーム),Done
@@ -121,7 +121,7 @@ SP020_0086_T00.png,Styx Shot (三途リバーショット),Done
 SP020_0087_T00.png,Death in the Otherworld (冥土・イン・デス),Done
 SP020_0088_T00.png,Death Cannon (デス・キャノン),Done
 SP021_0000_T00.png,Item (アイテム),Tbd
-SP021_0020_T00.png,Equipped Item (持っている物),Tbd
+SP021_0020_T00.png,Equipped Item (持っている物),Done
 SP021_0030_T00.png,None (なし),Done
 SP021_0031_T00.png,Alarm Clock (覚まし時計),Done
 SP021_0032_T00.png,Sub Soul (実験霊体),Done
@@ -139,12 +139,11 @@ SP022_0012_T00.png,File 3 （ファイル３),Done
 SP022_0020_T00.png,File 1 （ファイル１),Done
 SP022_0021_T00.png,File 2 （ファイル２),Done
 SP022_0022_T00.png,File 3 （ファイル３),Done
-SP030_0000_T02.png,Soul Eater （ソウル・イーター),Tbd- Remove black bar with text to match the official English logo
-SP030_0000_T04.png,Monotone Princess (モノトーンプリンセス),Tbd
-SP030_0010_T00.png,New Game (スタートゲーム),Tbd
-SP030_0011_T00.png,Load Game (ロードゲーム),Tbd
-SP030_0012_T00.png,Gallery (ギャラリー),Tbd
-SP030_0013_T00.png,Options (オプション),Tbd
+SP030_0000_T04.png,Monotone Princess (モノトーンプリンセス),Done
+SP030_0010_T00.png,New Game (スタートゲーム),Done
+SP030_0011_T00.png,Load Game (ロードゲーム),Done
+SP030_0012_T00.png,Gallery (ギャラリー),Done
+SP030_0013_T00.png,Options (オプション),Done
 SP003_0030_T00.png,Back (戻る),Done
 SP031_0000_T00.png,Gallery (ギャラリー),Tbd
 SP031_0010_T00.png,Cutscenes (ムービー),Done
