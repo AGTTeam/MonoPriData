@@ -159,13 +159,13 @@ SP031_0071_T00.png,End (終了),Done
 SP032_0000_T00.png,Options (オプション),Tbd
 SP032_0010_T00.png,Sound (white) Mono (blue) (サウンド　モノラル),Done
 SP032_0011_T00.png,Sound (white) Stereo (blue) (サウンド　ステレオ),Done
-SP032_0020_T00.png,Voice (white) Off (blue) (ボイス　オフ),Tbd
-SP032_0021_T00.png,Voice (white) On (blue) (ボイス　オン),Tbd
-SP032_0033_T00.png,Message (white) Auto: Off (blue) (メッセージ　自動オフ),Tbd
-SP032_0034_T00.png,Message (white) Auto: On (blue) (メッセージ　自動オン),Tbd
-SP032_0040_T00.png,Audio Configuration (サウンド出力),Tbd
-SP032_0041_T00.png,Voice Acting (メッセージボイス),Tbd
-SP032_0042_T00.png,Text Autoplay (メッセージ送り),Tbd
+SP032_0020_T00.png,Voice (white) Off (blue) (ボイス　オフ),Done
+SP032_0021_T00.png,Voice (white) On (blue) (ボイス　オン),Done
+SP032_0033_T00.png,Message (white) Auto: Off (blue) (メッセージ　自動オフ),Done
+SP032_0034_T00.png,Message (white) Auto: On (blue) (メッセージ　自動オン),Done
+SP032_0040_T00.png,Audio Configuration (サウンド出力),Done
+SP032_0041_T00.png,Voice Acting (メッセージボイス),Done
+SP032_0042_T00.png,Text Autoplay (メッセージ送り),Done
 SP032_0050_T00.png,Mono (モノラル),Tbd
 SP032_0051_T00.png,Stereo (ステレオ),Tbd
 SP032_0055_T00.png,Mono (モノラル),Tbd
