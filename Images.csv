@@ -78,10 +78,10 @@ SP003_0034_T00.png,Talk (話す),Done
 SP003_0035_T00.png,Yes (はい),Done
 SP003_0036_T00.png,No (いいえ),Done
 SP003_0040_T00.png,End (おしまい),Done
-SP009_0000_P01.png,DING (KILL - Already in English),Needs updating – note order has been rearranged to sound better in translation
+SP009_0000_P01.png,DING (KILL - Already in English),Done
 SP009_0000_P02.png,DONG (コーン),Done
-SP009_0000_P03.png,DEAD (カーン),Needs updating
-SP009_0000_P04.png,DEAD (KILL Already in English),Needs updating – note this is the final image used in the sequence which appears on its own hence has been changed to 'dead'.
+SP009_0000_P03.png,DEAD (カーン),Done
+SP009_0000_P04.png,DONG (KILL Already in English),Done
 SP010_0070_T01.png,Lock On (ロックオン),Done
 SP010_0070_T01.png,Lock On (ロックオン),Done
 SP010_0070_T01.png,Lock On (ロックオン),Done
@@ -147,13 +147,13 @@ SP030_0013_T00.png,Options (オプション),Done
 SP003_0030_T00.png,Back (戻る),Done
 SP031_0000_T00.png,Gallery (ギャラリー),Tbd
 SP031_0010_T00.png,Cutscenes (ムービー),Done
-SP031_0011_T00.png,All Events (イベント集),Needs updating
-SP031_0015_T00.png,Main Scenario (メイン・シナリオ),Needs updating? (or change SP031_0011_T00 and update the msbe)
-SP031_0016_T00.png,Sub-Scenario (サブ・シナリオ),Needs updating?
+SP031_0011_T00.png,Events (イベント集),Done
+SP031_0015_T00.png,Main Scenario (メイン・シナリオ),Done
+SP031_0016_T00.png,Sub-Scenario (サブ・シナリオ),Done
 SP031_0100_T00.png,Cutscenes (ムービー),Done
-SP031_0011_T00.png,Events (イベント集),Needs updating
-SP031_0120_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Tbd
-SP031_0200_T00.png,All Events (イベント集),Needs updating
+SP031_0011_T00.png,Events (イベント集),Done
+SP031_0120_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Done
+SP031_0200_T00.png,All Events (イベント集),Done
 SP031_0070_T00.png,Close (閉じる),Done
 SP031_0071_T00.png,End (終了),Done
 SP032_0000_T00.png,Options (オプション),Tbd

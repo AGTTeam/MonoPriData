@@ -18159,8 +18159,8 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 エピローグ=Epilogue
 エンディング=Ending
 見たいシナリオを選択してください=Please select the scenario you wish to view.
-メインシナリオを見ることができます=Choose from the main scenario.
-サブシナリオを見ることができます=Choose from the sub-scenario.
+メインシナリオを見ることができます=Choose from the main events.
+サブシナリオを見ることができます=Choose from the sub events.
 フィルムのコマを押すとシナリオが|再生されます|矢印を押せば　フィルムがスライドします=Use the arrows to cycle through the cinematics. Click on an image to view it.
 メデューサ先生　マカ編=Dr. Medusa - Maka
 メデューサ先生　ブラック☆スター編=Dr. Medusa - Black☆Star
