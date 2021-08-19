@@ -10942,7 +10942,7 @@
 !FILE:EV1951_070.bscr
 ブラック☆スター！！|無理しないで・・・|一旦戻りましょ=Black☆Star!! Don't overdo it...|Let's go back.
 !FILE:EV1951_071.bscr
-大丈夫？ブラック☆スター？|ここは一旦引き上げましょ！=Are you all right, Black☆Star? We need to retreat for now!
+大丈夫？ブラック☆スター？|ここは一旦引き上げましょ！=Are you all right, Black☆Star?|We need to retreat for now!
 !FILE:EV1951_072.bscr
 これ以上は無理よブラック☆スター！！|死武専へ戻りましょ！=You can't keep going like this, Black☆Star!! We need to get back to the DWMA!
 !FILE:EV1951_073.bscr
