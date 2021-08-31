@@ -202,16 +202,16 @@ SP040_0100_T00.png,Suggested Level (オススメ レベル) | Current Level (現
 SP040_0200_T00.png,Suggested Level (オススメ レベル) | Current Level (現行 レベル),Tbd
 SP040_1000_T00.png,マカの予約サインダミーデータ (Dummy Data),Ignore
 SP040_1002_T00.png,キッドの予約サインダミーデータ (Dummy Data),Ignore
-SP041_0011_T00.png,Question 1 (第1問)#or just 'Q 1',Tbd
-SP041_0012_T00.png,Question 2 (第2問),Tbd
-SP041_0013_T00.png,Question 3 (第3問),Tbd
-SP041_0014_T00.png,Question 4 (第4問),Tbd
-SP041_0015_T00.png,Question 5 (第5問),Tbd
-SP041_0016_T00.png,Question 6 (第6問),Tbd
-SP041_0017_T00.png,Question 7 (第7問),Tbd
-SP041_0018_T00.png,Question 8 (第8問),Tbd
-SP041_0019_T00.png,Question 9 (第9問),Tbd
-SP041_0020_T00.png,Question 10 (第10問),Tbd
+SP041_0011_T00.png,Question 1 (第1問)#or just 'Q 1',Done
+SP041_0012_T00.png,Question 2 (第2問),Done
+SP041_0013_T00.png,Question 3 (第3問),Done
+SP041_0014_T00.png,Question 4 (第4問),Done
+SP041_0015_T00.png,Question 5 (第5問),Done
+SP041_0016_T00.png,Question 6 (第6問),Done
+SP041_0017_T00.png,Question 7 (第7問),Done
+SP041_0018_T00.png,Question 8 (第8問),Done
+SP041_0019_T00.png,Question 9 (第9問),Done
+SP041_0020_T00.png,Question 10 (第10問),Done
 SP050_1000_T00.png,Scythe Meister Maka Albarn (鎌職人 マカ＝アルバーン),Done
 SP050_1001_T00.png,Dark Arm Meister Black☆Star (暗器[あん] 職[き]人  ブラック☆スター),Done
 SP050_1002_T00.png,Lord Death's Son Death the Kid （死神の息子 デス・ザ・キッド),Done
@@ -239,7 +239,7 @@ SP050_1035_T00.png,Serial Killer Jack the Ripper (殺人鬼 切り裂きジャ�
 SP050_1036_T00.png,Serial Killer Sonson-J (殺人鬼 ソンソンＪ),Done
 SP050_1039_T00.png,Auntie (おばちゃん),Done
 SP050_1041_T00.png,Wicked Monk Ajhari (怪僧 アジャーリ),Done
-SP050_1042_T00.png,The Baron Voodoo (怪僧 ブーズー),Done
+SP050_1042_T00.png,Baron Voodoo (怪僧 ブーズー),Done
 SP050_1043_T00.png,Serial Killer D-Flayflay (殺人鬼 Dフレフレ),Done
 SP050_1044_T00.png,Serial Killer Johnny Rubber (殺人鬼 ジョニーズラバー),Done
 SP050_1045_T00.png,Serial Killer THE CAN (殺人鬼 THE・CAN),Done
