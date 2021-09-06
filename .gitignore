@@ -14,12 +14,15 @@ movie.csv
 *.po
 patch
 movie/*.exe
+movie/*.dll
 movie/*.mkv
 movie/*.mp4
+movie/*.wav
+movie/*.avi
+movie/*.thp
 movie/frames_*
 movie/Adobe After Effects Auto-Save
 movie/opening movie/Adobe After Effects Auto-Save
 movie/opening movie/*.mp4
 *.zip
 main.dol
-
