@@ -18,3 +18,5 @@ movie/*.mkv
 movie/*.mp4
 movie/frames_*
 movie/Adobe After Effects Auto-Save
+main.dol
+patch.zip
