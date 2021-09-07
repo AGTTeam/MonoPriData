@@ -5,16 +5,16 @@
 938:993:迷える魂達よ・・・=You poor lost souls...
 1003:1086:魂の救済の時が来ました=The time for your salvation has come.
 1199:1222:さあ=Now...
-1223:1270:その光に触れなさい=Touch the light
-1271:1329:そうすれば　あなた達の魂は=and within these cocoons
-1330:1397:そのユリカゴの中で清められ=your souls will be purified
+1223:1270:その光に触れなさい=Touch the light,
+1271:1329:そうすれば　あなた達の魂は=1271:1399:and within these cocoons,|your souls will be purified...
+1330:1397:そのユリカゴの中で清められ=|
 1398:1464:美しく生まれ変わるのです=and born anew.
 1968:1999:フフフ・・・=Hmhmhm...
-2228:2250:お　おい=H-Hey!
-2251:2268:おまえ・・・=You...
+2228:2250:お　おい=2228:2252:H-Hey!
+2251:2268:おまえ・・・=2251:2270:You...
 2269:2313:な　なにしデる？=Wh-What are you doing here?
 2322:2378:おや　どちら様かな？=My my! And who might you be?
-2387:2499:こ　ココはオデの　な　なわばりダ|かってナこドすんな=I'm th-the master of this tower! You don't b-belong here!
+2387:2499:こ　ココはオデの　な　なわばりダ|かってナこドすんな=T-This is my hunting ground! You don't b-belong here!
 2500:2586:お　オメーらの魂も食っちまうド=I-I'll devour all your souls myself!
 2595:2650:ほう　魂をね=Devour our souls?
 2661:2681:・・・あなた=2661:2688:You...
@@ -24,7 +24,7 @@
 3026:3060:な　なんダ？=Wh-What?
 3070:3110:お持ちなさい=Take it.
 3111:3191:ソレを一つ|あなたに差し上げましょう=I am giving it to you.
-3203:3271:あっ？|こ　コレを　お　オデに？=Huh? Y-You're giving th-this to me?
+3203:3271:あっ？|こ　コレを　お　オデに？=Huh? Y-You're giving t-this to me?
 3280:3371:ええ　あなたが望むように生まれ|変わりたいのなら・・・=If you truly wish to be reborn...
 3372:3444:ソレが必ず　お役に立ちますよ=This is what you have been searching for.
 3464:3505:・・・ほ　ほんとダか？=...R-Really?
@@ -37,7 +37,7 @@
 4196:4222:フフフ・・・=Hmhmhm...
 4238:4302:さて|引き上げますよ=Now, let us proceed...
 4415:4536:ここは『デス・シティー』|秩序を重んじる死神様の街=This is Death City. A town created by|Death himself to preserve peace.
-4537:4653:この街のてっぺんに建っているのが|『死神武器職人専門学校』=Overlooking the town is the Death Weapon Meister Academy.
+4537:4653:この街のてっぺんに建っているのが|『死神武器職人専門学校』=Overlooking the town is the|Death Weapon Meister Academy.
 4654:4745:通称『死武専』=Commonly known as the "DWMA".
 4746:4809:世界の秩序と平和を守る担い手として=It is a school founded for the purpose|of cultivating meisters and weapons
 4810:4930:若き『職人』と『武器』を育成することを|目的とした学校である=in order to maintain peace and order in this world.
@@ -47,7 +47,7 @@
 152:181:行くぜ　椿！=And action, Tsubaki!
 182:225:はい　ブラック☆スター=Let's do it, Black☆Star!
 372:420:お　オデの大事な=372:477:My pr-precious tr-treasure...
-421:477:た　宝物=!
+421:477:た　宝物=|
 531:568:お　おお・・・=Y-Yes...
 569:604:ま　まっデろ=I kn-know!
 605:666:もっとタンと魂　ああ=Even more souls... Yes.
@@ -83,8 +83,8 @@
 754:824:めんどくさいから|ちゃっちゃと片付けようぜ=What a drag.|Let's just get this over with quickly.
 825:913:ちゃちゃちゃ　ちゃちゃちゃ|ちゃっちゃっちゃっちゃ　ちゃちゃちゃ♪=Quick, quack... Quick, quick, quack... Quick, quackly♪
 914:975:はぁ・・・|全然クールじゃねーな・・・=*Sigh* ...This is so uncool...
-984:1083:・・・でも　ただ　探し回るだけで|犯人が　見つかりますか？=...Will we really find the culprit just by walking around randomly?
-1090:1181:逃げ足が速いって　話だったな|犯人のヤロー=That bastard. They said he always runs off and vanishes, right?
+984:1083:・・・でも　ただ　探し回るだけで|犯人が　見つかりますか？=...Will we really find the culprit|just by walking around randomly?
+1090:1181:逃げ足が速いって　話だったな|犯人のヤロー=That bastard.|They said he always runs off and vanishes, right?
 1184:1236:そっか　そうだね=Yeah, that's right.
 1237:1297:ふむ|手分けをするか=Hmph... Maybe we should split up then.
 1299:1337:それが賢いな=That's a good idea.
@@ -101,7 +101,7 @@
 1963:2007:ＧＯ！　ＧＯ！=Go! Go!
 !FILE:movie0003.bin
 7:55:やああああ！=Yaaaaaaah!
-789:833:魂の共鳴！|魂の共鳴！=Soul Resonance!|Soul Resonance!
+789:833:魂の共鳴！|魂の共鳴！=- Soul Resonance!|- Soul Resonance!
 1003:1043:魔女狩りぃ！=Witch Hunter!
 1112:1163:やあああ！！=Yaaah!
 1173:1210:６文字狩り！=Figure 6 Hunter!
@@ -110,7 +110,7 @@
 !FILE:movie0005.bin
 235:286:みんなよく来てくれた=Good. Everyone made it.
 287:391:それでは説明する|しっかり聞いてくれ=I'm going to explain everything, so listen up.
-393:433:俺達は　これから=For the next stage of this operation
+393:433:俺達は　これから=393:435:For the next stage of this operation,
 434:482:あの城に潜入する=we will be infiltrating that castle...
 488:594:情報では　あそこが黒幕と|思われるヤツのアジトらしい=According to our reconnaissance, we believe|it to be the mastermind's hideout.
 600:638:ヤツの　アジト・・・=Their hideout...
@@ -123,7 +123,7 @@
 1041:1085:っていうことですよね=That would mean...
 1096:1158:はっ！|三つ星だろうがなんだろうが=Ha! I don't care if they had three or even a hundred stars!
 1159:1193:俺様が　フガッ！=I can-- Uggh!
-1300:1350:先生・・・作戦って？=Mr. Sid... What's the plan?
+1300:1350:先生・・・作戦って？=1300:1358:Mr. Sid... What's the plan?
 1369:1473:君達三組が　別々に潜入し|ヤツをあぶり出してくれ・・・=Each team will sneak in from a different location,|and then you smoke them out from the inside...
 1487:1533:そこを俺が仕留める=That's when I'll make my move.
 1534:1558:いいな？=Understood?
@@ -134,7 +134,7 @@
 2034:2066:行くぞ！=Now move!
 !FILE:movie0006.bin
 2:47:グルル・・・=Grrr...
-56:94:やる・・・な・・・=I won't... lose...
+56:94:やる・・・な・・・=You're... good...
 145:239:はぁはぁはぁ=*Pant* *Pant*
 254:274:勝てた=I win.
 308:343:やったな　マカ=Nice one, Maka!
@@ -160,21 +160,21 @@
 2125:2201:ふぅ|さすがに手ごわかったな=Phew... He definitely didn't go down easy.
 2228:2320:でもさ|狼男って死なないんじゃなかったっけ？=Hold on. Aren't werewolves supposed|to be immortal or something?
 2321:2345:ふん=Hmph.
-2346:2429:人間の魂を食らい|鬼神になろうとしたときから=I guess he lost the power of his clan
-2430:2495:一族としての　その力を失ったんだろう=when he tried to eat a human soul and become a kishin.
+2346:2429:人間の魂を食らい|鬼神になろうとしたときから=2346:2431:I guess he lost the power of his clan...
+2430:2495:一族としての　その力を失ったんだろう=2430:2498:when he ate human souls and tried to become a kishin.
 2497:2585:さすが　キッド君|アタマいぃ～=Wow. You're so smart, Kid.
-2590:2715:鬼神になろうとしたばっかりに|自分本来の力を奪われちまったのか=So just by trying to become a kishin, his|natural powers were taken from him.
-2789:2860:・・・アイツが黒幕じゃなかったのね=I guess he wasn't the one pulling the strings after all.
+2590:2715:鬼神になろうとしたばっかりに|自分本来の力を奪われちまったのか=So by trying to become a kishin,|his natural powers were taken from him.
+2789:2860:・・・アイツが黒幕じゃなかったのね=2789:2870:I guess he wasn't the one pulling the strings after all.
 2903:3031:情報は確かなはずだったんだがな・・・|だが繭は手に入れた=It seems our reconnaissance wasn't entirely reliable...|But we were able to recover the cocoon.
 3048:3088:ひとまず死武専に戻るぞ=For now let's head back to the DWMA.
-3092:3112:はい！|おう！=Yes, sir!|Alright!
-3165:3210:ちょっと遅かったわね=We were a little late, huh?
-3211:3257:そのようですね=It would appear so.
-3278:3387:まぁいいわ|邪魔な犬コロを片付けてくれたわけだし=Well, no matter. At least they took|care of that annoying pup for us.
-3397:3472:ですが・・・|大事な繭がヤツラに=However... The cocoon is in their possession now.
-3493:3567:そうね　繭は取り戻さなくちゃね=Right. And we have no choice but to get it back.
-3588:3629:お願いできるかしら？=I trust you'll take care of it?
-3646:3686:かしこまりました=You have my word.
+3092:3112:はい！|おう！=3092:3127:Yes, sir!|Alright!
+3165:3210:ちょっと遅かったわね=3165:3216:We were a little late, huh?
+3211:3257:そのようですね=3215:3262:It would appear so.
+3278:3387:まぁいいわ|邪魔な犬コロを片付けてくれたわけだし=3278:3390:Well, no matter. At least they took|care of that annoying pup for us.
+3397:3472:ですが・・・|大事な繭がヤツラに=3397:3487:However... The cocoon is in their possession now.
+3493:3567:そうね　繭は取り戻さなくちゃね=3493:3577:Right. And we have no choice but to get it back.
+3588:3629:お願いできるかしら？=3588:3639:I trust you'll take care of it?
+3646:3686:かしこまりました=3646:3692:You have my word.
 !FILE:movie0007.bin
 177:209:いくぜぇ！=Take this!
 292:326:モード　手裏剣！=Shuriken Mode!
@@ -360,17 +360,17 @@
 256:370:|飢えた鼓動　重ねて=|The hunger pangs are here again.
 372:502:|交差する想いが　目指してる=|We strive toward our intersecting desires.
 504:639:|すれ違う生命の奥に=|Inside our passing existences,
-641:762:|それぞれの夢　絡み合う=|Our individual dreams become intertwined
-764:884:|この場所で=|In this place.
+641:762:|それぞれの夢　絡み合う=|our individual dreams become intertwined,
+764:884:|この場所で=|in this place...
 930:1060:|所々剥がれてきて　安く見られる=|Here and there it wears away, easy to brush off.
 1062:1193:|真っさらより上等だろ？　誇りも払わない=|Ain't it better than new? Who cares about pride!
 1195:1328:|麻酔のように効いた夜に　痛さ忘れて=|Forget the pain in the night that sets in like anesthesia,
-1330:1456:|躊躇いさえ奪う時が 来るの待っている=|Waiting for time to steal away even the hesitation.
+1330:1456:|躊躇いさえ奪う時が 来るの待っている=|waiting for time to steal away even the hesitation.
 1458:1568:|外せない　タマを込めて=|It's unavoidable. Load the bullet.
 1570:1687:|飢えた鼓動　重ねて=|The hunger pangs are here again.
 1689:1820:|交差する想いが　目指してる=|We strive toward our intersecting desires.
 1822:1957:|すれ違う生命の奥に=|Inside our passing existences,
-1959:2150:|それぞれの夢　絡み合う　この場所で=|Every dream becomes intertwined in this place.
+1959:2150:|それぞれの夢　絡み合う　この場所で=|every dream becomes intertwined in this place.
 !FILE:movie1001.bin#note: Japanese transcript is approximated
 うぃ～っす！|シド君 研究所はどうよ♪|もとにもどったの？=1680:1890:|Yoooo! Sid, how's it going at the lab♪?|Everything back to normal?
 はい　修理は順調です=1918:1980:|Yes. Repairs are in progress.
