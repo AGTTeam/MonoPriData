@@ -34,7 +34,7 @@
 死神のお茶会=Reaper Tea Party
 キング　オブ　不幸=King of Misfortune
 死神三者面談=PTA Meeting
-事件発生=The Incidental Plot Hole#cuts off at plot. 
+事件発生=The Plot Hole 
 父へのプレゼント=A Present for Papa
 俺様ステージ=Black☆Star's Show
 家族の肖像=A Family Photo
@@ -835,7 +835,7 @@
 !FILE:EV0200_013.bscr
 じゃあ|次は君たちだね♪=Okay, you guys are up.
 !FILE:EV0200_016.bscr
-復習するなら|『掲示板』を　利用してください♪=Visit the Mission Board if you want to practise more♪
+復習するなら|『掲示板』を　利用してください♪=Visit the Mission Board if you want to practice more♪
 それから　午後は課外授業です|遅れずに集合するよ～に=Also, there will be Extracurricular Classes this afternoon. Don't be late!
 これから　どうします？=What do you want to do now?
 !FILE:EV0200_100.bscr
@@ -1583,7 +1583,7 @@
 !FILE:COMMON
 で　コレが|その繭です=Right. Here's the cocoon.
 鬼神を生み出す繭か・・・|恐ろしいモノだな=A kishin-bearing cocoon? That's a frightening prospect.
-他の生徒の中にも|コレを持ち帰ってきているものがいます=There were other students that came back with some as well.#This line seems correct, but it doesn't really make sense with the rest. In Maka's cutscene she says Alone nearly eats the 'last cocoon', and the Incidental Plot when Grimoire attacks the Patchwork Lab, he's only shown carrying one cocoon. I mean, it could be 'cocoons' in Japanese and they just didn't show the rest, but it feels more significant if there's only one...
+他の生徒の中にも|コレを持ち帰ってきているものがいます=There were other students who reported seeing them as well.
 一見したところ　この繭には|微量ですが　ソウルプロテクトが|かけられていますね=...Judging by its soul response, this cocoon should be minuscule. There must be a Soul Protect on it.
 ってことは|黒幕は魔女か=You mean it's a witch who's behind all of this?
 やっかいなことになりそうですね=This whole thing is becoming quite the ordeal.
@@ -4686,14 +4686,14 @@
 タマシ・・・イ・・・|ウバウッ！！=I will feast... on your soul!!
 !FILE:EV0934_630.bscr
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 鬼神の卵と化した魂を持つ者！|すぐにやっつけてあげるから！=His soul has become a kishin egg!|Well, he won't have to worry about that nasty condition much longer!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 !FILE:EV0934_631.bscr
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
@@ -4714,7 +4714,7 @@
 ミンチだ！ミンチ！！|刻んでやるよぉぉぉぉ～～！！=I'll brain 'em! I'll braaaain 'em!!
 !FILE:EV0934_635.bscr
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 !FILE:EV0934_640.bscr
 まったく　クールじゃねぇ奴だな！=This guy is so uncool!
 いいからいくよ！　|ソウル！=We should be good to go! Come on, Soul!
@@ -9925,16 +9925,16 @@
 !FILE:EV1934_630.bscr
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 おい　そこのお前|俺様の伝説になれることを感謝しろ！=Hey! You there! You ought to thank me for making you a part of my legend!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 神をも超える俺様に会えたことを感謝しろ！=You should be grateful for the chance to meet the man that will surpass God!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 どいつも　こいつも|貧弱君ばかりだな！|魂をきたえやがれフヌケどもめ☆=There's nothing but wusses around here! Go temper your soul, dumbass!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 俺様は神をも超えるぜっ！=I will be the one to surpass God!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 !FILE:EV1934_631.bscr
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
 ビッグなスターの輝きに|目が眩むだろ！=You must be starstruck running into a star as big as me!
@@ -15367,14 +15367,14 @@
 シャーーッ！！=Booooom!!
 !FILE:EV2934_630.bscr
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
 鬼神の卵と化した魂を持つ者・・・|善も悪も否定するつもりはないが|お前はやり過ぎた・・・=Your soul has become a kishin egg... That is neither inherently good nor evil, but you must be judged.
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 死神の手先はやりたい放題ってホントか？|そりゃずりィ～よ～|ずっちィ～よオォ！！=Why do reapers get to kill as much as they want, and I don't? It's not fair! Nooot faaairr!!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 !FILE:EV2934_631.bscr
 おぉ？|オメーらどっから現れたんだよぉ？=Oh? Where in the hell did you come from?
 っんだとぉぉぉぉぉ！！|これでも食らえよぉぉぉぉ～～！！=What did you saaay!? Eat thiiiis!!
@@ -15900,7 +15900,7 @@
 !FILE:EV2938_120.bscr#moved to common
 !FILE:EV2938_200.bscr#moved to common
 なんだとォォ！|逆にやってやるよォ～！|オラァァァァァァァ！=What's that!? I'll turn you inside out! Oraaaaaaagh!
-死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You jerks keep your noses clean! Ain't gonna stand for any weirdness!
+死神の手先がずっちィ～んだよ！|邪魔すンナァァ！=You kids keep your noses clean! Ain't gonna stand for any weirdness!
 そんなの関係ねぇっ！|俺は好きにやるぜぇぇぇぇ～～！=I don't care! I'll do what I want!!!
 邪魔だよぉぉぉぉ！！|邪魔するんじゃねぇよぉぉぉぉ～！！=Out of my waaaay!! Get out of my waaaaay!!
 ボッコボコにしてやんよぉぉぉ～～！！|ウルァアァァァッ！！=You can't hide! No place to hiiiide!! Urruaaaaagh!!
@@ -17453,7 +17453,7 @@
 !FILE:EV9966_308.bscr
 デスキャンドル%_dc[255,255,255]を手に入れた=Death Candle%_dc[255,255,255] obtained!
 !FILE:EV9966_309.bscr
-血の宝石%_dc[255,255,255]を手に入れた=Blood Bijoux%_dc[255,255,255] obtained!
+血の宝石%_dc[255,255,255]を手に入れた=Blood Bijou%_dc[255,255,255] obtained!
 !FILE:EV9966_310.bscr
 水晶の欠片%_dc[255,255,255]を手に入れた=Crystal Shard%_dc[255,255,255] obtained!
 !FILE:EV9966_311.bscr
@@ -17487,8 +17487,8 @@
 なんてキメていいか思いつかねェから|保留中ってとこだな☆=I don't think the world is ready for that yet, so I've put that plan on hold.
 俺様は赤ん坊の時から|死武専で暮らしているようなもんだ|まぁ　家みたいなもんよ=I've lived here at the DWMA since I was a baby. It's like home to me.#seen
 いわば選ばれた存在ってヤツだ|みんなとはスタートからして|違うってことになるかな☆=In a way, my life was chosen for me. I guess we don't all start our journeys from the same place☆
-俺様くらいのスターになると|ユーザーの声が聞こえてくる・・・=Once you become a star as big as me, you can hear the people's voices...
-うわ　こりゃハズレのイベントだ|早く終わらせちまおうってな☆="Wow, this mode is for losers. Hurry up and finish."☆#This has been bothering me. He makes a kind of pathetic face here, so I’m wondering if it could be forth-wall like “user’s” is players and the ‘event’ is the conversation? You can only see it if you’re not playing Black☆Star, so I went with ‘mode’...
+俺様くらいのスターになると|ユーザーの声が聞こえてくる・・・=I know. I'm the big star, right? I hear what you're saying.
+うわ　こりゃハズレのイベントだ|早く終わらせちまおうってな☆=You're saying "Wow, this event is for losers. Let's get it over with and get to the good stuff."
 悪ィ！|スターな俺様のスケジュールは秒刻みなんだ=Sorry, but every second of a star's schedule is accounted for.#seen
 かまってあげてェのはやまやまなんだけどよ|今はカンベンしてくれや！=I wish I could stop and talk, but I just don't have the time. I'm sure you understand!
 小物らしく　小物稼ぎを|する時じゃねェのか？=Isn't it time for the small people to be doing small people things?
@@ -17965,7 +17965,7 @@
 『エクスカリバー人形』だね|見てるだけでも人をイライラさせる人形だよ|おばちゃんも　だんだんイライラしてきたね=It's an Excalibur Doll. Just looking at it can put someone on edge. Even Auntie is starting to get a little annoyed.
 『魂の実』だね|美味しい木の実・・・それだけだよ・・・|形は何かを期待させるんだけどね・・・=It's a Soul Seed. Just a tasty nut... That's all... The shape does make you expect something more though.
 『デスキャンドル』だね|永遠に灯り続ける珍しいろうそくだよ|よく盗まれるから困ってるんだよ=It's a Death Candle. A rare candle that burns for an eternity. Kind of a pain since they get stolen so often.
-『血の宝石』だね|月から落ちてくると伝えられる石だよ|校門のツノを修理するのに必要なんだよ=It's a Blood Bijoux. It's said that they fall from the moon. They're necessary to repair the horns at the school gate.
+『血の宝石』だね|月から落ちてくると伝えられる石だよ|校門のツノを修理するのに必要なんだよ=It's a Blood Bijou. It's said that they fall from the moon. They're necessary to repair the horns at the school gate.
 『水晶の欠片』だね|魔女達の魔法に使われるみたいだよ|奴らに採られる前に回収しないとね=It's a Crystal Shard. Witches seem to use them for their magic. We've got to retrieve them before the witches do.
 『スカルバッチ』だね|死神様が創ってくれたバッチだよ|集めるといいことがあるとかないとか・・・=It's a Skull Badge, made by Lord Death. Collecting a bunch might make something good happen... Or not.
 『呪い人形？』だね|夜になると勝手に動き出すって噂だよ|気味が悪いってあちこちに捨てられてるよ=It's a Cursed Doll(?). Rumor has it that they move about on their own at night. These creeps turn up everywhere.
@@ -18293,7 +18293,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 デスノワール%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]匹倒せ！=%_dc[199,133,84]Defeat%_dc[0,0,196] 5 %_dc[196,0,0]Death Noirs%_dc[199,133,84]!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
-補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
+補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijou%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
 ワルいんだけど、運搬中に|落ちた%_dc[0,196,0]デスキャンドル%_dc[199,133,84]を|回収してきてちょ～=A few %_dc[0,196,0]Death Candles%_dc[199,133,84] fell during transport. Can ya get 'em back?
 デスキャンドル%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Death Candles%_dc[199,133,84]!
@@ -18314,7 +18314,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
-補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
+補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijou%_dc[199,133,84]!
 %_te紛失物回収のお願い=%_teLost Item Retrieval
 ワルいんだけど、運搬中に|落とした%_dc[0,196,0]スカルバッチ%_dc[199,133,84]を|回収してきてちょ～=Some %_dc[0,196,0]Skull Badges%_dc[199,133,84] fell during transport. Can ya get 'em back?
 スカルバッチ%_dc[199,133,84]を|%_dc[0,0,196]５%_dc[199,133,84]つ集めろ！=%_dc[199,133,84]Gather %_dc[0,0,196]5 %_dc[0,196,0]Skull Badges%_dc[199,133,84]!
@@ -18365,7 +18365,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 怪僧ラスプーチン%_dc[199,133,84]を|倒せ！=%_dc[199,133,84]Defeat %_dc[196,0,0]Rasputin%_dc[199,133,84], the mysterious monk!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
-補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
+補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijou%_dc[199,133,84]!
 %_teノラ人形どもを退治せよ！=%_teDestroy the Dummies!
 死武専から逃げ出して|街に住み着いたノラ人形を|%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]of the escaped dummies that have settled in town!
 敵を%_dc[0,0,196]３５%_dc[199,133,84]匹倒せ！=Defeat %_dc[0,0,196]35 %_dc[199,133,84]enemies!
@@ -18404,7 +18404,7 @@ Wii本体保存メモリの|書き込み/読み出しができませんでした
 敵を全て倒せ！=Defeat all enemies!
 %_te補修備品の調達=%_teEquipment Repairs
 校舎の補修に使う材料|%_dc[0,196,0]血の宝石%_dc[199,133,84]が底をついたので|手に入れてくれ！=I'm running low on %_dc[0,196,0]Blood Bijoux %_dc[199,133,84]to repair the DWMA with.
-補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijoux%_dc[199,133,84]!
+補修材料%_dc[0,196,0]血の宝石%_dc[199,133,84]を|見つけ出せ！=Find the %_dc[0,196,0]Blood Bijou%_dc[199,133,84]!
 %_teサバイバル訓練=%_teSurvival Training
 休みなしで戦い続ける|過酷で特別な訓練だ！|自信があるなら挑んでみろ=Test your limits and fight until you can't fight anymore!
 力尽きるまで敵を|倒し続けろ！=Defeat enemies until you drop!
