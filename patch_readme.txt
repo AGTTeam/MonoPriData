@@ -1,0 +1,134 @@
+*************************************************************************
+*                                                                       *
+*                        Soul Eater: Monotone Princess                  *
+*                       English Translation Patch v1.0                  *
+*                    By the Anime Game Translations Team                *
+*                                                                       *
+*************************************************************************
+
+#TODO add brief game description
+
+                   *****************************************
+                   *          Table of Contents            *
+                   *****************************************
+
+  I.   Patching Instructions
+  II.  Known Issues
+  III. Changes made to the Original Game
+  IV.  Closing
+
+                   *****************************************
+                   *       I. Patching Instructions        *
+                   *****************************************
+
+Before you can play the translation, you will need to do some prep-work using a PC. There are two methods which can be used to patch the game, depending on your preferences.
+
+                           ========================
+                              RIIVOLUTION METHOD   
+                           ========================
+
+Riivolution is a Homebrew App for Wii which allows you to load files off of an external memory device without modifying the game disc.
+
+You will need:
+-A Wii with the Homebrew Channel installed (see https://wiibrew.org/wiki/Homebrew_setup for instructions)
+-The original retail disc of Monotone Princess
+-An SD card or USB device (e.g a USB-HDD or a pen drive)
+
+Method:
+1) Download and Install Riivolution on your Wii https://rvlution.net/wiki/Riivolution/ (see link for install instructions)
+2) Insert your SD card into your computer
+3) Copy the files from the 'MonopriPatch/RiivolutionPatch' folder onto the root of your SD card. You should now have a folder called 'Monopri' on the root of your SD, and a file called 'Monopri.xml' inside the /riivolution folder
+4) Eject your SD card and insert it, and the Monotone Princess disc, into your Wii
+5) Launch the Riivolution Channel on your Wii, navigate to #TODO, and run the game
+
+                           ========================
+                                  ISO METHOD       
+                           ========================
+
+This method will allow you to directly patch the .iso file, which can then be played with an Emulator like Dolphin ( https://dolphin-emu.org/download/ ) or on the Wii (see https://wii.guide/ for more).
+
+You will need:
+-The latest version of WIT ( https://wit.wiimm.de/download.html )
+-A copy of the game in .iso format. If you have a .wbfs file, you can either redump the game or convert it with http://www.wiibackupmanager.co.uk/
+
+Method:
+1) Download and install WIT
+2) Navigate to the 'ISOPatch' folder inside the 'MonopriPatch' folder.
+3) Drag and drop your .iso file onto the 'patcher.bat' and wait for the process to complete. (It may take some time.)
+4) You should now have a file called 'monopri_patched.iso' in the same location as the original ISO
+
+Note: If you have previously played the original game in Dolphin, the game's title and banner image may still appear in Japanese. You can update this by right-clicking on the game in the file list, selecting 'Open Wii Save Folder', and deleting the 'banner.bin'. Then, in Dolphin, go to View>Purge Game List Cache. The banner image will now appear as a grey 'X', and will update after you open and save the game.
+
+
+                   *****************************************
+                   *           II. Known Issues            *
+                   *****************************************
+
+While the patch has been extensively tested and has no known bugs, there are some minor issues retained from the original version of the game.
+
+TILE EDGES
+Sometimes image tiles seem to be rendered 1px off, leaving small gaps in the character sprites. This occurs even with 1x Internal Resolution and Anisotropic Filtering / Anti-aliasing off. This is due to various texture interpolation issues and may happen on a real Wii.#TODO check with real hardware
+
+FONT ISSUES
+The black stroke surrounding the text is sometimes cut off. This shouldn't affect its legibility.#TODO check with real hardware
+
+CREDITS MOVIE FRAME STUTTER
+The credits movie stutters towards the end, as Lord Death appears.#TODO check with real hardware and English video
+
+                   ******************************************
+                   * III. Changes made to the Original Game *
+                   ******************************************
+
+-Subtitles were retimed and centered. (Originally left-aligned)
+-Generic Mini-Boss dialogue was rewritten to reference their designs.
+      Jack the Ripper: historical figure of the same name
+      Sonson-J: Jason Voorhees from Friday the 13th
+      Rasputin: historical figure of the same name
+      THE CAN: Leatherface from The Texas Chainsaw Massacre
+      Oogeyman: The Boogie Man, references from Oogie Boogie from the 
+                Nightmare Before Christmas
+      Johnny Rubber: Rubber Johnny; dialogue references Big Brain from
+               the remake of The Hills Have Eyes, who was himself
+               inspired by Rubber Johnny
+      D-FlayFlay: Freddy Krueger from The Nightmare on Elm Street
+      Ajhari: An acharya which is a Bhuddist monk or high priest
+      Voodoo: From the real world voodooism
+
+                   *****************************************
+                   *              IV. Closing              *
+                   *****************************************
+
+An additional walkthrough created to accompany the patch can be found at #TODO
+
+Join our discord server to send us your questions, check out our other projects or even lend a hand in our mission to bring more anime games to the English-speaking fandom!
+https://discord.com/invite/xtVzrEk
+
+We hope you enjoy!
+
+                           =======================
+                                PATCH CREDITS     
+                           =======================
+
+
+=Project Lead=
+ Soul Reaper
+ 
+=Hacking=
+ Illidan
+
+=Translation=
+ a witch did it
+ BeansproutMonozu
+ Haribeau
+ mimshipio
+ Richard Diu (Laphi)
+
+=Proofreading=
+ Phantom
+ SpatialKnights
+
+=Graphics=
+ frogatr
+ Shammy
+ Syko
+ Zaygh
