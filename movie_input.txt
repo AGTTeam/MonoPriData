@@ -361,7 +361,7 @@
 372:502:|交差する想いが　目指してる=|We strive toward our intersecting desires.
 504:639:|すれ違う生命の奥に=|Inside our passing existences,
 641:762:|それぞれの夢　絡み合う=|our individual dreams become intertwined,
-764:884:|この場所で=|in this place...
+764:884:|この場所で=764:864:|in this place...
 930:1060:|所々剥がれてきて　安く見られる=|Here and there it wears away, easy to brush off.
 1062:1193:|真っさらより上等だろ？　誇りも払わない=|Ain't it better than new? Who cares about pride!
 1195:1328:|麻酔のように効いた夜に　痛さ忘れて=|Forget the pain in the night that sets in like anesthesia,

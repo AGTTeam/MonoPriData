@@ -6,7 +6,9 @@
 *                                                                       *
 *************************************************************************
 
-#TODO add brief game description
+Thank you for downloading this English patch of Soul Eater: Monotone Princess for Nintendo Wii!
+
+The patch comes in two versions; a 'lite' version available on ROMhacking.net, and the 'original' version which can be downloaded on the team's GDrive. The GDrive version contains translated videos which were too large to host on ROMhacking.net. There are no other differences between the two, and both can be patched in the same way.
 
                    *****************************************
                    *          Table of Contents            *
@@ -37,7 +39,7 @@ You will need:
 Method:
 1) Download and Install Riivolution on your Wii https://rvlution.net/wiki/Riivolution/ (see link for install instructions)
 2) Insert your SD card into your computer
-3) Copy the files from the 'MonopriPatch/RiivolutionPatch' folder onto the root of your SD card. You should now have a folder called 'Monopri' on the root of your SD, and a file called 'Monopri.xml' inside the /riivolution folder
+3) Unzip 'MonopriPatch' and copy both folders inside the 'patch' subfolder onto the root of your SD card. You should now have a folder called 'Monopri' on the root of your SD, and a file called 'Monopri.xml' inside the /riivolution folder
 4) Eject your SD card and insert it, and the Monotone Princess disc, into your Wii
 5) Launch the Riivolution Channel on your Wii, navigate to #TODO, and run the game
 
@@ -53,7 +55,7 @@ You will need:
 
 Method:
 1) Download and install WIT
-2) Navigate to the 'ISOPatch' folder inside the 'MonopriPatch' folder.
+2) Unzip 'MonopriPatch'
 3) Drag and drop your .iso file onto the 'patcher.bat' and wait for the process to complete. (It may take some time.)
 4) You should now have a file called 'monopri_patched.iso' in the same location as the original ISO
 
@@ -80,6 +82,7 @@ The credits movie stutters towards the end, as Lord Death appears.#TODO check wi
                    ******************************************
 
 -Subtitles were retimed and centered. (Originally left-aligned)
+-Added subtitles to the closing credits
 -Generic Mini-Boss dialogue was rewritten to reference their designs.
       Jack the Ripper: historical figure of the same name
       Sonson-J: Jason Voorhees from Friday the 13th
