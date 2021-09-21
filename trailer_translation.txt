@@ -1,7 +1,7 @@
 ﻿Fire blue text:
-大量失踪事件発生！！ =A large number of disappearances…
-魂神の卵と化した魂を持つ者=A kishin egg bearer who collects souls...
-謎の白い異形の仮面の者たち=Mysterious beings with strange white masks...
+大量失踪事件発生！！ =A massive case of disappearances!
+魂神の卵と化した魂を持つ者=Kishin egg bearers collecting souls!
+謎の白い異形の仮面の者たち=Mysterious figures with strange white masks!
 とにかくデスシティ最大の危機=The largest crisis Death City has ever faced!
 
 Subtitles:
@@ -13,7 +13,7 @@ Subtitles:
 
 0:53
 White text:
-大久保篤氏によるゲームオリジナルキャラクター=Game original characters supervised by Atsushi Okubo.
+大久保篤氏によるゲームオリジナルキャラクター=Game-original characters supervised by Atsushi Okubo.
 
 Grimoire (subs): さあ=Now...
 その光に触れなさい=Touch the light
@@ -60,7 +60,7 @@ White text 1:47:
 1:55
 アドベンチャーパート＝Adventure Mode
 世界各地で起きる怪事件=Suspicious incidents are occurring around the world.
-依頼をクリアしてレベルアップ=Level up by completing missions
+依頼をクリアしてレベルアップ=Level up by completing missions.
 
 Sid's line:
 最近　一度に大勢の人が消えるという|大量失踪事件の報告があった=We've received reports of mass disappearances. It seems like groups of people are vanishing all at once. 
