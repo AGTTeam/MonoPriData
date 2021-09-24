@@ -34,14 +34,14 @@ Riivolution is a Homebrew App for Wii which allows you to load files off of an e
 You will need:
 -A Wii with the Homebrew Channel installed (see https://wiibrew.org/wiki/Homebrew_setup for instructions)
 -The original retail disc of Monotone Princess
--An SD card or USB device (e.g a USB-HDD or a pen drive)
+-An SD card
 
 Method:
-1) Download and Install Riivolution on your Wii https://rvlution.net/wiki/Riivolution/ (see link for install instructions)
-2) Insert your SD card into your computer
-3) Unzip 'MonopriPatch' and copy both folders inside the 'patch' subfolder onto the root of your SD card. You should now have a folder called 'Monopri' on the root of your SD, and a file called 'Monopri.xml' inside the /riivolution folder
+1) Insert your SD card into your computer
+2) Download and install Riivolution on your Wii https://rvlution.net/wiki/Riivolution/ (see link for install instructions)
+3) Unzip 'MonopriPatch' and copy both folders inside the 'patch' subfolder onto the root of your SD card. NB: If done correctly, you should have two separate 'riivolution' folders on your SD card. One in the 'apps' subfolder, with the files downloaded from rvlution.net, and one on the root of your SD card, with "monopri.xml" copied from the patch
 4) Eject your SD card and insert it, and the Monotone Princess disc, into your Wii
-5) Launch the Riivolution Channel on your Wii, navigate to #TODO, and run the game
+5) Run Riivolution on your Wii, make sure the translation patch is 'enabled', and launch the game
 
                            ========================
                                   ISO METHOD       
@@ -57,7 +57,7 @@ Method:
 1) Download and install WIT
 2) Unzip 'MonopriPatch'
 3) Drag and drop your .iso file onto the 'patcher.bat' and wait for the process to complete. (It may take some time.)
-4) You should now have a file called 'monopri_patched.iso' in the same location as the original ISO
+4) You should now have a file called 'monopri_patched.iso' in the same location as the original .iso
 
 Note: If you have previously played the original game in Dolphin, the game's title and banner image may still appear in Japanese. You can update this by right-clicking on the game in the file list, selecting 'Open Wii Save Folder', and deleting the 'banner.bin'. Then, in Dolphin, go to View>Purge Game List Cache. The banner image will now appear as a grey 'X', and will update after you open and save the game.
 
@@ -66,16 +66,16 @@ Note: If you have previously played the original game in Dolphin, the game's tit
                    *           II. Known Issues            *
                    *****************************************
 
-While the patch has been extensively tested and has no known bugs, there are some minor issues retained from the original version of the game.
+While the patch has been extensively tested and has no known gameplay bugs, there are some minor issues retained from the original version of the game.
 
 TILE EDGES
-Sometimes image tiles seem to be rendered 1px off, leaving small gaps in the character sprites. This occurs even with 1x Internal Resolution and Anisotropic Filtering / Anti-aliasing off. This is due to various texture interpolation issues and may happen on a real Wii.#TODO check with real hardware
+Sometimes image tiles seem to be rendered 1px off, leaving small gaps in the character sprites. This occurs even with 1x Internal Resolution and Anisotropic Filtering / Anti-aliasing off. This is due to various texture interpolation issues on Dolphin and does not happen on original hardware.
 
 FONT ISSUES
-The black stroke surrounding the text is sometimes cut off. This shouldn't affect its legibility.#TODO check with real hardware
+The black stroke surrounding the text is sometimes cut off. This happens with the original game and on real hardware, but is more noticeable in the patch due to the sharpness of English letters. It should not affect the legibility of the text.
 
 CREDITS MOVIE FRAME STUTTER
-The credits movie stutters towards the end, as Lord Death appears.#TODO check with real hardware and English video
+When emulating the game, the credits movie stutters towards the end as Lord Death appears. This does not happen on real hardware.#TODO check if this happens with other people, test with the English video
 
                    ******************************************
                    * III. Changes made to the Original Game *

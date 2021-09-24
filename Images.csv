@@ -49,9 +49,9 @@ SP001_1053_T00.png,Blair (ブレア),Done
 SP001_1054_T00.png,Frog (カエル),Done
 SP001_1055_T00.png,Death Wild (デスワイルド),Done
 SP001_1056_T00.png,Paraleon (パラレオン),Done
-SP001_0100_T00.png,Team Maka & Soul (マカ・ソウルチーム),Tbd
-SP001_0101_T00.png,Team Black☆Star & Tsubaki (ブラック☆スター・椿チーム),Tbd
-SP001_0102_T00.png,"Team Kid, Liz & Patty (キッド・リズ・パティチーム)",Tbd 'Team' can be omitted if needed
+SP001_0100_T00.png,Team Maka & Soul (マカ・ソウルチーム),Done
+SP001_0101_T00.png,Team Black☆Star & Tsubaki (ブラック☆スター・椿チーム),Done
+SP001_0102_T00.png,"Team Kid, Liz & Patty (キッド・リズ・パティチーム)",Done
 SP001_0211_T00.png,Clear (済),Done
 SP001_0212_T00.png,Redo (再)#used when you can take a lesson you've previously done with a different team,Done
 SP001_0216_T00.png,Good Night (お休み) #qc,Done
@@ -148,8 +148,8 @@ SP003_0030_T00.png,Back (戻る),Done
 SP031_0000_T00.png,Gallery (ギャラリー),Done
 SP031_0010_T00.png,Cutscenes (ムービー),Done
 SP031_0011_T00.png,Events (イベント集),Done
-SP031_0015_T00.png,Main Scenario (メイン・シナリオ),Done
-SP031_0016_T00.png,Sub-Scenario (サブ・シナリオ),Done
+SP031_0015_T00.png,Main Events (メイン・シナリオ),Done
+SP031_0016_T00.png,Sub Events (サブ・シナリオ),Done
 SP031_0100_T00.png,Cutscenes (ムービー),Done
 SP031_0011_T00.png,Events (イベント集),Done
 SP031_0120_T00.png,Soul Eater Monotone Princess (ソウルイーターモノトーンプリンセス),Done
