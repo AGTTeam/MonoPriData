@@ -75,7 +75,7 @@ FONT ISSUES
 The black stroke surrounding the text is sometimes cut off. This happens with the original game and on real hardware, but is more noticeable in the patch due to the sharpness of English letters. It should not affect the legibility of the text.
 
 CREDITS MOVIE FRAME STUTTER
-When emulating the game, the credits movie stutters towards the end as Lord Death appears. This does not happen on real hardware.#TODO check if this happens with other people, test with the English video
+When emulating the game, the credits movie stutters towards the end as Lord Death appears. This does not happen on real hardware.
 
                    ******************************************
                    * III. Changes made to the Original Game *
@@ -101,7 +101,7 @@ When emulating the game, the credits movie stutters towards the end as Lord Deat
                    *              IV. Closing              *
                    *****************************************
 
-An additional walkthrough created to accompany the patch can be found at #TODO
+An additional walkthrough created to accompany the patch can be found at https://gamefaqs.gamespot.com/wii/945685-soul-eater/faqs/79600
 
 Join our discord server to send us your questions, check out our other projects or even lend a hand in our mission to bring more anime games to the English-speaking fandom!
 https://discord.com/invite/xtVzrEk
