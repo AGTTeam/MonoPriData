@@ -1,4 +1,4 @@
-*************************************************************************
+﻿*************************************************************************
 *                                                                       *
 *                        Soul Eater: Monotone Princess                  *
 *                       English Translation Patch v1.0                  *
@@ -25,9 +25,9 @@ The patch comes in two versions; a 'lite' version available on ROMhacking.net, a
 
 Before you can play the translation, you will need to do some prep-work using a PC. There are two methods which can be used to patch the game, depending on your preferences.
 
-                           ========================
-                              RIIVOLUTION METHOD   
-                           ========================
+                         ============================
+                           RIIVOLUTION METHOD (WII)  
+                         ============================
 
 Riivolution is a Homebrew App for Wii which allows you to load files off of an external memory device without modifying the game disc.
 
@@ -39,15 +39,31 @@ You will need:
 Method:
 1) Insert your SD card into your computer
 2) Download and install Riivolution on your Wii https://rvlution.net/wiki/Riivolution/ (see link for install instructions)
-3) Unzip 'MonopriPatch' and copy both folders inside the 'patch' subfolder onto the root of your SD card. NB: If done correctly, you should have two separate 'riivolution' folders on your SD card. One in the 'apps' subfolder, with the files downloaded from rvlution.net, and one on the root of your SD card, with "monopri.xml" copied from the patch
+3) Unzip 'MonopriPatch' and copy the contents of the 'patch' subfolder onto the root of your SD card. NB: If done correctly, you should have two separate 'riivolution' folders on your SD card. One in the 'apps' subfolder, with the files downloaded from rvlution.net, and one on the root of your SD card, with "monopri.xml" copied from the patch
 4) Eject your SD card and insert it, and the Monotone Princess disc, into your Wii
 5) Run Riivolution on your Wii, make sure the translation patch is 'enabled', and launch the game
 
-                           ========================
-                                  ISO METHOD       
-                           ========================
+                         ===========================
+                         RIIVOLUTION METHOD (DOLPHIN)
+                         ===========================
 
-This method will allow you to directly patch the .iso file, which can then be played with an Emulator like Dolphin ( https://dolphin-emu.org/download/ ) or on the Wii (see https://wii.guide/ for more).
+Riivolution patching is also supported by Dolphin Developmental Version 5.0-15407 +. This method will allow you to play the patched game on PC without the need to install additional software, unlike the ISO Method below.
+
+You will need:
+-The latest version of Dolphin ( https://dolphin-emu.org/download/ )
+-A copy of the original game in .iso or .wbfs format
+
+Method:
+1) Unzip 'MonopriPatch', and copy the contents of the 'patch' folder to {user dir}/Dolphin Emulator/Load/Riivolution
+2) If this is your first-time using Dolphin, run it and double-click where prompted to set the game directory to the folder where your copy of the game is stored. If you can see other games in the list but not Monotone Princess, be sure to check your paths by going to Config > Paths.
+3) Find 'ソウルイーターモノトーンプリンセス' in your games list and right click, then select "Start with Riivolution Patches...". If done correctly, Dolphin should automatically pick up the patch, but if not, you can also manually navigate to the 'monopri.xml' file by choosing "Open Riivolution XML..."
+4) Make sure the 'Translation Patch' is Enabled, and start the game!
+
+                         ============================
+                                  ISO METHOD         
+                         ============================
+
+This method will allow you to generate a patched .iso file, which can then be played with an Emulator like Dolphin ( https://dolphin-emu.org/download/ ) or on the Wii (see https://wii.guide/ for more).
 
 You will need:
 -The latest version of WIT ( https://wit.wiimm.de/download.html )
@@ -60,7 +76,6 @@ Method:
 4) You should now have a file called 'monopri_patched.iso' in the same location as the original .iso
 
 Note: If you have previously played the original game in Dolphin, the game's title and banner image may still appear in Japanese. You can update this by right-clicking on the game in the file list, selecting 'Open Wii Save Folder', and deleting the 'banner.bin'. Then, in Dolphin, go to View>Purge Game List Cache. The banner image will now appear as a grey 'X', and will update after you open and save the game.
-
 
                    *****************************************
                    *           II. Known Issues            *
@@ -108,9 +123,9 @@ https://discord.com/invite/xtVzrEk
 
 We hope you enjoy!
 
-                           =======================
+                         ===========================
                                 PATCH CREDITS     
-                           =======================
+                         ===========================
 
 
 =Project Lead=
