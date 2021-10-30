@@ -23,7 +23,7 @@ The patch comes in two versions; a 'lite' version available on ROMhacking.net, a
                    *       I. Patching Instructions        *
                    *****************************************
 
-Before you can play the translation, you will need to do some prep-work using a PC. There are two methods which can be used to patch the game, depending on your preferences.
+Before you can play the translation, you will need to do some prep-work using a PC. There are three methods which can be used to patch the game, depending on your preferences.
 
                          ============================
                            RIIVOLUTION METHOD (WII)  
@@ -57,7 +57,7 @@ Method:
 1) Unzip 'MonopriPatch', and copy the contents of the 'patch' folder to {user dir}/Dolphin Emulator/Load/Riivolution
 2) If this is your first-time using Dolphin, run it and double-click where prompted to set the game directory to the folder where your copy of the game is stored. If you can see other games in the list but not Monotone Princess, be sure to check your paths by going to Config > Paths.
 3) Find 'ソウルイーターモノトーンプリンセス' in your games list and right click, then select "Start with Riivolution Patches...". If done correctly, Dolphin should automatically pick up the patch, but if not, you can also manually navigate to the 'monopri.xml' file by choosing "Open Riivolution XML..."
-4) Make sure the 'Translation Patch' is Enabled, and start the game!
+4) Make sure the 'Translation Patch' is enabled, and start the game!
 
                          ============================
                                   ISO METHOD         
@@ -75,7 +75,7 @@ Method:
 3) Drag and drop your .iso file onto the 'patcher.bat' and wait for the process to complete. (It may take some time.)
 4) You should now have a file called 'monopri_patched.iso' in the same location as the original .iso
 
-Note: If you have previously played the original game in Dolphin, the game's title and banner image may still appear in Japanese. You can update this by right-clicking on the game in the file list, selecting 'Open Wii Save Folder', and deleting the 'banner.bin'. Then, in Dolphin, go to View>Purge Game List Cache. The banner image will now appear as a grey 'X', and will update after you open and save the game.
+Note: If you have previously played the original game in Dolphin, the game's title and banner image may still appear in Japanese. You can update this by right-clicking on the game in the file list, selecting 'Open Wii Save Folder', and deleting the 'banner.bin'. Then, in Dolphin, go to View > Purge Game List Cache. The banner image will now appear as a grey 'X', and will update after you open and save the game.
 
                    *****************************************
                    *           II. Known Issues            *
@@ -84,7 +84,7 @@ Note: If you have previously played the original game in Dolphin, the game's tit
 While the patch has been extensively tested and has no known gameplay bugs, there are some minor issues retained from the original version of the game.
 
 TILE EDGES
-Sometimes image tiles seem to be rendered 1px off, leaving small gaps in the character sprites. This occurs even with 1x Internal Resolution and Anisotropic Filtering / Anti-aliasing off. This is due to various texture interpolation issues on Dolphin and does not happen on original hardware.
+When emulating the game, image tiles sometimes seem to be rendered 1px off, leaving small gaps in the character sprites. This occurs even with 1x Internal Resolution and Anisotropic Filtering / Anti-aliasing off. This is due to various texture interpolation issues on Dolphin and does not happen on real hardware.
 
 FONT ISSUES
 The black stroke surrounding the text is sometimes cut off. This happens with the original game and on real hardware, but is more noticeable in the patch due to the sharpness of English letters. It should not affect the legibility of the text.
@@ -109,7 +109,7 @@ When emulating the game, the credits movie stutters towards the end as Lord Deat
                the remake of The Hills Have Eyes, who was himself
                inspired by Rubber Johnny
       D-FlayFlay: Freddy Krueger from The Nightmare on Elm Street
-      Ajhari: An acharya which is a Bhuddist monk or high priest
+      Ajhari: An acharya which is a Buddhist monk or high priest
       Voodoo: From the real world voodooism
 
                    *****************************************
