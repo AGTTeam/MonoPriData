@@ -26,3 +26,4 @@ movie/opening movie/Adobe After Effects Auto-Save
 movie/opening movie/*.mp4
 *.zip
 main.dol
+.DS_Store
