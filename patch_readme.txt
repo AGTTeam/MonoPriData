@@ -1,7 +1,7 @@
-﻿*************************************************************************
+*************************************************************************
 *                                                                       *
 *                        Soul Eater: Monotone Princess                  *
-*                       English Translation Patch v1.0                  *
+*                       English Translation Patch v1.1                  *
 *                    By the Anime Game Translations Team                *
 *                                                                       *
 *************************************************************************
@@ -72,10 +72,20 @@ You will need:
 Method:
 1) Download and install WIT
 2) Unzip 'MonopriPatch'
-3) Drag and drop your .iso file onto the 'patcher.bat' and wait for the process to complete. (It may take some time.)
-4) You should now have a file called 'monopri_patched.iso' in the same location as the original .iso
+4) Move your copy of the .iso to the root of the MonopriPatch folder (where the 'patcher.bat' is)
+3) Drag and drop the .iso file onto the 'patcher.bat' and wait for the process to complete. (It may take some time.)
+4) You should now have a file called 'monopri_patched.iso' in the same location
 
 Note: If you have previously played the original game in Dolphin, the game's title and banner image may still appear in Japanese. You can update this by right-clicking on the game in the file list, selecting 'Open Wii Save Folder', and deleting the 'banner.bin'. Then, in Dolphin, go to View > Purge Game List Cache. The banner image will now appear as a grey 'X', and will update after you open and save the game.
+
+
+--TROUBLESHOOTING--       
+
+If you are unable to get WIT to install correctly, you can try the following alternative patching method:
+1) Navigate to the 'bin' subfolder, inside the folder which you downloaded and unzipped to install WIT
+2) Copy all of the files from the patch, and your unpatched .iso, into that folder
+3) Drag and drop the .iso file onto the 'patcher.bat' (now both located inside the 'bin' folder), and wait for the process to complete
+4) You should now have a file called 'monopri_patched.iso' in the same location
 
                    *****************************************
                    *           II. Known Issues            *
@@ -150,3 +160,8 @@ We hope you enjoy!
  Shammy
  Syko
  Zaygh
+
+--CHANGELOG--
+
+1.1
+- Patcher updated to support iso’s with a scrubbed update partition
