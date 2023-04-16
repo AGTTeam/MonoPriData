@@ -54,10 +54,12 @@ You will need:
 -A copy of the original game in .iso or .wbfs format
 
 Method:
-1) Unzip 'MonopriPatch', and copy the contents of the 'patch' folder to {user dir}/Dolphin Emulator/Load/Riivolution
-2) If this is your first-time using Dolphin, run it and double-click where prompted to set the game directory to the folder where your copy of the game is stored. If you can see other games in the list but not Monotone Princess, be sure to check your paths by going to Config > Paths.
+1) Unzip 'MonopriPatch', and copy the contents of the 'patch' folder to %APPDATA%/Dolphin Emulator/Load/Riivolution (If you previously had an older version of Dolphin installed, this can instead be found at %USERPROFILE%/Documents/Dolphin Emulator/Load/Riivolution. You may need to create the "Riivolution" folder if it does not exist.)
+2) If this is your first-time using Dolphin, run it and double-click where prompted to set the game directory to the folder where your copy of the game is stored. If you can see other games in the list but not Monotone Princess, be sure to check your paths by going to Config > Paths
 3) Find 'ソウルイーターモノトーンプリンセス' in your games list and right click, then select "Start with Riivolution Patches...". If done correctly, Dolphin should automatically pick up the patch, but if not, you can also manually navigate to the 'monopri.xml' file by choosing "Open Riivolution XML..."
-4) Make sure the 'Translation Patch' is enabled, and start the game!
+4) Enable the 'Translation Patch' in the dropdown menu
+	*OPTIONAL* You can use the "Save as Preset" button to create a new entry in your game list with the translation patch automatically applied, rather than needing to 'start it with Riivolution Patches' every time. If you opt to use this, make sure to select the new entry rather than the original game, else it will still appear in Japanese.
+5) Launch the game, and enjoy!
 
                          ============================
                                   ISO METHOD         
@@ -73,8 +75,8 @@ Method:
 1) Download and install WIT
 2) Unzip 'MonopriPatch'
 4) Move your copy of the .iso to the root of the MonopriPatch folder (where the 'patcher.bat' is)
-3) Drag and drop the .iso file onto the 'patcher.bat' and wait for the process to complete. (It may take some time.)
-4) You should now have a file called 'monopri_patched.iso' in the same location
+3) Drag and drop the .iso file onto the 'patcher.bat' and wait for the process to complete. (It may take some time. Don’t close the command window while the process is ongoing, it will close automatically at the end.)
+4) Once the process is complete, you should have a file called 'monopri_patched.iso' in the same location
 
 Note: If you have previously played the original game in Dolphin, the game's title and banner image may still appear in Japanese. You can update this by right-clicking on the game in the file list, selecting 'Open Wii Save Folder', and deleting the 'banner.bin'. Then, in Dolphin, go to View > Purge Game List Cache. The banner image will now appear as a grey 'X', and will update after you open and save the game.
 
@@ -84,8 +86,8 @@ Note: If you have previously played the original game in Dolphin, the game's tit
 If you are unable to get WIT to install correctly, you can try the following alternative patching method:
 1) Navigate to the 'bin' subfolder, inside the folder which you downloaded and unzipped to install WIT
 2) Copy all of the files from the patch, and your unpatched .iso, into that folder
-3) Drag and drop the .iso file onto the 'patcher.bat' (now both located inside the 'bin' folder), and wait for the process to complete
-4) You should now have a file called 'monopri_patched.iso' in the same location
+3) Drag and drop the .iso file onto the 'patcher.bat' (now both located inside the 'bin' folder), and wait for the process to complete. (It may take some time. Don’t close the command window while the process is ongoing, it will close automatically at the end.)
+4) Once the process is complete, you should have a file called 'monopri_patched.iso' in the same location
 
                    *****************************************
                    *           II. Known Issues            *
