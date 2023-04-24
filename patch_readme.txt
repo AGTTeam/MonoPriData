@@ -54,7 +54,10 @@ You will need:
 -A copy of the original game in .iso or .wbfs format
 
 Method:
-1) Unzip 'MonopriPatch', and copy the contents of the 'patch' folder to %APPDATA%/Dolphin Emulator/Load/Riivolution (If you previously had an older version of Dolphin installed, this can instead be found at %USERPROFILE%/Documents/Dolphin Emulator/Load/Riivolution. You may need to create the "Riivolution" folder if it does not exist.)
+1) Unzip 'MonopriPatch', and copy the contents of the 'patch' folder to Dolphin’s 'Riivolution' folder. The location will depend on your OS.
+	For Windows: %APPDATA%/Dolphin Emulator/Load/Riivolution (If you previously had an older version of Dolphin installed, this can instead be found at %USERPROFILE%/Documents/Dolphin Emulator/Load/Riivolution
+	For MacOS: On macOS, ~/Library/Application Support/Dolphin/Load/Riivolution (to get here, open Finder, press ⌘+Shift+G, and copy the directory)
+	For Linux: Go to either  ~/.dolphin-emu/Load/Riivolution or ~/.local/share/dolphin-emu/Load/Riivolution
 2) If this is your first-time using Dolphin, run it and double-click where prompted to set the game directory to the folder where your copy of the game is stored. If you can see other games in the list but not Monotone Princess, be sure to check your paths by going to Config > Paths
 3) Find 'ソウルイーターモノトーンプリンセス' in your games list and right click, then select "Start with Riivolution Patches...". If done correctly, Dolphin should automatically pick up the patch, but if not, you can also manually navigate to the 'monopri.xml' file by choosing "Open Riivolution XML..."
 4) Enable the 'Translation Patch' in the dropdown menu
